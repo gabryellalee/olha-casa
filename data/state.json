@@ -1,5 +1,6 @@
 {
   "fingerprints": {
+    "000dba45d4e00a66c17ce491": "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
     "04473705ca064a66a86eed20": "imovirtual:apartamento-t1-com-lugar-de-garagem-ID1iKXb",
     "1caa56ca76aee5574568a421": "imovirtual:apartamento-t1-para-arrendamento-ID1iLAE",
     "21f977788015c89ac6918e94": "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq",
@@ -7,9 +8,12 @@
     "28edcf7aede11c6f336fbcfb": "casa_sapo:b291fbab98d6f208a343",
     "2cd816945b8d69971eb70ac9": "supercasa:2273220",
     "2ce0dd9f6b5041acec457376": "supercasa:2272955",
+    "2e9a5081ae73af50376ad25d": "supercasa:1976192",
+    "37b42d5f685a8c571a167367": "supercasa:2252661",
     "3c11d32e6b428b38c598f348": "imovirtual:apartamento-no-centro-do-porto-ID1iLzx",
     "424718b9951e92eb5c18d47e": "imovirtual:ref-4249-t1-mob-r-joao-de-deus-boavista-ID1iLtM",
     "454c14308cde63145cdea283": "supercasa:2263063",
+    "46fd6f30955a2d7341fb1421": "supercasa:1976222",
     "516703d135318a8ca7a844f3": "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0",
     "528c53833c83752855be7a02": "supercasa:2274446",
     "54a1352248fef3ebff8ac387": "supercasa:2029087",
@@ -23,14 +27,17 @@
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
     "b1571e118501cce09266ae6c": "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK",
     "babb6e4ce2842d29fb0e6753": "imovirtual:ref-4250-t1-c-mob-a-baixa-do-porto-ID1iLw7",
+    "c24c012a3301ac529f71d0b7": "imovirtual:apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk",
     "c4dc9ad109f54d9ac9946f7b": "supercasa:2260405",
     "c8a493a4f371ac257a1c9aa2": "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iLoK",
     "ca6b4b20f1b21ae1913a8041": "supercasa:2273765",
     "d1bdee2121b16479dca08b5c": "imovirtual:apartamento-t1-para-arrendamento-ID1iLAI",
+    "e22e105418a3f46a52d2ae2a": "supercasa:2242980",
     "e3b3d13e6bdb8526034e2ed7": "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y",
     "e43131aebf534f7091360170": "imovirtual:apartamento-t1-com-varanda-e-garagem-em-paranhos-ID1iL1T",
     "e63a4fc9b5a7ac97ac20c2d9": "imovirtual:t1-luxo-condominio-fechado-primeira-linha-de-rio-ID1iLif",
     "e6ee25097dbee9131e04bc1f": "casa_sapo:alugar-quartos",
+    "ed5548aabcc99d45d8a46e4d": "imovirtual:t1-na-avenida-da-republica-vila-nova-de-gaia-ID1iLE6",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
     "f5ccb560b0f7aa4f66afc1d7": "supercasa:1976358"
   },
@@ -290,6 +297,66 @@
       "typology": "T1",
       "url": "https://casa.sapo.pt/alugar-moradias/t0,t1/distrito.porto/"
     },
+    "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "000dba45d4e00a66c17ce491",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": 19,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im85NWlxNHN3bmtqMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OVMbgd0gYpTP2QkF22r6rlzsKXx11ILUqdaM7vc4lwM/image;s=2048x1536;q=80",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": 41.18987,
+      "local_median_price_per_m2": 16.41,
+      "location": "Travessa 3 de Maio, Pedrouços, Porto",
+      "longitude": 8.5885,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 950.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 950.0
+        }
+      ],
+      "price_per_m2": 15.83,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T09:13:10Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 950.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Aluga-se apartamento T1 localizado perto do Hospital de São João.",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY"
+    },
     "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iLoK": {
       "area_m2": 47.0,
       "decision_reasons": [
@@ -529,6 +596,66 @@
       "title": "Apartamento T1 Arrendamento em Cidade da Maia,Maia",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-arrendamento-em-cidade-da-maia-maia-ID1iL7Q"
+    },
+    "imovirtual:apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk": {
+      "area_m2": 65.25,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c24c012a3301ac529f71d0b7",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImplMzBkc3ZzMnJkczItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.mVz-e4_nq_f78BK8iwEZIXrBKSxQnJUP9UhYQmtCFDA/image;s=2048x1536;q=80",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": 41.028706,
+      "local_median_price_per_m2": 16.41,
+      "location": "Grijó, Grijó e Sermonde, Porto",
+      "longitude": 8.584673,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 825.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 825.0
+        }
+      ],
+      "price_per_m2": 12.64,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T09:42:07Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 825.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 Arrendamento em Grijó e Sermonde,Vila Nova de Gaia",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk"
     },
     "imovirtual:apartamento-t1-com-lugar-de-garagem-ID1iKXb": {
       "area_m2": 50.0,
@@ -1256,6 +1383,66 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-luxo-condominio-fechado-primeira-linha-de-rio-ID1iLif"
     },
+    "imovirtual:t1-na-avenida-da-republica-vila-nova-de-gaia-ID1iLE6": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "ed5548aabcc99d45d8a46e4d",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJ0enhzNnM3bGoyZTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fq68OmiEXWi2SzXQE80aTGE1K992O7lgnGxPEDKMPZI/image;s=2048x1536;q=80",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": 41.135616,
+      "local_median_price_per_m2": 16.41,
+      "location": "Rua Cabo Borges, Santa Marinha e São Pedro da Afurada, Porto",
+      "longitude": 8.606041,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 925.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 925.0
+        }
+      ],
+      "price_per_m2": 15.42,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T09:23:57Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-na-avenida-da-republica-vila-nova-de-gaia-ID1iLE6",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 925.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 Na Avenida da República — Vila Nova de Gaia",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-na-avenida-da-republica-vila-nova-de-gaia-ID1iLE6"
+    },
     "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq": {
       "area_m2": 16.8,
       "decision_reasons": [
@@ -1501,6 +1688,132 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-moradia-t4-vila-nova-de-gaia/i1675303"
     },
+    "supercasa:1976192": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "2e9a5081ae73af50376ad25d",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C8198/P27220094/Tphoto/ID7e589f01-0000-0500-0000-000015e34805.jpg",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1900.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 1900.0
+        }
+      ],
+      "price_per_m2": 17.27,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1976192",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [
+          "eletricidade"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Andar de Moradia T2 na Avenida da República",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t2-vila-nova-de-gaia/i1976192"
+    },
+    "supercasa:1976222": {
+      "area_m2": 220.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "46fd6f30955a2d7341fb1421",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C8198/P27220105/Tphoto/ID89589f01-0000-0500-0000-000015e35195.jpg",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2450.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 2450.0
+        }
+      ],
+      "price_per_m2": 11.14,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1976222",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [
+          "eletricidade"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Andar de Moradia T3 na Avenida da República",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t3-vila-nova-de-gaia/i1976222"
+    },
     "supercasa:1976358": {
       "area_m2": 150.0,
       "decision_reasons": [
@@ -1622,6 +1935,127 @@
       "title": "Apartamento T3 na Madalena",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2029087"
+    },
+    "supercasa:2242980": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e22e105418a3f46a52d2ae2a",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S58/C1483729/P2242980/Tphoto/ID53acfdb2-3815-4267-b6f7-7a12a7e21395.jpg",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Matosinhos",
+      "longitude": null,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 11.25,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2242980",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 3,
+        "entry_total": 2700.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua Particular de Avilhó",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2242980"
+    },
+    "supercasa:2252661": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "37b42d5f685a8c571a167367",
+      "first_seen": "2026-08-19T09:47:46+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S58/C1491705/P2252661/Tphoto/ID3de95262-cb5f-42a1-9389-99a43908fad8.jpg",
+      "last_change": "2026-08-19T09:47:46+00:00",
+      "last_seen": "2026-08-19T09:47:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 16.41,
+      "location": "Senhora Da Hora",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T09:47:46+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2252661",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 3,
+        "entry_total": 2700.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 na Rua Companhia dos Caulinos",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-matosinhos/i2252661"
     },
     "supercasa:2260405": {
       "area_m2": 40.0,
