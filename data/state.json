@@ -31,6 +31,7 @@
     "33ab703b5df73aa8343ace6d": "supercasa:2129347",
     "37a4d5963eeef48315d2ab8f": "supercasa:814892",
     "37b42d5f685a8c571a167367": "supercasa:2252661",
+    "3a597d4dde5d03414cf64a01": "supercasa:2231285",
     "3c11d32e6b428b38c598f348": "imovirtual:apartamento-no-centro-do-porto-ID1iLzx",
     "3d007c4dc98b554bfdb78b56": "imovirtual:t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe",
     "424718b9951e92eb5c18d47e": "imovirtual:ref-4249-t1-mob-r-joao-de-deus-boavista-ID1iLtM",
@@ -56,6 +57,7 @@
     "6a6ba09b9a96c02c54b9ee56": "supercasa:2247127",
     "72a01667e2a188342bc1617a": "supercasa:1675303",
     "73b0097e384bec3e5e9f3005": "supercasa:2173344",
+    "75dbd879fdb9c99a2e503320": "supercasa:1850022",
     "77c2385226876756ed4aede3": "imovirtual:apartamento-t1-com-varandas-no-flower-tower-ID1iLvK",
     "7f43aabdedef917a4583b294": "supercasa:2264173",
     "7fc9a1eb9f0fcad8c4b5be31": "supercasa:2245102",
@@ -66,7 +68,9 @@
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
     "8b1534916277a088a4914f82": "supercasa:2273338",
     "8fe1563e15ad84e442f64723": "imovirtual:apartamento-t1-para-arrendamento-ID1iLPj",
+    "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2274484",
     "95c0a641a4ade14f1fc13356": "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8",
+    "991024f82d4b7872ad255c0c": "supercasa:2265876",
     "99e399e319858cac9759f6d7": "supercasa:2142947",
     "9a61e412211631e4b94d4d97": "imovirtual:t1-mobilado-e-equipado-junto-ao-hospital-de-sao-joao-ID1iLSE",
     "9c75d53c6d419665d981d3f4": "imovirtual:apartamento-t1-para-arrendamento-ID1iLNo",
@@ -2978,6 +2982,66 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-porto/i1764612"
     },
+    "supercasa:1850022": {
+      "area_m2": 211.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "75dbd879fdb9c99a2e503320",
+      "first_seen": "2026-08-19T23:31:46+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C5331/P25588025/Tphoto/ID39718601-0000-0500-0000-00001439b219.jpg",
+      "last_change": "2026-08-19T23:31:46+00:00",
+      "last_seen": "2026-08-19T23:31:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2500.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T23:31:46+00:00",
+          "price": 2500.0
+        }
+      ],
+      "price_per_m2": 11.85,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1850022",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 Triplex em Paranhos",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t4-porto/i1850022"
+    },
     "supercasa:1850347": {
       "area_m2": 100.0,
       "decision_reasons": [
@@ -4910,6 +4974,65 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-moradia-t3-maia/i2230241"
     },
+    "supercasa:2231285": {
+      "area_m2": 170.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3a597d4dde5d03414cf64a01",
+      "first_seen": "2026-08-19T23:31:46+00:00",
+      "first_seen_at": null,
+      "floor": null,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S6/C162583/P200384183/Tphoto/ID6c7f7302-2648-45f3-bc26-6c39a1012946.jpg",
+      "last_change": "2026-08-19T23:31:46+00:00",
+      "last_seen": "2026-08-19T23:31:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.28,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 980.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T23:31:46+00:00",
+          "price": 980.0
+        }
+      ],
+      "price_per_m2": 5.76,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2231285",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 980.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1+1 em Ramalde",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2231285"
+    },
     "supercasa:2233795": {
       "area_m2": 76.0,
       "decision_reasons": [
@@ -6056,6 +6179,65 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2264173"
     },
+    "supercasa:2265876": {
+      "area_m2": 99.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "991024f82d4b7872ad255c0c",
+      "first_seen": "2026-08-19T23:31:46+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C5153/P30807281/Tphoto/IDf114d601-0000-0500-0000-00001a1e585c.jpg",
+      "last_change": "2026-08-19T23:31:46+00:00",
+      "last_seen": "2026-08-19T23:31:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.28,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T23:31:46+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 12.63,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2265876",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1250.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua do Coronel Almeida Valente",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2265876"
+    },
     "supercasa:2266057": {
       "area_m2": 120.0,
       "decision_reasons": [
@@ -6711,6 +6893,66 @@
       "title": "Apartamento T0 em Bonfim",
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2274446"
+    },
+    "supercasa:2274484": {
+      "area_m2": 108.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "90bf5ea1c382e0c6bd6a3f9a",
+      "first_seen": "2026-08-19T23:31:46+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S58/C1493748/P2274484/Tphoto/ID6f15dcf4-9d26-4d29-bd39-e171c30c6875.jpg",
+      "last_change": "2026-08-19T23:31:46+00:00",
+      "last_seen": "2026-08-19T23:31:46+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1350.0,
+      "price": 1650.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T23:31:46+00:00",
+          "price": 1650.0
+        }
+      ],
+      "price_per_m2": 15.28,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2274484",
+      "terms": {
+        "advance_rents": 3,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 8250.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Ramalde",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2274484"
     },
     "supercasa:529984": {
       "area_m2": 41.0,
