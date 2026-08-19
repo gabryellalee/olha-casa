@@ -2,6 +2,7 @@
   "fingerprints": {
     "000dba45d4e00a66c17ce491": "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
     "0019b5fe3be5c64efd6d6748": "imovirtual:t1-na-rua-dos-bragas-ID1iLL7",
+    "02994c314bf044e21d37ec12": "supercasa:2238308",
     "04473705ca064a66a86eed20": "imovirtual:apartamento-t1-com-lugar-de-garagem-ID1iKXb",
     "0a4ac29a445f507ba57c600e": "imovirtual:t1-em-rio-tinto-com-ar-condicionado-e-elevador-ID1iLFt",
     "0ab2cc7be1065afe720d243d": "supercasa:2253170",
@@ -59,6 +60,7 @@
     "cc41df0bc22bc1c2fc72c888": "casa_sapo:alugar-quartos",
     "d1bdee2121b16479dca08b5c": "imovirtual:apartamento-t1-para-arrendamento-ID1iLFg",
     "d8b0dd67e533650133a720a8": "supercasa:1646803",
+    "dcc4ab737a697b56260e3325": "supercasa:2116509",
     "e22e105418a3f46a52d2ae2a": "supercasa:2242980",
     "e3b3d13e6bdb8526034e2ed7": "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y",
     "e43131aebf534f7091360170": "imovirtual:apartamento-t1-com-varanda-e-garagem-em-paranhos-ID1iL1T",
@@ -67,7 +69,9 @@
     "ed5548aabcc99d45d8a46e4d": "imovirtual:t1-na-avenida-da-republica-vila-nova-de-gaia-ID1iLE6",
     "ed87da6c39cc7470df17ed6a": "casa_sapo:alugar-casa-ferias",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
-    "f5ccb560b0f7aa4f66afc1d7": "supercasa:1976358"
+    "f5ccb560b0f7aa4f66afc1d7": "supercasa:1976358",
+    "fc8edc95c6189ece1166fd17": "supercasa:1959370",
+    "fdfb40566cf3bc851feb5e04": "supercasa:2249557"
   },
   "initialized": true,
   "last_heartbeat": "2026-08-19T05:23:59+00:00",
@@ -2686,6 +2690,66 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-valongo/i1850347"
     },
+    "supercasa:1959370": {
+      "area_m2": 345.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fc8edc95c6189ece1166fd17",
+      "first_seen": "2026-08-19T17:04:32+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C9311/P26500040/Tphoto/IDc85b9401-0000-0500-0000-000014fddab7.jpg",
+      "last_change": "2026-08-19T17:04:32+00:00",
+      "last_seen": "2026-08-19T17:04:32+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 4000.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T17:04:32+00:00",
+          "price": 4000.0
+        }
+      ],
+      "price_per_m2": 11.59,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1959370",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia Independente para Arrendamento na Avenida da Boavista, Porto",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t5-porto/i1959370"
+    },
     "supercasa:1976192": {
       "area_m2": 110.0,
       "decision_reasons": [
@@ -2992,6 +3056,67 @@
       "title": "Apartamento T3 na Madalena",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2029087"
+    },
+    "supercasa:2116509": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: póvoa de varzim)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "dcc4ab737a697b56260e3325",
+      "first_seen": "2026-08-19T17:04:32+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C40328/P29073078/Tphoto/IDb69ebb01-0000-0500-0000-0000181ca58d.jpg",
+      "last_change": "2026-08-19T17:04:32+00:00",
+      "last_seen": "2026-08-19T17:04:32+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Póvoa De Varzim",
+      "longitude": null,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T17:04:32+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2116509",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Aver-o-Mar",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-povoa-de-varzim/i2116509"
     },
     "supercasa:2129347": {
       "area_m2": 60.0,
@@ -3413,6 +3538,65 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2237348"
     },
+    "supercasa:2238308": {
+      "area_m2": 42.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "02994c314bf044e21d37ec12",
+      "first_seen": "2026-08-19T17:04:32+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C13362/P30585207/Tphoto/ID77b1d201-0000-0500-0000-000019d88f7e.jpg",
+      "last_change": "2026-08-19T17:04:32+00:00",
+      "last_seen": "2026-08-19T17:04:32+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 16.84,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T17:04:32+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 23.81,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2238308",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4000.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2238308"
+    },
     "supercasa:2242980": {
       "area_m2": 80.0,
       "decision_reasons": [
@@ -3472,6 +3656,66 @@
       "title": "Apartamento T2 na Rua Particular de Avilhó",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2242980"
+    },
+    "supercasa:2249557": {
+      "area_m2": 235.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fdfb40566cf3bc851feb5e04",
+      "first_seen": "2026-08-19T17:04:32+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C15112/P30674902/Tphoto/IDd60fd401-0000-0500-0000-000019f4a262.jpg",
+      "last_change": "2026-08-19T17:04:32+00:00",
+      "last_seen": "2026-08-19T17:04:32+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 3250.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T17:04:32+00:00",
+          "price": 3250.0
+        }
+      ],
+      "price_per_m2": 13.83,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2249557",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Aldoar, Foz do Douro e Nevogilde",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2249557"
     },
     "supercasa:2250296": {
       "area_m2": 29.0,
