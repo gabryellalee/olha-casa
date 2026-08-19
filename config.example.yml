@@ -1,0 +1,104 @@
+project:
+  timezone: Europe/Lisbon
+  state_file: data/state.json
+  report_file: run-report.json
+  notify_existing_on_first_run: false
+
+search:
+  min_score: 7.0
+  exceptional_min_score: 8.5
+  preferred_max_rent: 700
+  exceptional_max_rent: 750
+  typologies: [T0, T1]
+  max_peak_drive_minutes: 30
+  ideal_peak_drive_minutes: 20
+  max_candidates_per_source: 18
+  known_refresh_limit_per_source: 6
+  request_delay_seconds: 1.2
+  request_timeout_seconds: 12
+  # Identificação transparente. Pode trocar o endereço pelo seu.
+  user_agent: "OlhaCasa/0.1 (personal rental search; low-frequency)"
+
+home_office:
+  hard_min_area_m2: 32
+  comfortable_t0_m2: 42
+  comfortable_t1_m2: 45
+
+geo:
+  iscap:
+    name: ISCAP
+    address: "Rua Jaime Lopes Amorim, 4465-004 São Mamede de Infesta"
+    latitude: 41.1829
+    longitude: -8.6067
+  # Aproximação do círculo enviado. Edite os vértices se quiser afinar a borda.
+  allowed_polygon:
+    - [-8.714, 41.155]
+    - [-8.735, 41.205]
+    - [-8.721, 41.265]
+    - [-8.670, 41.325]
+    - [-8.602, 41.351]
+    - [-8.535, 41.342]
+    - [-8.480, 41.307]
+    - [-8.464, 41.250]
+    - [-8.478, 41.198]
+    - [-8.520, 41.158]
+    - [-8.576, 41.134]
+    - [-8.641, 41.130]
+    - [-8.692, 41.143]
+    - [-8.714, 41.155]
+  # Usado apenas quando o anúncio não fornece coordenadas.
+  fallback_allowed_places:
+    - porto
+    - matosinhos
+    - maia
+    - trofa
+    - são mamede de infesta
+    - senhora da hora
+    - leça da palmeira
+    - lavra
+    - perafita
+    - vilar do pinheiro
+    - modivas
+    - vila chã
+    - mindelo
+    - ermesinde
+    - alfena
+    - rio tinto
+    - baguim do monte
+  fallback_excluded_places:
+    - vila nova de gaia
+    - póvoa de varzim
+    - vila nova de famalicão
+    - paços de ferreira
+
+routing:
+  # Serviço público sem chave. Só é consultado para anúncios novos com coordenadas.
+  osrm_url: "https://router.project-osrm.org"
+  peak_multiplier: 1.40
+  approximate_location_multiplier: 1.15
+
+sources:
+  # Os URLs estão ordenados pelos anúncios mais recentes. Podem ser substituídos
+  # por pesquisas guardadas nos portais, mantendo o mesmo domínio.
+  - name: idealista
+    enabled: true
+    search_urls:
+      - "https://www.idealista.pt/arrendar-casas/porto-distrito/?ordem=publicado-desc"
+  - name: imovirtual
+    enabled: true
+    search_urls:
+      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento%2Ct0%2Ct1/porto?by=LATEST&direction=DESC"
+  - name: supercasa
+    enabled: true
+    search_urls:
+      - "https://supercasa.pt/arrendar-casas/porto-distrito/com-t0%2Ct1%2Cpreco-max-750%2Cpublicado-ultima-semana"
+  - name: casa_sapo
+    enabled: true
+    search_urls:
+      - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/?gp=750&ordem=1"
+
+telegram:
+  # O token e o chat ID vêm exclusivamente dos GitHub Secrets.
+  bot_token_env: TELEGRAM_BOT_TOKEN
+  chat_id_env: TELEGRAM_CHAT_ID
+  dry_run_env: OLHA_CASA_DRY_RUN
