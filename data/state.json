@@ -9,8 +9,11 @@
     "424718b9951e92eb5c18d47e": "imovirtual:ref-4249-t1-mob-r-joao-de-deus-boavista-ID1iLtM",
     "516703d135318a8ca7a844f3": "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0",
     "578b26ce189568496d20f70b": "imovirtual:apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz",
+    "64ea69af8ed53955695311f7": "casa_sapo:distrito.porto",
+    "662fd5cc3fe511aa51bb577e": "casa_sapo:distrito.porto",
     "81c06101eac4a37b403161e7": "imovirtual:excelente-t1-c-box-e-com-terraco-ID1iLis",
     "824d70cbd71ed065a1cf17e4": "casa_sapo:alugar-casa-ferias",
+    "842628a2503682ede57727c5": "casa_sapo:distrito.porto",
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
     "b1571e118501cce09266ae6c": "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK",
     "babb6e4ce2842d29fb0e6753": "imovirtual:ref-4250-t1-c-mob-a-baixa-do-porto-ID1iLw7",
@@ -205,6 +208,78 @@
       "title": "Apartamento T1 Paredes, Paredes",
       "typology": "T1",
       "url": "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/?gp=750"
+    },
+    "casa_sapo:distrito.porto": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "estimativa por zona",
+      "elevator": null,
+      "event": "unchanged",
+      "fiber": null,
+      "fingerprint": "64ea69af8ed53955695311f7",
+      "first_seen": "2026-08-19T05:51:02+00:00",
+      "first_seen_at": "2026-08-19T05:51:02+00:00",
+      "floor": 1,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1091367/P200380456/Tphoto/ID96a55aa5-7883-45b7-a624-3efabbbdc254.jpg",
+      "last_change": "2026-08-19T05:51:02+00:00",
+      "last_seen": "2026-08-19T05:51:02+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.46,
+      "location": "Vilar Do Pinheiro",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 28,
+      "previous_price": null,
+      "price": 650.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T05:51:02+00:00",
+          "price": 1500.0
+        },
+        {
+          "at": "2026-08-19T05:51:02+00:00",
+          "price": 500.0
+        },
+        {
+          "at": "2026-08-19T05:51:02+00:00",
+          "price": 650.0
+        }
+      ],
+      "price_per_m2": 13.0,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 7.2,
+      "source": "casa_sapo",
+      "source_id": "distrito.porto",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 650.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Moradia T1 Amarante (São Gonçalo), Madalena, Cepelos e Gatão, Amarante",
+      "typology": "T1",
+      "url": "https://casa.sapo.pt/alugar-moradias/t0,t1/distrito.porto/"
     },
     "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iLoK": {
       "area_m2": 47.0,
