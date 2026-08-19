@@ -42,6 +42,7 @@
     "824d70cbd71ed065a1cf17e4": "casa_sapo:alugar-casa-ferias",
     "842628a2503682ede57727c5": "casa_sapo:distrito.porto",
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
+    "8fe1563e15ad84e442f64723": "imovirtual:apartamento-t1-para-arrendamento-ID1iLPj",
     "95c0a641a4ade14f1fc13356": "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8",
     "9c75d53c6d419665d981d3f4": "imovirtual:apartamento-t1-para-arrendamento-ID1iLNo",
     "a5ef3596e09fc210ed86e95a": "supercasa:2250296",
@@ -1473,6 +1474,68 @@
       "title": "Apartamento T1 para arrendamento",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iLNo"
+    },
+    "imovirtual:apartamento-t1-para-arrendamento-ID1iLPj": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "8fe1563e15ad84e442f64723",
+      "first_seen": "2026-08-19T16:42:19+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh1NTJ0MTVkMGRlZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.RtTLtNcFPXrhijoMnO19XwB-5knfh18zNGPS9cctPDE/image;s=2048x1536;q=80",
+      "last_change": "2026-08-19T16:42:19+00:00",
+      "last_seen": "2026-08-19T16:42:19+00:00",
+      "latitude": 41.173065,
+      "local_median_price_per_m2": 16.67,
+      "location": "Rua António Salgado Júnior, Paranhos, Porto",
+      "longitude": 8.601432,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2000.0,
+      "price": 920.0,
+      "price_history": [
+        {
+          "at": "2026-08-19T16:42:19+00:00",
+          "price": 920.0
+        }
+      ],
+      "price_per_m2": 15.33,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T16:09:35Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-ID1iLPj",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 1840.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iLPj"
     },
     "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK": {
       "area_m2": 60.0,
