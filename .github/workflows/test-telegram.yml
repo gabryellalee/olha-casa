@@ -1,0 +1,40 @@
+name: Testar Telegram
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-telegram:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      OLHA_CASA_DRY_RUN: "false"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar
+        run: pip install .
+
+      - name: Enviar mensagem de teste
+        run: |
+          python - <<'PY'
+          from olha_casa.config import load_config
+          from olha_casa.telegram import TelegramSender
+
+          sender = TelegramSender(load_config("config.example.yml"))
+          sender.validate()
+          sender.send(
+              "✅ <b>Olha Casa está ligado</b>\n\n"
+              "O bot consegue enviar mensagens para o grupo Alertas Casinhas."
+          )
+          PY
