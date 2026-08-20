@@ -41,6 +41,7 @@
     "354c83afc24e2b429718a8ed": "supercasa:2233038",
     "37a4d5963eeef48315d2ab8f": "supercasa:814892",
     "37b42d5f685a8c571a167367": "supercasa:2252661",
+    "381a06c9b49891e96b1efd69": "supercasa:2260006",
     "3a597d4dde5d03414cf64a01": "supercasa:2231285",
     "3a63488759b3d2316ca93967": "supercasa:2266027",
     "3c11d32e6b428b38c598f348": "imovirtual:apartamento-no-centro-do-porto-ID1iLzx",
@@ -51,6 +52,7 @@
     "44bba5015c257dd8d5e153b4": "supercasa:2250968",
     "454c14308cde63145cdea283": "supercasa:2263063",
     "46fd6f30955a2d7341fb1421": "supercasa:1976222",
+    "4996b5d3bddba89881316537": "supercasa:2266261",
     "49a53dc86bd9b24a4bcf6a02": "supercasa:639657",
     "4a9003a3c8f85d5badae558f": "supercasa:2251762",
     "4d0d4fd36265a37567d937a1": "supercasa:2205618",
@@ -99,6 +101,7 @@
     "842628a2503682ede57727c5": "casa_sapo:distrito.porto",
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
     "85a48da2a78ec58859a99b57": "supercasa:2257603",
+    "86e5c5aeb4266d15a674f415": "supercasa:2274510",
     "8b1534916277a088a4914f82": "supercasa:2273338",
     "8ec3c3e41c0de3a912a5d72a": "supercasa:2252904",
     "8fe1563e15ad84e442f64723": "imovirtual:apartamento-t1-para-arrendamento-ID1iLPj",
@@ -8772,6 +8775,69 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-maia/i2259058"
     },
+    "supercasa:2260006": {
+      "area_m2": 137.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "381a06c9b49891e96b1efd69",
+      "first_seen": "2026-08-20T23:34:10+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S58/C1493750/P2260006/Tphoto/ID875ccb7e-89fc-4d48-870d-105635336594.jpg",
+      "last_change": "2026-08-20T23:34:10+00:00",
+      "last_seen": "2026-08-20T23:34:10+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1350.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T23:34:10+00:00",
+          "price": 1350.0
+        }
+      ],
+      "price_per_m2": 9.85,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-20T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2260006",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 4050.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T2 em Vilar do Paraíso",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-nova-de-gaia/i2260006"
+    },
     "supercasa:2260163": {
       "area_m2": 117.0,
       "decision_reasons": [
@@ -9679,6 +9745,69 @@
       "title": "Apartamento T3 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2266254"
+    },
+    "supercasa:2266261": {
+      "area_m2": 121.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "4996b5d3bddba89881316537",
+      "first_seen": "2026-08-20T23:34:10+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C1890/P30803978/Tphoto/ID0a08d601-0000-0500-0000-00001a1e5b4f.jpg",
+      "last_change": "2026-08-20T23:34:10+00:00",
+      "last_seen": "2026-08-20T23:34:10+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1350.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T23:34:10+00:00",
+          "price": 1350.0
+        }
+      ],
+      "price_per_m2": 11.16,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-20T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2266261",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 5400.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 36,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Vilar do Paraíso",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-nova-de-gaia/i2266261"
     },
     "supercasa:2266977": {
       "area_m2": 227.0,
@@ -10698,6 +10827,67 @@
       "title": "Apartamento T2 em Ramalde",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2274484"
+    },
+    "supercasa:2274510": {
+      "area_m2": 266.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "86e5c5aeb4266d15a674f415",
+      "first_seen": "2026-08-20T23:34:10+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C9811/P30867839/Tphoto/ID7f01d701-0000-0500-0000-00001a31b894.jpg",
+      "last_change": "2026-08-20T23:34:10+00:00",
+      "last_seen": "2026-08-20T23:34:10+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2850.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T23:34:10+00:00",
+          "price": 2850.0
+        }
+      ],
+      "price_per_m2": 10.71,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-20T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2274510",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T4 na Rua Manuel Moreira Barros",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t4-vila-nova-de-gaia/i2274510"
     },
     "supercasa:2274728": {
       "area_m2": 30.0,
