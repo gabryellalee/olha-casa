@@ -61,6 +61,7 @@
     "72a01667e2a188342bc1617a": "supercasa:1675303",
     "73b0097e384bec3e5e9f3005": "supercasa:2173344",
     "75dbd879fdb9c99a2e503320": "supercasa:1850022",
+    "772a6af50cd7ee7ad88f3876": "supercasa:2249770",
     "77c2385226876756ed4aede3": "imovirtual:apartamento-t1-com-varandas-no-flower-tower-ID1iLvK",
     "7f22f9add0bffebdbfaf7c1a": "supercasa:2264291",
     "7f43aabdedef917a4583b294": "supercasa:2264173",
@@ -74,9 +75,11 @@
     "8fe1563e15ad84e442f64723": "imovirtual:apartamento-t1-para-arrendamento-ID1iLPj",
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2274484",
     "95c0a641a4ade14f1fc13356": "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8",
+    "95c6d2f411e9b9db84ca756a": "supercasa:2241555",
     "991024f82d4b7872ad255c0c": "supercasa:2265876",
     "99e399e319858cac9759f6d7": "supercasa:2142947",
     "9a61e412211631e4b94d4d97": "imovirtual:t1-mobilado-e-equipado-junto-ao-hospital-de-sao-joao-ID1iLSE",
+    "9bbdeced047f05d14e3d1cd3": "supercasa:1927859",
     "9c75d53c6d419665d981d3f4": "imovirtual:apartamento-t1-para-arrendamento-ID1iLNo",
     "9f65aac7338a48ebed7e6503": "supercasa:186917",
     "a1f75e40ebbb3dd3901148c0": "supercasa:2218005",
@@ -89,6 +92,7 @@
     "af8d25405e2b90adb379183b": "supercasa:2187421",
     "b1571e118501cce09266ae6c": "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK",
     "b39f84c5948506f959eabd9b": "supercasa:2147498",
+    "b5999f5a034d26e833d28063": "supercasa:2271991",
     "b5dd31d9e6a8758265564d3e": "supercasa:2233795",
     "babb6e4ce2842d29fb0e6753": "imovirtual:ref-4250-t1-c-mob-a-baixa-do-porto-ID1iLw7",
     "bbaecb8bb558c118c6bb171e": "supercasa:2207631",
@@ -101,6 +105,8 @@
     "ca6b4b20f1b21ae1913a8041": "supercasa:2273765",
     "caa6d54bebaaabda018af8ba": "imovirtual:porto-apartamento-t1-arca-de-agua-ID1iLEB",
     "cc41df0bc22bc1c2fc72c888": "casa_sapo:alugar-quartos",
+    "ccc3a5490b6fa1f9ae266057": "supercasa:2016886",
+    "cdb1c75de16276fd855d2b80": "supercasa:2063702",
     "d1bdee2121b16479dca08b5c": "imovirtual:apartamento-t1-para-arrendamento-ID1iLFg",
     "d789b3160df03dd5e0ec971b": "imovirtual:apartamento-t1-mobilado-com-estacionamento-ID1iLUi",
     "d8b0dd67e533650133a720a8": "supercasa:1646803",
@@ -3293,6 +3299,66 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i1882090"
     },
+    "supercasa:1927859": {
+      "area_m2": 111.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "9bbdeced047f05d14e3d1cd3",
+      "first_seen": "2026-08-20T02:06:42+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C8198/P26859320/Tphoto/ID38d79901-0000-0500-0000-0000156c2950.jpg",
+      "last_change": "2026-08-20T02:06:42+00:00",
+      "last_seen": "2026-08-20T02:06:42+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1800.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T02:06:42+00:00",
+          "price": 1800.0
+        }
+      ],
+      "price_per_m2": 16.22,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1927859",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T3+1 na Rua Ferreira de Castro",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t3-maia/i1927859"
+    },
     "supercasa:1948814": {
       "area_m2": 33.0,
       "decision_reasons": [
@@ -3719,6 +3785,66 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-povoa-de-varzim/i1999728"
     },
+    "supercasa:2016886": {
+      "area_m2": 114.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "ccc3a5490b6fa1f9ae266057",
+      "first_seen": "2026-08-20T02:06:42+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C5773/P27671940/Tphoto/ID843da601-0000-0500-0000-000016810db2.jpg",
+      "last_change": "2026-08-20T02:06:42+00:00",
+      "last_seen": "2026-08-20T02:06:42+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T02:06:42+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 12.28,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2016886",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2016886"
+    },
     "supercasa:2029087": {
       "area_m2": 175.0,
       "decision_reasons": [
@@ -3779,6 +3905,69 @@
       "title": "Apartamento T3 na Madalena",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2029087"
+    },
+    "supercasa:2063702": {
+      "area_m2": 250.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "cdb1c75de16276fd855d2b80",
+      "first_seen": "2026-08-20T02:06:42+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C16767/P25465434/Tphoto/ID5a928401-0000-0500-0000-000014387367.jpg",
+      "last_change": "2026-08-20T02:06:42+00:00",
+      "last_seen": "2026-08-20T02:06:42+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2000.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T02:06:42+00:00",
+          "price": 2000.0
+        }
+      ],
+      "price_per_m2": 8.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2063702",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [
+          "internet"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia Geminada T3 em Arcozelo",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t3-vila-nova-de-gaia/i2063702"
     },
     "supercasa:2080007": {
       "area_m2": 200.0,
@@ -5462,6 +5651,67 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2241544"
     },
+    "supercasa:2241555": {
+      "area_m2": 70.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "95c6d2f411e9b9db84ca756a",
+      "first_seen": "2026-08-20T02:06:42+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S58/C1482991/P2241555/Tphoto/ID4ef2fad0-bb2a-42d1-9b26-f528901fb762.jpg",
+      "last_change": "2026-08-20T02:06:42+00:00",
+      "last_seen": "2026-08-20T02:06:42+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.28,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T02:06:42+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 18.57,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2241555",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 3,
+        "entry_total": 3900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Duplex T1 na Rua da Boavista",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-duplex-t1-porto/i2241555"
+    },
     "supercasa:2242980": {
       "area_m2": 80.0,
       "decision_reasons": [
@@ -5704,6 +5954,66 @@
       "title": "Apartamento T3 em Aldoar, Foz do Douro e Nevogilde",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2249557"
+    },
+    "supercasa:2249770": {
+      "area_m2": 134.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "772a6af50cd7ee7ad88f3876",
+      "first_seen": "2026-08-20T02:06:42+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C5347/P30673413/Tphoto/ID050ad401-0000-0500-0000-000019f41cbe.jpg",
+      "last_change": "2026-08-20T02:06:42+00:00",
+      "last_seen": "2026-08-20T02:06:42+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T02:06:42+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 9.33,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2249770",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": false,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Cidade da Maia",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-maia/i2249770"
     },
     "supercasa:2250296": {
       "area_m2": 29.0,
@@ -6789,6 +7099,67 @@
       "title": "Apartamento T3 na Rua de António Cardoso",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2268621"
+    },
+    "supercasa:2271991": {
+      "area_m2": 400.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "b5999f5a034d26e833d28063",
+      "first_seen": "2026-08-20T02:06:42+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C5673/P30823855/Tphoto/IDaf55d601-0000-0500-0000-00001a2d2b7f.jpg",
+      "last_change": "2026-08-20T02:06:42+00:00",
+      "last_seen": "2026-08-20T02:06:42+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 4000.0,
+      "price_history": [
+        {
+          "at": "2026-08-20T02:06:42+00:00",
+          "price": 4000.0
+        }
+      ],
+      "price_per_m2": 10.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-19T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2271991",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 Triplex em Gulpilhares",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t4-vila-nova-de-gaia/i2271991"
     },
     "supercasa:2272955": {
       "area_m2": 85.0,
