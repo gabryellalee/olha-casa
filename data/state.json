@@ -25,6 +25,7 @@
     "211d323d9b2319c98f7c2a08": "supercasa:2202471",
     "21f977788015c89ac6918e94": "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq",
     "26e2d795f7b6a8c4a2530765": "imovirtual:apartamento-t1-mobilado-e-equipado-na-asprela-porto-ID1iLYR",
+    "273295e58865c7b43c340e75": "supercasa:2209773",
     "2770fcc060d556572b0f2505": "imovirtual:apartamento-t1-arrendamento-em-cidade-da-maia-maia-ID1iL7Q",
     "27dd6cd19d85822d4fca9ac6": "supercasa:2230223",
     "28edcf7aede11c6f336fbcfb": "casa_sapo:b291fbab98d6f208a343",
@@ -6382,6 +6383,67 @@
       "title": "Apartamento T3 em Canidelo",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2207631"
+    },
+    "supercasa:2209773": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "273295e58865c7b43c340e75",
+      "first_seen": "2026-08-21T06:04:01+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z720x540/OAYES/S5/C12314/P30180371/Tphoto/ID1384cc01-0000-0500-0000-0000197e5ec8.jpg",
+      "last_change": "2026-08-21T06:04:01+00:00",
+      "last_seen": "2026-08-21T06:04:01+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.28,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1150.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-21T06:04:01+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 18.46,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-20T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2209773",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1200.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Lordelo do Ouro e Massarelos",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2209773"
     },
     "supercasa:2211840": {
       "area_m2": 80.0,
