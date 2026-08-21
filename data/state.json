@@ -41,6 +41,7 @@
     "32408c88594dc58db51eef22": "supercasa:2266254",
     "33ab703b5df73aa8343ace6d": "supercasa:2129347",
     "354c83afc24e2b429718a8ed": "supercasa:2233038",
+    "355c217dac9461e3cf5cd1ba": "supercasa:2235035",
     "37a4d5963eeef48315d2ab8f": "supercasa:814892",
     "37b42d5f685a8c571a167367": "supercasa:2252661",
     "381a06c9b49891e96b1efd69": "supercasa:2260006",
@@ -155,6 +156,7 @@
     "bbaecb8bb558c118c6bb171e": "supercasa:2207631",
     "c24c012a3301ac529f71d0b7": "imovirtual:apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk",
     "c4dc9ad109f54d9ac9946f7b": "supercasa:2260405",
+    "c71617923c8c35810efde39d": "supercasa:2232149",
     "c7a3ec417bd1b733ed4d354b": "supercasa:2141835",
     "c8a493a4f371ac257a1c9aa2": "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iLoK",
     "ca2b34700096093ed91abd13": "supercasa:2269886",
@@ -208,6 +210,7 @@
     "fbcc63ffce03efde9e18945b": "supercasa:2262093",
     "fc8edc95c6189ece1166fd17": "supercasa:1959370",
     "fcb2cfe7bd4b06b1da6b02ad": "supercasa:2258981",
+    "fcb70a72b0c2460002516953": "supercasa:1111013",
     "fdfb40566cf3bc851feb5e04": "supercasa:2249557"
   },
   "initialized": true,
@@ -3749,6 +3752,67 @@
       "title": "Apartamento T3 em Aldoar, Foz do Douro e Nevogilde",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i1072319"
+    },
+    "supercasa:1111013": {
+      "area_m2": 37.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fcb70a72b0c2460002516953",
+      "first_seen": "2026-08-21T19:16:33+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4807/P23699997/Tphoto/ID1da26901-0000-0500-0000-0000112767d3.jpg",
+      "last_change": "2026-08-21T19:16:33+00:00",
+      "last_seen": "2026-08-21T19:16:33+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.44,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 630.0,
+      "price_history": [
+        {
+          "at": "2026-08-21T19:16:33+00:00",
+          "price": 630.0
+        }
+      ],
+      "price_per_m2": 17.03,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-21T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1111013",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Loft T1 em Santa Marinha",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i1111013"
     },
     "supercasa:1169322": {
       "area_m2": 63.0,
@@ -7901,6 +7965,68 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2231520"
     },
+    "supercasa:2232149": {
+      "area_m2": 73.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c71617923c8c35810efde39d",
+      "first_seen": "2026-08-21T19:16:33+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S6/C770381/P200384253/Tphoto/ID98f58b9d-ebe6-42c6-9186-152980798cc9.jpg",
+      "last_change": "2026-08-21T19:16:33+00:00",
+      "last_seen": "2026-08-21T19:16:33+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-21T19:16:33+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 16.44,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-21T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2232149",
+      "terms": {
+        "advance_rents": 1,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 3600.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2232149"
+    },
     "supercasa:2233038": {
       "area_m2": 145.0,
       "decision_reasons": [
@@ -8141,6 +8267,66 @@
       "title": "Apartamento T2 em Paranhos",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2234384"
+    },
+    "supercasa:2235035": {
+      "area_m2": 115.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "355c217dac9461e3cf5cd1ba",
+      "first_seen": "2026-08-21T19:16:33+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C14386/P30556098/Tphoto/IDc23fd201-0000-0500-0000-000019d09540.jpg",
+      "last_change": "2026-08-21T19:16:33+00:00",
+      "last_seen": "2026-08-21T19:16:33+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": 17.44,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-21T19:16:33+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 10.43,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-21T07:30:00",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2235035",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Santa Marinha",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2235035"
     },
     "supercasa:2237348": {
       "area_m2": 120.0,
