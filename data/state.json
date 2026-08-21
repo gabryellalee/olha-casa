@@ -65,6 +65,7 @@
     "4d0d4fd36265a37567d937a1": "supercasa:2205618",
     "4e38d0b6215908cdfd4cff27": "imovirtual:t1-mezanino-polo-universitario-da-asprela-ID1iMcS",
     "4ea96a9cfc49d6324130b8d1": "supercasa:2141202",
+    "4ec73f5afd2d0f38f4f97fbf": "imovirtual:arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW",
     "50a41b1f7125e1a46ae9824e": "supercasa:1313813",
     "516703d135318a8ca7a844f3": "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0",
     "528c53833c83752855be7a02": "supercasa:2274446",
@@ -2380,6 +2381,65 @@
       "title": "Arrenda-se apartamento T1- Porto com terraço",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-apartamento-t1-porto-com-terraco-ID1iM22"
+    },
+    "imovirtual:arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "4ec73f5afd2d0f38f4f97fbf",
+      "first_seen": "2026-08-21T23:26:44+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjlrZmoyemI5a2s3ejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PODfvw7GXqMSBWFlxvEQf41Z58U1Tk3KEJGW2Paqlb0/image;s=2048x1536;q=80",
+      "last_change": "2026-08-21T23:26:44+00:00",
+      "last_seen": "2026-08-21T23:26:44+00:00",
+      "latitude": 41.20956,
+      "local_median_price_per_m2": 17.44,
+      "location": "Rua Quinta da Comenda, Águas Santas, Porto",
+      "longitude": 8.57482,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-08-21T23:26:44+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 12.73,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-21T23:13:21Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": false,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "arrendo sem fiador aguas santas - maia 10minutos do porto",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW"
     },
     "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK": {
       "area_m2": 60.0,
