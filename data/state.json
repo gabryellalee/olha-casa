@@ -110,7 +110,8 @@
     "6da0bdb926ff0445f2b4bac9": "imovirtual:t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf",
     "6f0cdc34b64414be1f42d473": "supercasa:2276317",
     "6f1590011b90e1e28b8cb021": "supercasa:1642453",
-    "70094b1adc6e89741082f7cb": "supercasa:2223792",
+    "70094b1adc6e89741082f7cb": "supercasa:2250492",
+    "7043505869b293c78e043483": "supercasa:2276238",
     "726152fa0ef2f6a1efd38416": "supercasa:2189265",
     "72a01667e2a188342bc1617a": "supercasa:1675303",
     "73559fb6a1f1e53ef4fb94d1": "supercasa:1044155",
@@ -264,7 +265,8 @@
     "fc8edc95c6189ece1166fd17": "supercasa:1959370",
     "fcb2cfe7bd4b06b1da6b02ad": "supercasa:2258981",
     "fcb70a72b0c2460002516953": "supercasa:1111013",
-    "fdfb40566cf3bc851feb5e04": "supercasa:2249557"
+    "fdfb40566cf3bc851feb5e04": "supercasa:2249557",
+    "fe521016a0302e8145a52192": "supercasa:2237815"
   },
   "initialized": true,
   "last_heartbeat": "2026-08-19T05:23:59+00:00",
@@ -10609,6 +10611,67 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2237807"
     },
+    "supercasa:2237815": {
+      "area_m2": 96.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fe521016a0302e8145a52192",
+      "first_seen": "2026-08-22T17:00:03+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C3749/P30580386/Tphoto/IDa29ed201-0000-0500-0000-000019d74fe0.jpg",
+      "last_change": "2026-08-22T17:00:03+00:00",
+      "last_seen": "2026-08-22T17:00:03+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1650.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T17:00:03+00:00",
+          "price": 1650.0
+        }
+      ],
+      "price_per_m2": 17.19,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2237815",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Canidelo",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-nova-de-gaia/i2237815"
+    },
     "supercasa:2237913": {
       "area_m2": 120.0,
       "decision_reasons": [
@@ -11568,6 +11631,66 @@
       "title": "Apartamento T0 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2250296"
+    },
+    "supercasa:2250492": {
+      "area_m2": 180.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "70094b1adc6e89741082f7cb",
+      "first_seen": "2026-08-22T17:00:03+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1490238/P2250492/Tphoto/ID0c866d5c-a05d-4274-b973-9e20187715e2.jpg",
+      "last_change": "2026-08-22T17:00:03+00:00",
+      "last_seen": "2026-08-22T17:00:03+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 3000.0,
+      "price": 1950.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T17:00:03+00:00",
+          "price": 1950.0
+        }
+      ],
+      "price_per_m2": 10.83,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2250492",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Lordelo do Ouro e Massarelos",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2250492"
     },
     "supercasa:2250968": {
       "area_m2": 120.0,
@@ -15549,6 +15672,67 @@
       "title": "Moradia T2 em Travessa de Passos",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-moradia-t2-vila-nova-de-gaia/i2276106"
+    },
+    "supercasa:2276238": {
+      "area_m2": 189.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (local identificado: vila nova de gaia)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "7043505869b293c78e043483",
+      "first_seen": "2026-08-22T17:00:03+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4364/P30883184/Tphoto/ID703dd701-0000-0500-0000-00001a37189d.jpg",
+      "last_change": "2026-08-22T17:00:03+00:00",
+      "last_seen": "2026-08-22T17:00:03+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": null,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 3600.0,
+      "price": 2750.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T17:00:03+00:00",
+          "price": 2750.0
+        }
+      ],
+      "price_per_m2": 14.55,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2276238",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Canidelo",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2276238"
     },
     "supercasa:2276248": {
       "area_m2": 113.0,
