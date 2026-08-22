@@ -29,6 +29,7 @@
     "1caa56ca76aee5574568a421": "imovirtual:apartamento-t1-para-arrendamento-ID1iLAE",
     "1d766fab2fb473db8acd3664": "supercasa:2164823",
     "211d323d9b2319c98f7c2a08": "supercasa:2202471",
+    "21b747c6fb6607c7dae403c4": "supercasa:1892600",
     "21f977788015c89ac6918e94": "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq",
     "2241083a8d5fd3e5140f23ef": "supercasa:2024859",
     "24cb4710f92c39fec447dbe1": "supercasa:2170537",
@@ -55,11 +56,13 @@
     "37b42d5f685a8c571a167367": "supercasa:2252661",
     "381a06c9b49891e96b1efd69": "supercasa:2260006",
     "39733730d053acab52a93a7a": "supercasa:2247566",
+    "39ce12c465ca8e9840a4b546": "supercasa:2263206",
     "3a597d4dde5d03414cf64a01": "supercasa:2231285",
     "3a63488759b3d2316ca93967": "supercasa:2266027",
     "3c11d32e6b428b38c598f348": "imovirtual:apartamento-no-centro-do-porto-ID1iLzx",
     "3ce48c55089308ead7b63013": "imovirtual:apartamento-com-terraco-um-quarto-centro-do-porto-ID1iMyW",
     "3d007c4dc98b554bfdb78b56": "imovirtual:t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe",
+    "4025584856781cabcc58d065": "supercasa:2214911",
     "416c00886c21ee753a82f18d": "supercasa:2231520",
     "424718b9951e92eb5c18d47e": "imovirtual:ref-4249-t1-mob-r-joao-de-deus-boavista-ID1iLtM",
     "4461b6308e1f8ac986a17953": "supercasa:2263871",
@@ -131,6 +134,7 @@
     "81c06101eac4a37b403161e7": "imovirtual:excelente-t1-c-box-e-com-terraco-ID1iLis",
     "824d70cbd71ed065a1cf17e4": "casa_sapo:alugar-casa-ferias",
     "82acdace261cc45802d6cb6f": "supercasa:2259104",
+    "82ec8d7f09c60c0ab4f68bbe": "supercasa:1744893",
     "833275ab84064cc80b8d140b": "supercasa:2203200",
     "842628a2503682ede57727c5": "casa_sapo:distrito.porto",
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
@@ -146,6 +150,7 @@
     "8fe86bebf8cab531973a7c94": "supercasa:2243509",
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2260003",
     "93840be35d25b2cf59ca7cd4": "supercasa:1528278",
+    "94b9b853ff1980c3f0bb4810": "supercasa:2275000",
     "94ecbc1a7c1946f87849ee58": "supercasa:2269571",
     "95c0a641a4ade14f1fc13356": "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8",
     "95c6d2f411e9b9db84ca756a": "supercasa:2241555",
@@ -5072,6 +5077,68 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i1714261"
     },
+    "supercasa:1744893": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "82ec8d7f09c60c0ab4f68bbe",
+      "first_seen": "2026-08-22T15:32:20+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C15539/P24738011/Tphoto/IDdb787901-0000-0500-0000-00001a226600.jpg",
+      "last_change": "2026-08-22T15:32:20+00:00",
+      "last_seen": "2026-08-22T15:32:20+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Senhora Da Hora",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T15:32:20+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 10.91,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1744893",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Senhora da Hora",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i1744893"
+    },
     "supercasa:1764612": {
       "area_m2": 100.0,
       "decision_reasons": [
@@ -5433,6 +5500,66 @@
       "title": "Apartamento T3 no Empreendimento Yard com ampla Varanda a Poente",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i1882090"
+    },
+    "supercasa:1892600": {
+      "area_m2": 133.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "21b747c6fb6607c7dae403c4",
+      "first_seen": "2026-08-22T15:32:20+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4494/P26491276/Tphoto/ID8c399401-0000-0500-0000-000014fae30a.jpg",
+      "last_change": "2026-08-22T15:32:20+00:00",
+      "last_seen": "2026-08-22T15:32:20+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T15:32:20+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 9.02,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1892600",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia em Banda T2 na Rua da Colónia de Antero de Quental",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-moradia-t2-porto/i1892600"
     },
     "supercasa:1899715": {
       "area_m2": 40.0,
@@ -8680,6 +8807,66 @@
       "title": "Duplex T2 na Rua Professor Manuel Baganha",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-duplex-t2-porto/i2214206"
+    },
+    "supercasa:2214911": {
+      "area_m2": 180.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4025584856781cabcc58d065",
+      "first_seen": "2026-08-22T15:32:20+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1462551/P2214911/Tphoto/ID241abdc9-c8b6-42ef-9a52-ac8d186ec2ac.jpg",
+      "last_change": "2026-08-22T15:32:20+00:00",
+      "last_seen": "2026-08-22T15:32:20+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1450.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T15:32:20+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 6.94,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2214911",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 5000.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Gondomar (São Cosme), Valbom e Jovim",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-gondomar/i2214911"
     },
     "supercasa:2215047": {
       "area_m2": 82.0,
@@ -12831,6 +13018,66 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2263063"
     },
+    "supercasa:2263206": {
+      "area_m2": 94.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "39ce12c465ca8e9840a4b546",
+      "first_seen": "2026-08-22T15:32:20+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1496612/P2263206/Tphoto/ID36e9088d-c105-4cd5-a938-3470706b4c9d.jpg",
+      "last_change": "2026-08-22T15:32:20+00:00",
+      "last_seen": "2026-08-22T15:32:20+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Senhora Da Hora",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T15:32:20+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 17.02,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2263206",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 3200.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Natura, Avenida de Manuel Pinto de Azevedo",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2263206"
+    },
     "supercasa:2263292": {
       "area_m2": 120.0,
       "decision_reasons": [
@@ -14999,6 +15246,68 @@
       "title": "Apartamento T1 na Rua dos Bragas",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2274728"
+    },
+    "supercasa:2275000": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "tipologia não confirmada como T0 ou T1",
+        "renda acima de 750 €",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "94b9b853ff1980c3f0bb4810",
+      "first_seen": "2026-08-22T15:32:20+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1505898/P2275000/Tphoto/ID9c7f800d-cfda-4cd9-8c6f-9daf34ed39e5.jpg",
+      "last_change": "2026-08-22T15:32:20+00:00",
+      "last_seen": "2026-08-22T15:32:20+00:00",
+      "latitude": null,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": null,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1400.0,
+      "price": 5000.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T15:32:20+00:00",
+          "price": 5000.0
+        }
+      ],
+      "price_per_m2": 50.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2275000",
+      "terms": {
+        "advance_rents": 3,
+        "deposit_amount": 5000.0,
+        "deposits": 5,
+        "entry_total": 20000.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T2 em Gondomar (São Cosme), Valbom e Jovim",
+      "typology": null,
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-gondomar/i2275000"
     },
     "supercasa:2275297": {
       "area_m2": 34.0,
