@@ -99,6 +99,7 @@
     "6a6ba09b9a96c02c54b9ee56": "supercasa:2247127",
     "6b387f64f7eec8359d71bc4a": "supercasa:704439",
     "6b816be814976ee2135055d6": "supercasa:1539125",
+    "6da0bdb926ff0445f2b4bac9": "imovirtual:t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf",
     "6f0cdc34b64414be1f42d473": "supercasa:2276317",
     "6f1590011b90e1e28b8cb021": "supercasa:1642453",
     "70094b1adc6e89741082f7cb": "supercasa:2223792",
@@ -3193,6 +3194,65 @@
       "title": "T1 em Aver-o-Mar (Povoa de Varzim).",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y"
+    },
+    "imovirtual:t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf": {
+      "area_m2": 46.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)",
+        "não foi possível confirmar a ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "6da0bdb926ff0445f2b4bac9",
+      "first_seen": "2026-08-22T11:03:44+00:00",
+      "first_seen_at": null,
+      "floor": 22,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImU5cDdyMmYyeHIwYzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DnZmxcJFapqi8sgFfBgrB7G-eAHlimH4OceevgC0thA/image;s=2048x1536;q=80",
+      "last_change": "2026-08-22T11:03:44+00:00",
+      "last_seen": "2026-08-22T11:03:44+00:00",
+      "latitude": 41.15738,
+      "local_median_price_per_m2": 17.42,
+      "location": "Rua Oliveira Monteiro, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": 8.621488,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 630.0,
+      "price_history": [
+        {
+          "at": "2026-08-22T11:03:44+00:00",
+          "price": 630.0
+        }
+      ],
+      "price_per_m2": 13.7,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-22T10:51:12Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 630.0,
+        "deposits": 1,
+        "entry_total": 630.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 em Cedofeita com ar condicionado e elevador",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf"
     },
     "imovirtual:t1-em-rio-tinto-com-ar-condicionado-e-elevador-ID1iLFt": {
       "area_m2": 46.0,
