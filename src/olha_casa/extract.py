@@ -367,8 +367,14 @@ def parse_listing(source: str, url: str, html: str) -> Listing:
     if area is None:
         area = _regex_float([r"\b(\d{1,3}(?:[.,]\d+)?)\s*m\s*[²2]\b"], combined)
 
-    typology_match = re.search(r"\bT\s*([01])(?:\b|\+)", combined, flags=re.I)
-    typology = f"T{typology_match.group(1)}" if typology_match else None
+    typology_match = re.search(r"\bT\s*(\d{1,2})(?:\b|\+)", combined, flags=re.I)
+    if typology_match:
+        typology = f"T{int(typology_match.group(1))}"
+    elif re.search(r"\b(?:estudio|studio|kitnet|kitchenette)\b", normalized):
+        # Os portais nem sempre escrevem T0 nos anúncios de estúdios.
+        typology = "T0"
+    else:
+        typology = None
 
     address = item.get("address")
     if isinstance(address, dict):
@@ -426,3 +432,4 @@ def parse_listing(source: str, url: str, html: str) -> Listing:
     if price and area:
         listing.price_per_m2 = round(price / area, 2)
     return listing
+
