@@ -14,6 +14,7 @@
     "08c3dca8a9fc8c92835cf832": "casa_sapo:alugar-quartos",
     "0a4ac29a445f507ba57c600e": "imovirtual:t1-em-rio-tinto-com-ar-condicionado-e-elevador-ID1iLFt",
     "0ab2cc7be1065afe720d243d": "supercasa:2253170",
+    "0b95e278c1d1eab999074811": "supercasa:2133385",
     "0c0cc284032e0d1270258d4e": "supercasa:2268621",
     "0c9057da4a91825dae3bcb0b": "supercasa:572593",
     "0ca0db51116b7e3e80fa56ef": "supercasa:2241885",
@@ -36,6 +37,7 @@
     "18cd559e2f83a2d3462d1cae": "casa_sapo:9bacee52-08dd-49a4-a1b4-9b5f77d36bb4",
     "1a0bee28b3a1c7ce9314129e": "imovirtual:casinha-t2-mezanino-gaia-devesas-ID1iMDI",
     "1a488b33f4ea3100cebde011": "supercasa:2276248",
+    "1b147e01e642b077c0c46ad7": "supercasa:2245213",
     "1b682b330060f4058a52a9a4": "supercasa:2261422",
     "1bd55499d8ac74a943777fac": "imovirtual:apartamento-com-1-quartos-localizado-em-se-porto-ID1iLIt",
     "1c790ec1dbbb283b3964df98": "supercasa:1882090",
@@ -84,6 +86,7 @@
     "37a4d5963eeef48315d2ab8f": "supercasa:814892",
     "37b42d5f685a8c571a167367": "supercasa:2252661",
     "381a06c9b49891e96b1efd69": "supercasa:2260006",
+    "38822959e17fe5355662c7df": "supercasa:1803604",
     "3890f85cab71623a91579940": "custojusto:44891320",
     "38cabec9e260ba26f57a135f": "imovirtual:t1-em-r-ch-de-casa-habitada-ID1iMy3",
     "38ccbfee05952fbd8574c25e": "custojusto:44974093",
@@ -116,6 +119,7 @@
     "4e38d0b6215908cdfd4cff27": "imovirtual:t1-mezanino-polo-universitario-da-asprela-ID1iMcS",
     "4ea96a9cfc49d6324130b8d1": "supercasa:2141202",
     "4ec73f5afd2d0f38f4f97fbf": "imovirtual:arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW",
+    "4ef851af3bd37278c7e46264": "supercasa:1588768",
     "4fa0fa83d7d3c8e78e95ae23": "supercasa:1912924",
     "50974c88ea1efcd77cd1caca": "casa_sapo:4471e2fb-9b94-11f1-90a1-060000000056",
     "50a41b1f7125e1a46ae9824e": "supercasa:1313813",
@@ -214,6 +218,7 @@
     "8fd6372b923c7a28c286bb3e": "supercasa:2255921",
     "8fe1563e15ad84e442f64723": "imovirtual:apartamento-t1-para-arrendamento-ID1iLPj",
     "8fe86bebf8cab531973a7c94": "supercasa:2243509",
+    "90b30e8698fd074eb29f6991": "supercasa:2252951",
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2260003",
     "90f7f70b68bbbe9c99118806": "casa_sapo:097862fa-c14a-11f0-8add-060000000054",
     "9303f119a507e0bb816c90d1": "supercasa:2265856",
@@ -230,6 +235,7 @@
     "991024f82d4b7872ad255c0c": "supercasa:2265876",
     "99e399e319858cac9759f6d7": "supercasa:2142947",
     "9a61e412211631e4b94d4d97": "imovirtual:t1-mobilado-e-equipado-junto-ao-hospital-de-sao-joao-ID1iLSE",
+    "9a877a689c95323b0b5f0a34": "supercasa:1444434",
     "9aef68732c28ce0970ff0d58": "supercasa:2263292",
     "9af9efb4a5f6ea5d02c320fc": "supercasa:2241838",
     "9b71f2c8080a7069244ac828": "imovirtual:moradia-t4-riba-de-ave-ID1iKk2",
@@ -361,6 +367,7 @@
     "ed7399f17ad815ba012ed520": "supercasa:1899715",
     "ed87da6c39cc7470df17ed6a": "casa_sapo:alugar-casa-ferias",
     "ef927f9b8435d2d4e7296b39": "imovirtual:arrendamento-de-apartamento-t0-no-centro-de-sao-mamede-de-infesta-ID1iMCr",
+    "f0eee1fc92927ad5a4346ade": "supercasa:2253666",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
     "f2cbf7adac0354c485f21d77": "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr",
     "f3627350e4019dd9c6847380": "supercasa:1044119",
@@ -8570,6 +8577,64 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i1379511"
     },
+    "supercasa:1444434": {
+      "area_m2": 85.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "9a877a689c95323b0b5f0a34",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C283/P24518509/Tphoto/ID6d1f7601-0000-0500-0000-0000125c6bee.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.53366,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.78003,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 8.82,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1444434",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua Engenheiro Losa Faria",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-esposende/i1444434"
+    },
     "supercasa:1528278": {
       "area_m2": 80.0,
       "decision_reasons": [
@@ -8691,6 +8756,65 @@
       "title": "Apartamento T3 Duplex em Lordelo do Ouro e Massarelos",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i1539125"
+    },
+    "supercasa:1588768": {
+      "area_m2": 150.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4ef851af3bd37278c7e46264",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C283/P104035/Tphoto/ID63960100-0000-0500-0000-000019839478.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.5356755331,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.7795905267,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 750.0,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 6.67,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1588768",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Esposende",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-esposende/i1588768"
     },
     "supercasa:1614047": {
       "area_m2": 180.0,
@@ -9290,6 +9414,65 @@
       "title": "Apartamento T4 em Boavista, Praça Mouzinho de Albuquerque",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-porto/i1764612"
+    },
+    "supercasa:1803604": {
+      "area_m2": 161.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "38822959e17fe5355662c7df",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C283/P25437359/Tphoto/IDaf248401-0000-0500-0000-000013ffb5e5.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.53526,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.78051,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 950.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 950.0
+        }
+      ],
+      "price_per_m2": 5.9,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1803604",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua Manuel de Boaventura",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-esposende/i1803604"
     },
     "supercasa:1833192": {
       "area_m2": 115.0,
@@ -11511,6 +11694,66 @@
       "title": "Apartamento T0+1 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2129347"
+    },
+    "supercasa:2133385": {
+      "area_m2": 352.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "0b95e278c1d1eab999074811",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C15539/P24738180/Tphoto/ID84797901-0000-0500-0000-000012b7ae3d.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.15804,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.629256,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 3500.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 3500.0
+        }
+      ],
+      "price_per_m2": 9.94,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2133385",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T5 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "typology": "T5",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t5-porto/i2133385"
     },
     "supercasa:2141202": {
       "area_m2": 231.0,
@@ -16780,6 +17023,65 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2245102"
     },
+    "supercasa:2245213": {
+      "area_m2": 144.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "1b147e01e642b077c0c46ad7",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C9602/P30631579/Tphoto/ID9b66d301-0000-0500-0000-000019e7aae7.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.5511856,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.431906,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 750.0,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 10.42,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2245213",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 4500.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 Duplex em Maximinos, Sé e Cividade",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-braga/i2245213"
+    },
     "supercasa:2247127": {
       "area_m2": 94.0,
       "decision_reasons": [
@@ -17677,6 +17979,64 @@
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-vila-nova-de-gaia/i2252904"
     },
+    "supercasa:2252951": {
+      "area_m2": 154.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "90b30e8698fd074eb29f6991",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C8406/P30628863/Tphoto/IDff5bd301-0000-0500-0000-000019e68967.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.1430188685,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.6395078112,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1750.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 1750.0
+        }
+      ],
+      "price_per_m2": 11.36,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2252951",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 5250.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua da Daciano Baptista Marques",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-nova-de-gaia/i2252951"
+    },
     "supercasa:2253170": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -17794,6 +18154,64 @@
       "title": "Apartamento T1 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2253313"
+    },
+    "supercasa:2253666": {
+      "area_m2": 125.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "f0eee1fc92927ad5a4346ade",
+      "first_seen": "2026-08-23T10:59:08+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C283/P102824/Tphoto/IDa8910100-0000-0500-0000-00000306bef3.jpg",
+      "last_change": "2026-08-23T10:59:08+00:00",
+      "last_seen": "2026-08-23T10:59:08+00:00",
+      "latitude": 41.5325276933,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.7829067114,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 750.0,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T10:59:08+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 6.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2253666",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Esposende",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-esposende/i2253666"
     },
     "supercasa:2253703": {
       "area_m2": 50.0,
