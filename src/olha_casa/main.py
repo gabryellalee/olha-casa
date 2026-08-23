@@ -20,6 +20,21 @@ from .telegram import TelegramSender
 LOG = logging.getLogger("olha_casa")
 
 
+def _listing_completeness(listing) -> tuple[int, int]:
+    """Escolhe o anúncio mais informativo sem atribuir uma pontuação de qualidade."""
+    values = [
+        listing.price,
+        listing.area_m2,
+        listing.typology,
+        listing.location,
+        listing.latitude,
+        listing.longitude,
+        listing.published_at,
+        listing.image_url,
+    ]
+    return sum(value is not None for value in values), len(listing.description or "")
+
+
 def _route_if_relevant(listing, config: dict, state: StateStore) -> None:
     cached, kind = state.cached_route(listing.key)
     if cached is not None:
@@ -69,7 +84,8 @@ def run(config_path: str, dry_run: bool = False) -> dict:
         state.mark_price_refresh()
     if fetched.listings and not state.initialized:
         state.initialize()
-    if state.heartbeat_due():
+    heartbeat_due = state.heartbeat_due()
+    if heartbeat_due:
         state.heartbeat()
 
     should_notify_initial = bool(config["project"].get("notify_existing_on_first_run", False))
@@ -80,9 +96,9 @@ def run(config_path: str, dry_run: bool = False) -> dict:
     best_by_fingerprint = {}
     for listing in alert_candidates:
         current = best_by_fingerprint.get(listing.fingerprint)
-        if current is None or listing.score > current.score:
+        if current is None or _listing_completeness(listing) > _listing_completeness(current):
             best_by_fingerprint[listing.fingerprint] = listing
-    alerts = sorted(best_by_fingerprint.values(), key=lambda item: item.score, reverse=True)
+    alerts = list(best_by_fingerprint.values())
     for listing in alerts:
         sender.send(format_alert(listing))
 
@@ -95,6 +111,31 @@ def run(config_path: str, dry_run: bool = False) -> dict:
         "first_run_silent": bool(not was_initialized and not should_notify_initial),
         "errors": fetched.errors[-30:],
     }
+    status_sent = False
+    if not was_initialized:
+        status = (
+            "<b>✅ Olha Casa está ligado</b>\n"
+            f"Primeira pesquisa concluída: {fetched.candidates_found} anúncios encontrados "
+            f"e {len(fetched.listings)} analisados.\n"
+            "A partir de agora, envio aqui os novos anúncios que cumprirem os critérios."
+        )
+        if fetched.errors:
+            failed_sources = sorted({error.split(":", 1)[0] for error in fetched.errors})
+            status += (
+                "\n⚠️ Algumas páginas recusaram pedidos nesta execução: "
+                + ", ".join(failed_sources)
+                + ". Vou voltar a tentar automaticamente."
+            )
+        sender.send(status)
+        status_sent = True
+    elif heartbeat_due and not alerts:
+        sender.send(
+            "<b>💚 Olha Casa continua ligado</b>\n"
+            f"Esta pesquisa encontrou {fetched.candidates_found} anúncios e não há "
+            "novidades compatíveis para enviar."
+        )
+        status_sent = True
+    report["status_sent"] = status_sent
     report_path = Path(config["project"].get("report_file", "run-report.json"))
     report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     if not sender.dry_run:

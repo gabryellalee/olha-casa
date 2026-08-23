@@ -32,22 +32,9 @@ def _hard_filters(listing: Listing, config: dict) -> list[str]:
         reasons.append("renda não identificada")
     elif listing.price > float(search["exceptional_max_rent"]):
         reasons.append(f"renda acima de {search['exceptional_max_rent']} €")
-    if listing.area_m2 is not None and listing.area_m2 < float(config["home_office"]["hard_min_area_m2"]):
-        reasons.append("área demasiado pequena para duas pessoas trabalharem em casa")
     allowed, geo_reason = location_allowed(listing, config["geo"])
     if not allowed:
         reasons.append(f"fora da área ou por confirmar ({geo_reason})")
-    if listing.floor is not None and listing.floor > 2 and listing.elevator is False:
-        reasons.append("acima do 2.º andar sem elevador")
-    if listing.parking is False:
-        reasons.append("anúncio indica ausência de garagem/estacionamento")
-    if listing.peak_drive_minutes is None:
-        reasons.append("não foi possível confirmar a ligação de carro ao ISCAP")
-    elif listing.peak_drive_minutes > int(search["max_peak_drive_minutes"]):
-        reasons.append(
-            f"estimativa de {listing.peak_drive_minutes} min de carro excede o máximo de "
-            f"{search['max_peak_drive_minutes']} min"
-        )
     return reasons
 
 
@@ -159,13 +146,6 @@ def score_listing(listing: Listing, config: dict) -> None:
     listing.score = round(max(0.0, min(10.0, score)), 1)
     listing.recommendation_reasons = reasons
 
-    search = config["search"]
-    threshold = (
-        float(search["exceptional_min_score"])
-        if price > float(search["preferred_max_rent"])
-        else float(search["min_score"])
-    )
-    listing.recommended = listing.score >= threshold
-    if not listing.recommended:
-        listing.rejection_reasons.append(f"pontuação {listing.score}/10 abaixo do mínimo {threshold}/10")
-
+    # A pontuação serve apenas para ordenar anúncios duplicados. Qualquer T0/T1
+    # até ao preço máximo e numa zona aceite deve gerar um alerta.
+    listing.recommended = True

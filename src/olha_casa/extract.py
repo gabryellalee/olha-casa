@@ -104,10 +104,16 @@ def _as_float(value: Any) -> float | None:
         value = value.get("value") or value.get("price")
     if value is None:
         return None
-    cleaned = re.sub(r"[^\d,.]", "", str(value))
-    if not cleaned:
+    match = re.search(r"[-+]?\d[\d,.]*", str(value).replace("−", "-"))
+    if not match:
         return None
-    if re.fullmatch(r"\d{1,3}[.,]\d{3}", cleaned):
+    cleaned = match.group(0)
+    sign = -1 if cleaned.startswith("-") else 1
+    cleaned = cleaned.lstrip("+-")
+    # Em preços portugueses, "1.800" é normalmente um separador de milhares.
+    # Valores com dois algarismos antes do ponto (por exemplo 41.232 numa
+    # latitude) são decimais e não podem perder o separador.
+    if sign > 0 and re.fullmatch(r"\d[.,]\d{3}", cleaned):
         cleaned = cleaned.replace(".", "").replace(",", "")
     elif "," in cleaned and "." in cleaned:
         cleaned = cleaned.replace(".", "").replace(",", ".")
@@ -116,7 +122,7 @@ def _as_float(value: Any) -> float | None:
     else:
         cleaned = cleaned.replace(",", ".")
     try:
-        return float(cleaned)
+        return sign * float(cleaned)
     except ValueError:
         return None
 

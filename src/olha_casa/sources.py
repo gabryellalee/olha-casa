@@ -21,7 +21,9 @@ DETAIL_PATTERNS = {
     "idealista": [r"/(?:imovel|inmueble)/\d+"],
     "imovirtual": [r"/pt/anuncio/", r"-ID[A-Za-z0-9]+\.html"],
     "supercasa": [r"/(?:arrendamento|arrendar|alugar)-[^?#]+/i\d+"],
-    "casa_sapo": [r"/(?:alugar|arrendar)-[^?#]+", r"-[a-f0-9-]{16,}(?:\.html)?"],
+    # Os resultados incluem links de navegação como /alugar-quartos/ e
+    # /alugar-terrenos/. Os anúncios reais têm um UUID no URL.
+    "casa_sapo": [r"-[a-f0-9-]{16,}(?:\.html)?"],
 }
 
 
@@ -159,6 +161,15 @@ class PortalCollector:
                     time.sleep(self.delay)
                 listing = parse_listing(source, url, self._get(url))
                 listings.append(listing)
+            except requests.HTTPError as exc:
+                status = exc.response.status_code if exc.response is not None else None
+                errors.append(f"{source}: anúncio falhou ({url}): {exc}")
+                if status == 429:
+                    errors.append(
+                        f"{source}: limite temporário atingido; os restantes anúncios "
+                        "ficam para a próxima pesquisa"
+                    )
+                    break
             except Exception as exc:  # uma página inválida não interrompe as restantes
                 errors.append(f"{source}: anúncio falhou ({url}): {exc}")
         return FetchResult(listings=listings, errors=errors, candidates_found=len(candidates))

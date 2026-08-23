@@ -65,7 +65,7 @@ def format_alert(listing: Listing) -> str:
         "republication": "♻️ Possível republicação",
         "price_drop": "📉 Descida de preço",
     }.get(listing.event, "🏠 Anúncio")
-    lines = [f"<b>{event} · {listing.score}/10</b>"]
+    lines = [f"<b>{event}</b>"]
     lines.append(f"<b>{html.escape(listing.title[:180])}</b>")
     area = f"{listing.area_m2:g} m²" if listing.area_m2 else "área desconhecida"
     lines.append(f"💶 {_money(listing.price)} · {listing.typology or '?'} · {area}")
@@ -77,11 +77,19 @@ def format_alert(listing: Listing) -> str:
             comparison = f" · mediana da amostra {listing.local_median_price_per_m2:.2f} €/m²"
         lines.append(f"📐 {listing.price_per_m2:.2f} €/m²{comparison}")
     lines.append(f"📍 {html.escape(listing.location or 'localização incompleta')}")
-    lines.append(
-        f"🚗 ~{listing.peak_drive_minutes} min até ao ISCAP em hora de ponta "
-        f"({html.escape(listing.drive_estimate_kind or 'estimativa')})"
-    )
-    parking = "confirmado no anúncio" if listing.parking is True else "por confirmar"
+    if listing.peak_drive_minutes is None:
+        lines.append("🚗 Percurso até ao ISCAP: não foi possível estimar")
+    else:
+        lines.append(
+            f"🚗 ~{listing.peak_drive_minutes} min até ao ISCAP em hora de ponta "
+            f"({html.escape(listing.drive_estimate_kind or 'estimativa')})"
+        )
+    if listing.parking is True:
+        parking = "confirmado no anúncio"
+    elif listing.parking is False:
+        parking = "o anúncio indica que não existe"
+    else:
+        parking = "por confirmar"
     lines.append(f"🅿️ Estacionamento: {parking}")
     if listing.published_at:
         lines.append(f"🕒 Publicado: {_published_age(listing.published_at)}")
@@ -131,10 +139,6 @@ def format_alert(listing: Listing) -> str:
     if listing.terms.included_expenses:
         lines.append("🧾 Incluído: " + ", ".join(html.escape(item) for item in listing.terms.included_expenses))
 
-    reasons = listing.recommendation_reasons[:5]
-    if reasons:
-        lines.append("\n<b>Porque interessa</b>")
-        lines.extend(f"• {html.escape(reason)}" for reason in reasons)
     if listing.fraud_flags:
         lines.append("\n<b>⚠️ Verificar</b>")
         lines.extend(f"• {html.escape(flag)}" for flag in listing.fraud_flags)

@@ -33,12 +33,16 @@ def infer_location(listing: Listing, geo_config: dict) -> None:
 
 
 def location_allowed(listing: Listing, geo_config: dict) -> tuple[bool, str]:
+    location = normalize_text(listing.location or listing.full_text)
+    for place in geo_config.get("additional_allowed_places", []):
+        if normalize_text(place) in location:
+            return True, f"concelho adicional: {place}"
+
     polygon = geo_config.get("allowed_polygon", [])
     if listing.latitude is not None and listing.longitude is not None and polygon:
         allowed = point_in_polygon(listing.longitude, listing.latitude, polygon)
         return allowed, "coordenadas do anúncio"
 
-    location = normalize_text(listing.location or listing.full_text)
     for place in geo_config.get("fallback_excluded_places", []):
         if normalize_text(place) in location:
             return False, f"local identificado: {place}"
@@ -58,4 +62,3 @@ def haversine_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
         + math.cos(phi1) * math.cos(phi2) * math.sin(dlambda / 2) ** 2
     )
     return radius * 2 * math.atan2(math.sqrt(value), math.sqrt(1 - value))
-
