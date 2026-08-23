@@ -73,6 +73,7 @@
     "37a4d5963eeef48315d2ab8f": "supercasa:814892",
     "37b42d5f685a8c571a167367": "supercasa:2252661",
     "381a06c9b49891e96b1efd69": "supercasa:2260006",
+    "3890f85cab71623a91579940": "custojusto:44891320",
     "38cabec9e260ba26f57a135f": "imovirtual:t1-em-r-ch-de-casa-habitada-ID1iMy3",
     "38ccbfee05952fbd8574c25e": "custojusto:44974093",
     "39733730d053acab52a93a7a": "supercasa:2247566",
@@ -1233,6 +1234,64 @@
       "title": "T0- Renda Mensal 800eur. Hu- Centro De Gaia (junto Ao El Corte Inglês) | Apartamentos, T0 para arrendar | Porto | 44858859 | CustoJusto.pt",
       "typology": "T0",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t0-renda-mensal-800eur-hu-c-44858859"
+    },
+    "custojusto:44891320": {
+      "area_m2": 306.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3890f85cab71623a91579940",
+      "first_seen": "2026-08-23T04:21:18+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://prod-images.custojusto.pt/play/8664723026-m-00798-2-moradia-v4-c-piscina-a-praia-da-mem.jpg",
+      "last_change": "2026-08-23T04:21:18+00:00",
+      "last_seen": "2026-08-23T04:21:18+00:00",
+      "latitude": 41.23132356817765,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.707473301658805,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1100000.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T04:21:18+00:00",
+          "price": 1100000.0
+        }
+      ],
+      "price_per_m2": 3594.77,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "44891320",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "[M-00798.2] Moradia V4 c/piscina à praia da Mem...",
+      "typology": "T4",
+      "url": "https://www.custojusto.pt/porto/imobiliario/moradias/-m-00798-2-moradia-v4-c-pisci-44891320"
     },
     "custojusto:44936959": {
       "area_m2": 585.0,
