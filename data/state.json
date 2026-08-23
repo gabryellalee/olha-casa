@@ -105,6 +105,7 @@
     "3a63488759b3d2316ca93967": "supercasa:2266027",
     "3c11d32e6b428b38c598f348": "imovirtual:apartamento-no-centro-do-porto-ID1iLzx",
     "3c24af0e21314898c5149df8": "supercasa:2239528",
+    "3c60f2e4afb60e4d40952a37": "imovirtual:t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI",
     "3ce48c55089308ead7b63013": "imovirtual:apartamento-com-terraco-um-quarto-centro-do-porto-ID1iMyW",
     "3d007c4dc98b554bfdb78b56": "imovirtual:t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe",
     "3d595ba9679903afd08f149f": "custojusto:45148432",
@@ -324,6 +325,7 @@
     "c03ed4b69c39c9cd15ebada4": "supercasa:2274705",
     "c08f7efeb12aae09494afb69": "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2",
     "c0fb7577e8b9b7d4250ca8ad": "supercasa:2243067",
+    "c210003cfebade45cc32d8aa": "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN",
     "c24c012a3301ac529f71d0b7": "imovirtual:apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk",
     "c27483d75c8bd797aaf0cb02": "supercasa:2270922",
     "c2ce4f6b08af2d4261e13b86": "supercasa:2227177",
@@ -3969,6 +3971,65 @@
       "title": "Apartamento no centro do Porto",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-no-centro-do-porto-ID1iLzx"
+    },
+    "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN": {
+      "area_m2": 27.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c210003cfebade45cc32d8aa",
+      "first_seen": "2026-08-23T22:57:27+00:00",
+      "first_seen_at": null,
+      "floor": 23,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ino5ZnJjamNyeWx4bjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.35f-NKTnMHTGCr9B-p1nP6WvnmVzcD5KN-qzgScbkVE/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T22:57:27+00:00",
+      "last_seen": "2026-08-23T22:57:27+00:00",
+      "latitude": 41.122982,
+      "local_median_price_per_m2": 16.79,
+      "location": "Alameda Dom Pedro V, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.609783,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 790.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T22:57:27+00:00",
+          "price": 790.0
+        }
+      ],
+      "price_per_m2": 29.26,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T22:42:40Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 2370.0,
+        "deposits": 1,
+        "entry_total": 2370.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento renovado com estilo Boutique - Localização privilegiada",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN"
     },
     "imovirtual:apartamento-t0-novo-ID1i3Lv": {
       "area_m2": 47.0,
@@ -7651,6 +7712,68 @@
       "title": "T1 com terraço, garagem e acessibilidade em Labruge",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe"
+    },
+    "imovirtual:t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3c60f2e4afb60e4d40952a37",
+      "first_seen": "2026-08-23T22:57:27+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZmODR0NG4wbjZkejEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Uw37yTl-Unj3Wm6xzDqgxO2dDsbNviKsko5KbI7Ls48/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T22:57:27+00:00",
+      "last_seen": "2026-08-23T22:57:27+00:00",
+      "latitude": 41.14725,
+      "local_median_price_per_m2": 16.79,
+      "location": "Rua do Freixo, Campanhã, Porto",
+      "longitude": -8.588286,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T22:57:27+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 20.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T22:29:59Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1300.0,
+        "deposits": 1,
+        "entry_total": 1300.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": false,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T1 Duplex Mobilado com AC, Jardim Privativo, Limpeza Semanal, Campanhã",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI"
     },
     "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y": {
       "area_m2": 55.0,
