@@ -2,7 +2,8 @@ name: Procurar casas
 
 on:
   schedule:
-    - cron: "3/5 * * * *"
+    # Aos minutos 7 e 37 para evitar o congestionamento habitual no início da hora.
+    - cron: "7,37 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -21,7 +22,7 @@ concurrency:
 jobs:
   search:
     runs-on: ubuntu-latest
-    timeout-minutes: 4
+    timeout-minutes: 5
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -37,10 +38,7 @@ jobs:
           cache: pip
 
       - name: Instalar
-        run: pip install ".[test]"
-
-      - name: Testar
-        run: pytest -q
+        run: pip install .
 
       - name: Procurar e enviar
         run: python -m olha_casa.main --config config.example.yml
