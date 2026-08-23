@@ -6,23 +6,6 @@ from datetime import UTC, datetime
 from .models import Listing
 
 
-QUESTION_TEXT = {
-    "área útil": "Qual é a área útil exata?",
-    "garagem ou facilidade real de estacionamento": "Existe garagem ou estacionamento fácil e regular junto ao imóvel?",
-    "andar": "Em que andar fica o imóvel?",
-    "elevador": "O prédio tem elevador?",
-    "fibra/internet disponível": "Que operadores de fibra estão disponíveis no imóvel?",
-    "nível de ruído": "O quarto e a sala têm ruído de trânsito ou vizinhança?",
-    "luz natural/orientação solar": "Qual é a orientação solar e há boa luz natural durante o dia?",
-    "número de cauções": "Quantas cauções são exigidas?",
-    "rendas adiantadas": "Quantas rendas são pagas antecipadamente?",
-    "necessidade de fiador": "É necessário fiador?",
-    "duração mínima do contrato": "Qual é a duração mínima do contrato?",
-    "cozinha equipada": "A cozinha está equipada e que eletrodomésticos inclui?",
-    "animais permitidos": "São permitidos animais?",
-}
-
-
 def _money(value: float | None) -> str:
     if value is None:
         return "desconhecido"
@@ -44,19 +27,6 @@ def _published_age(value: str | None) -> str:
         return f"há cerca de {hours // 24} dias"
     except ValueError:
         return value
-
-
-def contact_message(listing: Listing) -> str:
-    place = listing.location or "a zona indicada"
-    base = (
-        f"Olá, vi o anúncio do {listing.typology or 'imóvel'} em {place}, por "
-        f"{_money(listing.price)}. Somos duas pessoas e trabalhamos a partir de casa. "
-        "O imóvel continua disponível? Gostaríamos de agendar uma visita."
-    )
-    questions = [QUESTION_TEXT[item] for item in listing.missing if item in QUESTION_TEXT][:6]
-    if questions:
-        base += " Poderia também confirmar: " + " ".join(questions)
-    return base + " Obrigado/a."
 
 
 def format_alert(listing: Listing) -> str:
@@ -146,7 +116,6 @@ def format_alert(listing: Listing) -> str:
         lines.append("\n<b>Informação em falta</b>")
         lines.append("• " + html.escape(", ".join(listing.missing[:8])))
 
-    lines.append("\n<b>Mensagem pronta</b>")
-    lines.append(html.escape(contact_message(listing)))
     lines.append(f'\n<a href="{html.escape(listing.url, quote=True)}">Abrir anúncio em {html.escape(listing.source)}</a>')
     return "\n".join(lines)[:4050]
+
