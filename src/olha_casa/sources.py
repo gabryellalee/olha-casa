@@ -132,18 +132,41 @@ class PortalCollector:
                 break
         return result
 
+    @staticmethod
+    def _round_robin(groups: list[list[str]], limit: int) -> list[str]:
+        """Distribui o limite entre pesquisas para nenhuma zona/tipo ficar sem vagas."""
+        result: list[str] = []
+        seen: set[str] = set()
+        index = 0
+        while len(result) < limit:
+            added = False
+            for group in groups:
+                if index >= len(group):
+                    continue
+                candidate = group[index]
+                added = True
+                if candidate not in seen:
+                    seen.add(candidate)
+                    result.append(candidate)
+                    if len(result) >= limit:
+                        break
+            if not added:
+                break
+            index += 1
+        return result
+
     def collect_source(self, source_cfg: dict) -> FetchResult:
         source = source_cfg["name"]
         errors: list[str] = []
-        candidates: list[str] = []
+        candidate_groups: list[list[str]] = []
         for search_url in source_cfg.get("search_urls", []):
             try:
                 html = self._get(search_url)
-                candidates.extend(self._candidate_urls(source, search_url, html))
+                candidate_groups.append(self._candidate_urls(source, search_url, html))
             except Exception as exc:  # fonte externa: isolar falhas por portal
                 errors.append(f"{source}: pesquisa falhou: {exc}")
 
-        candidates = list(dict.fromkeys(candidates))[: self.max_candidates]
+        candidates = self._round_robin(candidate_groups, self.max_candidates)
         new_candidates: list[str] = []
         known_candidates: list[str] = []
         for url in candidates:
