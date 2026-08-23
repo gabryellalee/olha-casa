@@ -24,6 +24,10 @@ DETAIL_PATTERNS = {
     # Os resultados incluem links de navegação como /alugar-quartos/ e
     # /alugar-terrenos/. Os anúncios reais têm um UUID no URL.
     "casa_sapo": [r"-[a-f0-9-]{16,}(?:\.html)?"],
+    "olx": [r"/d/anuncio/[^?#]*-ID[A-Za-z0-9]+\.html"],
+    "custojusto": [
+        r"/(?:porto|braga)/imobiliario/(?:apartamentos|moradias)/[^/?#]+-\d{7,}"
+    ],
 }
 
 
@@ -120,6 +124,10 @@ class PortalCollector:
                 redirect = parse_qs(urlparse(candidate).query).get("l", [None])[0]
                 if redirect:
                     candidate = unquote(redirect)
+            if source in {"olx", "custojusto"}:
+                # Os parâmetros só indicam a origem do clique. Retirá-los deixa
+                # a ligação do Telegram limpa e evita duplicados artificiais.
+                candidate = urlparse(candidate)._replace(query="").geturl()
             if not self._same_domain(candidate, search_url):
                 continue
             if not any(re.search(pattern, candidate, flags=re.I) for pattern in patterns):
