@@ -38,6 +38,30 @@ def test_ignores_casa_sapo_navigation_links():
     assert collector._candidate_urls("casa_sapo", search, html) == []
 
 
+def test_finds_olx_detail_url_and_removes_tracking_query():
+    collector = PortalCollector(CONFIG)
+    search = "https://www.olx.pt/imoveis/apartamento-casa-a-venda/apartamentos-arrenda/porto/"
+    html = (
+        '<a href="/d/anuncio/t0-circunvalacao-IDJxLFQ.html?search_reason=search%7Corganic">'
+        "Casa</a>"
+    )
+    assert collector._candidate_urls("olx", search, html) == [
+        "https://www.olx.pt/d/anuncio/t0-circunvalacao-IDJxLFQ.html"
+    ]
+
+
+def test_finds_custojusto_detail_url_and_ignores_category():
+    collector = PortalCollector(CONFIG)
+    search = "https://www.custojusto.pt/porto/imobiliario/apartamentos-arrendar?pe=750"
+    html = """
+    <a href="/porto/imobiliario/apartamentos">Apartamentos</a>
+    <a href="/porto/imobiliario/apartamentos/estudio-praca-flores-45203601?utm_source=li">Casa</a>
+    """
+    assert collector._candidate_urls("custojusto", search, html) == [
+        "https://www.custojusto.pt/porto/imobiliario/apartamentos/estudio-praca-flores-45203601"
+    ]
+
+
 def test_stops_source_after_rate_limit(monkeypatch):
     collector = PortalCollector(CONFIG)
     search_url = "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/"
