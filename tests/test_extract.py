@@ -80,3 +80,41 @@ def test_extracts_t2_or_higher():
     listing = parse_listing("idealista", "https://www.idealista.pt/imovel/654321/", html)
     assert listing.typology == "T3"
 
+
+def test_extracts_olx_id_and_location_from_offer():
+    html = """
+    <html><head><script type="application/ld+json">
+    {
+      "@type": "Product",
+      "name": "Apartamento T0 para arrendamento",
+      "offers": {
+        "price": "700",
+        "areaServed": {"@type": "City", "name": "Paços de Ferreira"}
+      }
+    }
+    </script></head></html>
+    """
+    url = "https://www.olx.pt/d/anuncio/apartamento-t0-IDJxLFQ.html"
+    listing = parse_listing("olx", url, html)
+    assert listing.source_id == "JxLFQ"
+    assert listing.location == "Paços de Ferreira"
+
+
+def test_extracts_custojusto_id_and_offer_location():
+    html = """
+    <html><head><script type="application/ld+json">
+    {
+      "@type": "Product",
+      "name": "Estúdio para arrendar",
+      "offers": {
+        "price": "750",
+        "availableAtOrFrom": {"@type": "Place", "name": "Porto"}
+      }
+    }
+    </script></head></html>
+    """
+    url = "https://www.custojusto.pt/porto/imobiliario/apartamentos/estudio-45203601"
+    listing = parse_listing("custojusto", url, html)
+    assert listing.source_id == "45203601"
+    assert listing.location == "Porto"
+
