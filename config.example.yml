@@ -84,18 +84,26 @@ sources:
     enabled: true
     search_urls:
       - "https://www.idealista.pt/arrendar-casas/porto-distrito/?ordem=publicado-desc"
+      - "https://www.idealista.pt/arrendar-casas/vila-nova-de-famalicao/?ordem=publicado-desc"
+      - "https://www.idealista.pt/arrendar-casas/pacos-de-ferreira/?ordem=publicado-desc"
   - name: imovirtual
     enabled: true
     search_urls:
       - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento%2Ct0%2Ct1/porto?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento%2Ct0%2Ct1/braga/vila-nova-de-famalicao?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento%2Ct0%2Ct1/porto/pacos-de-ferreira?by=LATEST&direction=DESC"
   - name: supercasa
     enabled: true
     search_urls:
       - "https://supercasa.pt/arrendar-casas/porto-distrito/com-t0%2Ct1%2Cpreco-max-750%2Cpublicado-ultima-semana"
+      - "https://supercasa.pt/arrendar-casas/vila-nova-de-famalicao/com-t0%2Ct1%2Cpreco-max-750%2Cpublicado-ultima-semana"
+      - "https://supercasa.pt/arrendar-casas/pacos-de-ferreira/com-t0%2Ct1%2Cpreco-max-750%2Cpublicado-ultima-semana"
   - name: casa_sapo
     enabled: true
     search_urls:
       - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/?gp=750&ordem=1"
+      - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/vila-nova-de-famalicao/?gp=750&ordem=1"
+      - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/pacos-de-ferreira/?gp=750&ordem=1"
 
 telegram:
   # O token vem exclusivamente dos GitHub Secrets. O chat ID é opcional:
@@ -104,3 +112,4 @@ telegram:
   chat_id_env: TELEGRAM_CHAT_ID
   group_title: "Alertas Casinhas"
   dry_run_env: OLHA_CASA_DRY_RUN
+
