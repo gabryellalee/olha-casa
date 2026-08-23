@@ -26,3 +26,69 @@ def test_decodes_casa_sapo_counter_link():
         "https://casa.sapo.pt/alugar-apartamento-t1-porto-aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee.html?g3pid=1"
     ]
 
+
+def test_ignores_casa_sapo_navigation_links():
+    collector = PortalCollector(CONFIG)
+    search = "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/"
+    html = """
+    <a href="/alugar-quartos/t0,t1/distrito.porto/">Quartos</a>
+    <a href="/alugar-terrenos/t0,t1/distrito.porto/">Terrenos</a>
+    <a href="/alugar-apartamentos/t1/distrito.porto/">T1</a>
+    """
+    assert collector._candidate_urls("casa_sapo", search, html) == []
+
+
+def test_stops_source_after_rate_limit(monkeypatch):
+    collector = PortalCollector(CONFIG)
+    search_url = "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/"
+    detail_urls = [
+        f"https://casa.sapo.pt/alugar-apartamento-t1-porto-aaaaaaaa-bbbb-cccc-dddd-{index:012d}.html"
+        for index in range(3)
+    ]
+    search_html = "".join(f'<a href="{url}">Casa</a>' for url in detail_urls)
+    calls = []
+
+    def fake_get(url):
+        calls.append(url)
+        if url == search_url:
+            return search_html
+        import requests
+
+        response = requests.Response()
+        response.status_code = 429
+        response.url = url
+        raise requests.HTTPError("429 Too Many Requests", response=response)
+
+    monkeypatch.setattr(collector, "_get", fake_get)
+    result = collector.collect_source(
+        {"name": "casa_sapo", "enabled": True, "search_urls": [search_url]}
+    )
+
+    assert len(calls) == 2
+    assert any("limite temporário" in error for error in result.errors)
+
+
+def test_manual_scan_fetches_known_candidates(monkeypatch):
+    search_url = "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/porto"
+    detail_url = "https://www.imovirtual.com/pt/anuncio/apartamento-t1-ID123.html"
+    collector = PortalCollector(
+        CONFIG,
+        known_keys={"imovirtual:ID123"},
+        include_known=True,
+    )
+    calls = []
+
+    def fake_get(url):
+        calls.append(url)
+        if url == search_url:
+            return f'<a href="{detail_url}">Casa</a>'
+        return "<html><head><title>T1 Porto</title></head><body></body></html>"
+
+    monkeypatch.setattr(collector, "_get", fake_get)
+    result = collector.collect_source(
+        {"name": "imovirtual", "enabled": True, "search_urls": [search_url]}
+    )
+
+    assert detail_url in calls
+    assert len(result.listings) == 1
+
