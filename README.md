@@ -1,6 +1,6 @@
 # Olha Casa
 
-Monitor gratuito de T0 e T1 na zona Porto–Trofa, com triagem automática e alertas enviados pelo `@olhacasa_bot` para o grupo **Alertas Casinhas**.
+Monitor gratuito de casas, apartamentos e estúdios na zona Porto–Trofa, com triagem automática e alertas enviados pelo `@olhacasa_bot` para o grupo **Alertas Casinhas**.
 
 O projeto consulta diretamente páginas públicas do Idealista, Imovirtual, SUPERCASA e Casa Sapo. Não usa emails, n8n, servidor permanente, subscrição nem modelo de IA pago.
 
@@ -9,7 +9,7 @@ O projeto consulta diretamente páginas públicas do Idealista, Imovirtual, SUPE
 - Executa a pesquisa a cada 30 minutos no GitHub Actions.
 - Deteta anúncios novos, descidas de preço e possíveis republicações.
 - Elimina duplicados entre portais através de uma impressão do imóvel.
-- Envia todos os T0/T1 até 750 € dentro das zonas aceites.
+- Envia estúdios (tratados como T0) e imóveis T0, T1, T2 ou superiores até 750 € dentro das zonas aceites.
 - Inclui Vila Nova de Famalicão e Paços de Ferreira, além do polígono aproximado original.
 - Mostra área, percurso ao ISCAP, andar, elevador e estacionamento quando disponíveis, sem usar esses dados para bloquear alertas.
 - Analisa espaço para duas pessoas em teletrabalho, fibra, ruído e luz apenas como informação.
@@ -67,3 +67,4 @@ Os segredos do Telegram são lidos apenas do ambiente do GitHub Actions. Não ap
 ## Ajustar os alertas
 
 Os principais valores encontram-se nas secções `search`, `home_office`, `geo` e `routing` de `config.example.yml`. Para adicionar uma pesquisa, coloque o URL público em `sources[].search_urls`, sempre no domínio do respetivo portal.
+
