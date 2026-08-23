@@ -2,7 +2,7 @@
 
 Monitor gratuito de casas, apartamentos e estúdios na zona Porto–Trofa, com triagem automática e alertas enviados pelo `@olhacasa_bot` para o grupo **Alertas Casinhas**.
 
-O projeto consulta diretamente páginas públicas do Idealista, Imovirtual, SUPERCASA e Casa Sapo. Não usa emails, n8n, servidor permanente, subscrição nem modelo de IA pago.
+O projeto consulta diretamente páginas públicas do Idealista, Imovirtual, SUPERCASA, Casa Sapo, OLX e CustoJusto. Não usa emails, n8n, servidor permanente, subscrição nem modelo de IA pago.
 
 ## O que faz
 
