@@ -79,3 +79,15 @@ def test_over_750_is_rejected():
     score_listing(listing, CONFIG)
     assert listing.recommended is False
 
+
+def test_t2_or_higher_within_budget_is_recommended():
+    listing = good_listing(typology="T3", price=750)
+    score_listing(listing, CONFIG)
+    assert listing.recommended is True
+
+
+def test_unknown_typology_is_rejected():
+    listing = good_listing(typology=None)
+    score_listing(listing, CONFIG)
+    assert listing.recommended is False
+
