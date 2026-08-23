@@ -245,6 +245,7 @@
     "991024f82d4b7872ad255c0c": "supercasa:2265876",
     "99e399e319858cac9759f6d7": "supercasa:2142947",
     "9a61e412211631e4b94d4d97": "imovirtual:t1-mobilado-e-equipado-junto-ao-hospital-de-sao-joao-ID1iLSE",
+    "9a6b7f50aea5b2f7747d033c": "imovirtual:apartamento-t1k-junto-ao-icbas-ID1iMEC",
     "9a877a689c95323b0b5f0a34": "supercasa:1444434",
     "9aef68732c28ce0970ff0d58": "supercasa:2263292",
     "9af9efb4a5f6ea5d02c320fc": "supercasa:2241838",
@@ -308,6 +309,7 @@
     "c390e16cb6683243f2645828": "supercasa:2271368",
     "c4b1229f33fc3b12cc18f28a": "imovirtual:apartamento-t2-aguas-santas-ID1iMCL",
     "c4dc9ad109f54d9ac9946f7b": "supercasa:2260405",
+    "c5e060f86cff5593cbb54d24": "imovirtual:apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE",
     "c6382cdb7f7afb93c307857a": "supercasa:2224709",
     "c6efa4fd81fb7d70514bc219": "supercasa:2227620",
     "c71617923c8c35810efde39d": "supercasa:2232149",
@@ -5306,6 +5308,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-res-do-chao-ID1iM38"
     },
+    "imovirtual:apartamento-t1k-junto-ao-icbas-ID1iMEC": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "9a6b7f50aea5b2f7747d033c",
+      "first_seen": "2026-08-23T13:42:13+00:00",
+      "first_seen_at": null,
+      "floor": 23,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZ3dDJ3YWZzYmZ4aTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.nyF-96HFNTSoMPXsRcKWm6IwZcr738ar5rDqp6UyPcI/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T13:42:13+00:00",
+      "last_seen": "2026-08-23T13:42:13+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 16.95,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 650.0,
+      "price": 875.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T13:42:13+00:00",
+          "price": 875.0
+        }
+      ],
+      "price_per_m2": 17.5,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T13:28:23Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1k-junto-ao-icbas-ID1iMEC",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 875.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1k - junto ao ICBAS",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1k-junto-ao-icbas-ID1iMEC"
+    },
     "imovirtual:apartamento-t2-aguas-santas-ID1iMCL": {
       "area_m2": 75.1,
       "decision_reasons": [
@@ -5421,6 +5481,64 @@
       "title": "Apartamento t2 para arrendar em Vila Nova de Famalicão",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm"
+    },
+    "imovirtual:apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c5e060f86cff5593cbb54d24",
+      "first_seen": "2026-08-23T13:42:13+00:00",
+      "first_seen_at": null,
+      "floor": 23,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt0YnRwejcxdm1lbS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.WEyLAkpKWcAj7pQjYnHh8aLtQkyIInhgeVPH9TzFkqw/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T13:42:13+00:00",
+      "last_seen": "2026-08-23T13:42:13+00:00",
+      "latitude": 41.15013,
+      "local_median_price_per_m2": null,
+      "location": "Rua António Carneiro, Bonfim, Porto",
+      "longitude": -8.593927,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T13:42:13+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 11.82,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T13:33:09Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 2600.0,
+        "deposits": 1,
+        "entry_total": 2600.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 , na zona do Bonfim, com lugar de garagem e elevador.",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE"
     },
     "imovirtual:arrenda-se-apartamento-t1-1-open-space-telemovel-ID1iMaO": {
       "area_m2": 80.0,
