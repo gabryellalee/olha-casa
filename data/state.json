@@ -118,6 +118,7 @@
     "44b62ec1ade03288fa9041b6": "custojusto:45111740",
     "44bba5015c257dd8d5e153b4": "supercasa:2250968",
     "44d8d05cbb76d0c367c83190": "supercasa:2221585",
+    "44de86924e5e98fc690e9edd": "supercasa:1028028",
     "454c14308cde63145cdea283": "supercasa:2263063",
     "46fd6f30955a2d7341fb1421": "supercasa:1976222",
     "478f5555d946073bb79ae915": "supercasa:2262096",
@@ -129,6 +130,7 @@
     "4a9003a3c8f85d5badae558f": "supercasa:2251762",
     "4d0d4fd36265a37567d937a1": "supercasa:2205618",
     "4df0cdaa172aa044ee6cd558": "supercasa:2275474",
+    "4e283a49ae84d2445f39b99b": "supercasa:2246570",
     "4e38d0b6215908cdfd4cff27": "imovirtual:t1-mezanino-polo-universitario-da-asprela-ID1iMcS",
     "4ea96a9cfc49d6324130b8d1": "supercasa:2141202",
     "4ec73f5afd2d0f38f4f97fbf": "imovirtual:arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW",
@@ -291,6 +293,7 @@
     "a93d68fd417a82d4de328ee4": "supercasa:2044255",
     "a962006245f4ea5c1e23b58d": "casa_sapo:alugar-casa-ferias",
     "ab08fe4af1c19078b2d7451a": "supercasa:1714261",
+    "ab2bddc81ef7c411037570fd": "supercasa:2228629",
     "abe6bb31e6c1fdef11d52f44": "supercasa:529984",
     "ae39efecaf9f424fcaec5df3": "supercasa:2267775",
     "af0bc0e8294b135c4a15debd": "supercasa:1999728",
@@ -338,6 +341,7 @@
     "ca6d834b140f8674f68670f7": "imovirtual:apartamento-t3-novo-bessa-com-lugar-de-garagem-ID1iMG1",
     "caa6d54bebaaabda018af8ba": "imovirtual:porto-apartamento-t1-arca-de-agua-ID1iLEB",
     "cac15eae48633bcba65cbc5d": "supercasa:2273908",
+    "cba26c6739cfbf22dcb71f20": "supercasa:2219582",
     "cbda1f7ee5a01b9fd609706e": "custojusto:44962585",
     "cc41df0bc22bc1c2fc72c888": "casa_sapo:alugar-quartos",
     "ccc3a5490b6fa1f9ae266057": "supercasa:2016886",
@@ -8545,6 +8549,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc"
     },
+    "supercasa:1028028": {
+      "area_m2": 41.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "44de86924e5e98fc690e9edd",
+      "first_seen": "2026-08-23T21:55:00+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4340/P23468451/Tphoto/IDa3196601-0000-0500-0000-000013a9c17a.jpg",
+      "last_change": "2026-08-23T21:55:00+00:00",
+      "last_seen": "2026-08-23T21:55:00+00:00",
+      "latitude": 41.44993,
+      "local_median_price_per_m2": 22.02,
+      "location": "Porto",
+      "longitude": -8.288528,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 750.0,
+      "price": 850.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T21:55:00+00:00",
+          "price": 850.0
+        }
+      ],
+      "price_per_m2": 20.73,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1028028",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 em Azurém",
+      "typology": "T0",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t0-guimaraes/i1028028"
+    },
     "supercasa:1044119": {
       "area_m2": 50.0,
       "decision_reasons": [
@@ -15478,6 +15541,64 @@
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-braga/i2219079"
     },
+    "supercasa:2219582": {
+      "area_m2": 320.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "cba26c6739cfbf22dcb71f20",
+      "first_seen": "2026-08-23T21:55:00+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C3915/P30307987/Tphoto/ID9376ce01-0000-0500-0000-00001998196f.JPG",
+      "last_change": "2026-08-23T21:55:00+00:00",
+      "last_seen": "2026-08-23T21:55:00+00:00",
+      "latitude": 41.17174,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.666594,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 6000.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T21:55:00+00:00",
+          "price": 6000.0
+        }
+      ],
+      "price_per_m2": 18.75,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2219582",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 na Rua Professor Rodolfo de Abreu",
+      "typology": "T4",
+      "url": "https://supercasa.pt/arrendamento-moradia-t4-porto/i2219582"
+    },
     "supercasa:2219721": {
       "area_m2": 120.0,
       "decision_reasons": [
@@ -16316,6 +16437,65 @@
       "title": "Apartamento T2 em Bonfim",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2228272"
+    },
+    "supercasa:2228629": {
+      "area_m2": 147.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "ab2bddc81ef7c411037570fd",
+      "first_seen": "2026-08-23T21:55:00+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4340/P30472275/Tphoto/ID53f8d001-0000-0500-0000-000019bcd6ad.jpg",
+      "last_change": "2026-08-23T21:55:00+00:00",
+      "last_seen": "2026-08-23T21:55:00+00:00",
+      "latitude": 41.44993,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.288528,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T21:55:00+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 7.48,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2228629",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4400.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 na Rua Francisco Ribeiro de Castro",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-guimaraes/i2228629"
     },
     "supercasa:2230223": {
       "area_m2": 55.0,
@@ -18765,6 +18945,64 @@
       "title": "Apartamento T2 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2246259"
+    },
+    "supercasa:2246570": {
+      "area_m2": 75.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4e283a49ae84d2445f39b99b",
+      "first_seen": "2026-08-23T21:55:00+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C3304/P30628246/Tphoto/ID9659d301-0000-0500-0000-000019ec67c0.jpg",
+      "last_change": "2026-08-23T21:55:00+00:00",
+      "last_seen": "2026-08-23T21:55:00+00:00",
+      "latitude": 41.1637,
+      "local_median_price_per_m2": 16.64,
+      "location": "Porto",
+      "longitude": -8.63081,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1300.0,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T21:55:00+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 13.33,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2246570",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 2000.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 na Rua Vitorino Nemésio",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2246570"
     },
     "supercasa:2247127": {
       "area_m2": 94.0,
