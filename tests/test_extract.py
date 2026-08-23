@@ -43,6 +43,12 @@ def test_extracts_listing_and_terms():
     assert listing.price_per_m2 == 13.08
 
 
+def test_preserves_negative_longitude():
+    listing = parse_listing("idealista", "https://www.idealista.pt/imovel/12345678/", HTML)
+    assert listing.latitude == 41.232
+    assert listing.longitude == -8.621
+
+
 def test_portuguese_thousands_separator_is_not_decimal():
     html = "<html><head><title>T1 Porto</title></head><body>1.800 € · 60 m²</body></html>"
     listing = parse_listing("supercasa", "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2230444", html)
@@ -61,4 +67,16 @@ def test_fixed_deposit_amount_contributes_to_entry_total():
     assert listing.terms.deposit_amount == 1500
     assert listing.terms.advance_rents == 2
     assert listing.terms.entry_total == 2900
+
+
+def test_studio_is_normalized_as_t0():
+    html = "<html><head><title>Estúdio para arrendar no Porto</title></head><body>650 €</body></html>"
+    listing = parse_listing("idealista", "https://www.idealista.pt/imovel/123456/", html)
+    assert listing.typology == "T0"
+
+
+def test_extracts_t2_or_higher():
+    html = "<html><head><title>Moradia T3 para arrendar na Maia</title></head><body>750 €</body></html>"
+    listing = parse_listing("idealista", "https://www.idealista.pt/imovel/654321/", html)
+    assert listing.typology == "T3"
 
