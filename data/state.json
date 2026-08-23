@@ -243,6 +243,7 @@
     "94ecbc1a7c1946f87849ee58": "supercasa:2269571",
     "95c0a641a4ade14f1fc13356": "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8",
     "95c6d2f411e9b9db84ca756a": "supercasa:2241555",
+    "95e2ddee77dd5135fadf5db6": "imovirtual:apartamento-t2-1-arrendamento-avenida-da-boavista-bessa-leite-ID1iMFR",
     "965d52c5c8d8b3dc9c84420e": "supercasa:2270135",
     "966306c6d1ee058f3fc7afca": "supercasa:2196933",
     "97fcc8718b4d1c756756b3fb": "supercasa:2267076",
@@ -5382,6 +5383,64 @@
       "title": "Apartamento T1k - junto ao ICBAS",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1k-junto-ao-icbas-ID1iMEC"
+    },
+    "imovirtual:apartamento-t2-1-arrendamento-avenida-da-boavista-bessa-leite-ID1iMFR": {
+      "area_m2": 90.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "95e2ddee77dd5135fadf5db6",
+      "first_seen": "2026-08-23T18:45:39+00:00",
+      "first_seen_at": null,
+      "floor": 23,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ind3ZzR2bjJpNHdtazItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1DbZTx8z2lWozID1Hhw6AjXpc_POKjbxLRMRLo8qwao/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T18:45:39+00:00",
+      "last_seen": "2026-08-23T18:45:39+00:00",
+      "latitude": 41.158962,
+      "local_median_price_per_m2": null,
+      "location": "Porto, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.644724,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T18:45:39+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 12.22,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T18:26:08Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-1-arrendamento-avenida-da-boavista-bessa-leite-ID1iMFR",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2+1 | Arrendamento | Avenida da Boavista | Bessa Leite",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-arrendamento-avenida-da-boavista-bessa-leite-ID1iMFR"
     },
     "imovirtual:apartamento-t2-aguas-santas-ID1iMCL": {
       "area_m2": 75.1,
