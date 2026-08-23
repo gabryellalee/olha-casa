@@ -92,3 +92,17 @@ def test_manual_scan_fetches_known_candidates(monkeypatch):
     assert detail_url in calls
     assert len(result.listings) == 1
 
+
+def test_candidate_limit_is_shared_between_searches():
+    groups = [
+        ["porto-apartamento-1", "porto-apartamento-2"],
+        ["porto-estudio-1", "porto-estudio-2"],
+        ["famalicao-moradia-1", "famalicao-moradia-2"],
+    ]
+    assert PortalCollector._round_robin(groups, 4) == [
+        "porto-apartamento-1",
+        "porto-estudio-1",
+        "famalicao-moradia-1",
+        "porto-apartamento-2",
+    ]
+
