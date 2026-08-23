@@ -23,6 +23,7 @@
     "1388327821fdad263fa75319": "supercasa:1985918",
     "1502f2e767a547ae0ab87a70": "supercasa:1614047",
     "188460646e8b0437a41ec7a6": "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iLIa",
+    "18cd559e2f83a2d3462d1cae": "casa_sapo:9bacee52-08dd-49a4-a1b4-9b5f77d36bb4",
     "1a488b33f4ea3100cebde011": "supercasa:2276248",
     "1b682b330060f4058a52a9a4": "supercasa:2261422",
     "1bd55499d8ac74a943777fac": "imovirtual:apartamento-com-1-quartos-localizado-em-se-porto-ID1iLIt",
@@ -284,6 +285,64 @@
   "last_heartbeat": "2026-08-19T05:23:59+00:00",
   "last_price_refresh": "2026-08-22T22:32:55+00:00",
   "listings": {
+    "casa_sapo:9bacee52-08dd-49a4-a1b4-9b5f77d36bb4": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "18cd559e2f83a2d3462d1cae",
+      "first_seen": "2026-08-23T00:32:32+00:00",
+      "first_seen_at": null,
+      "floor": 64,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S6/C934696/P200379170/Tphoto/ID3ab49c8d-5569-4bd3-b370-544c05bf7e15.jpg",
+      "last_change": "2026-08-23T00:32:32+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
+      "latitude": 41.200526,
+      "local_median_price_per_m2": 17.46,
+      "location": "Porto",
+      "longitude": -8.326052,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 660.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T00:32:32+00:00",
+          "price": 660.0
+        }
+      ],
+      "price_per_m2": 8.25,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "casa_sapo",
+      "source_id": "9bacee52-08dd-49a4-a1b4-9b5f77d36bb4",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 Paredes, Paredes",
+      "typology": "T1",
+      "url": "https://casa.sapo.pt/alugar-apartamento-t1-paredes-9bacee52-08dd-49a4-a1b4-9b5f77d36bb4.html"
+    },
     "casa_sapo:alugar-casa-ferias": {
       "area_m2": null,
       "decision_reasons": [
@@ -579,9 +638,7 @@
     "imovirtual:aluga-apartamento-t1-1-ID1iMcM": {
       "area_m2": 76.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -593,11 +650,11 @@
       "floor": 21,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im42ejY5NDAzdjl2OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.90ILVr8Kfcle4cNGrdfeBKYI8jkJsPqFURjfGJL2tWY/image;s=2048x1536;q=80",
       "last_change": "2026-08-21T07:53:18+00:00",
-      "last_seen": "2026-08-22T03:42:29+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.17627,
-      "local_median_price_per_m2": 17.48,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
-      "longitude": 8.60747,
+      "longitude": -8.60747,
       "natural_light": null,
       "parking": true,
       "peak_drive_minutes": null,
@@ -699,9 +756,7 @@
     "imovirtual:aluga-se-t1-foz-velha-porto-ID1iMem": {
       "area_m2": 40.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -713,11 +768,11 @@
       "floor": 21,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhxYXoxbjdodmx2bjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EFSeI25Txcoqu93KfmcvXu6eyeBEXvAgFvqJkIlTeIM/image;s=2048x1536;q=80",
       "last_change": "2026-08-21T09:51:53+00:00",
-      "last_seen": "2026-08-22T03:42:29+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.17138,
       "local_median_price_per_m2": 17.46,
       "location": "Beco Carreiras, Aldoar, Foz do Douro e Nevogilde, Porto",
-      "longitude": 8.67131,
+      "longitude": -8.67131,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -759,9 +814,7 @@
     "imovirtual:alugo-t1-ermesinde-ID1iMBY": {
       "area_m2": 35.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -773,11 +826,11 @@
       "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ink3anc0MHFvY3c4ZTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kcE7TklTxryHpk8Dn5L44wykvU6JsEGL7bAhchj344Q/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T18:01:51+00:00",
-      "last_seen": "2026-08-22T18:01:51+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.20901,
       "local_median_price_per_m2": 17.46,
       "location": "Rua Papa Pio XII, Ermesinde, Porto",
-      "longitude": 8.54463,
+      "longitude": -8.54463,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -999,9 +1052,7 @@
     "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iMhB": {
       "area_m2": 44.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -1010,14 +1061,14 @@
       "fingerprint": "cd834b238ef79cc6a6f6d9c4",
       "first_seen": "2026-08-21T11:47:22+00:00",
       "first_seen_at": "2026-08-21T11:47:22+00:00",
-      "floor": 21,
+      "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdjeXJzNzB2MmduOTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1Bnvvw3QMwENWk3Tmv-WYGJcbvmE0FDoUYtfVTdOlLQ/image;s=2048x1536;q=80",
       "last_change": "2026-08-21T11:47:22+00:00",
-      "last_seen": "2026-08-22T03:42:29+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.158035,
       "local_median_price_per_m2": 17.46,
       "location": "Rua de Faria Guimarães, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
-      "longitude": 8.608747,
+      "longitude": -8.608747,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -1239,9 +1290,7 @@
     "imovirtual:apartamento-com-terraco-um-quarto-centro-do-porto-ID1iMyW": {
       "area_m2": 47.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -1253,11 +1302,11 @@
       "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImY0aHVod3Zvd2M4MzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lJPn48HSfQDrq_Uiyf0lcZu5j7bMUPudoU4xkOdsEXI/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T13:39:37+00:00",
-      "last_seen": "2026-08-22T13:39:37+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.15554,
       "local_median_price_per_m2": 17.46,
       "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
-      "longitude": 8.60609,
+      "longitude": -8.60609,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -1419,9 +1468,7 @@
     "imovirtual:apartamento-t1-alugar-ID1iMv4": {
       "area_m2": 50.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -1433,11 +1480,11 @@
       "floor": 0,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR4aXBrbGZodGo1czItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Hu5D3sGJvMRyFnQHaotI00JFcrFX8aAlPMiHuWT7jAo/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T09:36:57+00:00",
-      "last_seen": "2026-08-22T09:36:57+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.18894,
       "local_median_price_per_m2": 17.46,
       "location": "4465-001, São Mamede de Infesta e Senhora da Hora, Porto",
-      "longitude": 8.63036,
+      "longitude": -8.63036,
       "natural_light": null,
       "parking": true,
       "peak_drive_minutes": null,
@@ -1961,8 +2008,7 @@
     "imovirtual:apartamento-t1-mobilado-junto-a-escola-amadeu-sousa-cardoso-em-teloes-ID1iMzh": {
       "area_m2": 75.0,
       "decision_reasons": [
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "fora da área ou por confirmar (coordenadas do anúncio)"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -1974,11 +2020,11 @@
       "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjQ0YW9jbncyYnI2OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.E-NzZMwt-JIvNekIdYeYh7AmQCzQ0NWndiDnMWm8OK0/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T13:58:12+00:00",
-      "last_seen": "2026-08-22T13:58:12+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.27242,
       "local_median_price_per_m2": 17.46,
       "location": "4600-001, Amarante (São Gonçalo), Madalena, Cepelos e Gatão, Porto",
-      "longitude": 8.07985,
+      "longitude": -8.07985,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -2082,9 +2128,7 @@
     "imovirtual:apartamento-t1-novo-com-varanda-e-garagem-asprela-easy-ID1iM3R": {
       "area_m2": 80.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": true,
@@ -2096,11 +2140,11 @@
       "floor": 2025,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InN3NGZhMnU5YWF1cS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.FmCkOur6mypyNJeu0wJAOX2gVQMmMdtuWY3jR8pc95k/image;s=2048x1536;q=80",
       "last_change": "2026-08-20T14:22:20+00:00",
-      "last_seen": "2026-08-21T02:38:16+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.178818,
-      "local_median_price_per_m2": 17.14,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Nova do Rio, Paranhos, Porto",
-      "longitude": 8.588792,
+      "longitude": -8.588792,
       "natural_light": null,
       "parking": true,
       "peak_drive_minutes": null,
@@ -2506,11 +2550,7 @@
     "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr": {
       "area_m2": 19.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "área demasiado pequena para duas pessoas trabalharem em casa",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "anúncio indica ausência de garagem/estacionamento",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": false,
@@ -2522,11 +2562,11 @@
       "floor": 2,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImYwN3FoaTZqaGs2cjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NTVKaY9RgMYQYjheu04sZM_gJnWAM6pb9ZZedxUH4kU/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T12:13:12+00:00",
-      "last_seen": "2026-08-22T12:13:12+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.183704,
       "local_median_price_per_m2": 17.46,
       "location": "Rua Brito Capelo, Matosinhos e Leça da Palmeira, Porto",
-      "longitude": 8.691715,
+      "longitude": -8.691715,
       "natural_light": null,
       "parking": false,
       "peak_drive_minutes": null,
@@ -2568,9 +2608,7 @@
     "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2": {
       "area_m2": 60.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -2582,11 +2620,11 @@
       "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImE4N3pocDkya2o5bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Q6QAZcGLkcMEkC7nuwAOP-3AL_4fUwaqI25uYRU8qnw/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T11:31:13+00:00",
-      "last_seen": "2026-08-22T11:31:13+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.1461,
       "local_median_price_per_m2": 17.46,
       "location": "Rua de Santo Ildefonso, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
-      "longitude": 8.604505,
+      "longitude": -8.604505,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -2628,9 +2666,7 @@
     "imovirtual:apartamento-t1-res-do-chao-ID1iM38": {
       "area_m2": 150.0,
       "decision_reasons": [
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "anúncio indica ausência de garagem/estacionamento",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "fora da área ou por confirmar (coordenadas do anúncio)"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -2642,11 +2678,11 @@
       "floor": 0,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRoYXk2b2thdnBqcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FyNdnom32-ANjTUBd5H84_RBjsv14_Yti2S9YWwO20g/image;s=2048x1536;q=80",
       "last_change": "2026-08-20T13:51:20+00:00",
-      "last_seen": "2026-08-21T02:38:16+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.05321,
-      "local_median_price_per_m2": 17.07,
+      "local_median_price_per_m2": 17.46,
       "location": "Travessa do Agro, Serzedo e Perosinho, Porto",
-      "longitude": 8.59472,
+      "longitude": -8.59472,
       "natural_light": null,
       "parking": false,
       "peak_drive_minutes": null,
@@ -2690,9 +2726,7 @@
     "imovirtual:arrenda-se-apartamento-t1-1-open-space-telemovel-ID1iMaO": {
       "area_m2": 80.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -2704,11 +2738,11 @@
       "floor": 1,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNqbGppa3Yyc3dwNTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.az62hi6GCZfi4hmQfK2tcF2DkxVlen5n_EbrBw55PkU/image;s=2048x1536;q=80",
       "last_change": "2026-08-20T18:21:19+00:00",
-      "last_seen": "2026-08-21T02:38:16+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.17627,
-      "local_median_price_per_m2": 17.14,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
-      "longitude": 8.60747,
+      "longitude": -8.60747,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -2750,9 +2784,7 @@
     "imovirtual:arrenda-se-apartamento-t1-porto-com-terraco-ID1iM22": {
       "area_m2": 42.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -2764,11 +2796,11 @@
       "floor": 20,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxmaHlrcXZ3b3Y1aTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.813AFoO5tAnB8Y7IaNqdP9GdpZXpQFfrARacVkr2Rjg/image;s=2048x1536;q=80",
       "last_change": "2026-08-20T13:51:20+00:00",
-      "last_seen": "2026-08-21T02:38:16+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.17627,
-      "local_median_price_per_m2": 17.07,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
-      "longitude": 8.60747,
+      "longitude": -8.60747,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -3291,9 +3323,7 @@
     "imovirtual:t1-1-totalmente-remodelado-rio-tinto-areosa-900-particular-ID1iMbx": {
       "area_m2": 70.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": false,
@@ -3305,11 +3335,11 @@
       "floor": 2,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijhmbm1qanBxOGJ2bDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dd9Atd9LQRYBhuFDcgV7P53uEN02yIRW_iwZMwYnfao/image;s=2048x1536;q=80",
       "last_change": "2026-08-20T19:43:58+00:00",
-      "last_seen": "2026-08-21T02:38:16+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.1841,
-      "local_median_price_per_m2": 17.14,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Nova do Sistelo, Rio Tinto, Porto",
-      "longitude": 8.56673,
+      "longitude": -8.56673,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -3532,10 +3562,15 @@
     "imovirtual:t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf": {
       "area_m2": 46.0,
       "decision_reasons": [
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "ligação muito rápida ao ISCAP",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "transportes públicos mencionados"
       ],
-      "drive_estimate_kind": null,
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
       "elevator": null,
       "event": "unchanged",
       "fiber": null,
@@ -3545,14 +3580,14 @@
       "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImU5cDdyMmYyeHIwYzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DnZmxcJFapqi8sgFfBgrB7G-eAHlimH4OceevgC0thA/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T11:03:44+00:00",
-      "last_seen": "2026-08-22T11:03:44+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.15738,
-      "local_median_price_per_m2": 17.44,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Oliveira Monteiro, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
-      "longitude": 8.621488,
+      "longitude": -8.621488,
       "natural_light": null,
       "parking": null,
-      "peak_drive_minutes": null,
+      "peak_drive_minutes": 12,
       "previous_price": null,
       "price": 630.0,
       "price_history": [
@@ -3565,8 +3600,8 @@
       "public_transport_bonus": true,
       "published_at": "2026-08-22T10:51:12Z",
       "quiet": null,
-      "recommended": false,
-      "score": 0.0,
+      "recommended": true,
+      "score": 6.8,
       "source": "imovirtual",
       "source_id": "t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf",
       "terms": {
@@ -3712,9 +3747,7 @@
     "imovirtual:t1-mezanino-polo-universitario-da-asprela-ID1iMcS": {
       "area_m2": 42.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -3726,11 +3759,11 @@
       "floor": 21,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImlzYnE2bTlmc2U4ZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.0CusaRHO6NwGq8nEP4dM1II_7pNKOztrsn4fs8LVz1I/image;s=2048x1536;q=80",
       "last_change": "2026-08-21T07:53:18+00:00",
-      "last_seen": "2026-08-22T03:42:29+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.17627,
       "local_median_price_per_m2": 17.46,
       "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
-      "longitude": 8.60747,
+      "longitude": -8.60747,
       "natural_light": null,
       "parking": true,
       "peak_drive_minutes": null,
@@ -4078,8 +4111,7 @@
     "imovirtual:t1-povoa-de-varzim-verao-ID1iMAj": {
       "area_m2": 90.0,
       "decision_reasons": [
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "fora da área ou por confirmar (coordenadas do anúncio)"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -4091,11 +4123,11 @@
       "floor": 22,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImowbDgwODRmZDdiYzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CSV_MfT3_cC8Q8tWmmwZvmLvKiHk7HN5dBDNFF1RSVQ/image;s=2048x1536;q=80",
       "last_change": "2026-08-22T15:51:55+00:00",
-      "last_seen": "2026-08-22T15:51:55+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.37867,
       "local_median_price_per_m2": 17.46,
       "location": "Rua de Nossa Senhora do Bom Sucesso, Póvoa de Varzim, Beiriz e Argivai, Porto",
-      "longitude": 8.73373,
+      "longitude": -8.73373,
       "natural_light": null,
       "parking": null,
       "peak_drive_minutes": null,
@@ -4137,9 +4169,7 @@
     "imovirtual:t1-pronto-a-habitar-com-garagem-junto-ao-hospital-de-sao-joao-e-polo-ID1iM6I": {
       "area_m2": 48.0,
       "decision_reasons": [
-        "renda acima de 750 €",
-        "fora da área ou por confirmar (coordenadas do anúncio)",
-        "não foi possível confirmar a ligação de carro ao ISCAP"
+        "renda acima de 750 €"
       ],
       "drive_estimate_kind": null,
       "elevator": null,
@@ -4151,11 +4181,11 @@
       "floor": 20,
       "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9pYXh3YnZrb2xldDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0EBZgy6MNwN--dNbAO7xs2sWrpcMSTfl1d5rKhA4-6Y/image;s=2048x1536;q=80",
       "last_change": "2026-08-20T15:43:34+00:00",
-      "last_seen": "2026-08-21T02:38:16+00:00",
+      "last_seen": "2026-08-23T00:32:32+00:00",
       "latitude": 41.17683,
-      "local_median_price_per_m2": 17.14,
+      "local_median_price_per_m2": 17.46,
       "location": "Rua Henrique de Sousa Reis, Paranhos, Porto",
-      "longitude": 8.59243,
+      "longitude": -8.59243,
       "natural_light": null,
       "parking": true,
       "peak_drive_minutes": null,
