@@ -6,7 +6,6 @@ project:
 
 search:
   exceptional_max_rent: 750
-  typologies: [T0, T1]
   ideal_peak_drive_minutes: 20
   max_candidates_per_source: 18
   known_refresh_limit_per_source: 6
@@ -88,18 +87,22 @@ sources:
   - name: imovirtual
     enabled: true
     search_urls:
-      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento%2Ct0%2Ct1/porto?by=LATEST&direction=DESC"
-      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento%2Ct0%2Ct1/braga/vila-nova-de-famalicao?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/porto?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/t0/porto?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/moradia/porto?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/apartamento/braga/vila-nova-de-famalicao?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/t0/braga/vila-nova-de-famalicao?by=LATEST&direction=DESC"
+      - "https://www.imovirtual.com/pt/resultados/arrendar/moradia/braga/vila-nova-de-famalicao?by=LATEST&direction=DESC"
   - name: supercasa
     enabled: true
     search_urls:
-      - "https://supercasa.pt/arrendar-casas/porto-distrito/com-t0%2Ct1%2Cpreco-max-750%2Cpublicado-ultima-semana"
-      - "https://supercasa.pt/arrendar-casas/vila-nova-de-famalicao/com-t0%2Ct1%2Cpreco-max-750%2Cpublicado-ultima-semana"
+      - "https://supercasa.pt/arrendar-casas/porto-distrito/com-preco-max-750%2Cpublicado-ultima-semana"
+      - "https://supercasa.pt/arrendar-casas/vila-nova-de-famalicao/com-preco-max-750%2Cpublicado-ultima-semana"
   - name: casa_sapo
     enabled: true
     search_urls:
-      - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/?gp=750&ordem=1"
-      - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/vila-nova-de-famalicao/?gp=750&ordem=1"
+      - "https://casa.sapo.pt/alugar-casas/distrito.porto/?gp=750&ordem=1"
+      - "https://casa.sapo.pt/alugar-casas/vila-nova-de-famalicao/?gp=750&ordem=1"
 
 telegram:
   # O token vem exclusivamente dos GitHub Secrets. O chat ID é opcional:
