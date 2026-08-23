@@ -17,6 +17,7 @@
     "0c9057da4a91825dae3bcb0b": "supercasa:572593",
     "0ca0db51116b7e3e80fa56ef": "supercasa:2241885",
     "0d9a46b3c8860f0a6cc90706": "supercasa:2270886",
+    "0dd26261dc6dbc6d0334f0e6": "casa_sapo:06b5157b-f2fb-11ed-aeeb-060000000051",
     "0ecd13003627e9b168f7a66e": "supercasa:796945",
     "0f9e253a685b9a4e32bd81f5": "casa_sapo:alugar-casa-ferias",
     "0fce82d1890c0e3d0c9bde0b": "supercasa:2265498",
@@ -32,6 +33,7 @@
     "150937022bd849ceb4d6cdf9": "supercasa:2266494",
     "188460646e8b0437a41ec7a6": "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iLIa",
     "18cd559e2f83a2d3462d1cae": "casa_sapo:9bacee52-08dd-49a4-a1b4-9b5f77d36bb4",
+    "1a0bee28b3a1c7ce9314129e": "imovirtual:casinha-t2-mezanino-gaia-devesas-ID1iMDI",
     "1a488b33f4ea3100cebde011": "supercasa:2276248",
     "1b682b330060f4058a52a9a4": "supercasa:2261422",
     "1bd55499d8ac74a943777fac": "imovirtual:apartamento-com-1-quartos-localizado-em-se-porto-ID1iLIt",
@@ -153,6 +155,7 @@
     "6fe72e99c6e90f3ff757e070": "imovirtual:apartamento-t0-novo-ID1i3Lv",
     "70094b1adc6e89741082f7cb": "supercasa:2250492",
     "7043505869b293c78e043483": "supercasa:2276238",
+    "7058b387fc709b2e712fa976": "casa_sapo:3e67814a-f717-4820-a1c8-04ea3830ffa4",
     "718769a0b28747ae4cf8ba17": "supercasa:1875748",
     "71d40a2706f6f3343ca941fc": "custojusto:45147203",
     "722096a8771c3b2e2d43992a": "custojusto:44858859",
@@ -325,6 +328,7 @@
     "e0c1707dae71a151f2da1dbd": "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iM0t",
     "e0cbaaa0337ccddac7d1505e": "supercasa:2237913",
     "e1c5500271d7c7c671080627": "supercasa:2274728",
+    "e1d5f32ccf4e8101055a438a": "imovirtual:arrenda-se-habitacao-ID1iMDO",
     "e22e105418a3f46a52d2ae2a": "supercasa:2242980",
     "e3b3d13e6bdb8526034e2ed7": "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y",
     "e3c77f6856ccb415710ee594": "supercasa:2239289",
@@ -370,6 +374,72 @@
   "last_heartbeat": "2026-08-19T05:23:59+00:00",
   "last_price_refresh": "2026-08-23T05:06:39+00:00",
   "listings": {
+    "casa_sapo:06b5157b-f2fb-11ed-aeeb-060000000051": {
+      "area_m2": 45.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "bom preço por m² face à amostra",
+        "ligação muito rápida ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "cozinha equipada",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "0dd26261dc6dbc6d0334f0e6",
+      "first_seen": "2026-08-23T09:38:53+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S5/C4807/P23867300/Tphoto/IDa42f6c01-0000-0500-0000-00001161f659.jpg",
+      "last_change": "2026-08-23T09:38:53+00:00",
+      "last_seen": "2026-08-23T09:38:53+00:00",
+      "latitude": 41.1673015003,
+      "local_median_price_per_m2": 21.67,
+      "location": "Porto",
+      "longitude": -8.6304532382,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 10,
+      "previous_price": null,
+      "price": 740.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T09:38:53+00:00",
+          "price": 740.0
+        }
+      ],
+      "price_per_m2": 16.44,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 6.7,
+      "source": "casa_sapo",
+      "source_id": "06b5157b-f2fb-11ed-aeeb-060000000051",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Loft Ramalde, Porto",
+      "typology": "T0",
+      "url": "https://casa.sapo.pt/alugar-loft-porto-ramalde-06b5157b-f2fb-11ed-aeeb-060000000051.html"
+    },
     "casa_sapo:06ed6b52-3092-4e25-8230-afa68b907551": {
       "area_m2": 50.0,
       "decision_reasons": [
@@ -665,6 +735,66 @@
       "title": "Loft Santa Marinha, Vila Nova de Gaia",
       "typology": "T0",
       "url": "https://casa.sapo.pt/alugar-loft-vila-nova-de-gaia-santa-marinha-2d48c065-3da7-11ee-aeeb-060000000051.html"
+    },
+    "casa_sapo:3e67814a-f717-4820-a1c8-04ea3830ffa4": {
+      "area_m2": 29.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "ligação muito rápida ao ISCAP",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "7058b387fc709b2e712fa976",
+      "first_seen": "2026-08-23T09:38:53+00:00",
+      "first_seen_at": null,
+      "floor": 2025,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S6/C1107291/P200385604/Tphoto/IDd02a3290-5204-4991-8b28-fdb8c6a0c77e.jpg",
+      "last_change": "2026-08-23T09:38:53+00:00",
+      "last_seen": "2026-08-23T09:38:53+00:00",
+      "latitude": 41.152575,
+      "local_median_price_per_m2": 21.67,
+      "location": "Porto",
+      "longitude": -8.613589,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 13,
+      "previous_price": 700.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T09:38:53+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 24.14,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 4.9,
+      "source": "casa_sapo",
+      "source_id": "3e67814a-f717-4820-a1c8-04ea3830ffa4",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto",
+      "typology": "T0",
+      "url": "https://casa.sapo.pt/alugar-apartamento-t0-porto-cedofeita-santo-ildefonso-se-miragaia-sao-nicolau-e-vitoria-3e67814a-f717-4820-a1c8-04ea3830ffa4.html"
     },
     "casa_sapo:42988ad3-1ed7-11f1-8359-060000000051": {
       "area_m2": 60.0,
@@ -5379,6 +5509,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-apartamento-t2-centro-famalicao-ID1iL1l"
     },
+    "imovirtual:arrenda-se-habitacao-ID1iMDO": {
+      "area_m2": 20.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e1d5f32ccf4e8101055a438a",
+      "first_seen": "2026-08-23T09:38:53+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR6cjBxbjJ0N3dxejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.U3GzrknCwvU4ge0Diu38EfO1S7vOzcTb_TopFh1NbIY/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T09:38:53+00:00",
+      "last_seen": "2026-08-23T09:38:53+00:00",
+      "latitude": 41.42235,
+      "local_median_price_per_m2": 17.0,
+      "location": "Travessa da Presa - Presa, Vermoim, Braga",
+      "longitude": -8.44966,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 300.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T09:38:53+00:00",
+          "price": 300.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T09:14:21Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrenda-se-habitacao-ID1iMDO",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrenda-se habitação.",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-habitacao-ID1iMDO"
+    },
     "imovirtual:arrendamento-anual-t1-povoa-de-varzim-ID1iMDt": {
       "area_m2": 70.0,
       "decision_reasons": [
@@ -5731,6 +5919,67 @@
       "title": "Canidelo – T1 com Varandas no Flower Tower",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/canidelo-t1-com-varandas-no-flower-tower-ID1iLvK"
+    },
+    "imovirtual:casinha-t2-mezanino-gaia-devesas-ID1iMDI": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "1a0bee28b3a1c7ce9314129e",
+      "first_seen": "2026-08-23T09:38:53+00:00",
+      "first_seen_at": null,
+      "floor": 23,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1ibmpnajVjeHRvYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.k2YMs7awM72vRhh75OXKFrYG2vR8I1LxQ3wWPmJq6LQ/image;s=2048x1536;q=80",
+      "last_change": "2026-08-23T09:38:53+00:00",
+      "last_seen": "2026-08-23T09:38:53+00:00",
+      "latitude": 41.12391,
+      "local_median_price_per_m2": null,
+      "location": "Rua Barão Corvo, Santa Marinha e São Pedro da Afurada, Porto",
+      "longitude": -8.629349,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 850.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T09:38:53+00:00",
+          "price": 850.0
+        }
+      ],
+      "price_per_m2": 10.62,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T08:53:18Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "casinha-t2-mezanino-gaia-devesas-ID1iMDI",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 850.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Casinha t2 mezanino Gaia Devesas",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/casinha-t2-mezanino-gaia-devesas-ID1iMDI"
     },
     "imovirtual:excelente-apartamento-mobilado-e-equipado-com-garagem-e-zona-de-lazer-ID1iMuO": {
       "area_m2": 90.0,
