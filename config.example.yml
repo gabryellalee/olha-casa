@@ -5,12 +5,8 @@ project:
   notify_existing_on_first_run: false
 
 search:
-  min_score: 7.0
-  exceptional_min_score: 8.5
-  preferred_max_rent: 700
   exceptional_max_rent: 750
   typologies: [T0, T1]
-  max_peak_drive_minutes: 30
   ideal_peak_drive_minutes: 20
   max_candidates_per_source: 18
   known_refresh_limit_per_source: 6
@@ -20,7 +16,6 @@ search:
   user_agent: "OlhaCasa/0.1 (personal rental search; low-frequency)"
 
 home_office:
-  hard_min_area_m2: 32
   comfortable_t0_m2: 42
   comfortable_t1_m2: 45
 
@@ -65,11 +60,16 @@ geo:
     - alfena
     - rio tinto
     - baguim do monte
+    - vila nova de famalicão
+    - paços de ferreira
+  # Estes concelhos são aceites mesmo quando as coordenadas ficam fora do
+  # polígono aproximado original.
+  additional_allowed_places:
+    - vila nova de famalicão
+    - paços de ferreira
   fallback_excluded_places:
     - vila nova de gaia
     - póvoa de varzim
-    - vila nova de famalicão
-    - paços de ferreira
 
 routing:
   # Serviço público sem chave. Só é consultado para anúncios novos com coordenadas.
@@ -98,7 +98,9 @@ sources:
       - "https://casa.sapo.pt/alugar-apartamentos/t0,t1/distrito.porto/?gp=750&ordem=1"
 
 telegram:
-  # O token e o chat ID vêm exclusivamente dos GitHub Secrets.
+  # O token vem exclusivamente dos GitHub Secrets. O chat ID é opcional:
+  # quando não existe, o bot procura o grupo pelo título nos updates recentes.
   bot_token_env: TELEGRAM_BOT_TOKEN
   chat_id_env: TELEGRAM_CHAT_ID
+  group_title: "Alertas Casinhas"
   dry_run_env: OLHA_CASA_DRY_RUN

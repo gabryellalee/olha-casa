@@ -6,34 +6,29 @@ O projeto consulta diretamente páginas públicas do Idealista, Imovirtual, SUPE
 
 ## O que faz
 
-- Executa a pesquisa a cada cinco minutos no GitHub Actions.
+- Executa a pesquisa a cada 30 minutos no GitHub Actions.
 - Deteta anúncios novos, descidas de preço e possíveis republicações.
 - Elimina duplicados entre portais através de uma impressão do imóvel.
-- Aplica o limite preferido de 700 € e só aceita 701–750 € com pelo menos 8,5/10.
-- Aceita apenas T0/T1 dentro do polígono aproximado enviado.
-- Exclui percursos estimados acima de 30 minutos de carro até ao ISCAP em hora de ponta.
-- Exclui imóveis acima do 2.º andar quando o anúncio confirma que não há elevador.
-- Analisa estacionamento, espaço para duas pessoas em teletrabalho, fibra, ruído e luz.
+- Envia todos os T0/T1 até 750 € dentro das zonas aceites.
+- Inclui Vila Nova de Famalicão e Paços de Ferreira, além do polígono aproximado original.
+- Mostra área, percurso ao ISCAP, andar, elevador e estacionamento quando disponíveis, sem usar esses dados para bloquear alertas.
+- Analisa espaço para duas pessoas em teletrabalho, fibra, ruído e luz apenas como informação.
 - Extrai cauções, rendas adiantadas, entrada inicial, fiador, documentos, despesas, contrato, cozinha e animais.
 - Calcula renda por m², compara com a amostra recolhida e assinala riscos de fraude.
 - Cria uma explicação, perguntas em falta e uma mensagem pronta para o senhorio.
 
 ## Instalação no GitHub
 
-1. Crie um repositório **público** e coloque nele o conteúdo desta pasta.
+1. Crie um repositório no GitHub e coloque nele o conteúdo desta pasta. Pode ser privado.
 2. No Telegram, adicione o `@olhacasa_bot` ao grupo **Alertas Casinhas** e permita-lhe enviar mensagens.
 3. Guarde o token criado pelo BotFather. Nunca o escreva num ficheiro do repositório.
-4. Descubra o ID do grupo:
-   - envie uma mensagem no grupo;
-   - no seu computador, defina `TELEGRAM_BOT_TOKEN` e execute `python scripts/get_chat_id.py`;
-   - o ID de um grupo costuma começar por `-100`.
-5. Em **Settings → Secrets and variables → Actions**, crie:
-   - `TELEGRAM_BOT_TOKEN`
-   - `TELEGRAM_CHAT_ID`
+4. Envie uma mensagem no grupo depois de adicionar o bot. Assim, o sistema consegue descobrir automaticamente o grupo **Alertas Casinhas**.
+5. Em **Settings → Secrets and variables → Actions**, crie `TELEGRAM_BOT_TOKEN`.
+   `TELEGRAM_CHAT_ID` é opcional e só é necessário se o bot pertencer a vários grupos.
 6. Em **Settings → Actions → General → Workflow permissions**, selecione **Read and write permissions**.
 7. Abra **Actions → Procurar casas → Run workflow** para testar.
 
-A primeira execução aprende os anúncios que já existem e não envia alertas. As seguintes enviam apenas novidades relevantes.
+A primeira execução aprende os anúncios que já existem e envia uma confirmação de que o monitor ficou ligado, mas não envia esses anúncios antigos. As seguintes enviam apenas novidades relevantes. Se não surgir nenhuma novidade, o bot envia uma confirmação semanal de que continua ativo.
 
 ## Teste local
 
@@ -72,4 +67,3 @@ Os segredos do Telegram são lidos apenas do ambiente do GitHub Actions. Não ap
 ## Ajustar os alertas
 
 Os principais valores encontram-se nas secções `search`, `home_office`, `geo` e `routing` de `config.example.yml`. Para adicionar uma pesquisa, coloque o URL público em `sources[].search_urls`, sempre no domínio do respetivo portal.
-
