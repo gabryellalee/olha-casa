@@ -50,7 +50,7 @@ def _route_if_relevant(listing, config: dict, state: StateStore) -> None:
         estimate_peak_drive(listing, config)
 
 
-def run(config_path: str, dry_run: bool = False) -> dict:
+def run(config_path: str, dry_run: bool = False, send_current: bool = False) -> dict:
     config = load_config(config_path)
     state = StateStore(config["project"].get("state_file", "data/state.json"))
     sender = TelegramSender(config, force_dry_run=dry_run)
@@ -62,6 +62,7 @@ def run(config_path: str, dry_run: bool = False) -> dict:
         known_keys=state.known_keys,
         refresh_known=refresh_known,
         refresh_urls=state.refresh_urls_by_source(),
+        include_known=send_current,
     )
     fetched = collector.collect_all(config["sources"])
 
@@ -76,7 +77,9 @@ def run(config_path: str, dry_run: bool = False) -> dict:
     for listing in fetched.listings:
         state.classify(listing)
         score_listing(listing, config)
-        if listing.recommended and listing.event in {"new", "republication", "price_drop"}:
+        if listing.recommended and (
+            send_current or listing.event in {"new", "republication", "price_drop"}
+        ):
             alert_candidates.append(listing)
         state.update(listing)
 
@@ -108,6 +111,7 @@ def run(config_path: str, dry_run: bool = False) -> dict:
         "details_fetched": len(fetched.listings),
         "recommended": sum(1 for item in fetched.listings if item.recommended),
         "alerts_sent": len(alerts),
+        "send_current": send_current,
         "first_run_silent": bool(not was_initialized and not should_notify_initial),
         "errors": fetched.errors[-30:],
     }
@@ -148,14 +152,20 @@ def cli() -> None:
     parser = argparse.ArgumentParser(description="Procura e avalia casas para arrendar")
     parser.add_argument("--config", default="config.example.yml")
     parser.add_argument("--dry-run", action="store_true", help="não envia Telegram nem grava estado")
+    parser.add_argument(
+        "--send-current",
+        action="store_true",
+        help="analisa e envia os anúncios atuais, incluindo os já conhecidos",
+    )
     parser.add_argument("--verbose", action="store_true")
     args = parser.parse_args()
     logging.basicConfig(
         level=logging.DEBUG if args.verbose else logging.INFO,
         format="%(asctime)s %(levelname)s %(name)s: %(message)s",
     )
-    run(args.config, dry_run=args.dry_run)
+    run(args.config, dry_run=args.dry_run, send_current=args.send_current)
 
 
 if __name__ == "__main__":
     cli()
+
