@@ -11,6 +11,11 @@ on:
         required: false
         type: boolean
         default: false
+      send_current:
+        description: "Enviar também os anúncios atuais que cumprem os critérios"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -27,6 +32,7 @@ jobs:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       OLHA_CASA_DRY_RUN: ${{ inputs.dry_run || 'false' }}
+      OLHA_CASA_SEND_CURRENT: ${{ inputs.send_current || 'false' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,10 +44,26 @@ jobs:
           cache: pip
 
       - name: Instalar
-        run: pip install .
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            pip install ".[test]"
+          else
+            pip install .
+          fi
+
+      - name: Testar alterações
+        if: ${{ github.event_name == 'workflow_dispatch' }}
+        run: pytest -q
 
       - name: Procurar e enviar
-        run: python -m olha_casa.main --config config.example.yml
+        shell: bash
+        run: |
+          args=()
+          if [ "$OLHA_CASA_SEND_CURRENT" = "true" ]; then
+            args+=(--send-current)
+          fi
+          python -m olha_casa.main --config config.example.yml "${args[@]}"
 
       - name: Guardar histórico
         if: ${{ !inputs.dry_run }}
@@ -53,3 +75,4 @@ jobs:
             git commit -m "chore: atualizar histórico de anúncios [skip ci]"
             git push
           fi
+
