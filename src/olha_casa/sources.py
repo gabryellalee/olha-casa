@@ -165,10 +165,14 @@ class PortalCollector:
 
     def collect_source(self, source_cfg: dict) -> FetchResult:
         source = source_cfg["name"]
+        search_delay = float(source_cfg.get("search_request_delay_seconds", 0))
+        detail_delay = float(source_cfg.get("request_delay_seconds", self.delay))
         errors: list[str] = []
         candidate_groups: list[list[str]] = []
-        for search_url in source_cfg.get("search_urls", []):
+        for search_index, search_url in enumerate(source_cfg.get("search_urls", [])):
             try:
+                if search_index and search_delay:
+                    time.sleep(search_delay)
                 html = self._get(search_url)
                 candidate_groups.append(self._candidate_urls(source, search_url, html))
             except Exception as exc:  # fonte externa: isolar falhas por portal
@@ -191,7 +195,7 @@ class PortalCollector:
         for index, url in enumerate(candidates_to_fetch):
             try:
                 if index:
-                    time.sleep(self.delay)
+                    time.sleep(detail_delay)
                 listing = parse_listing(source, url, self._get(url))
                 listings.append(listing)
             except requests.HTTPError as exc:
