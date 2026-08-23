@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import re
 from statistics import median
 
+from .extract import normalize_text
 from .fraud import detect_fraud_signals
 from .geo import location_allowed
 from .models import Listing
@@ -26,6 +28,14 @@ def attach_market_medians(listings: list[Listing], historical: list[dict]) -> No
 def _hard_filters(listing: Listing, config: dict) -> list[str]:
     search = config["search"]
     reasons: list[str] = []
+    title = normalize_text(listing.title)
+    room_only = bool(
+        re.search(r"^(?:quartos?|suite)\b", title)
+        or re.search(r"^(?:arrend[oa](?:-se)?|alug[oa](?:-se)?).{0,24}\bquartos?\b", title)
+        or re.search(r"\bquartos?\s+(?:individuais?|para\s+(?:arrendar|alugar))\b", title)
+    )
+    if room_only:
+        reasons.append("anúncio de quarto, não de habitação completa")
     if listing.typology is None:
         reasons.append("tipologia do imóvel não identificada")
     if listing.price is None:
