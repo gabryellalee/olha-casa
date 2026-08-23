@@ -45,29 +45,37 @@ def test_good_listing_is_recommended():
     listing = good_listing()
     score_listing(listing, CONFIG)
     assert listing.recommended is True
-    assert listing.score >= 8.5
 
 
-def test_third_floor_without_elevator_is_rejected():
+def test_third_floor_without_elevator_is_still_recommended():
     listing = good_listing(floor=3, elevator=False)
     score_listing(listing, CONFIG)
-    assert listing.recommended is False
-    assert any("2.º andar" in reason for reason in listing.rejection_reasons)
+    assert listing.recommended is True
 
 
-def test_over_700_needs_exceptional_score():
+def test_up_to_750_does_not_need_a_minimum_score():
     listing = good_listing(price=740, area_m2=46, price_per_m2=16.09, local_median_price_per_m2=None)
     listing.fiber = None
     listing.quiet = None
     listing.natural_light = None
     score_listing(listing, CONFIG)
-    assert listing.recommended is False
-    assert any("8.5" in reason for reason in listing.rejection_reasons)
+    assert listing.recommended is True
 
 
-def test_over_30_minutes_is_rejected():
+def test_over_30_minutes_is_still_recommended():
     listing = good_listing(peak_drive_minutes=31)
     score_listing(listing, CONFIG)
+    assert listing.recommended is True
+
+
+def test_small_area_no_parking_and_unknown_route_are_still_recommended():
+    listing = good_listing(area_m2=20, parking=False, peak_drive_minutes=None)
+    score_listing(listing, CONFIG)
+    assert listing.recommended is True
+
+
+def test_over_750_is_rejected():
+    listing = good_listing(price=751)
+    score_listing(listing, CONFIG)
     assert listing.recommended is False
-    assert any("30 min" in reason for reason in listing.rejection_reasons)
 
