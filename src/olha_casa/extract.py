@@ -318,6 +318,8 @@ def source_id_from_url(source: str, url: str) -> str:
         "imovirtual": [r"-ID([A-Za-z0-9]+)\.html", r"/anuncio/([^/?#]+)"],
         "supercasa": [r"/i(\d+)(?:/|$|\?)", r"/(?:[^/?#]*?)-(\d{5,})(?:/|$|\?)"],
         "casa_sapo": [r"-([a-f0-9-]{16,})(?:\.html)?", r"/([^/?#]+)/?$"],
+        "olx": [r"-ID([A-Za-z0-9]+)\.html"],
+        "custojusto": [r"-(\d{7,})(?:/|$|\?|#)"],
     }
     for pattern in patterns.get(source, []):
         match = re.search(pattern, url, flags=re.I)
@@ -387,6 +389,20 @@ def parse_listing(source: str, url: str, html: str) -> Listing:
     else:
         location = str(address).strip() if address else None
     location = location or _first_meta(soup, "og:locality", "geo.placename")
+    if not location:
+        # OLX e CustoJusto expõem a localidade no Offer em vez do Address.
+        for value in (
+            offers.get("areaServed"),
+            offers.get("availableAtOrFrom"),
+            item.get("areaServed"),
+            item.get("availableAtOrFrom"),
+        ):
+            if isinstance(value, dict) and value.get("name"):
+                location = str(value["name"]).strip()
+                break
+            if isinstance(value, str) and value.strip():
+                location = value.strip()
+                break
 
     latitude, longitude = _extract_coordinates(item, html)
     image = item.get("image") or _first_meta(soup, "og:image", "twitter:image")
