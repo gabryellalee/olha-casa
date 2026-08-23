@@ -36,6 +36,7 @@
     "1388327821fdad263fa75319": "supercasa:1985918",
     "1502f2e767a547ae0ab87a70": "supercasa:1614047",
     "150937022bd849ceb4d6cdf9": "supercasa:2266494",
+    "173260f2ea84bd1039fb2cda": "supercasa:2215375",
     "188460646e8b0437a41ec7a6": "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iLIa",
     "18cd559e2f83a2d3462d1cae": "casa_sapo:9bacee52-08dd-49a4-a1b4-9b5f77d36bb4",
     "1a0bee28b3a1c7ce9314129e": "imovirtual:casinha-t2-mezanino-gaia-devesas-ID1iMDI",
@@ -83,6 +84,7 @@
     "2f71037db9d9fbc21e77c5a1": "supercasa:2206747",
     "30778ca04b3c580a8561cdbe": "supercasa:1380203",
     "30ebef5a6582d54bdc0e194b": "supercasa:1205933",
+    "31e503cdf1764c0f0def8b8c": "supercasa:2229155",
     "32408c88594dc58db51eef22": "supercasa:2266254",
     "33ab703b5df73aa8343ace6d": "supercasa:2129347",
     "352e2664fd5d62729fca8818": "imovirtual:apartamento-t1-mobilado-junto-a-escola-amadeu-sousa-cardoso-em-teloes-ID1iMzh",
@@ -214,6 +216,7 @@
     "7f3fc1aef1a06dd9139ce2c2": "supercasa:1948796",
     "7f43aabdedef917a4583b294": "supercasa:2264173",
     "7f51c422fee988ceda7d954e": "supercasa:2210977",
+    "7f8bfa71edd86f2bd5734e2e": "supercasa:2096679",
     "7fc9a1eb9f0fcad8c4b5be31": "supercasa:2245102",
     "80164f624cbaead85f39c27a": "custojusto:45169795",
     "8109c56ade3aa239b149672b": "supercasa:2255706",
@@ -316,6 +319,7 @@
     "b8ebb4b359476e80e0c2ca3a": "custojusto:44728825",
     "b93101810bd513f630218ea1": "supercasa:2097281",
     "b95aabceab51b4f02e1b07f7": "supercasa:2273543",
+    "ba7737dba5296544ef4021db": "supercasa:2240364",
     "bab150e55b92167180939d8a": "supercasa:2190955",
     "babb6e4ce2842d29fb0e6753": "imovirtual:ref-4250-t1-c-mob-a-baixa-do-porto-ID1iLw7",
     "bb2755aa342d1a7d767d2e4a": "imovirtual:apartamento-t1-novo-com-varanda-e-garagem-asprela-easy-ID1iM3R",
@@ -362,6 +366,7 @@
     "d1bdee2121b16479dca08b5c": "imovirtual:apartamento-t1-para-arrendamento-ID1iLFg",
     "d2802299ac6703c1a168a0ac": "imovirtual:excelente-apartamento-mobilado-e-equipado-com-garagem-e-zona-de-lazer-ID1iMuO",
     "d400d6be331b5bcdded1419b": "supercasa:2268464",
+    "d4cf64cabb3222772626d315": "supercasa:2256658",
     "d4d8de8b3dc98b752d68a2b5": "supercasa:656466",
     "d66502ffdc2b1e2df83a2dfe": "supercasa:2261427",
     "d67d81fd675cc572c437575d": "supercasa:2234738",
@@ -381,6 +386,7 @@
     "dc6353072438ee1a788fc5de": "supercasa:2253703",
     "dcc4ab737a697b56260e3325": "supercasa:2116509",
     "decc50a2dfca6d6f5f470671": "casa_sapo:55a775b5-8cc7-11f1-9c13-060000000051",
+    "df9e2853835787931acd89cf": "supercasa:2264172",
     "dfde41fe91a62875de1d37a8": "supercasa:1865111",
     "dfe426c6cf78effb9962e3cb": "casa_sapo:0fa5ab96-ac9c-11ed-aeeb-060000000051",
     "e08e9a148439a8bdce706903": "supercasa:2223526",
@@ -401,6 +407,7 @@
     "e63a4fc9b5a7ac97ac20c2d9": "imovirtual:t1-luxo-condominio-fechado-primeira-linha-de-rio-ID1iLif",
     "e6cce362eab3f493ef496e51": "supercasa:2028525",
     "e6ee25097dbee9131e04bc1f": "casa_sapo:alugar-quartos",
+    "e75a9c5ab503597231d2fc68": "supercasa:1539155",
     "e7639e1e630a8b115cd56eb1": "supercasa:2214206",
     "e8b783d20538168981457d90": "supercasa:2188586",
     "e8e44cd911bc2d71b6502c4b": "supercasa:1948814",
@@ -9629,6 +9636,66 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i1539125"
     },
+    "supercasa:1539155": {
+      "area_m2": 102.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "e75a9c5ab503597231d2fc68",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C15539/P24738157/Tphoto/ID6d797901-0000-0500-0000-000012b7ac28.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.1554222,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.651684,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 15.69,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1539155",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Avenida da Boavista",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i1539155"
+    },
     "supercasa:1588768": {
       "area_m2": 150.0,
       "decision_reasons": [
@@ -12506,6 +12573,65 @@
       "title": "Apartamento T2 na Rua Américo Rodrigues Barbosa",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2093681"
+    },
+    "supercasa:2096679": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "7f8bfa71edd86f2bd5734e2e",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C194/P28821022/Tphoto/ID1ec6b701-0000-0500-0000-000018c3a15f.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.54873,
+      "local_median_price_per_m2": 21.83,
+      "location": "Porto",
+      "longitude": -8.42485,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 850.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 850.0
+        }
+      ],
+      "price_per_m2": 21.25,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2096679",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 na Rua do Anjo",
+      "typology": "T0",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t0-braga/i2096679"
     },
     "supercasa:2097281": {
       "area_m2": 38.0,
@@ -15431,6 +15557,65 @@
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2215053"
     },
+    "supercasa:2215375": {
+      "area_m2": 70.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "173260f2ea84bd1039fb2cda",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": 8,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C10450/P30215990/Tphoto/ID360fcd01-0000-0500-0000-000019854927.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.5554848,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.409311,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 12.86,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2215375",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2700.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em São Víctor",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2215375"
+    },
     "supercasa:2217666": {
       "area_m2": 28.0,
       "decision_reasons": [
@@ -16623,6 +16808,64 @@
       "title": "Apartamento T3 na Rua Francisco Ribeiro de Castro",
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-guimaraes/i2228629"
+    },
+    "supercasa:2229155": {
+      "area_m2": 90.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "31e503cdf1764c0f0def8b8c",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4288/P30471897/Tphoto/IDd9f6d001-0000-0500-0000-000019bc4648.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.15276,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.67595,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 775.0,
+      "price": 2000.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 2000.0
+        }
+      ],
+      "price_per_m2": 22.22,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2229155",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 Duplex na Rua do Teatro",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2229155"
     },
     "supercasa:2230223": {
       "area_m2": 55.0,
@@ -18234,6 +18477,65 @@
       "title": "Apartamento T3 em Ramalde",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2240081"
+    },
+    "supercasa:2240364": {
+      "area_m2": 140.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "ba7737dba5296544ef4021db",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1482167/P2240364/Tphoto/ID09d0dcc5-6b87-47d2-a485-38c9586e395c.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.54484,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.411079,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 7.86,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2240364",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em São Víctor",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-braga/i2240364"
     },
     "supercasa:2241544": {
       "area_m2": 50.0,
@@ -20794,6 +21096,64 @@
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-moradia-t3-esposende/i2256620"
     },
+    "supercasa:2256658": {
+      "area_m2": 144.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "d4cf64cabb3222772626d315",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C14339/P30205540/Tphoto/ID64e6cc01-0000-0500-0000-00001981004f.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.152692,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.668899,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1750.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 1750.0
+        }
+      ],
+      "price_per_m2": 12.15,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2256658",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Aldoar, Foz do Douro e Nevogilde",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2256658"
+    },
     "supercasa:2257157": {
       "area_m2": 112.0,
       "decision_reasons": [
@@ -22470,6 +22830,65 @@
       "title": "Apartamento T0 na Rua Duque Saldanha",
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2263987"
+    },
+    "supercasa:2264172": {
+      "area_m2": 92.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "df9e2853835787931acd89cf",
+      "first_seen": "2026-08-23T23:54:37+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C2510/P30789928/Tphoto/ID28d1d501-0000-0500-0000-00001a1883bf.jpg",
+      "last_change": "2026-08-23T23:54:37+00:00",
+      "last_seen": "2026-08-23T23:54:37+00:00",
+      "latitude": 41.5325276933,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.7829067114,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1350.0,
+      "price": 775.0,
+      "price_history": [
+        {
+          "at": "2026-08-23T23:54:37+00:00",
+          "price": 775.0
+        }
+      ],
+      "price_per_m2": 8.42,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-23T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2264172",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua Narciso Ferreira",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-esposende/i2264172"
     },
     "supercasa:2264173": {
       "area_m2": 191.0,
