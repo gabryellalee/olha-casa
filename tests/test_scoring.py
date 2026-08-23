@@ -91,3 +91,20 @@ def test_unknown_typology_is_rejected():
     score_listing(listing, CONFIG)
     assert listing.recommended is False
 
+
+def test_room_ad_leaking_from_house_category_is_rejected():
+    listing = good_listing(
+        title="Quartos Individuais | Moradia a 5 min do Hospital de São João",
+        typology="T1",
+        price=349,
+    )
+    score_listing(listing, CONFIG)
+    assert listing.recommended is False
+    assert "anúncio de quarto" in listing.rejection_reasons[0]
+
+
+def test_apartment_title_that_mentions_a_bedroom_is_not_rejected():
+    listing = good_listing(title="Apartamento T1 com quarto luminoso")
+    score_listing(listing, CONFIG)
+    assert listing.recommended is True
+
