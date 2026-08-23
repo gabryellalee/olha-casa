@@ -32,6 +32,7 @@ class FakeResponse:
 def test_discovers_group_chat_id(monkeypatch):
     monkeypatch.setenv("TELEGRAM_BOT_TOKEN", "test-token")
     monkeypatch.delenv("TELEGRAM_CHAT_ID", raising=False)
+    monkeypatch.delenv("OLHA_CASA_DRY_RUN", raising=False)
     monkeypatch.setattr("olha_casa.telegram.requests.get", lambda *args, **kwargs: FakeResponse())
 
     sender = TelegramSender(CONFIG)
