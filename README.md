@@ -15,7 +15,7 @@ O projeto consulta diretamente páginas públicas do Idealista, Imovirtual, SUPE
 - Analisa espaço para duas pessoas em teletrabalho, fibra, ruído e luz apenas como informação.
 - Extrai cauções, rendas adiantadas, entrada inicial, fiador, documentos, despesas, contrato, cozinha e animais.
 - Calcula renda por m², compara com a amostra recolhida e assinala riscos de fraude.
-- Cria uma explicação, perguntas em falta e uma mensagem pronta para o senhorio.
+- Resume a informação disponível e assinala os dados que o anúncio não esclarece.
 
 ## Instalação no GitHub
 
