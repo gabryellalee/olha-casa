@@ -43,7 +43,7 @@ def _route_if_relevant(listing, config: dict, state: StateStore) -> None:
         return
     if listing.price is None or listing.price > config["search"]["exceptional_max_rent"]:
         return
-    if listing.typology not in set(config["search"]["typologies"]):
+    if listing.typology is None:
         return
     allowed, _ = location_allowed(listing, config["geo"])
     if allowed:
