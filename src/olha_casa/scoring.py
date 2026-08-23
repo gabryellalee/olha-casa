@@ -26,8 +26,8 @@ def attach_market_medians(listings: list[Listing], historical: list[dict]) -> No
 def _hard_filters(listing: Listing, config: dict) -> list[str]:
     search = config["search"]
     reasons: list[str] = []
-    if listing.typology not in set(search["typologies"]):
-        reasons.append("tipologia não confirmada como T0 ou T1")
+    if listing.typology is None:
+        reasons.append("tipologia do imóvel não identificada")
     if listing.price is None:
         reasons.append("renda não identificada")
     elif listing.price > float(search["exceptional_max_rent"]):
@@ -102,7 +102,12 @@ def score_listing(listing: Listing, config: dict) -> None:
     else:
         score += 0.35
 
-    comfortable = float(config["home_office"][f"comfortable_{listing.typology.lower()}_m2"])
+    comfortable = float(
+        config["home_office"].get(
+            f"comfortable_{listing.typology.lower()}_m2",
+            config["home_office"]["comfortable_t1_m2"],
+        )
+    )
     if listing.area_m2 is None:
         score += 0.3
     elif listing.area_m2 >= comfortable:
@@ -146,6 +151,7 @@ def score_listing(listing: Listing, config: dict) -> None:
     listing.score = round(max(0.0, min(10.0, score)), 1)
     listing.recommendation_reasons = reasons
 
-    # A pontuação serve apenas para ordenar anúncios duplicados. Qualquer T0/T1
-    # até ao preço máximo e numa zona aceite deve gerar um alerta.
+    # A pontuação é apenas informativa. Qualquer casa, apartamento ou estúdio
+    # com tipologia identificada, até ao preço máximo e numa zona aceite gera alerta.
     listing.recommended = True
+
