@@ -112,6 +112,10 @@ sources:
       - "https://www.olx.pt/imoveis/casas-moradias-para-arrendar-vender/moradias-arrenda/vilanovadefamalicao-vilanovadefamalicao/?search%5Bfilter_float_price%3Ato%5D=750&search%5Border%5D=created_at%3Adesc"
   - name: custojusto
     enabled: true
+    # Esta fonte limita pedidos sucessivos; uma pausa curta evita perder
+    # anúncios sem tornar a pesquisa de 30 em 30 minutos demasiado lenta.
+    search_request_delay_seconds: 3
+    request_delay_seconds: 4
     search_urls:
       - "https://www.custojusto.pt/porto/imobiliario/apartamentos-arrendar?pe=750"
       - "https://www.custojusto.pt/porto/imobiliario/moradias-arrendar?pe=750"
