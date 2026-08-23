@@ -25,16 +25,40 @@ jobs:
       - name: Instalar
         run: pip install .
 
-      - name: Enviar mensagem de teste
+      - name: Enviar alerta de teste
         run: |
           python - <<'PY'
+          from datetime import UTC, datetime
+
           from olha_casa.config import load_config
+          from olha_casa.message import format_alert
+          from olha_casa.models import Listing, RentalTerms
           from olha_casa.telegram import TelegramSender
+
+          listing = Listing(
+              source="teste",
+              source_id="exemplo",
+              url="https://github.com/gabryellalee/olha-casa",
+              title="TESTE — Apartamento T2 na Maia",
+              price=700,
+              area_m2=65,
+              typology="T2",
+              location="Maia",
+              peak_drive_minutes=18,
+              drive_estimate_kind="estimativa de teste",
+              parking=None,
+              first_seen_at=datetime.now(UTC).isoformat(),
+              terms=RentalTerms(
+                  deposits=1,
+                  advance_rents=1,
+                  entry_total=1400,
+                  equipped_kitchen=True,
+              ),
+              missing=["elevador", "animais permitidos"],
+          )
 
           sender = TelegramSender(load_config("config.example.yml"))
           sender.validate()
-          sender.send(
-              "✅ <b>Olha Casa está ligado</b>\n\n"
-              "O bot consegue enviar mensagens para o grupo Alertas Casinhas."
-          )
+          sender.send("<b>🧪 TESTE — não é um anúncio real</b>\n\n" + format_alert(listing))
           PY
+
