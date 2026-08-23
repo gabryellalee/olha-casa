@@ -41,6 +41,7 @@ class PortalCollector:
         known_keys: set[str] | None = None,
         refresh_known: bool = False,
         refresh_urls: dict[str, list[str]] | None = None,
+        include_known: bool = False,
     ):
         search = config["search"]
         self.timeout = float(search.get("request_timeout_seconds", 20))
@@ -60,6 +61,7 @@ class PortalCollector:
         self.known_keys = known_keys or set()
         self.refresh_known = refresh_known
         self.refresh_urls = refresh_urls or {}
+        self.include_known = include_known
 
     def _robots_parser(self, url: str) -> RobotFileParser | None:
         parsed = urlparse(url)
@@ -150,8 +152,8 @@ class PortalCollector:
                 known_candidates.append(url)
             else:
                 new_candidates.append(url)
-        candidates_to_fetch = new_candidates
-        if self.refresh_known:
+        candidates_to_fetch = candidates if self.include_known else new_candidates
+        if self.refresh_known and not self.include_known:
             refresh_pool = known_candidates + self.refresh_urls.get(source, [])
             candidates_to_fetch += list(dict.fromkeys(refresh_pool))[: self.known_refresh_limit]
         listings: list[Listing] = []
@@ -186,3 +188,4 @@ class PortalCollector:
             errors.extend(result.errors)
             candidates += result.candidates_found
         return FetchResult(listings=listings, errors=errors, candidates_found=candidates)
+
