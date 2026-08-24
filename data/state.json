@@ -300,6 +300,7 @@
     "a437077d740d5892ed060d56": "imovirtual:apartamento-estudantes-porto-asprela-ID1iMDy",
     "a4874317e268c5b3cf0fcce6": "supercasa:1706952",
     "a498708becc3f21954a8734c": "custojusto:43028726",
+    "a49e1de74addb81cd585d36d": "imovirtual:apartamento-t1-paranhos-polo-univ-ID1iMIt",
     "a5437f7cbbb313ff0989abc5": "imovirtual:t1-povoa-de-varzim-verao-ID1iMAj",
     "a573259b7dff0d5ed0df9139": "supercasa:2240076",
     "a5ef3596e09fc210ed86e95a": "supercasa:2250296",
@@ -378,6 +379,7 @@
     "d151c42012ac7cf1ef73b071": "supercasa:2212051",
     "d1bdee2121b16479dca08b5c": "imovirtual:apartamento-t1-para-arrendamento-ID1iLFg",
     "d2802299ac6703c1a168a0ac": "imovirtual:excelente-apartamento-mobilado-e-equipado-com-garagem-e-zona-de-lazer-ID1iMuO",
+    "d34e9b347a2c0c6a3b9a1c9e": "imovirtual:t1-da-rua-miguel-bombarda-jaime-rios-de-sousa-ID1iMIq",
     "d400d6be331b5bcdded1419b": "supercasa:2268464",
     "d4cf64cabb3222772626d315": "supercasa:2256658",
     "d4d8de8b3dc98b752d68a2b5": "supercasa:656466",
@@ -461,6 +463,7 @@
     "fe0510b62eb58b129e6399d4": "supercasa:2272880",
     "fe23f1af976006e38704cb55": "supercasa:2214255",
     "fe521016a0302e8145a52192": "supercasa:2237815",
+    "ff32fc97ef414c7ae25c9fa9": "imovirtual:apartamento-t2-com-terraco-e-garagem-na-2-linha-do-mar-em-vila-do-ID1iMIA",
     "ffb522f7dc5b3f21e37379ee": "custojusto:45171405"
   },
   "initialized": true,
@@ -5429,6 +5432,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iMyr"
     },
+    "imovirtual:apartamento-t1-paranhos-polo-univ-ID1iMIt": {
+      "area_m2": 38.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "a49e1de74addb81cd585d36d",
+      "first_seen": "2026-08-24T10:21:30+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjM5eWFydnl1endidC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.xIrvGJmUae_l0HlmoKItxWXDDb1EKH9apHmVtvdnWs8/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T10:21:30+00:00",
+      "last_seen": "2026-08-24T10:21:30+00:00",
+      "latitude": 41.17627,
+      "local_median_price_per_m2": 16.79,
+      "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
+      "longitude": -8.60747,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T10:21:30+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 23.68,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T09:56:42Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-paranhos-polo-univ-ID1iMIt",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1, Paranhos (polo univ.)",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-paranhos-polo-univ-ID1iMIt"
+    },
     "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2": {
       "area_m2": 60.0,
       "decision_reasons": [
@@ -5778,6 +5839,65 @@
       "title": "Apartamento T2 - Aguas Santas",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-aguas-santas-ID1iMCL"
+    },
+    "imovirtual:apartamento-t2-com-terraco-e-garagem-na-2-linha-do-mar-em-vila-do-ID1iMIA": {
+      "area_m2": 95.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "ff32fc97ef414c7ae25c9fa9",
+      "first_seen": "2026-08-24T10:21:30+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ino5YWt3NmVtMHlpeDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Y5-harasZXTscWI--FJbqwSRhqfuBuj5niFnEDISYLA/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T10:21:30+00:00",
+      "last_seen": "2026-08-24T10:21:30+00:00",
+      "latitude": 41.34504,
+      "local_median_price_per_m2": null,
+      "location": "Rua António Mariz Carneiro, Vila do Conde, Porto",
+      "longitude": -8.75064,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T10:21:30+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 12.63,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T10:01:52Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-com-terraco-e-garagem-na-2-linha-do-mar-em-vila-do-ID1iMIA",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1200.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2, com Terraço e Garagem, na 2.ª Linha do Mar, em Vila do",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-terraco-e-garagem-na-2-linha-do-mar-em-vila-do-ID1iMIA"
     },
     "imovirtual:apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm": {
       "area_m2": 90.0,
@@ -7852,6 +7972,64 @@
       "title": "T1 com terraço, garagem e acessibilidade em Labruge",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe"
+    },
+    "imovirtual:t1-da-rua-miguel-bombarda-jaime-rios-de-sousa-ID1iMIq": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "d34e9b347a2c0c6a3b9a1c9e",
+      "first_seen": "2026-08-24T10:21:30+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjIxcjAyejMydnBqcjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.28l9JUN3VEy3bQtoZMnIvR22hqAJEGlOE2cia-bP6CQ/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T10:21:30+00:00",
+      "last_seen": "2026-08-24T10:21:30+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 16.79,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T10:21:30+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 12.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-24T09:55:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-da-rua-miguel-bombarda-jaime-rios-de-sousa-ID1iMIq",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1000.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T1 da Rua Miguel Bombarda/Jaime Rios de Sousa",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-da-rua-miguel-bombarda-jaime-rios-de-sousa-ID1iMIq"
     },
     "imovirtual:t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI": {
       "area_m2": 65.0,
