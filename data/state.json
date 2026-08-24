@@ -3,6 +3,7 @@
     "000dba45d4e00a66c17ce491": "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
     "0019b5fe3be5c64efd6d6748": "imovirtual:t1-na-rua-dos-bragas-ID1iLL7",
     "0065586175c4846e8fc49b16": "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iBF0",
+    "00a3cd05bbf68881bd836153": "casa_sapo:91dabd67-9c86-11f1-bc59-060000000052",
     "00af4c8a1656e5399f177b79": "casa_sapo:2d48c065-3da7-11ee-aeeb-060000000051",
     "00eb100f7d63a3b50830b971": "supercasa:1833192",
     "01888f8537dc6252567c58a8": "imovirtual:arrendamento-de-apartamento-t0-na-avenida-araujo-silva-195-penafiel-ID1iMDr",
@@ -458,6 +459,7 @@
     "fa2f0e62c0253f6c5bd19619": "supercasa:2211840",
     "fa64767b0c4f69452d48d3bb": "imovirtual:andar-moradia-senhora-da-hora-ID1iMJi",
     "fbcc63ffce03efde9e18945b": "supercasa:2262093",
+    "fc3d3d5f0f0403c9931d67bf": "imovirtual:arrenda-se-t3-junto-el-corte-ingles-gaia-ID1iMK2",
     "fc8edc95c6189ece1166fd17": "supercasa:1959370",
     "fcb2cfe7bd4b06b1da6b02ad": "supercasa:2258981",
     "fcb70a72b0c2460002516953": "supercasa:1111013",
@@ -1259,6 +1261,64 @@
       "title": "Apartamento T1 Santa Marinha, Vila Nova de Gaia",
       "typology": "T1",
       "url": "https://casa.sapo.pt/alugar-apartamento-t1-vila-nova-de-gaia-santa-marinha-77988b57-cfee-11ed-aeeb-060000000051.html"
+    },
+    "casa_sapo:91dabd67-9c86-11f1-bc59-060000000052": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "00a3cd05bbf68881bd836153",
+      "first_seen": "2026-08-24T11:42:31+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S5/C2782/P30879789/Tphoto/ID2d30d701-0000-0500-0000-00001a354a0c.jpg",
+      "last_change": "2026-08-24T11:42:31+00:00",
+      "last_seen": "2026-08-24T11:42:31+00:00",
+      "latitude": 41.0473989157,
+      "local_median_price_per_m2": 16.64,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.6451560985,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T11:42:31+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 12.73,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "casa_sapo",
+      "source_id": "91dabd67-9c86-11f1-bc59-060000000052",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 Aguda, Arcozelo, Vila Nova de Gaia",
+      "typology": "T1",
+      "url": "https://casa.sapo.pt/alugar-apartamento-t1-vila-nova-de-gaia-arcozelo-aguda-91dabd67-9c86-11f1-bc59-060000000052.html"
     },
     "casa_sapo:948e9d0b-2dc7-11ec-aeeb-060000000051": {
       "area_m2": 46.0,
@@ -6658,6 +6718,67 @@
       "title": "Arrenda-se T3+2 mobilado c\\ lugar de garagem",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-t3-2-mobilado-c-lugar-de-garagem-ID1iIfK"
+    },
+    "imovirtual:arrenda-se-t3-junto-el-corte-ingles-gaia-ID1iMK2": {
+      "area_m2": 92.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fc3d3d5f0f0403c9931d67bf",
+      "first_seen": "2026-08-24T11:42:31+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFqemlqNnFtcGtwbzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BQyk5Yk7GnXPmokFV1T3y84pUYBLgOkbRgd35mKLy_U/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T11:42:31+00:00",
+      "last_seen": "2026-08-24T11:42:31+00:00",
+      "latitude": 41.1094,
+      "local_median_price_per_m2": null,
+      "location": "Rua Escola de Laborim, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.60596,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T11:42:31+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 16.3,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-24T11:09:53Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrenda-se-t3-junto-el-corte-ingles-gaia-ID1iMK2",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1500.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 36,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Arrenda-se T3 Junto El Corte Inglês - Gaia",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-t3-junto-el-corte-ingles-gaia-ID1iMK2"
     },
     "imovirtual:arrendamento-anual-t1-povoa-de-varzim-ID1iMDt": {
       "area_m2": 70.0,
