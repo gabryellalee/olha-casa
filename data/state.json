@@ -63,6 +63,7 @@
     "23f4ce1fd631b4f3a68eb622": "imovirtual:excelente-t0-l-garagem-impecavel-junto-ao-mar-praias-canidelo-ID1iMBQ",
     "24cb4710f92c39fec447dbe1": "supercasa:2170537",
     "25cf011f3202ee4d6e42e58e": "casa_sapo:632dc415-9db4-11f1-b6e5-060000000058",
+    "25ecf09557ec157a244658ee": "imovirtual:estudio-t0-maia-despesas-incluidas-ID1iMTq",
     "2618142b2d89bb3bf14226e8": "supercasa:2253313",
     "262b4cd42066dcc225a4a4d0": "supercasa:2271523",
     "26e2d795f7b6a8c4a2530765": "imovirtual:apartamento-t1-mobilado-e-equipado-na-asprela-porto-ID1iLYR",
@@ -315,6 +316,7 @@
     "a5437f7cbbb313ff0989abc5": "imovirtual:t1-povoa-de-varzim-verao-ID1iMAj",
     "a573259b7dff0d5ed0df9139": "supercasa:2240076",
     "a5ef3596e09fc210ed86e95a": "supercasa:2250296",
+    "a5fe42b9952d5418c9d650eb": "imovirtual:t2-em-salgueiros-ID1iMTc",
     "a7a5ee0e3fee6a425003b0d4": "supercasa:2274088",
     "a7f5eb6272d4d082e3adb898": "supercasa:2220442",
     "a82abd691c4708aa66ff08cd": "casa_sapo:b15af791-569b-11eb-a7a4-060000000051",
@@ -328,6 +330,7 @@
     "ae39efecaf9f424fcaec5df3": "supercasa:2267775",
     "af0bc0e8294b135c4a15debd": "supercasa:1999728",
     "af8d25405e2b90adb379183b": "supercasa:2187421",
+    "afdce1f393096d6d628578b2": "imovirtual:apartamento-t1-a-fernao-magalhaes-ID1iMUq",
     "b1571e118501cce09266ae6c": "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK",
     "b39f84c5948506f959eabd9b": "supercasa:2147498",
     "b3d25159664016d3e6b9c6b6": "imovirtual:apartamento-t2-1-1-linha-de-mar-mobilado-povoa-de-varzim-ID1iMRD",
@@ -356,6 +359,7 @@
     "c08f7efeb12aae09494afb69": "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2",
     "c0fb7577e8b9b7d4250ca8ad": "supercasa:2243067",
     "c210003cfebade45cc32d8aa": "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN",
+    "c21db6cd0f826668372dffdc": "imovirtual:t3-na-trofa-para-arrendamento-ID1iMTs",
     "c24c012a3301ac529f71d0b7": "imovirtual:apartamento-t1-arrendamento-em-grijo-e-sermonde-vila-nova-de-gaia-ID1iLEk",
     "c27483d75c8bd797aaf0cb02": "supercasa:2270922",
     "c2ce4f6b08af2d4261e13b86": "supercasa:2227177",
@@ -4660,6 +4664,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz"
     },
+    "imovirtual:apartamento-t1-a-fernao-magalhaes-ID1iMUq": {
+      "area_m2": 34.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "afdce1f393096d6d628578b2",
+      "first_seen": "2026-08-24T18:02:42+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjV4Mjhuem9meXBzMTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.kLMB8XlvWEcC3iN3379oBq8vxJ7S1x7UtXN4sS3NTgk/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T18:02:42+00:00",
+      "last_seen": "2026-08-24T18:02:42+00:00",
+      "latitude": 41.16123,
+      "local_median_price_per_m2": 16.79,
+      "location": "Rua Carrington da Costa, Campanhã, Porto",
+      "longitude": -8.57104,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T18:02:42+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 26.47,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-24T17:54:39Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-a-fernao-magalhaes-ID1iMUq",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 à Fernão Magalhães",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-a-fernao-magalhaes-ID1iMUq"
+    },
     "imovirtual:apartamento-t1-alugar-ID1iK0E": {
       "area_m2": 86.0,
       "decision_reasons": [
@@ -7675,6 +7737,69 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/casinha-t2-mezanino-gaia-devesas-ID1iMDI"
     },
+    "imovirtual:estudio-t0-maia-despesas-incluidas-ID1iMTq": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "ligação aceitável ao ISCAP",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "25ecf09557ec157a244658ee",
+      "first_seen": "2026-08-24T18:02:42+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndtbXZkaXEwOHB1ZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.TMnf66jJiFC8pCJlOeMg17a4LwzHL9ZPadL7popVBRw/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T18:02:42+00:00",
+      "last_seen": "2026-08-24T18:02:42+00:00",
+      "latitude": 41.25942,
+      "local_median_price_per_m2": 21.75,
+      "location": "Rua do Campo de Futebol, Castêlo da Maia, Porto",
+      "longitude": -8.61656,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 23,
+      "previous_price": null,
+      "price": 650.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T18:02:42+00:00",
+          "price": 650.0
+        }
+      ],
+      "price_per_m2": 13.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-24T17:10:09Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 5.5,
+      "source": "imovirtual",
+      "source_id": "estudio-t0-maia-despesas-incluidas-ID1iMTq",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 650.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Estúdio/T0 Maia - Despesas Incluídas",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/estudio-t0-maia-despesas-incluidas-ID1iMTq"
+    },
     "imovirtual:excelente-apartamento-mobilado-e-equipado-com-garagem-e-zona-de-lazer-ID1iMuO": {
       "area_m2": 90.0,
       "decision_reasons": [
@@ -9832,6 +9957,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc"
     },
+    "imovirtual:t2-em-salgueiros-ID1iMTc": {
+      "area_m2": 101.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "a5fe42b9952d5418c9d650eb",
+      "first_seen": "2026-08-24T18:02:42+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR5em0wdXY4dTExLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.8CiUlCImXrhOh1NZoyQ8zOa14pJF9rrLjXX_jeRLOIo/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T18:02:42+00:00",
+      "last_seen": "2026-08-24T18:02:42+00:00",
+      "latitude": 41.12258,
+      "local_median_price_per_m2": null,
+      "location": "Rua de Salgueiros - Canidelo, Canidelo, Porto",
+      "longitude": -8.658477,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1800.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T18:02:42+00:00",
+          "price": 1800.0
+        }
+      ],
+      "price_per_m2": 17.82,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T17:08:17Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-em-salgueiros-ID1iMTc",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1800.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 em Salgueiros",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-em-salgueiros-ID1iMTc"
+    },
     "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu": {
       "area_m2": 232.9,
       "decision_reasons": [
@@ -9889,6 +10073,65 @@
       "title": "T3+1 Duplex no último piso, com amplos terraços e 3 lugares de garagem",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu"
+    },
+    "imovirtual:t3-na-trofa-para-arrendamento-ID1iMTs": {
+      "area_m2": 160.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c21db6cd0f826668372dffdc",
+      "first_seen": "2026-08-24T18:02:42+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRnbW1qY3FhbWYzZy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.858-KCtK-adz9C2S7o7cUbGQZV9-2IHYzrw7s_v2oK4/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T18:02:42+00:00",
+      "last_seen": "2026-08-24T18:02:42+00:00",
+      "latitude": 41.34992,
+      "local_median_price_per_m2": null,
+      "location": "Largo Cardeal Cerejeira, Lousado, Braga",
+      "longitude": -8.53305,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T18:02:42+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 7.19,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T17:10:20Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-na-trofa-para-arrendamento-ID1iMTs",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1150.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3 na Trofa para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-na-trofa-para-arrendamento-ID1iMTs"
     },
     "supercasa:1028028": {
       "area_m2": 41.0,
