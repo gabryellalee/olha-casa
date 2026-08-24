@@ -330,6 +330,7 @@
     "af8d25405e2b90adb379183b": "supercasa:2187421",
     "b1571e118501cce09266ae6c": "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK",
     "b39f84c5948506f959eabd9b": "supercasa:2147498",
+    "b3d25159664016d3e6b9c6b6": "imovirtual:apartamento-t2-1-1-linha-de-mar-mobilado-povoa-de-varzim-ID1iMRD",
     "b48aabb5d948e65f531374ce": "imovirtual:t1-1-totalmente-remodelado-rio-tinto-areosa-900-particular-ID1iMbx",
     "b527c4fbb47fcab750688771": "supercasa:2252375",
     "b5999f5a034d26e833d28063": "supercasa:2271991",
@@ -6264,6 +6265,65 @@
       "title": "Apartamento T1k - junto ao ICBAS",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1k-junto-ao-icbas-ID1iMEC"
+    },
+    "imovirtual:apartamento-t2-1-1-linha-de-mar-mobilado-povoa-de-varzim-ID1iMRD": {
+      "area_m2": 90.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b3d25159664016d3e6b9c6b6",
+      "first_seen": "2026-08-24T17:09:31+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJvMmVtcDJvdjJyYjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BtKsrk8JjglpWllt9VP9hzc3wvxvIQwd_mcGUhrplEg/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T17:09:31+00:00",
+      "last_seen": "2026-08-24T17:09:31+00:00",
+      "latitude": 41.382347,
+      "local_median_price_per_m2": null,
+      "location": "Rua Professor Leopoldino Loureiro, Póvoa de Varzim, Beiriz e Argivai, Porto",
+      "longitude": -8.757549,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T17:09:31+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 16.67,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-24T16:36:10Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-1-1-linha-de-mar-mobilado-povoa-de-varzim-ID1iMRD",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1500.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2+1 1ª Linha de Mar Mobilado | Póvoa de Varzim",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-1-linha-de-mar-mobilado-povoa-de-varzim-ID1iMRD"
     },
     "imovirtual:apartamento-t2-1-arrendamento-avenida-da-boavista-bessa-leite-ID1iMFR": {
       "area_m2": 90.0,
