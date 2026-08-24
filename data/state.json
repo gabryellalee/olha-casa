@@ -29,6 +29,7 @@
     "0ecd13003627e9b168f7a66e": "supercasa:796945",
     "0f9e253a685b9a4e32bd81f5": "casa_sapo:alugar-casa-ferias",
     "0fce82d1890c0e3d0c9bde0b": "supercasa:2265498",
+    "0fe781d444e4313bffeca1a8": "imovirtual:apartamento-t2-junto-ao-hospital-de-santo-antonio-ID1iMX8",
     "1085640741166dc0d0cdb72e": "supercasa:2268447",
     "10a132f34550f8ea9c5cb3ba": "supercasa:2160475",
     "10d980bd16483914a9d8207d": "casa_sapo:77988b57-cfee-11ed-aeeb-060000000051",
@@ -74,6 +75,7 @@
     "2719a8d69cade936c92b3220": "supercasa:2237309",
     "273295e58865c7b43c340e75": "supercasa:2209773",
     "2770fcc060d556572b0f2505": "imovirtual:apartamento-t1-arrendamento-em-cidade-da-maia-maia-ID1iL7Q",
+    "27dca324e6d2682c98ba0cda": "custojusto:45211986",
     "27dd6cd19d85822d4fca9ac6": "supercasa:2230223",
     "2845de68a08431ecdf424314": "supercasa:2230742",
     "28edcf7aede11c6f336fbcfb": "casa_sapo:b291fbab98d6f208a343",
@@ -3374,6 +3376,69 @@
       "title": "T3 Duplex renovado no centro de Paredes",
       "typology": "T3",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t3-duplex-renovado-no-centro-d-45208783"
+    },
+    "custojusto:45211986": {
+      "area_m2": 20.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "ligação muito rápida ao ISCAP",
+        "algumas despesas incluídas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "27dca324e6d2682c98ba0cda",
+      "first_seen": "2026-08-24T23:32:09+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://prod-images.custojusto.pt/play/8949831293-t0-a-400m-estacao-metro-trindade.jpg",
+      "last_change": "2026-08-24T23:32:09+00:00",
+      "last_seen": "2026-08-24T23:32:09+00:00",
+      "latitude": 41.1567294164176,
+      "local_median_price_per_m2": 21.83,
+      "location": "Porto",
+      "longitude": -8.609016446332346,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 11,
+      "previous_price": 700.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T23:32:09+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 35.0,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 5.1,
+      "source": "custojusto",
+      "source_id": "45211986",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 A 400m Estação Metro Trindade | Apartamentos, T0 para arrendar | Porto | 45211986 | CustoJusto.pt",
+      "typology": "T0",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t0-a-400m-estacao-metro-trinda-45211986"
     },
     "imovirtual:aluga-apartamento-t1-1-ID1iMcM": {
       "area_m2": 76.0,
@@ -6746,6 +6811,64 @@
       "title": "Apartamento T2, com Terraço e Garagem, na 2.ª Linha do Mar, em Vila do",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-terraco-e-garagem-na-2-linha-do-mar-em-vila-do-ID1iMIA"
+    },
+    "imovirtual:apartamento-t2-junto-ao-hospital-de-santo-antonio-ID1iMX8": {
+      "area_m2": 115.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "0fe781d444e4313bffeca1a8",
+      "first_seen": "2026-08-24T23:32:09+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRxbXVsdXh2dzRmbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.b29wLe57T_ro6aePxGRlzF4OUq-IHpV-F3GTvYBVBq4/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T23:32:09+00:00",
+      "last_seen": "2026-08-24T23:32:09+00:00",
+      "latitude": 41.1507,
+      "local_median_price_per_m2": null,
+      "location": "Rua Calouste Gulbenkian, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.627124,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T23:32:09+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 12.17,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T22:51:17Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-junto-ao-hospital-de-santo-antonio-ID1iMX8",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1400.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 junto ao Hospital de Santo António",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-junto-ao-hospital-de-santo-antonio-ID1iMX8"
     },
     "imovirtual:apartamento-t2-mobilado-e-equipado-em-matosinhos-sul-ID1iMOs": {
       "area_m2": 93.0,
