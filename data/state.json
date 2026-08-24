@@ -269,6 +269,7 @@
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2260003",
     "90f7f70b68bbbe9c99118806": "casa_sapo:097862fa-c14a-11f0-8add-060000000054",
     "9303f119a507e0bb816c90d1": "supercasa:2265856",
+    "937d913767ca03e04756225a": "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi",
     "93840be35d25b2cf59ca7cd4": "supercasa:1528278",
     "948e17771007feb0790a859e": "supercasa:1387586",
     "94b9b853ff1980c3f0bb4810": "supercasa:2275000",
@@ -425,6 +426,7 @@
     "e1c5500271d7c7c671080627": "supercasa:2274728",
     "e1d5f32ccf4e8101055a438a": "imovirtual:arrenda-se-habitacao-ID1iMDO",
     "e22e105418a3f46a52d2ae2a": "supercasa:2242980",
+    "e36d5d31de474fb328c855e7": "imovirtual:t1-como-novo-junto-ao-el-corte-ingles-ID1iMQq",
     "e3b3d13e6bdb8526034e2ed7": "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y",
     "e3c77f6856ccb415710ee594": "supercasa:2239289",
     "e43131aebf534f7091360170": "imovirtual:apartamento-t1-com-varanda-e-garagem-em-paranhos-ID1iL1T",
@@ -452,6 +454,7 @@
     "f0eee1fc92927ad5a4346ade": "supercasa:2253666",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
     "f217c6b025514d279748da4f": "supercasa:2132752",
+    "f2933a58bfc3c805d919abd2": "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu",
     "f2cbf7adac0354c485f21d77": "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr",
     "f3627350e4019dd9c6847380": "supercasa:1044119",
     "f3c6d72efef811200dddbef8": "supercasa:2239375",
@@ -6785,6 +6788,65 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-novo-bessa-com-lugar-de-garagem-ID1iMG1"
     },
+    "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi": {
+      "area_m2": 150.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "937d913767ca03e04756225a",
+      "first_seen": "2026-08-24T16:08:15+00:00",
+      "first_seen_at": null,
+      "floor": 24,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im01a2VvbXF0bWJlajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.0rt84Q9GzFS37oxKO05wi4B6G8kWYomEBB63_6_4wuE/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T16:08:15+00:00",
+      "last_seen": "2026-08-24T16:08:15+00:00",
+      "latitude": 41.1318,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova de Gaia, Oliveira do Douro, Porto",
+      "longitude": -8.587532,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T16:08:15+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 9.33,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T15:53:15Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1400.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T4 para Arrendar em Oliveira do Douro",
+      "typology": "T4",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi"
+    },
     "imovirtual:arrenda-se-apartamento-t1-1-open-space-telemovel-ID1iMaO": {
       "area_m2": 80.0,
       "decision_reasons": [
@@ -8630,6 +8692,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe"
     },
+    "imovirtual:t1-como-novo-junto-ao-el-corte-ingles-ID1iMQq": {
+      "area_m2": 38.5,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e36d5d31de474fb328c855e7",
+      "first_seen": "2026-08-24T16:08:15+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc4eDRuNWN6bHFuZC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.-ov6eeWNtyfH3WUeUDLKNy5hOy_L1ulMvx04I3cFZ5Y/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T16:08:15+00:00",
+      "last_seen": "2026-08-24T16:08:15+00:00",
+      "latitude": 41.125298,
+      "local_median_price_per_m2": 16.67,
+      "location": "Vila Nova de Gaia, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.601839,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T16:08:15+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 23.38,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-24T15:59:24Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-como-novo-junto-ao-el-corte-ingles-ID1iMQq",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 como novo, junto ao El Corte Inglês",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-como-novo-junto-ao-el-corte-ingles-ID1iMQq"
+    },
     "imovirtual:t1-da-rua-miguel-bombarda-jaime-rios-de-sousa-ID1iMIq": {
       "area_m2": 80.0,
       "decision_reasons": [
@@ -9650,6 +9771,64 @@
       "title": "T1 remodelado-Aver-o-Mar-Póvoa de Varzim",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc"
+    },
+    "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu": {
+      "area_m2": 232.9,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f2933a58bfc3c805d919abd2",
+      "first_seen": "2026-08-24T16:08:15+00:00",
+      "first_seen_at": null,
+      "floor": 232,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUyNGR2YTAxYW9lYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.OfzDJev_OQrP7L2S9DgDCnWRh_bD9-ZXZ16kBrp1v-g/image;s=2048x1536;q=80",
+      "last_change": "2026-08-24T16:08:15+00:00",
+      "last_seen": "2026-08-24T16:08:15+00:00",
+      "latitude": 41.15756,
+      "local_median_price_per_m2": null,
+      "location": "Rua Venezuela, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.64212,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 3750.0,
+      "price_history": [
+        {
+          "at": "2026-08-24T16:08:15+00:00",
+          "price": 3750.0
+        }
+      ],
+      "price_per_m2": 16.1,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-24T15:59:52Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3750.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3+1 Duplex no último piso, com amplos terraços e 3 lugares de garagem",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu"
     },
     "supercasa:1028028": {
       "area_m2": 41.0,
