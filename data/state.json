@@ -354,6 +354,7 @@
     "a4874317e268c5b3cf0fcce6": "supercasa:1706952",
     "a498708becc3f21954a8734c": "custojusto:43028726",
     "a49e1de74addb81cd585d36d": "imovirtual:apartamento-t1-paranhos-polo-univ-ID1iMIt",
+    "a4d416bac8c1538af7497736": "imovirtual:casa-t1-para-alugar-ID1iNfO",
     "a5437f7cbbb313ff0989abc5": "imovirtual:t1-povoa-de-varzim-verao-ID1iMAj",
     "a573259b7dff0d5ed0df9139": "supercasa:2240076",
     "a5ef3596e09fc210ed86e95a": "supercasa:2250296",
@@ -399,6 +400,7 @@
     "bab150e55b92167180939d8a": "supercasa:2190955",
     "bab70387bb3bd47312374907": "supercasa:2237795",
     "babb6e4ce2842d29fb0e6753": "imovirtual:ref-4250-t1-c-mob-a-baixa-do-porto-ID1iLw7",
+    "baead7caa6d65bfd34db8a98": "supercasa:2260221",
     "bb2755aa342d1a7d767d2e4a": "imovirtual:apartamento-t1-novo-com-varanda-e-garagem-asprela-easy-ID1iM3R",
     "bbaecb8bb558c118c6bb171e": "supercasa:2207631",
     "bc6e7a593d20ec660172ac30": "supercasa:30272",
@@ -505,6 +507,7 @@
     "e590dc3c42e82fc3b7efb239": "supercasa:2270969",
     "e5c54b92a8efd02e6e6612cd": "imovirtual:t1-mobilado-polo-univerditario-hospital-s-joao-novo-ID1iM0A",
     "e63a4fc9b5a7ac97ac20c2d9": "imovirtual:t1-luxo-condominio-fechado-primeira-linha-de-rio-ID1iLif",
+    "e655b1e9c344d1b4650d4e95": "supercasa:1448027",
     "e6cce362eab3f493ef496e51": "supercasa:2028525",
     "e6ee25097dbee9131e04bc1f": "casa_sapo:alugar-quartos",
     "e75a9c5ab503597231d2fc68": "supercasa:1539155",
@@ -525,6 +528,7 @@
     "f03bbd3bbc3b6727b368967b": "imovirtual:t4-de-luxo-living-sea-canidelo-arrendamento-foz-de-gaia-ID1iN7I",
     "f0eee1fc92927ad5a4346ade": "supercasa:2253666",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
+    "f1fc3d53c60b20ded2a280fd": "supercasa:2277743",
     "f217c6b025514d279748da4f": "supercasa:2132752",
     "f2933a58bfc3c805d919abd2": "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu",
     "f2cbf7adac0354c485f21d77": "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr",
@@ -9052,6 +9056,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/canidelo-t1-com-varandas-no-flower-tower-ID1iLvK"
     },
+    "imovirtual:casa-t1-para-alugar-ID1iNfO": {
+      "area_m2": 1.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "a4d416bac8c1538af7497736",
+      "first_seen": "2026-08-25T21:39:34+00:00",
+      "first_seen_at": null,
+      "floor": 25,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdiM2NpeXl1bnB3cDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.x6LCKcFLO1O4WrtMqZ6PkeqXZbl2CLrlwh4mYPfx8hM/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T21:39:34+00:00",
+      "last_seen": "2026-08-25T21:39:34+00:00",
+      "latitude": 41.35405,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua de Cepos, Margaride, Várzea, Lagares, Varziela e Moure, Porto",
+      "longitude": -8.20527,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 370.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T21:39:34+00:00",
+          "price": 370.0
+        }
+      ],
+      "price_per_m2": 370.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T20:58:40Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "casa-t1-para-alugar-ID1iNfO",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Casa T1 para alugar",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/casa-t1-para-alugar-ID1iNfO"
+    },
     "imovirtual:casinha-t2-mezanino-gaia-devesas-ID1iMDI": {
       "area_m2": 80.0,
       "decision_reasons": [
@@ -13285,6 +13347,64 @@
       "title": "Apartamento T2 na Rua Engenheiro Losa Faria",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-esposende/i1444434"
+    },
+    "supercasa:1448027": {
+      "area_m2": 123.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "e655b1e9c344d1b4650d4e95",
+      "first_seen": "2026-08-25T21:39:34+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4384/P24530938/Tphoto/IDfa4f7601-0000-0500-0000-00001260941f.jpg",
+      "last_change": "2026-08-25T21:39:34+00:00",
+      "last_seen": "2026-08-25T21:39:34+00:00",
+      "latitude": 41.1605336,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6099281,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 2000.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T21:39:34+00:00",
+          "price": 2000.0
+        }
+      ],
+      "price_per_m2": 16.26,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1448027",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3+1 na Rua de São Brás",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i1448027"
     },
     "supercasa:1528278": {
       "area_m2": 80.0,
@@ -27529,6 +27649,65 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2260163"
     },
+    "supercasa:2260221": {
+      "area_m2": 126.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "baead7caa6d65bfd34db8a98",
+      "first_seen": "2026-08-25T21:39:34+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C6541/P30710616/Tphoto/ID589bd401-0000-0500-0000-00001a029cb2.jpg",
+      "last_change": "2026-08-25T21:39:34+00:00",
+      "last_seen": "2026-08-25T21:39:34+00:00",
+      "latitude": 41.06977,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.65226,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 1375.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T21:39:34+00:00",
+          "price": 1375.0
+        }
+      ],
+      "price_per_m2": 10.91,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2260221",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 na Avenida Gago Coutinho",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2260221"
+    },
     "supercasa:2260405": {
       "area_m2": 40.0,
       "decision_reasons": [
@@ -33511,6 +33690,64 @@
       "title": "Apartamento T2 em Cidade da Maia",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-maia/i2277637"
+    },
+    "supercasa:2277743": {
+      "area_m2": 89.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "f1fc3d53c60b20ded2a280fd",
+      "first_seen": "2026-08-25T21:39:34+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1509190/P2277743/Tphoto/ID86604759-6f20-4a32-b666-5913aa8019ca.jpg",
+      "last_change": "2026-08-25T21:39:34+00:00",
+      "last_seen": "2026-08-25T21:39:34+00:00",
+      "latitude": 41.167707037,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6326493892,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2000.0,
+      "price": 1350.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T21:39:34+00:00",
+          "price": 1350.0
+        }
+      ],
+      "price_per_m2": 15.17,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2277743",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1350.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua do Lugarinho",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2277743"
     },
     "supercasa:2277883": {
       "area_m2": 120.0,
