@@ -104,6 +104,7 @@
     "31e503cdf1764c0f0def8b8c": "supercasa:2229155",
     "32408c88594dc58db51eef22": "supercasa:2266254",
     "33ab703b5df73aa8343ace6d": "supercasa:2129347",
+    "34450aed7997c06626254f84": "imovirtual:apartamento-t3-com-duas-varandas-novo-ID1iN6s",
     "352e2664fd5d62729fca8818": "imovirtual:apartamento-t1-mobilado-junto-a-escola-amadeu-sousa-cardoso-em-teloes-ID1iMzh",
     "354c83afc24e2b429718a8ed": "supercasa:2233038",
     "355c217dac9461e3cf5cd1ba": "supercasa:2235035",
@@ -156,6 +157,7 @@
     "49a53dc86bd9b24a4bcf6a02": "supercasa:639657",
     "4a004533e3e3e026244c0476": "supercasa:2221449",
     "4a9003a3c8f85d5badae558f": "supercasa:2251762",
+    "4b271d68c19cd3da485388c8": "supercasa:2152594",
     "4bca758148b6b2b8cad5d1ed": "supercasa:2253055",
     "4d0d4fd36265a37567d937a1": "supercasa:2205618",
     "4df0cdaa172aa044ee6cd558": "supercasa:2275474",
@@ -190,6 +192,7 @@
     "5c320b1afee066a3a649ae04": "custojusto:45191233",
     "5ce57728c0d8d2419b191d9e": "supercasa:2167206",
     "5cfabd932a6d5effca3040f3": "supercasa:2271993",
+    "5e3069fb295557620186ffa1": "imovirtual:apartamento-t3-para-arrendamento-ID1iN6W",
     "5e32320ae88001d88f6f944f": "supercasa:2277629",
     "5e3e120cabb7fa03c21f6706": "supercasa:2246259",
     "608d8ac71e8e855ddf941d7e": "supercasa:2244980",
@@ -345,6 +348,7 @@
     "a7f5eb6272d4d082e3adb898": "supercasa:2220442",
     "a82abd691c4708aa66ff08cd": "casa_sapo:b15af791-569b-11eb-a7a4-060000000051",
     "a881ca9ba98db9f5eec8705a": "supercasa:2247132",
+    "a8b4b1e90a97e8530d0ab573": "imovirtual:apartamento-boavista-porto-ID1iN69",
     "a8d2786d4242ec1a4c8a2e57": "supercasa:2270508",
     "a910b9ea5d667b44e9705a67": "supercasa:2191889",
     "a93d68fd417a82d4de328ee4": "supercasa:2044255",
@@ -418,6 +422,7 @@
     "cbda1f7ee5a01b9fd609706e": "custojusto:44962585",
     "cc41df0bc22bc1c2fc72c888": "casa_sapo:alugar-quartos",
     "ccc3a5490b6fa1f9ae266057": "supercasa:2016886",
+    "cd6a6145e0688728eff8c0f4": "supercasa:2097920",
     "cd834b238ef79cc6a6f6d9c4": "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iMhB",
     "cd9d4fd05098f4be394354e9": "supercasa:2233610",
     "cdb1c75de16276fd855d2b80": "supercasa:2063702",
@@ -434,6 +439,7 @@
     "d400d6be331b5bcdded1419b": "supercasa:2268464",
     "d4cf64cabb3222772626d315": "supercasa:2256658",
     "d4d8de8b3dc98b752d68a2b5": "supercasa:656466",
+    "d5dab899e1ae83e8e2b5bd6f": "supercasa:2277883",
     "d66502ffdc2b1e2df83a2dfe": "supercasa:2261427",
     "d67d81fd675cc572c437575d": "supercasa:2234738",
     "d7273d1c1af5461d5e55d2ce": "imovirtual:t1-pronto-a-habitar-com-garagem-junto-ao-hospital-de-sao-joao-e-polo-ID1iM6I",
@@ -3932,6 +3938,66 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/andar-moradia-senhora-da-hora-ID1iMJj"
     },
+    "imovirtual:apartamento-boavista-porto-ID1iN69": {
+      "area_m2": 108.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "a8b4b1e90a97e8530d0ab573",
+      "first_seen": "2026-08-25T14:26:07+00:00",
+      "first_seen_at": null,
+      "floor": 25,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR1cW5xMjZhczBkcTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.SQXNhbnofF-Tbkk8FjR13qnF7XFo8_ZIe1s2JZOFBXs/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T14:26:07+00:00",
+      "last_seen": "2026-08-25T14:26:07+00:00",
+      "latitude": 41.15085,
+      "local_median_price_per_m2": null,
+      "location": "Rua Arrábida, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.64535,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 1700.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T14:26:07+00:00",
+          "price": 1700.0
+        }
+      ],
+      "price_per_m2": 15.74,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T13:45:31Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-boavista-porto-ID1iN69",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento Boavista-Porto",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-boavista-porto-ID1iN69"
+    },
     "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iLIa": {
       "area_m2": 43.0,
       "decision_reasons": [
@@ -7424,6 +7490,64 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-a-piscina-da-constituicao-e-metro-carolina-michaelis-ID1iMF7"
     },
+    "imovirtual:apartamento-t3-com-duas-varandas-novo-ID1iN6s": {
+      "area_m2": 151.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "34450aed7997c06626254f84",
+      "first_seen": "2026-08-25T14:26:07+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1lenMwNWd1eGF3YjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9PTQjybUDISyrKA6zVUVLT4cnwXv5FPf_eYdc1yavaE/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T14:26:07+00:00",
+      "last_seen": "2026-08-25T14:26:07+00:00",
+      "latitude": 41.170284,
+      "local_median_price_per_m2": null,
+      "location": "Travessa Egas Moniz, Fânzeres e São Pedro da Cova, Porto",
+      "longitude": -8.521679,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T14:26:07+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 8.61,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T13:56:03Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-com-duas-varandas-novo-ID1iN6s",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3900.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T3 com Duas Varandas | Novo",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-com-duas-varandas-novo-ID1iN6s"
+    },
     "imovirtual:apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE": {
       "area_m2": 110.0,
       "decision_reasons": [
@@ -7539,6 +7663,66 @@
       "title": "Apartamento T3 novo Bessa com lugar de garagem",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-novo-bessa-com-lugar-de-garagem-ID1iMG1"
+    },
+    "imovirtual:apartamento-t3-para-arrendamento-ID1iN6W": {
+      "area_m2": 99.1,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5e3069fb295557620186ffa1",
+      "first_seen": "2026-08-25T14:26:07+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJnZWdvZ2xzamVpby1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.2KzZSnWTrkrM0ZyodFs_V4bHeBADlI9SA9vnVkT2hVQ/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T14:26:07+00:00",
+      "last_seen": "2026-08-25T14:26:07+00:00",
+      "latitude": 41.156178,
+      "local_median_price_per_m2": null,
+      "location": "Rua Ruben A, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.644151,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1550.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T14:26:07+00:00",
+          "price": 1550.0
+        }
+      ],
+      "price_per_m2": 15.64,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T14:08:31Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-para-arrendamento-ID1iN6W",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1550.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iN6W"
     },
     "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi": {
       "area_m2": 150.0,
@@ -15897,6 +16081,64 @@
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2097918"
     },
+    "supercasa:2097920": {
+      "area_m2": 139.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "cd6a6145e0688728eff8c0f4",
+      "first_seen": "2026-08-25T14:26:07+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C15508/P28844103/Tphoto/ID4720b801-0000-0500-0000-0000188d147a.jpg",
+      "last_change": "2026-08-25T14:26:07+00:00",
+      "last_seen": "2026-08-25T14:26:07+00:00",
+      "latitude": 41.5586433,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Famalicão",
+      "longitude": -8.421953,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T14:26:07+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 10.79,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2097920",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em São Vicente",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-braga/i2097920"
+    },
     "supercasa:2111547": {
       "area_m2": 835.0,
       "decision_reasons": [
@@ -16789,6 +17031,71 @@
       "title": "Apartamento T4 em Bonfim",
       "typology": "T4",
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-porto/i2148132"
+    },
+    "supercasa:2152594": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "bom preço por m² face à amostra",
+        "ligação aceitável ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4b271d68c19cd3da485388c8",
+      "first_seen": "2026-08-25T14:26:07+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C7635/P29521321/Tphoto/IDa975c201-0000-0500-0000-00001895f483.jpg",
+      "last_change": "2026-08-25T14:26:07+00:00",
+      "last_seen": "2026-08-25T14:26:07+00:00",
+      "latitude": 41.24571,
+      "local_median_price_per_m2": 16.95,
+      "location": "Porto",
+      "longitude": -8.618267,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 21,
+      "previous_price": 1100.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T14:26:07+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 14.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": true,
+      "score": 7.4,
+      "source": "supercasa",
+      "source_id": "2152594",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento na Rua de David Pereira da Silva",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-maia/i2152594"
     },
     "supercasa:2152596": {
       "area_m2": 122.0,
@@ -31823,6 +32130,64 @@
       "title": "Apartamento T1 na Rua do Centro",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-matosinhos/i2277629"
+    },
+    "supercasa:2277883": {
+      "area_m2": 120.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "d5dab899e1ae83e8e2b5bd6f",
+      "first_seen": "2026-08-25T14:26:07+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1509285/P2277883/Tphoto/ID1c620fd6-b037-4b54-84cb-3f95cb2f09a4.jpg",
+      "last_change": "2026-08-25T14:26:07+00:00",
+      "last_seen": "2026-08-25T14:26:07+00:00",
+      "latitude": 41.18857,
+      "local_median_price_per_m2": null,
+      "location": "Senhora Da Hora",
+      "longitude": -8.66092,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1200.0,
+      "price": 2000.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T14:26:07+00:00",
+          "price": 2000.0
+        }
+      ],
+      "price_per_m2": 16.67,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2277883",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 na Avenida Calouste Gulbenkian",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-matosinhos/i2277883"
     },
     "supercasa:30272": {
       "area_m2": 50.0,
