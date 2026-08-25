@@ -107,6 +107,7 @@
     "352e2664fd5d62729fca8818": "imovirtual:apartamento-t1-mobilado-junto-a-escola-amadeu-sousa-cardoso-em-teloes-ID1iMzh",
     "354c83afc24e2b429718a8ed": "supercasa:2233038",
     "355c217dac9461e3cf5cd1ba": "supercasa:2235035",
+    "3579f203615bdacd1746dc17": "imovirtual:apartamento-t2-para-arrendamento-ID1iN2e",
     "35a117a9c3304240d74aedbe": "supercasa:2269090",
     "36288e048b07c9cffa3feaa0": "supercasa:2269179",
     "370ee4be92df0434193bce9c": "custojusto:45109513",
@@ -257,6 +258,7 @@
     "818c9fe8f39e9cf2c240ba2f": "supercasa:1764612",
     "81c06101eac4a37b403161e7": "imovirtual:excelente-t1-c-box-e-com-terraco-ID1iLis",
     "824d70cbd71ed065a1cf17e4": "casa_sapo:alugar-casa-ferias",
+    "829be16c5050251e77b46381": "imovirtual:t1-renovado-para-arrendamento-valbom-ID1iN1D",
     "82acdace261cc45802d6cb6f": "supercasa:2259104",
     "82ec8d7f09c60c0ab4f68bbe": "supercasa:1744893",
     "832d2f704c2dab563d36c810": "imovirtual:alugo-t1-ermesinde-ID1iMBY",
@@ -384,6 +386,7 @@
     "bf7c80c9f9f96ce14b5e4ce6": "custojusto:44936959",
     "c037f9a1a7e86f05bd48463d": "supercasa:2257157",
     "c03ed4b69c39c9cd15ebada4": "supercasa:2274705",
+    "c071237b6ea33f5e60df6579": "imovirtual:pequena-casa-para-arrendar-ID1iN33",
     "c08f7efeb12aae09494afb69": "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2",
     "c0fb7577e8b9b7d4250ca8ad": "supercasa:2243067",
     "c210003cfebade45cc32d8aa": "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN",
@@ -451,6 +454,7 @@
     "dd757707e990bde56950d161": "supercasa:1393953",
     "de975ebd708d1b128a76782a": "imovirtual:apartamento-t0-com-ar-condicionado-em-cedofeita-ID1iMXO",
     "decc50a2dfca6d6f5f470671": "casa_sapo:55a775b5-8cc7-11f1-9c13-060000000051",
+    "ded314891c046beba16b6500": "imovirtual:t0-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iN3f",
     "df017e7fcb9d631f204d1e09": "supercasa:2249848",
     "df9e2853835787931acd89cf": "supercasa:2264172",
     "dfde41fe91a62875de1d37a8": "supercasa:1865111",
@@ -504,6 +508,7 @@
     "f48a44784a1dd956aae2d075": "casa_sapo:6316b384-544d-11f1-9c13-060000000051",
     "f4f030909e0c500a18b10e4f": "supercasa:2262105",
     "f55cd973a62fbc4fe381f545": "imovirtual:andar-moradia-c-parque-privado-4-carros-ID1iMGt",
+    "f57bb7677ab05909936541e6": "imovirtual:apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d",
     "f5ccb560b0f7aa4f66afc1d7": "supercasa:1286018",
     "f5f0f2d306584b007dc6dbf5": "supercasa:1603956",
     "f66d9beb5cc2d477eaf1fbf4": "supercasa:1367925",
@@ -4344,6 +4349,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-se-porto-ID1iLIt"
     },
+    "imovirtual:apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d": {
+      "area_m2": 102.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f57bb7677ab05909936541e6",
+      "first_seen": "2026-08-25T11:38:55+00:00",
+      "first_seen_at": null,
+      "floor": 25,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVxdDlsMDgxY2l4bzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Rc0P7x1HrLgxROLzGW7bkSNzWdiUnWwAZINyQN6M-wc/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T11:38:55+00:00",
+      "last_seen": "2026-08-25T11:38:55+00:00",
+      "latitude": 41.35399,
+      "local_median_price_per_m2": null,
+      "location": "Rua Doutor Pereira Júnior, Vila do Conde, Porto",
+      "longitude": -8.74717,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T11:38:55+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 10.78,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T11:12:04Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento com terraço, junto ao forte de S. João em Vila do Conde.",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d"
+    },
     "imovirtual:apartamento-com-terraco-um-quarto-centro-do-porto-ID1iMyW": {
       "area_m2": 47.0,
       "decision_reasons": [
@@ -7068,6 +7132,65 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-e-equipado-em-matosinhos-sul-ID1iMOs"
     },
+    "imovirtual:apartamento-t2-para-arrendamento-ID1iN2e": {
+      "area_m2": 85.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3579f203615bdacd1746dc17",
+      "first_seen": "2026-08-25T11:38:55+00:00",
+      "first_seen_at": null,
+      "floor": 25,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRxZXU3bzFhbmozODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BIL8eMibDbAicDmpcgWmQnVvsSQsI4Xuacw1J3pHRtk/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T11:38:55+00:00",
+      "last_seen": "2026-08-25T11:38:55+00:00",
+      "latitude": 41.126087,
+      "local_median_price_per_m2": null,
+      "location": "Rua São Cristovão Mafamude, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.60325,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T11:38:55+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 12.94,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T11:12:07Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-para-arrendamento-ID1iN2e",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 2200.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 60,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 para arrendamento",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iN2e"
+    },
     "imovirtual:apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm": {
       "area_m2": 90.0,
       "decision_reasons": [
@@ -8905,6 +9028,68 @@
       "typology": "T5",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t5-mobilada-237-m2-garagem-anexos-jardim-centro-rio-tinto-ID1iMXj"
     },
+    "imovirtual:pequena-casa-para-arrendar-ID1iN33": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "boa ligação de carro ao ISCAP"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c071237b6ea33f5e60df6579",
+      "first_seen": "2026-08-25T11:38:55+00:00",
+      "first_seen_at": null,
+      "floor": 25,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF1bmV5NjQyY3Q4cTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lG2yBrYoeGRc5KU3-PVh7QAk-BM54G9uCYZ4wUYLtj8/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T11:38:55+00:00",
+      "last_seen": "2026-08-25T11:38:55+00:00",
+      "latitude": 41.17138,
+      "local_median_price_per_m2": 17.0,
+      "location": "Beco Carreiras, Aldoar, Foz do Douro e Nevogilde, Porto",
+      "longitude": -8.67131,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 16,
+      "previous_price": null,
+      "price": 600.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T11:38:55+00:00",
+          "price": 600.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T11:27:56Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 5.1,
+      "source": "imovirtual",
+      "source_id": "pequena-casa-para-arrendar-ID1iN33",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Pequena casa para arrendar",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/pequena-casa-para-arrendar-ID1iN33"
+    },
     "imovirtual:porto-apartamento-t1-arca-de-agua-ID1iLEB": {
       "area_m2": 70.0,
       "decision_reasons": [
@@ -9330,6 +9515,65 @@
       "title": "T0 para arrendar junto Metro Trindade",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/t0-para-arrendar-junto-metro-trindade-ID1iMXg"
+    },
+    "imovirtual:t0-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iN3f": {
+      "area_m2": 76.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "ded314891c046beba16b6500",
+      "first_seen": "2026-08-25T11:38:55+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZxaXJidmp4YXNidy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.9IGttjWRrLkMvAK9ivvgwoQ-UPqZUdWjEMZMwrWLfIk/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T11:38:55+00:00",
+      "last_seen": "2026-08-25T11:38:55+00:00",
+      "latitude": 41.12574,
+      "local_median_price_per_m2": 21.75,
+      "location": "Vila Nova de Gaia, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.600074,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 950.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T11:38:55+00:00",
+          "price": 950.0
+        }
+      ],
+      "price_per_m2": 12.5,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T11:31:53Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t0-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iN3f",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 950.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 para arrendar próximo ao El Corte Inglés, Gaia",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/t0-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iN3f"
     },
     "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0": {
       "area_m2": 91.0,
@@ -10707,6 +10951,64 @@
       "title": "T1 remodelado-Aver-o-Mar-Póvoa de Varzim",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc"
+    },
+    "imovirtual:t1-renovado-para-arrendamento-valbom-ID1iN1D": {
+      "area_m2": 1.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "829be16c5050251e77b46381",
+      "first_seen": "2026-08-25T11:38:55+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM4YjF2NWg1djZ3LUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.8M5ldnVB3lZC2z_wTJ14E0vTX_8Y7-2cbdEV1qO5P3k/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T11:38:55+00:00",
+      "last_seen": "2026-08-25T11:38:55+00:00",
+      "latitude": 41.13156,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua Pereiro, Gondomar (São Cosme), Valbom e Jovim, Porto",
+      "longitude": -8.53001,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T11:38:55+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 700.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T10:46:22Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-renovado-para-arrendamento-valbom-ID1iN1D",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1000.0,
+        "deposits": 1,
+        "entry_total": 1000.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 Renovado para arrendamento | Valbom",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-renovado-para-arrendamento-valbom-ID1iN1D"
     },
     "imovirtual:t2-em-salgueiros-ID1iMTc": {
       "area_m2": 101.0,
