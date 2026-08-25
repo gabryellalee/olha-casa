@@ -286,6 +286,7 @@
     "901e5b248fd47587513a725f": "supercasa:2244858",
     "90b30e8698fd074eb29f6991": "supercasa:2252951",
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2260003",
+    "90db349f8cde414e8a7f5fde": "imovirtual:apartamento-t1-porto-marques-ID1iMZa",
     "90f7f70b68bbbe9c99118806": "casa_sapo:097862fa-c14a-11f0-8add-060000000054",
     "9303f119a507e0bb816c90d1": "supercasa:2265856",
     "937d913767ca03e04756225a": "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi",
@@ -6423,6 +6424,64 @@
       "title": "Apartamento T1, Paranhos (polo univ.)",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-paranhos-polo-univ-ID1iMIt"
+    },
+    "imovirtual:apartamento-t1-porto-marques-ID1iMZa": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "90db349f8cde414e8a7f5fde",
+      "first_seen": "2026-08-25T09:48:53+00:00",
+      "first_seen_at": null,
+      "floor": 25,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijg5eGJucHA4eDI2ODEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.s5-iWQxkKSXhyJv_tBuZT-7pCMsGVjpiVeS4CdSjilA/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T09:48:53+00:00",
+      "last_seen": "2026-08-25T09:48:53+00:00",
+      "latitude": 41.17627,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
+      "longitude": -8.60747,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 790.0,
+      "price": 875.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T09:48:53+00:00",
+          "price": 875.0
+        }
+      ],
+      "price_per_m2": 17.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T09:17:24Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-porto-marques-ID1iMZa",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 3500.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1, Porto, Marquês",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-porto-marques-ID1iMZa"
     },
     "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2": {
       "area_m2": 60.0,
