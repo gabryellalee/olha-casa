@@ -14,6 +14,7 @@
     "03ff9903bc9063a246bd87d7": "supercasa:2241544",
     "041b54d873a5c68fbee9d9fc": "supercasa:2135235",
     "04473705ca064a66a86eed20": "imovirtual:apartamento-t1-com-lugar-de-garagem-ID1iKXb",
+    "05cec46608a86b05a4ca5f95": "supercasa:2194011",
     "05fb5af58a12f90ee0d87527": "supercasa:2247278",
     "07854119f7c967bded6ee9b0": "supercasa:2239485",
     "086b16d6e8b2c729e0c74b6b": "supercasa:2255772",
@@ -129,6 +130,7 @@
     "39ce12c465ca8e9840a4b546": "supercasa:2263206",
     "3a597d4dde5d03414cf64a01": "supercasa:2231285",
     "3a63488759b3d2316ca93967": "supercasa:2266027",
+    "3a73af2de002cf40ebb01239": "supercasa:700205",
     "3c11d32e6b428b38c598f348": "imovirtual:apartamento-no-centro-do-porto-ID1iLzx",
     "3c24af0e21314898c5149df8": "supercasa:2239528",
     "3c60f2e4afb60e4d40952a37": "imovirtual:t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI",
@@ -330,6 +332,7 @@
     "9bd40d642bd60327000535f3": "imovirtual:t1-em-leca-da-palmeira-ID1iMVR",
     "9c75d53c6d419665d981d3f4": "imovirtual:apartamento-t1-para-arrendamento-ID1iLNo",
     "9d2bfe53c9fb4832dac0a67e": "supercasa:2263987",
+    "9d5a335f77d62c24d3c9669c": "supercasa:2246381",
     "9dd20c88bc01e0e7464b3348": "supercasa:2275380",
     "9e29670b36787d9d968083c3": "supercasa:2266977",
     "9ed1b56dd59027aaca766824": "supercasa:2275646",
@@ -18891,6 +18894,64 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-moradia-t3-porto/i2191889"
     },
+    "supercasa:2194011": {
+      "area_m2": 93.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "05cec46608a86b05a4ca5f95",
+      "first_seen": "2026-08-25T18:02:07+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12329/P30020941/Tphoto/ID4d15ca01-0000-0500-0000-0000194dc5c0.jpg",
+      "last_change": "2026-08-25T18:02:07+00:00",
+      "last_seen": "2026-08-25T18:02:07+00:00",
+      "latitude": 41.18407,
+      "local_median_price_per_m2": null,
+      "location": "Matosinhos",
+      "longitude": -8.6923,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": 775.0,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T18:02:07+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 12.37,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2194011",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua 1º de Dezembro",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2194011"
+    },
     "supercasa:2196582": {
       "area_m2": 130.0,
       "decision_reasons": [
@@ -24436,6 +24497,64 @@
       "title": "Apartamento T2 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2246259"
+    },
+    "supercasa:2246381": {
+      "area_m2": 168.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "9d5a335f77d62c24d3c9669c",
+      "first_seen": "2026-08-25T18:02:07+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C5673/P30629178/Tphoto/ID3a5dd301-0000-0500-0000-000019e6befc.jpg",
+      "last_change": "2026-08-25T18:02:07+00:00",
+      "last_seen": "2026-08-25T18:02:07+00:00",
+      "latitude": 41.1828381273,
+      "local_median_price_per_m2": null,
+      "location": "Matosinhos",
+      "longitude": -8.688833733,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 3500.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T18:02:07+00:00",
+          "price": 3500.0
+        }
+      ],
+      "price_per_m2": 20.83,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2246381",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T3 Triplex em Matosinhos",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-moradia-t3-matosinhos/i2246381"
     },
     "supercasa:2246570": {
       "area_m2": 75.0,
@@ -33503,6 +33622,64 @@
       "title": "Apartamento T2 na Rua do Duque de Saldanha",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i656466"
+    },
+    "supercasa:700205": {
+      "area_m2": 193.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3a73af2de002cf40ebb01239",
+      "first_seen": "2026-08-25T18:02:07+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12329/P22651461/Tphoto/ID45a25901-0000-0500-0000-000019c926f0.jpg",
+      "last_change": "2026-08-25T18:02:07+00:00",
+      "last_seen": "2026-08-25T18:02:07+00:00",
+      "latitude": 41.1942904,
+      "local_median_price_per_m2": null,
+      "location": "Leça Da Palmeira",
+      "longitude": -8.6915024,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2350.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T18:02:07+00:00",
+          "price": 2350.0
+        }
+      ],
+      "price_per_m2": 12.18,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "700205",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T4 na Rua Carlos Alberto Morais",
+      "typology": "T4",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t4-matosinhos/i700205"
     },
     "supercasa:704439": {
       "area_m2": 110.0,
