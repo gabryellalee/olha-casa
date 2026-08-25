@@ -14,6 +14,7 @@
     "03ff9903bc9063a246bd87d7": "supercasa:2241544",
     "041b54d873a5c68fbee9d9fc": "supercasa:2135235",
     "04473705ca064a66a86eed20": "imovirtual:apartamento-t1-com-lugar-de-garagem-ID1iKXb",
+    "046a232a2a6de4bbbb9f715f": "imovirtual:apartamento-t1-para-arrendamento-ID1iNfw",
     "05cec46608a86b05a4ca5f95": "supercasa:2194011",
     "05fb5af58a12f90ee0d87527": "supercasa:2247278",
     "07854119f7c967bded6ee9b0": "supercasa:2239485",
@@ -40,6 +41,7 @@
     "10d980bd16483914a9d8207d": "casa_sapo:77988b57-cfee-11ed-aeeb-060000000051",
     "10f8c570d58fd767cf257155": "imovirtual:apartamento-t1-res-do-chao-ID1iM38",
     "117aac4909ebbcb1680c216c": "imovirtual:apartamento-t1-1-ID1iMWy",
+    "1195ce24508ce9b96854d742": "imovirtual:t0-a-50m-da-praia-mobilado-e-equipado-ID1iNfu",
     "11a611fb049aba6681d1e919": "supercasa:2225133",
     "11f5b17101a6f9ed281474ef": "supercasa:2275297",
     "132d76aa5bf312ae0daca7fa": "supercasa:2237807",
@@ -6696,6 +6698,71 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iNer"
     },
+    "imovirtual:apartamento-t1-para-arrendamento-ID1iNfw": {
+      "area_m2": 48.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "ligação aceitável ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "cozinha equipada"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "046a232a2a6de4bbbb9f715f",
+      "first_seen": "2026-08-25T20:42:41+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRsYm5paDBqeG1vYTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.JmR3WrmnkQUvtJrOZpRwxBytGePA7GSnyb-lKeyj8rM/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T20:42:41+00:00",
+      "last_seen": "2026-08-25T20:42:41+00:00",
+      "latitude": 41.19757,
+      "local_median_price_per_m2": 16.95,
+      "location": "Praceta Helena Vaz da Silva, Valongo, Porto",
+      "longitude": -8.493875,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 25,
+      "previous_price": 850.0,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T20:42:41+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 15.62,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T20:11:18Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 6.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-ID1iNfw",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 750.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iNfw"
+    },
     "imovirtual:apartamento-t1-paranhos-polo-univ-ID1iMIt": {
       "area_m2": 38.0,
       "decision_reasons": [
@@ -10003,6 +10070,64 @@
       "title": "REF#4250 - T1 C/Mob. – À Baixa do Porto",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/ref-4250-t1-c-mob-a-baixa-do-porto-ID1iLw7"
+    },
+    "imovirtual:t0-a-50m-da-praia-mobilado-e-equipado-ID1iNfu": {
+      "area_m2": 25.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "1195ce24508ce9b96854d742",
+      "first_seen": "2026-08-25T20:42:41+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRvcnMydWJ6ZGZ5bDEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._6ub4XJWzlUJH8EQCzSFQiltCsyJZv-Amsk9V94QTL8/image;s=2048x1536;q=80",
+      "last_change": "2026-08-25T20:42:41+00:00",
+      "last_seen": "2026-08-25T20:42:41+00:00",
+      "latitude": 41.389427,
+      "local_median_price_per_m2": 22.02,
+      "location": "Rua Doutor Armindo Graça, Póvoa de Varzim, Beiriz e Argivai, Porto",
+      "longitude": -8.772608,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-08-25T20:42:41+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 30.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T20:04:14Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t0-a-50m-da-praia-mobilado-e-equipado-ID1iNfu",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 750.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 a 50m da Praia mobilado e equipado",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/t0-a-50m-da-praia-mobilado-e-equipado-ID1iNfu"
     },
     "imovirtual:t0-circunvalacao-s-joao-ID1iMuL": {
       "area_m2": 42.0,
