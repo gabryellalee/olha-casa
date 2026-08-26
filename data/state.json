@@ -186,6 +186,7 @@
     "4fa0fa83d7d3c8e78e95ae23": "supercasa:1912924",
     "50974c88ea1efcd77cd1caca": "casa_sapo:4471e2fb-9b94-11f1-90a1-060000000056",
     "50a41b1f7125e1a46ae9824e": "supercasa:1313813",
+    "50c0e661e1a3f4ba2eaed324": "supercasa:2232639",
     "5147ce20d4a408227f084874": "supercasa:2274901",
     "516703d135318a8ca7a844f3": "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0",
     "5249b087fc81a6450436b1f2": "supercasa:2247323",
@@ -199,6 +200,7 @@
     "54c09f32ae896ed9370ee07c": "casa_sapo:1d48ef7f-2acd-11ed-aeeb-060000000051",
     "55b171338a6ddc57e7c2b5bf": "supercasa:2161359",
     "56df216c0c64999444fd182a": "casa_sapo:alugar-casa-ferias",
+    "5765066b2d9dbc8b09917471": "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE",
     "578b26ce189568496d20f70b": "imovirtual:apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz",
     "57d67813f65e5d61061e8ae4": "imovirtual:apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm",
     "59d34011c2731e95adf5d1d0": "supercasa:1072319",
@@ -251,6 +253,7 @@
     "73559fb6a1f1e53ef4fb94d1": "supercasa:1044155",
     "73815055121ba1196f7fa98f": "supercasa:2234082",
     "73b0097e384bec3e5e9f3005": "supercasa:2173344",
+    "740065202d02a7edd245d181": "imovirtual:t3-novo-arrendamento-parque-da-lavandeira-v-n-gaia-sd-04733-mh-ID1iNif",
     "745934be7b71fc71be7f7fcb": "supercasa:2269168",
     "74b54c6135eae5ac49723a4d": "imovirtual:arrenda-se-apartamento-t2-centro-famalicao-ID1iL1l",
     "74b81b4fbe540f834afbf896": "supercasa:1818441",
@@ -357,6 +360,7 @@
     "a1ca02210149fafe7d0d4322": "imovirtual:aluga-se-t1-foz-velha-porto-ID1iMem",
     "a1f75e40ebbb3dd3901148c0": "supercasa:2218005",
     "a261c6feb38622c205a2005f": "imovirtual:aluga-apartamento-t1-1-ID1iMcM",
+    "a26e081732e78618ebf22f89": "imovirtual:apartamento-t3-com-garagem-e-terraco-ID1iNip",
     "a2c0450e9d2da6b01cfc694b": "custojusto:45127426",
     "a2cd6355085030b4b6b89658": "supercasa:2278204",
     "a3208699918030cd0122cbaa": "supercasa:2263573",
@@ -558,6 +562,7 @@
     "f42365f20b7c23c8af9e6a37": "supercasa:2263806",
     "f48a44784a1dd956aae2d075": "casa_sapo:6316b384-544d-11f1-9c13-060000000051",
     "f4f030909e0c500a18b10e4f": "supercasa:2262105",
+    "f547b5204afa280806190e60": "supercasa:2081301",
     "f55cd973a62fbc4fe381f545": "imovirtual:andar-moradia-c-parque-privado-4-carros-ID1iMGt",
     "f57bb7677ab05909936541e6": "imovirtual:apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d",
     "f5ccb560b0f7aa4f66afc1d7": "supercasa:1286018",
@@ -6787,6 +6792,67 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iNfw"
     },
+    "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE": {
+      "area_m2": 62.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5765066b2d9dbc8b09917471",
+      "first_seen": "2026-08-26T09:54:40+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBvYnI2ZHdycGhuYTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ebLeboZB7b72oE8xmFNetoY3NaetbPp7g4A6ClXqowM/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T09:54:40+00:00",
+      "last_seen": "2026-08-26T09:54:40+00:00",
+      "latitude": 41.1252,
+      "local_median_price_per_m2": 17.03,
+      "location": "Rua de Fojo - Canidelo, Canidelo, Porto",
+      "longitude": -8.642042,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T09:54:40+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 12.9,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T09:30:32Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2400.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T1 para Arrendamento junto à Quinta do Fojo",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE"
+    },
     "imovirtual:apartamento-t1-paranhos-polo-univ-ID1iMIt": {
       "area_m2": 38.0,
       "decision_reasons": [
@@ -7954,6 +8020,64 @@
       "title": "Apartamento T3 com Duas Varandas | Novo",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-com-duas-varandas-novo-ID1iN6s"
+    },
+    "imovirtual:apartamento-t3-com-garagem-e-terraco-ID1iNip": {
+      "area_m2": 120.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "a26e081732e78618ebf22f89",
+      "first_seen": "2026-08-26T09:54:40+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InM4Ym5ieW1yZ3BlaC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.t0ALPHNzf1vbq8e-_zLO_BXnO6Xt0V4WqBKYA7ji3kY/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T09:54:40+00:00",
+      "last_seen": "2026-08-26T09:54:40+00:00",
+      "latitude": 41.17138,
+      "local_median_price_per_m2": null,
+      "location": "Beco Carreiras, Aldoar, Foz do Douro e Nevogilde, Porto",
+      "longitude": -8.67131,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 1700.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T09:54:40+00:00",
+          "price": 1700.0
+        }
+      ],
+      "price_per_m2": 14.17,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T09:20:00Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-com-garagem-e-terraco-ID1iNip",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 com garagem e terraço",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-com-garagem-e-terraco-ID1iNip"
     },
     "imovirtual:apartamento-t3-com-varanda-e-churrasqueira-para-arrendamento-a-900-met-ID1iN7F": {
       "area_m2": 138.5,
@@ -12242,6 +12366,65 @@
       "title": "T3 na Trofa para arrendamento",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-na-trofa-para-arrendamento-ID1iMTs"
+    },
+    "imovirtual:t3-novo-arrendamento-parque-da-lavandeira-v-n-gaia-sd-04733-mh-ID1iNif": {
+      "area_m2": 112.64,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "740065202d02a7edd245d181",
+      "first_seen": "2026-08-26T09:54:40+00:00",
+      "first_seen_at": null,
+      "floor": 112,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imt1ZDMzNmFsYXd4dTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.CvN9IUI-B3i5pHdxx1uUHLgErmieuG518pgk2L-X8sQ/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T09:54:40+00:00",
+      "last_seen": "2026-08-26T09:54:40+00:00",
+      "latitude": 41.115635,
+      "local_median_price_per_m2": null,
+      "location": "Vereda de Lameiro - Oliveira do Douro, Oliveira do Douro, Porto",
+      "longitude": -8.589164,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T09:54:40+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 14.2,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T09:11:06Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-novo-arrendamento-parque-da-lavandeira-v-n-gaia-sd-04733-mh-ID1iNif",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3 NOVO - Arrendamento - Parque da Lavandeira (V.N.Gaia)-SD/04733/MH",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-novo-arrendamento-parque-da-lavandeira-v-n-gaia-sd-04733-mh-ID1iNif"
     },
     "imovirtual:t4-de-luxo-living-sea-canidelo-arrendamento-foz-de-gaia-ID1iN7I": {
       "area_m2": 250.0,
@@ -16945,6 +17128,64 @@
       "title": "Apartamento T4 na Avenida do Brasil",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-porto/i2080007"
+    },
+    "supercasa:2081301": {
+      "area_m2": 435.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f547b5204afa280806190e60",
+      "first_seen": "2026-08-26T09:54:40+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C14879/P28644679/Tphoto/ID4715b501-0000-0500-0000-00001949a719.jpg",
+      "last_change": "2026-08-26T09:54:40+00:00",
+      "last_seen": "2026-08-26T09:54:40+00:00",
+      "latitude": 41.1608453035,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6671502434,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 5600.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T09:54:40+00:00",
+          "price": 5600.0
+        }
+      ],
+      "price_per_m2": 12.87,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2081301",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 em Aldoar, Foz do Douro e Nevogilde",
+      "typology": "T4",
+      "url": "https://supercasa.pt/arrendamento-moradia-t4-porto/i2081301"
     },
     "supercasa:2090398": {
       "area_m2": 195.0,
@@ -22903,6 +23144,64 @@
       "title": "Apartamento T2 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2232149"
+    },
+    "supercasa:2232639": {
+      "area_m2": 240.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "50c0e661e1a3f4ba2eaed324",
+      "first_seen": "2026-08-26T09:54:40+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4364/P30284024/Tphoto/IDf818ce01-0000-0500-0000-000019d3392a.jpg",
+      "last_change": "2026-08-26T09:54:40+00:00",
+      "last_seen": "2026-08-26T09:54:40+00:00",
+      "latitude": 41.16311,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.66259,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 3650.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T09:54:40+00:00",
+          "price": 3650.0
+        }
+      ],
+      "price_per_m2": 15.21,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2232639",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia de Charme do Início do Século XX - Totalmente Recuperada",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-moradia-t3-porto/i2232639"
     },
     "supercasa:2232894": {
       "area_m2": 80.0,
