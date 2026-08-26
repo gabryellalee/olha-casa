@@ -74,6 +74,7 @@
     "21f977788015c89ac6918e94": "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq",
     "223b3a6937502dda584bae39": "supercasa:2183910",
     "2241083a8d5fd3e5140f23ef": "supercasa:2227192",
+    "22def2880ea888fdf65900fa": "imovirtual:casa-centro-do-porto-marques-ID1iNht",
     "23c7f110348e9c786333808d": "supercasa:1962924",
     "23f4ce1fd631b4f3a68eb622": "imovirtual:excelente-t0-l-garagem-impecavel-junto-ao-mar-praias-canidelo-ID1iMBQ",
     "2419595bc361f0e87d62d55d": "imovirtual:apartamento-t1-em-paranhos-de-37-00-m2-ID1iMWp",
@@ -9074,6 +9075,64 @@
       "title": "Canidelo – T1 com Varandas no Flower Tower",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/canidelo-t1-com-varandas-no-flower-tower-ID1iLvK"
+    },
+    "imovirtual:casa-centro-do-porto-marques-ID1iNht": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "22def2880ea888fdf65900fa",
+      "first_seen": "2026-08-26T08:59:06+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imk1NmFtb2FyaGtycDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NtWlU3Sq2Hr4ZcHfLuw1MQjYf3akeTi8L7ZrZSiFL1Q/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T08:59:06+00:00",
+      "last_seen": "2026-08-26T08:59:06+00:00",
+      "latitude": 41.163204,
+      "local_median_price_per_m2": 17.09,
+      "location": "Rua do Lindo Vale, Paranhos, Porto",
+      "longitude": -8.603157,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 875.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T08:59:06+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 18.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T08:43:39Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "casa-centro-do-porto-marques-ID1iNht",
+      "terms": {
+        "advance_rents": 3,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 3,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Casa centro do Porto -Marques",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/casa-centro-do-porto-marques-ID1iNht"
     },
     "imovirtual:casa-t1-para-alugar-ID1iNfO": {
       "area_m2": 1.0,
