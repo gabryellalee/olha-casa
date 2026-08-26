@@ -1,5 +1,6 @@
 {
   "fingerprints": {
+    "0003f893a7b3e05947dd8a50": "imovirtual:apartamento-para-3-estudantes-ID1iNtC",
     "000dba45d4e00a66c17ce491": "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
     "0019b5fe3be5c64efd6d6748": "imovirtual:t1-na-rua-dos-bragas-ID1iLL7",
     "0065586175c4846e8fc49b16": "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iBF0",
@@ -54,6 +55,7 @@
     "15ff2a947d10d9917864e746": "supercasa:2275631",
     "17170a0b4f302bf74fe114dc": "imovirtual:moradia-t4-com-4-suites-e-patio-foz-do-douro-ID1iNag",
     "173260f2ea84bd1039fb2cda": "supercasa:2215375",
+    "18393d1edc6b1f49d4115da3": "imovirtual:t2-maia-centro-ID1iNtL",
     "188460646e8b0437a41ec7a6": "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iLIa",
     "18cd559e2f83a2d3462d1cae": "casa_sapo:9bacee52-08dd-49a4-a1b4-9b5f77d36bb4",
     "191479f5c2a77bbe0ea2262d": "supercasa:2131329",
@@ -240,6 +242,7 @@
     "667d0b3bc4ec4d86a31b403d": "supercasa:2022109",
     "66dcf51355de16820fe291e7": "casa_sapo:948e9d0b-2dc7-11ec-aeeb-060000000051",
     "6a6ba09b9a96c02c54b9ee56": "supercasa:2247127",
+    "6a7c5a104f0057e1fe5a01eb": "supercasa:2066312",
     "6b387f64f7eec8359d71bc4a": "supercasa:704439",
     "6b816be814976ee2135055d6": "supercasa:1539125",
     "6d11217a3fea494c9c68f4d8": "imovirtual:t0-matosinhos-junto-ao-metro-mobilado-e-equipado-ID1iNc4",
@@ -299,6 +302,7 @@
     "829be16c5050251e77b46381": "imovirtual:t1-renovado-para-arrendamento-valbom-ID1iN1D",
     "82acdace261cc45802d6cb6f": "supercasa:2259104",
     "82ec8d7f09c60c0ab4f68bbe": "supercasa:1744893",
+    "8320afbdd1cdf29c22fca6fb": "supercasa:2194500",
     "832d2f704c2dab563d36c810": "imovirtual:alugo-t1-ermesinde-ID1iMBY",
     "833275ab84064cc80b8d140b": "supercasa:2203200",
     "83468dbb11f2ad2216b31689": "supercasa:2186588",
@@ -350,6 +354,7 @@
     "991024f82d4b7872ad255c0c": "supercasa:2265876",
     "99e399e319858cac9759f6d7": "supercasa:2142947",
     "9a209bcc104722f41c624ab2": "imovirtual:apartamento-t1-em-polo-universitario-ID1iMM2",
+    "9a4ccc371f78e5b2ff191e89": "supercasa:2065373",
     "9a61e412211631e4b94d4d97": "imovirtual:t1-mobilado-e-equipado-junto-ao-hospital-de-sao-joao-ID1iLSE",
     "9a6b7f50aea5b2f7747d033c": "imovirtual:apartamento-t1k-junto-ao-icbas-ID1iMEC",
     "9a877a689c95323b0b5f0a34": "supercasa:1444434",
@@ -507,6 +512,7 @@
     "d789b3160df03dd5e0ec971b": "imovirtual:apartamento-t1-mobilado-com-estacionamento-ID1iLUi",
     "d854a1d422fc25e26ef332c4": "casa_sapo:alugar-casa-ferias",
     "d8b0dd67e533650133a720a8": "supercasa:1646803",
+    "d8b32c7e8311dbfc375404fb": "imovirtual:apartamento-t2-para-arrendamento-ID1iNsP",
     "d8bc5ff6bc31b825a218cdd4": "casa_sapo:alugar-casa-ferias",
     "d94d3c219c44756b9c33c780": "supercasa:2265956",
     "d99062ecf855cea1084db2e9": "supercasa:2274502",
@@ -4961,6 +4967,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-no-centro-do-porto-ID1iLzx"
     },
+    "imovirtual:apartamento-para-3-estudantes-ID1iNtC": {
+      "area_m2": 82.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "0003f893a7b3e05947dd8a50",
+      "first_seen": "2026-08-26T16:04:40+00:00",
+      "first_seen_at": null,
+      "floor": 8,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjluMGpycXdpODIzMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WhzSwX6TqbBO1H2GOTn54gEa7_hmPxmy7RYhC2kq4sY/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T16:04:40+00:00",
+      "last_seen": "2026-08-26T16:04:40+00:00",
+      "latitude": 41.150814,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Bonfim, Bonfim, Porto",
+      "longitude": -8.594162,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:04:40+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 14.63,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T15:39:03Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-para-3-estudantes-ID1iNtC",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1200.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 11,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento para 3 estudantes",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-para-3-estudantes-ID1iNtC"
+    },
     "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN": {
       "area_m2": 27.0,
       "decision_reasons": [
@@ -8164,6 +8228,64 @@
       "title": "Apartamento T2 para arrendamento",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iNaX"
+    },
+    "imovirtual:apartamento-t2-para-arrendamento-ID1iNsP": {
+      "area_m2": 78.9,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "d8b32c7e8311dbfc375404fb",
+      "first_seen": "2026-08-26T16:04:40+00:00",
+      "first_seen_at": null,
+      "floor": 78,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo1Ym1hNmg4bWM1ay1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.mwZ81a4bqFB_XydLxrLhB86R3WWHiPYtDHoPS4i7bOA/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T16:04:40+00:00",
+      "last_seen": "2026-08-26T16:04:40+00:00",
+      "latitude": 41.19463,
+      "local_median_price_per_m2": null,
+      "location": "Rua Joaquim Moreira Pacheco, Valongo, Porto",
+      "longitude": -8.495058,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1200.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:04:40+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 13.94,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T15:09:10Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-para-arrendamento-ID1iNsP",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 36,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 para arrendamento",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iNsP"
     },
     "imovirtual:apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9": {
       "area_m2": 90.0,
@@ -13158,6 +13280,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-em-salgueiros-ID1iMTc"
     },
+    "imovirtual:t2-maia-centro-ID1iNtL": {
+      "area_m2": 111.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "18393d1edc6b1f49d4115da3",
+      "first_seen": "2026-08-26T16:04:40+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZ2ejI3Yzlza2xlajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.QrobP-h9HNTP45oQgTh9DVaZrriPoKYi2KG9ZeMWRAY/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T16:04:40+00:00",
+      "last_seen": "2026-08-26T16:04:40+00:00",
+      "latitude": 41.23569,
+      "local_median_price_per_m2": null,
+      "location": "Vereda da Folha, Cidade da Maia, Porto",
+      "longitude": -8.61489,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:04:40+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 11.26,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T15:41:47Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-maia-centro-ID1iNtL",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1250.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2- Maia centro",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-maia-centro-ID1iNtL"
+    },
     "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu": {
       "area_m2": 232.9,
       "decision_reasons": [
@@ -17917,6 +18097,124 @@
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-moradia-t3-vila-nova-de-gaia/i2063702"
     },
+    "supercasa:2065373": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "9a4ccc371f78e5b2ff191e89",
+      "first_seen": "2026-08-26T16:04:40+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12126/P28370434/Tphoto/ID02e6b001-0000-0500-0000-000017423afd.jpg",
+      "last_change": "2026-08-26T16:04:40+00:00",
+      "last_seen": "2026-08-26T16:04:40+00:00",
+      "latitude": 41.5586433,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.421953,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1450.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:04:40+00:00",
+          "price": 1450.0
+        }
+      ],
+      "price_per_m2": 13.18,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2065373",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2+1 na Rua Conselheiro Januário",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2065373"
+    },
+    "supercasa:2066312": {
+      "area_m2": 99.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "6a7c5a104f0057e1fe5a01eb",
+      "first_seen": "2026-08-26T16:04:40+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12126/P28371126/Tphoto/IDb6e8b001-0000-0500-0000-0000174260c4.jpg",
+      "last_change": "2026-08-26T16:04:40+00:00",
+      "last_seen": "2026-08-26T16:04:40+00:00",
+      "latitude": 41.5586433,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.421953,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1350.0,
+      "price": 1450.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:04:40+00:00",
+          "price": 1450.0
+        }
+      ],
+      "price_per_m2": 14.65,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2066312",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2+1 na Rua Conselheiro Januário",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2066312"
+    },
     "supercasa:2066463": {
       "area_m2": 126.0,
       "decision_reasons": [
@@ -21007,6 +21305,64 @@
       "title": "Apartamento T2 na Rua 1º de Dezembro",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2194011"
+    },
+    "supercasa:2194500": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "8320afbdd1cdf29c22fca6fb",
+      "first_seen": "2026-08-26T16:04:40+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C11580/P30025803/Tphoto/ID4b28ca01-0000-0500-0000-0000194f85e6.jpg",
+      "last_change": "2026-08-26T16:04:40+00:00",
+      "last_seen": "2026-08-26T16:04:40+00:00",
+      "latitude": 41.1634106,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6219923,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:04:40+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2194500",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1200.0,
+        "deposits": 1,
+        "entry_total": 1200.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2194500"
     },
     "supercasa:2196582": {
       "area_m2": 130.0,
