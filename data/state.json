@@ -99,6 +99,7 @@
     "2b09bd6f16d3e1dd2426ac39": "supercasa:2219721",
     "2b7d8701cfbd51b67d3714db": "supercasa:2171449",
     "2ba24633167608f5b8e876ec": "supercasa:2242099",
+    "2bce293adb4f3091416c090d": "supercasa:2229979",
     "2c8509cfa1d6bffd0fb06acd": "supercasa:2234384",
     "2cd816945b8d69971eb70ac9": "supercasa:2273220",
     "2ce0dd9f6b5041acec457376": "supercasa:2272955",
@@ -189,6 +190,7 @@
     "5249b087fc81a6450436b1f2": "supercasa:2247323",
     "528c53833c83752855be7a02": "supercasa:2274446",
     "5386ae6eb7579b7259cf45dc": "supercasa:2270121",
+    "53c39f3e6379ca12df4d9ae2": "supercasa:2269420",
     "545a75370e89ba796af8a24e": "supercasa:2230241",
     "546cf81d79cdc350cbaf0736": "supercasa:2080007",
     "54a1352248fef3ebff8ac387": "supercasa:2029087",
@@ -208,6 +210,7 @@
     "5e3069fb295557620186ffa1": "imovirtual:apartamento-t3-para-arrendamento-ID1iN6W",
     "5e32320ae88001d88f6f944f": "supercasa:2277629",
     "5e3e120cabb7fa03c21f6706": "supercasa:2246259",
+    "601173cbd211aede58451f76": "supercasa:1921047",
     "608d8ac71e8e855ddf941d7e": "supercasa:2244980",
     "612f48df97773c3410374120": "supercasa:1268767",
     "616dc8ad18f76c1fd215e195": "supercasa:2240081",
@@ -293,6 +296,7 @@
     "876bee62f6f60965b667ddfb": "imovirtual:apartamento-t1-alugar-ID1iMv4",
     "882d0894eae760f05dd4e5b0": "supercasa:2261338",
     "883a8f93148d50bd42ae4184": "imovirtual:arrendo-t1-a-600m-do-mar-ID1iMDs",
+    "8971b7f808bacaf931022ea5": "supercasa:2252769",
     "89d9cee6a748ed9f9ab586b2": "imovirtual:moradia-t4-com-garagem-para-arrendar-em-angeiras-lavra-a-2-minutos-d-ID1iMkP",
     "8ac375e7fab03fb8aa3d56a0": "imovirtual:moradia-de-luxo-a-estrear-na-povoa-de-varzim-ID1iMui",
     "8ad7335691b9803f2187d060": "supercasa:2217924",
@@ -401,6 +405,7 @@
     "b67b310756ac4887c7c6725c": "supercasa:2133835",
     "b6e0b22101e8224cdffb64cd": "custojusto:45155242",
     "b766dcd1c1ddd58dbcdfb718": "supercasa:2199908",
+    "b7e152cfa5efa482c132d9a3": "supercasa:2140923",
     "b812df8d349a8baf83700e61": "imovirtual:moradia-t4-restaurante-bandeirinha-riba-de-ave-ID1iKk3",
     "b83ad6c46b4f07b100c55cc0": "supercasa:2260145",
     "b8ebb4b359476e80e0c2ca3a": "custojusto:44728825",
@@ -15386,6 +15391,64 @@
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-moradia-porto/i1912924"
     },
+    "supercasa:1921047": {
+      "area_m2": 144.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "601173cbd211aede58451f76",
+      "first_seen": "2026-08-26T01:55:54+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4160/P26803034/Tphoto/ID5afb9801-0000-0500-0000-0000155cfbfe.JPG",
+      "last_change": "2026-08-26T01:55:54+00:00",
+      "last_seen": "2026-08-26T01:55:54+00:00",
+      "latitude": 41.1805573,
+      "local_median_price_per_m2": null,
+      "location": "Rio Tinto",
+      "longitude": -8.559611,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T01:55:54+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 10.42,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1921047",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 3000.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Rio Tinto",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-gondomar/i1921047"
+    },
     "supercasa:1927859": {
       "area_m2": 111.0,
       "decision_reasons": [
@@ -17831,6 +17894,64 @@
       "title": "Apartamento T2 em Santa Marinha",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-nova-de-gaia/i2135235"
+    },
+    "supercasa:2140923": {
+      "area_m2": 115.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b7e152cfa5efa482c132d9a3",
+      "first_seen": "2026-08-26T01:55:54+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C5773/P29378045/Tphoto/IDfd45c001-0000-0500-0000-0000186fd975.jpg",
+      "last_change": "2026-08-26T01:55:54+00:00",
+      "last_seen": "2026-08-26T01:55:54+00:00",
+      "latitude": 41.1805573,
+      "local_median_price_per_m2": null,
+      "location": "Rio Tinto",
+      "longitude": -8.559611,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 975.0,
+      "price": 1375.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T01:55:54+00:00",
+          "price": 1375.0
+        }
+      ],
+      "price_per_m2": 11.96,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2140923",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Rio Tinto",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-gondomar/i2140923"
     },
     "supercasa:2141202": {
       "area_m2": 231.0,
@@ -22304,6 +22425,67 @@
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i2229155"
     },
+    "supercasa:2229979": {
+      "area_m2": 157.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "2bce293adb4f3091416c090d",
+      "first_seen": "2026-08-26T01:55:54+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12314/P30515431/Tphoto/IDe7a0d101-0000-0500-0000-000019c3f96d.jpg",
+      "last_change": "2026-08-26T01:55:54+00:00",
+      "last_seen": "2026-08-26T01:55:54+00:00",
+      "latitude": 41.1244765374,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.6651785373,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 1950.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T01:55:54+00:00",
+          "price": 1950.0
+        }
+      ],
+      "price_per_m2": 12.42,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2229979",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1950.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Canidelo",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2229979"
+    },
     "supercasa:2230223": {
       "area_m2": 55.0,
       "decision_reasons": [
@@ -26472,6 +26654,64 @@
       "title": "Apartamento T1 na Rua Companhia dos Caulinos",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-matosinhos/i2252661"
+    },
+    "supercasa:2252769": {
+      "area_m2": 42.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "8971b7f808bacaf931022ea5",
+      "first_seen": "2026-08-26T01:55:54+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1081802/P2252769/Tphoto/ID4815722c-48da-44cc-bf3c-8e48f20d8078.jpg",
+      "last_change": "2026-08-26T01:55:54+00:00",
+      "last_seen": "2026-08-26T01:55:54+00:00",
+      "latitude": 41.15388,
+      "local_median_price_per_m2": 21.83,
+      "location": "Porto",
+      "longitude": -8.62093,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T01:55:54+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 26.19,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2252769",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 na Rua de Aníbal Cunha",
+      "typology": "T0",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2252769"
     },
     "supercasa:2252904": {
       "area_m2": 57.0,
@@ -30991,6 +31231,65 @@
       "title": "Apartamento T2 em Cidade da Maia",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-maia/i2269186"
+    },
+    "supercasa:2269420": {
+      "area_m2": 71.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "53c39f3e6379ca12df4d9ae2",
+      "first_seen": "2026-08-26T01:55:54+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4298/P30814359/Tphoto/ID9730d601-0000-0500-0000-00001a23be01.jpg",
+      "last_change": "2026-08-26T01:55:54+00:00",
+      "last_seen": "2026-08-26T01:55:54+00:00",
+      "latitude": 41.1225179,
+      "local_median_price_per_m2": 17.03,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.6662167,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1400.0,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T01:55:54+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 21.13,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-25T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2269420",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Canidelo",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2269420"
     },
     "supercasa:2269571": {
       "area_m2": 80.0,
