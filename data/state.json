@@ -8,6 +8,7 @@
     "00eb100f7d63a3b50830b971": "supercasa:1833192",
     "014287aef6768c1a9e3559fa": "supercasa:2251390",
     "01888f8537dc6252567c58a8": "imovirtual:arrendamento-de-apartamento-t0-na-avenida-araujo-silva-195-penafiel-ID1iMDr",
+    "0229f3f2f7ad4a472706a761": "imovirtual:junto-ao-polo-universitario-de-sao-joao-preco-negociavel-para-familia-ID1iNje",
     "02994c314bf044e21d37ec12": "supercasa:2238308",
     "035e5913d17e7b2b80cef6c0": "custojusto:45203601",
     "03daa688e0ffe36a5550ccf2": "casa_sapo:da00dc5f-cfec-11ed-aeeb-060000000051",
@@ -208,11 +209,13 @@
     "5bd91cff8c976a45fb7356c9": "supercasa:2237348",
     "5c2c2a3ac2b7309c34cb1cbe": "supercasa:2261654",
     "5c320b1afee066a3a649ae04": "custojusto:45191233",
+    "5ca2eea5a192748fb1bcb2ee": "imovirtual:arrendo-t2-junto-estacao-de-valadares-900-ID1iNkc",
     "5ce57728c0d8d2419b191d9e": "supercasa:2167206",
     "5cfabd932a6d5effca3040f3": "supercasa:2271993",
     "5e3069fb295557620186ffa1": "imovirtual:apartamento-t3-para-arrendamento-ID1iN6W",
     "5e32320ae88001d88f6f944f": "supercasa:2277629",
     "5e3e120cabb7fa03c21f6706": "supercasa:2246259",
+    "5f58f7a944c7f827b762eb60": "imovirtual:apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9",
     "601173cbd211aede58451f76": "supercasa:1921047",
     "608d8ac71e8e855ddf941d7e": "supercasa:2244980",
     "612f48df97773c3410374120": "supercasa:1268767",
@@ -7789,6 +7792,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iNaX"
     },
+    "imovirtual:apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9": {
+      "area_m2": 90.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5f58f7a944c7f827b762eb60",
+      "first_seen": "2026-08-26T10:54:12+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl4MjU1MmVyNzZjai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.o3HywvYC0RCdXa0RXOZy04Z0SMhuhHoAVG6_XbCqIgo/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T10:54:12+00:00",
+      "last_seen": "2026-08-26T10:54:12+00:00",
+      "latitude": 41.20956,
+      "local_median_price_per_m2": null,
+      "location": "Rua Quinta da Comenda, Águas Santas, Porto",
+      "longitude": -8.57482,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1350.0,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T10:54:12+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 11.11,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T10:23:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1000.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 para Arrendamento, Águas Santas",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9"
+    },
     "imovirtual:apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm": {
       "area_m2": 90.0,
       "decision_reasons": [
@@ -9140,6 +9201,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendo-t1-a-600m-do-mar-ID1iMDs"
     },
+    "imovirtual:arrendo-t2-junto-estacao-de-valadares-900-ID1iNkc": {
+      "area_m2": 86.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "5ca2eea5a192748fb1bcb2ee",
+      "first_seen": "2026-08-26T10:54:12+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImIwNjJ5MGVzYjJ0YzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.RucpZG4HnKOccQPLcZQs5ks0mZFoeTgPp8UtGd_ccMY/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T10:54:12+00:00",
+      "last_seen": "2026-08-26T10:54:12+00:00",
+      "latitude": 41.08713,
+      "local_median_price_per_m2": null,
+      "location": "Rua da Rocha - Valadares, Gulpilhares e Valadares, Porto",
+      "longitude": -8.63622,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T10:54:12+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 10.47,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T10:27:58Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendo-t2-junto-estacao-de-valadares-900-ID1iNkc",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendo T2 junto estação de valadares 900€",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendo-t2-junto-estacao-de-valadares-900-ID1iNkc"
+    },
     "imovirtual:canidelo-t1-com-varandas-no-flower-tower-ID1iLvK": {
       "area_m2": 60.0,
       "decision_reasons": [
@@ -9618,6 +9738,64 @@
       "title": "Excelente T1 c/box e com terraço",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/excelente-t1-c-box-e-com-terraco-ID1iLis"
+    },
+    "imovirtual:junto-ao-polo-universitario-de-sao-joao-preco-negociavel-para-familia-ID1iNje": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "0229f3f2f7ad4a472706a761",
+      "first_seen": "2026-08-26T10:54:12+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF5dzN2eWdjOWRnODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.FWyVhxfTiPU1o9VZFwrEKBBS5qLIIeLkr--JbL1IkbQ/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T10:54:12+00:00",
+      "last_seen": "2026-08-26T10:54:12+00:00",
+      "latitude": 41.18987,
+      "local_median_price_per_m2": null,
+      "location": "Travessa 3 de Maio, Pedrouços, Porto",
+      "longitude": -8.5885,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T10:54:12+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 11.36,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-26T09:55:01Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "junto-ao-polo-universitario-de-sao-joao-preco-negociavel-para-familia-ID1iNje",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1250.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Junto ao Polo Universitário de São João. Preço negociavel para familia",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/junto-ao-polo-universitario-de-sao-joao-preco-negociavel-para-familia-ID1iNje"
     },
     "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iBF0": {
       "area_m2": 125.0,
