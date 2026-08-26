@@ -386,6 +386,7 @@
     "a3bc71ad2aeb099e79b2703e": "supercasa:2260868",
     "a437077d740d5892ed060d56": "imovirtual:apartamento-estudantes-porto-asprela-ID1iMDy",
     "a4874317e268c5b3cf0fcce6": "supercasa:1706952",
+    "a487b7d7f2fed1c71b8b9168": "imovirtual:moradia-t2-totalmente-equipada-no-centro-do-porto-ID1iNvI",
     "a498708becc3f21954a8734c": "custojusto:43028726",
     "a49e1de74addb81cd585d36d": "imovirtual:apartamento-t1-paranhos-polo-univ-ID1iMIt",
     "a4d416bac8c1538af7497736": "imovirtual:casa-t1-para-alugar-ID1iNfO",
@@ -10532,6 +10533,64 @@
       "title": "Moradia de Luxo a estrear na Póvoa de Varzim",
       "typology": "T4",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-de-luxo-a-estrear-na-povoa-de-varzim-ID1iMui"
+    },
+    "imovirtual:moradia-t2-totalmente-equipada-no-centro-do-porto-ID1iNvI": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "a487b7d7f2fed1c71b8b9168",
+      "first_seen": "2026-08-26T16:57:47+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImthcTFneDUzN3AwcDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iTaHuE6eN3IWyO55EDhFBa-9w2a2vMhtEjMm0dhdDyg/image;s=2048x1536;q=80",
+      "last_change": "2026-08-26T16:57:47+00:00",
+      "last_seen": "2026-08-26T16:57:47+00:00",
+      "latitude": 41.15624,
+      "local_median_price_per_m2": null,
+      "location": "Rua da Alegria, Bonfim, Porto",
+      "longitude": -8.602244,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1800.0,
+      "price_history": [
+        {
+          "at": "2026-08-26T16:57:47+00:00",
+          "price": 1800.0
+        }
+      ],
+      "price_per_m2": 18.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-26T16:26:04Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t2-totalmente-equipada-no-centro-do-porto-ID1iNvI",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1800.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Moradia T2 totalmente equipada no centro do Porto",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-totalmente-equipada-no-centro-do-porto-ID1iNvI"
     },
     "imovirtual:moradia-t3-com-garagem-fechada-e-area-exterior-ID1iL0s": {
       "area_m2": 150.0,
