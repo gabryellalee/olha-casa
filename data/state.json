@@ -25,6 +25,7 @@
     "07854119f7c967bded6ee9b0": "supercasa:2239485",
     "086b16d6e8b2c729e0c74b6b": "supercasa:2255772",
     "08c3dca8a9fc8c92835cf832": "casa_sapo:alugar-quartos",
+    "08f23256966eb57ba8cfd7b7": "imovirtual:moradia-t3-para-arrendamento-ID1iOaG",
     "09a3d13019bd1694e6436565": "supercasa:2269597",
     "0a4ac29a445f507ba57c600e": "imovirtual:t1-em-rio-tinto-com-ar-condicionado-e-elevador-ID1iLFt",
     "0a85a553d19d4b1e4e3173e1": "supercasa:2200811",
@@ -13133,6 +13134,64 @@
       "title": "Moradia T3 para arrendamento",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-para-arrendamento-ID1iNnD"
+    },
+    "imovirtual:moradia-t3-para-arrendamento-ID1iOaG": {
+      "area_m2": 272.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "08f23256966eb57ba8cfd7b7",
+      "first_seen": "2026-08-29T03:22:50+00:00",
+      "first_seen_at": null,
+      "floor": 29,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNkaG9wY2R0MTc3NDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.fwAq4qhZ_orpS_pvE_EteI8VHR-PBDODjMGzfMQDaEE/image;s=2048x1536;q=80",
+      "last_change": "2026-08-29T03:22:50+00:00",
+      "last_seen": "2026-08-29T03:22:50+00:00",
+      "latitude": 41.251255,
+      "local_median_price_per_m2": null,
+      "location": "Alameda de Augusto Moreira Dias, Moreira, Porto",
+      "longitude": -8.649679,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 1650.0,
+      "price_history": [
+        {
+          "at": "2026-08-29T03:22:50+00:00",
+          "price": 1650.0
+        }
+      ],
+      "price_per_m2": 6.07,
+      "public_transport_bonus": true,
+      "published_at": "2026-08-28T22:08:22Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t3-para-arrendamento-ID1iOaG",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T3 para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-para-arrendamento-ID1iOaG"
     },
     "imovirtual:moradia-t4-com-4-suites-e-patio-foz-do-douro-ID1iNag": {
       "area_m2": 143.0,
