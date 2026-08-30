@@ -263,6 +263,7 @@
     "64c6db69c69e3afd1e36d52c": "imovirtual:apartamento-renovado-e-mobilado-em-miragaia-porto-ID1iNqm",
     "64e89451b2588a12528bc593": "imovirtual:apartamento-t1-junto-ao-hospital-de-s-joao-ID1iNS5",
     "64ea69af8ed53955695311f7": "casa_sapo:distrito.porto",
+    "66024b7bdd1d4c6427bf6c7f": "imovirtual:apartamento-t2-porto-paranhos-ID1iOjD",
     "662fd5cc3fe511aa51bb577e": "casa_sapo:distrito.porto",
     "667200a177125f14e56ec672": "supercasa:2197858",
     "667d0b3bc4ec4d86a31b403d": "supercasa:2022109",
@@ -629,6 +630,7 @@
     "e7aa3758b2e01551d285c795": "imovirtual:apartamento-t1-1-com-jardim-privativo-e-piscina-ID1iN51",
     "e8b783d20538168981457d90": "supercasa:2188586",
     "e8e44cd911bc2d71b6502c4b": "supercasa:1948814",
+    "e9c41b39bf463ededb5fa1dd": "imovirtual:apartamento-t2-arvore-ID1iOjp",
     "e9f11cbf6b758176f5384830": "imovirtual:apartamento-porto-junto-ao-metro-ID1iOiS",
     "ea2bb772420963a2b8734df7": "supercasa:1960345",
     "ea35da7b570d4e9f5f9ef280": "supercasa:2274280",
@@ -9203,6 +9205,65 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-arrendamento-em-povoa-de-varzim-beiriz-e-argivai-povoa-ID1iNXi"
     },
+    "imovirtual:apartamento-t2-arvore-ID1iOjp": {
+      "area_m2": 30.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e9c41b39bf463ededb5fa1dd",
+      "first_seen": "2026-08-30T00:15:31+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVteXljMnYya3V2ZTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.v8NwgIZW3Bif5b_lRFNtqlQ0ko77luLKSsVd_vaeU9g/image;s=2048x1536;q=80",
+      "last_change": "2026-08-30T00:15:31+00:00",
+      "last_seen": "2026-08-30T00:15:31+00:00",
+      "latitude": 41.339,
+      "local_median_price_per_m2": null,
+      "location": "Sem Nome, Árvore, Porto",
+      "longitude": -8.72014,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-08-30T00:15:31+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 30.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-29T21:45:06Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-arvore-ID1iOjp",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": false,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 Árvore",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-arvore-ID1iOjp"
+    },
     "imovirtual:apartamento-t2-av-fernao-de-magalhaes-ID1iNaz": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -9963,6 +10024,64 @@
       "title": "Apartamento T2 polo universitarioá",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-polo-universitarioa-ID1iOht"
+    },
+    "imovirtual:apartamento-t2-porto-paranhos-ID1iOjD": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "66024b7bdd1d4c6427bf6c7f",
+      "first_seen": "2026-08-30T00:15:31+00:00",
+      "first_seen_at": null,
+      "floor": 30,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh1bm9mZzAwdWdpcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.4ytnb2XR3_WRILUrXiFW16xDVWarkRpfUDKFQYPT3-0/image;s=2048x1536;q=80",
+      "last_change": "2026-08-30T00:15:31+00:00",
+      "last_seen": "2026-08-30T00:15:31+00:00",
+      "latitude": 41.169197,
+      "local_median_price_per_m2": null,
+      "location": "Rua Doutor Pedro Dias, Paranhos, Porto",
+      "longitude": -8.607334,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-08-30T00:15:31+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 16.25,
+      "public_transport_bonus": false,
+      "published_at": "2026-08-29T23:43:58Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-porto-paranhos-ID1iOjD",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1300.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 - Porto - Paranhos",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-porto-paranhos-ID1iOjD"
     },
     "imovirtual:apartamento-t3-a-piscina-da-constituicao-e-metro-carolina-michaelis-ID1iMEZ": {
       "area_m2": 118.0,
