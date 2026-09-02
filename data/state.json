@@ -309,6 +309,7 @@
     "6b387f64f7eec8359d71bc4a": "supercasa:704439",
     "6b816be814976ee2135055d6": "supercasa:1539125",
     "6bc774b411e0164ec5eb8281": "imovirtual:t3-junto-ao-metro-do-hospital-de-sao-joao-grandes-areas-garagem-ID1iNBB",
+    "6cf972d7328fd32fe9fe3e2c": "imovirtual:apartamento-t2-arrendamento-em-cedofeita-santo-ildefonso-se-miragai-ID1iPfx",
     "6d11217a3fea494c9c68f4d8": "imovirtual:t0-matosinhos-junto-ao-metro-mobilado-e-equipado-ID1iNc4",
     "6da0bdb926ff0445f2b4bac9": "imovirtual:t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf",
     "6f0cdc34b64414be1f42d473": "supercasa:2276317",
@@ -622,6 +623,7 @@
     "cbda1f7ee5a01b9fd609706e": "custojusto:44962585",
     "cc3235c9d883838ed29e1c76": "supercasa:2236069",
     "cc41df0bc22bc1c2fc72c888": "casa_sapo:alugar-quartos",
+    "ccbc8be427c4b6201bd20f03": "imovirtual:apartamento-t2-98-m-garagem-sao-cosme-gondomar-ID1iPfF",
     "ccc3a5490b6fa1f9ae266057": "supercasa:2016886",
     "cd60796feb13589e5f5170b3": "imovirtual:apartamento-t1-para-arrendamento-ID1iPbJ",
     "cd6a6145e0688728eff8c0f4": "supercasa:2097920",
@@ -797,6 +799,7 @@
     "fdfb40566cf3bc851feb5e04": "supercasa:2249557",
     "fe0510b62eb58b129e6399d4": "supercasa:2272880",
     "fe23f1af976006e38704cb55": "supercasa:2214255",
+    "fe4a5fac40d4b6adfbaf4c89": "imovirtual:apartamento-t3-caulinos-ID1iPfC",
     "fe521016a0302e8145a52192": "supercasa:2237815",
     "ff32fc97ef414c7ae25c9fa9": "imovirtual:apartamento-t2-com-terraco-e-garagem-na-2-linha-do-mar-em-vila-do-ID1iMIA",
     "ff9a916fc3941b507f3d0be8": "custojusto:45220483",
@@ -10875,6 +10878,67 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-no-centro-de-famalicao-ID1iODg"
     },
+    "imovirtual:apartamento-t2-98-m-garagem-sao-cosme-gondomar-ID1iPfF": {
+      "area_m2": 98.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "ccbc8be427c4b6201bd20f03",
+      "first_seen": "2026-09-02T21:58:19+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijk3Y3hybmdrMnFwZDItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.X1wTiWgEGl1XFZYkQSGQlA7K5KJoPAZwKkpvSXMESJs/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T21:58:19+00:00",
+      "last_seen": "2026-09-02T21:58:19+00:00",
+      "latitude": 41.140438,
+      "local_median_price_per_m2": null,
+      "location": "Rua Doutor Sérgio Vieira de Melo, Gondomar (São Cosme), Valbom e Jovim, Porto",
+      "longitude": -8.543226,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1450.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T21:58:19+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 12.24,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-02T21:36:00Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-98-m-garagem-sao-cosme-gondomar-ID1iPfF",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 3000.0,
+        "deposits": 3,
+        "entry_total": 3000.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T2 | 98 m² | Garagem | São Cosme, Gondomar",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-98-m-garagem-sao-cosme-gondomar-ID1iPfF"
+    },
     "imovirtual:apartamento-t2-aguas-santas-ID1iMCL": {
       "area_m2": 75.1,
       "decision_reasons": [
@@ -10932,6 +10996,64 @@
       "title": "Apartamento T2 - Aguas Santas",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-aguas-santas-ID1iMCL"
+    },
+    "imovirtual:apartamento-t2-arrendamento-em-cedofeita-santo-ildefonso-se-miragai-ID1iPfx": {
+      "area_m2": 78.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "6cf972d7328fd32fe9fe3e2c",
+      "first_seen": "2026-09-02T21:58:19+00:00",
+      "first_seen_at": null,
+      "floor": 5,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQ4ZGx5MDZiZ3FoYzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NPXKIf6f0Tzkun3i3Kra-hKajEm2b5q6AQZLgT5lrcU/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T21:58:19+00:00",
+      "last_seen": "2026-09-02T21:58:19+00:00",
+      "latitude": 41.15359,
+      "local_median_price_per_m2": null,
+      "location": "Rua Aníbal Cunha, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.620829,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1200.0,
+      "price": 1890.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T21:58:19+00:00",
+          "price": 1890.0
+        }
+      ],
+      "price_per_m2": 24.23,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-02T20:59:29Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-arrendamento-em-cedofeita-santo-ildefonso-se-miragai-ID1iPfx",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 5670.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 Arrendamento em Cedofeita, Santo Ildefonso, Sé, Miragai",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-arrendamento-em-cedofeita-santo-ildefonso-se-miragai-ID1iPfx"
     },
     "imovirtual:apartamento-t2-arrendamento-em-povoa-de-varzim-beiriz-e-argivai-povoa-ID1iNXi": {
       "area_m2": 128.0,
@@ -12395,6 +12517,64 @@
       "title": "APARTAMENTO T3, ARRENDAMENTO, PÓVOA DE VARZIM",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-arrendamento-povoa-de-varzim-ID1iOqu"
+    },
+    "imovirtual:apartamento-t3-caulinos-ID1iPfC": {
+      "area_m2": 142.37,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "fe4a5fac40d4b6adfbaf4c89",
+      "first_seen": "2026-09-02T21:58:19+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img5ZjNrd25wcXRjdi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.XdS38kXqlezqMuiH6SKJbBbb2jsgGsC08uxjJ-MaWpg/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T21:58:19+00:00",
+      "last_seen": "2026-09-02T21:58:19+00:00",
+      "latitude": 41.18894,
+      "local_median_price_per_m2": null,
+      "location": "4465-001, São Mamede de Infesta e Senhora da Hora, Porto",
+      "longitude": -8.63036,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 2000.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T21:58:19+00:00",
+          "price": 2000.0
+        }
+      ],
+      "price_per_m2": 14.05,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-02T21:14:48Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-caulinos-ID1iPfC",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2000.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 - Caulinos",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-caulinos-ID1iPfC"
     },
     "imovirtual:apartamento-t3-com-duas-varandas-novo-ID1iN6s": {
       "area_m2": 151.0,
