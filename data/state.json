@@ -36,6 +36,7 @@
     "0a85a553d19d4b1e4e3173e1": "supercasa:2200811",
     "0ab2cc7be1065afe720d243d": "supercasa:2253170",
     "0b05de39acd35a7a18b4cfcf": "supercasa:2118908",
+    "0b1c359374801aa5ea9a1e65": "imovirtual:apartamento-t2-em-calendario-ID1iPaO",
     "0b95e278c1d1eab999074811": "supercasa:2133385",
     "0c0cc284032e0d1270258d4e": "supercasa:2268621",
     "0c4c4614e810b4051f6df69d": "supercasa:2215164",
@@ -372,6 +373,7 @@
     "818e091308f25a431bb5b5a1": "imovirtual:estudio-p-estudantes-no-porto-ID1iNUS",
     "81c06101eac4a37b403161e7": "imovirtual:excelente-t1-c-box-e-com-terraco-ID1iLis",
     "823114736fa46cff57741d3c": "imovirtual:estudio-localizado-em-pedroucos-porto-ID1iOrb",
+    "8233ee0ab2eea8bc6144abd4": "casa_sapo:80c30aaf-a6d5-11f1-9c13-060000000051",
     "824d70cbd71ed065a1cf17e4": "casa_sapo:alugar-casa-ferias",
     "829be16c5050251e77b46381": "imovirtual:t1-renovado-para-arrendamento-valbom-ID1iN1D",
     "82acdace261cc45802d6cb6f": "supercasa:2259104",
@@ -615,11 +617,13 @@
     "ca6d834b140f8674f68670f7": "imovirtual:apartamento-t3-novo-bessa-com-lugar-de-garagem-ID1iMG1",
     "caa6d54bebaaabda018af8ba": "imovirtual:porto-apartamento-t1-arca-de-agua-ID1iLEB",
     "cac15eae48633bcba65cbc5d": "supercasa:2273908",
+    "cb922274567486276a91fe8b": "imovirtual:apartamento-t1-1-leia-a-descricao-ID1iPbT",
     "cba26c6739cfbf22dcb71f20": "supercasa:2219582",
     "cbda1f7ee5a01b9fd609706e": "custojusto:44962585",
     "cc3235c9d883838ed29e1c76": "supercasa:2236069",
     "cc41df0bc22bc1c2fc72c888": "casa_sapo:alugar-quartos",
     "ccc3a5490b6fa1f9ae266057": "supercasa:2016886",
+    "cd60796feb13589e5f5170b3": "imovirtual:apartamento-t1-para-arrendamento-ID1iPbJ",
     "cd6a6145e0688728eff8c0f4": "supercasa:2097920",
     "cd834b238ef79cc6a6f6d9c4": "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iMhB",
     "cd9d4fd05098f4be394354e9": "supercasa:2233610",
@@ -711,6 +715,7 @@
     "e48ef5158e418a32b79a47cd": "supercasa:2217666",
     "e49497fa04bc5f9e5a9b8dcc": "imovirtual:t0-acolhedor-vila-do-conde-ID1iOnx",
     "e49c73166e1377c56d1e4f30": "imovirtual:apartamento-t1-para-arrendamento-ID1iNer",
+    "e4cdbda519c7d8e28cebf31c": "imovirtual:aluguer-casa-em-famalicao-ID1iPd6",
     "e509a65f0ce55daf955eba96": "imovirtual:apartamento-t2-em-ramalde-porto-excelente-oportunidade-ID1iP6x",
     "e590dc3c42e82fc3b7efb239": "supercasa:2270969",
     "e5c54b92a8efd02e6e6612cd": "imovirtual:t1-mobilado-polo-univerditario-hospital-s-joao-novo-ID1iM0A",
@@ -779,6 +784,7 @@
     "fa2f0e62c0253f6c5bd19619": "supercasa:2211840",
     "fa64767b0c4f69452d48d3bb": "imovirtual:andar-moradia-senhora-da-hora-ID1iMJi",
     "fadc6da61856ce608ad79c75": "imovirtual:arrendo-apartamento-t2-a-dois-minutos-da-faculdade-fernando-pessoa-ID1iNSd",
+    "faf9ec9c3d0faad2a169e54c": "imovirtual:t2-para-arrendamento-em-alfena-625-mes-ID1iPeN",
     "fb3f922151c6732a8cc588f1": "imovirtual:t4-para-arrendamento-varanda-e-garagem-foz-do-douro-ID1iNai",
     "fbcc63ffce03efde9e18945b": "supercasa:2262093",
     "fc3d3d5f0f0403c9931d67bf": "imovirtual:arrenda-se-t3-junto-el-corte-ingles-gaia-ID1iMK2",
@@ -1650,6 +1656,71 @@
       "title": "Apartamento T1 Santa Marinha, Vila Nova de Gaia",
       "typology": "T1",
       "url": "https://casa.sapo.pt/alugar-apartamento-t1-vila-nova-de-gaia-santa-marinha-77988b57-cfee-11ed-aeeb-060000000051.html"
+    },
+    "casa_sapo:80c30aaf-a6d5-11f1-9c13-060000000051": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "bom preço por m² face à amostra",
+        "ligação aceitável ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "8233ee0ab2eea8bc6144abd4",
+      "first_seen": "2026-09-02T19:29:53+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S5/C5297/P30945398/Tphoto/ID7630d801-0000-0500-0000-00001a486faf.jpg",
+      "last_change": "2026-09-02T19:29:53+00:00",
+      "last_seen": "2026-09-02T19:29:53+00:00",
+      "latitude": 41.2214858,
+      "local_median_price_per_m2": 17.0,
+      "location": "Ermesinde",
+      "longitude": -8.5502956,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 21,
+      "previous_price": 1100.0,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T19:29:53+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 11.54,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 6.5,
+      "source": "casa_sapo",
+      "source_id": "80c30aaf-a6d5-11f1-9c13-060000000051",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2250.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 Ermesinde, Valongo",
+      "typology": "T1",
+      "url": "https://casa.sapo.pt/alugar-apartamento-t1-valongo-ermesinde-80c30aaf-a6d5-11f1-9c13-060000000051.html"
     },
     "casa_sapo:91dabd67-9c86-11f1-bc59-060000000052": {
       "area_m2": 55.0,
@@ -5106,6 +5177,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/alugo-t1-valongo-rua-pero-vaz-de-caminha-ID1iOLI"
     },
+    "imovirtual:aluguer-casa-em-famalicao-ID1iPd6": {
+      "area_m2": 135.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e4cdbda519c7d8e28cebf31c",
+      "first_seen": "2026-09-02T19:29:53+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtvN2Q1dm5iODc1YzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.eBQWWoXu6BKchphyWuw3mb8A2ig6ynNWkaFCvVb9ezE/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T19:29:53+00:00",
+      "last_seen": "2026-09-02T19:29:53+00:00",
+      "latitude": 41.45426,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Pedregal, Vale (São Cosme), Telhado e Portela, Braga",
+      "longitude": -8.46187,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T19:29:53+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 9.26,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-02T17:31:46Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "aluguer-casa-em-famalicao-ID1iPd6",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Aluguer Casa em Famalicão",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/aluguer-casa-em-famalicao-ID1iPd6"
+    },
     "imovirtual:andar-moradia-c-parque-privado-4-carros-ID1iMGt": {
       "area_m2": 70.0,
       "decision_reasons": [
@@ -7778,6 +7908,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-com-jardim-privativo-e-piscina-ID1iN51"
     },
+    "imovirtual:apartamento-t1-1-leia-a-descricao-ID1iPbT": {
+      "area_m2": 86.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "cb922274567486276a91fe8b",
+      "first_seen": "2026-09-02T19:29:53+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNoaW90YXl5aTdwejEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tIcsNIoNSeYjLrUK_IjCdQTn5QOfSDUphvHNUmeT73E/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T19:29:53+00:00",
+      "last_seen": "2026-09-02T19:29:53+00:00",
+      "latitude": 41.37867,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua de Nossa Senhora do Bom Sucesso, Póvoa de Varzim, Beiriz e Argivai, Porto",
+      "longitude": -8.73373,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1150.0,
+      "price": 500.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T19:29:53+00:00",
+          "price": 500.0
+        }
+      ],
+      "price_per_m2": 5.81,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-02T17:03:04Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-1-leia-a-descricao-ID1iPbT",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 500.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1+1 leia a descrição",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-leia-a-descricao-ID1iPbT"
+    },
     "imovirtual:apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz": {
       "area_m2": 90.0,
       "decision_reasons": [
@@ -9922,6 +10110,66 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iOfu"
     },
+    "imovirtual:apartamento-t1-para-arrendamento-ID1iPbJ": {
+      "area_m2": 113.6,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "cd60796feb13589e5f5170b3",
+      "first_seen": "2026-09-02T19:29:53+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhiejJiaWQydGg4cTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WV7NDrQKw89tZk01shPPmRtsLDisoyjhrhIPydFeOzg/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T19:29:53+00:00",
+      "last_seen": "2026-09-02T19:29:53+00:00",
+      "latitude": 41.16588,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua Fernando Cabral, Ramalde, Porto",
+      "longitude": -8.631642,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T19:29:53+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 11.44,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-02T17:02:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-ID1iPbJ",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iPbJ"
+    },
     "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE": {
       "area_m2": 62.0,
       "decision_reasons": [
@@ -11037,6 +11285,66 @@
       "title": "Apartamento T2 com varandas e garagem no Pinheiro Manso – Porto - Arre",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-com-varandas-e-garagem-no-pinheiro-manso-porto-arre-ID1iP1B"
+    },
+    "imovirtual:apartamento-t2-em-calendario-ID1iPaO": {
+      "area_m2": 105.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "0b1c359374801aa5ea9a1e65",
+      "first_seen": "2026-09-02T19:29:53+00:00",
+      "first_seen_at": null,
+      "floor": 291,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImM5NG1yYm5laWwycTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-hRDApE4uYSETU-X3w7q018P5pncQfDbktPiZR6Lf0Y/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T19:29:53+00:00",
+      "last_seen": "2026-09-02T19:29:53+00:00",
+      "latitude": 41.39672,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Outeiro, Vila Nova de Famalicão e Calendário, Braga",
+      "longitude": -8.53227,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1650.0,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T19:29:53+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 7.62,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-02T16:45:01Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-em-calendario-ID1iPaO",
+      "terms": {
+        "advance_rents": 1,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 2400.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Calendário",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-calendario-ID1iPaO"
     },
     "imovirtual:apartamento-t2-em-porto-ID1iOBe": {
       "area_m2": 0.0,
@@ -21402,6 +21710,68 @@
       "title": "T2 Paços de Ferreira",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-pacos-de-ferreira-ID1iOiQ"
+    },
+    "imovirtual:t2-para-arrendamento-em-alfena-625-mes-ID1iPeN": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "ligação aceitável ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "faf9ec9c3d0faad2a169e54c",
+      "first_seen": "2026-09-02T19:29:53+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBmdXozYWlnYTdiYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bhiVnqXprhcNyZxWXm1__yioqsTTlXwoLykxxcVnlfM/image;s=2048x1536;q=80",
+      "last_change": "2026-09-02T19:29:53+00:00",
+      "last_seen": "2026-09-02T19:29:53+00:00",
+      "latitude": 41.23794,
+      "local_median_price_per_m2": null,
+      "location": "Rua Central da Costa, Alfena, Porto",
+      "longitude": -8.52524,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 23,
+      "previous_price": null,
+      "price": 625.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T19:29:53+00:00",
+          "price": 625.0
+        }
+      ],
+      "price_per_m2": 11.36,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-02T19:07:50Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 6.7,
+      "source": "imovirtual",
+      "source_id": "t2-para-arrendamento-em-alfena-625-mes-ID1iPeN",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 625.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 para Arrendamento em Alfena – €625/mês",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-para-arrendamento-em-alfena-625-mes-ID1iPeN"
     },
     "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu": {
       "area_m2": 232.9,
