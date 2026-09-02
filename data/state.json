@@ -342,6 +342,7 @@
     "77794c9ae8fac867d49c7ac6": "custojusto:45220099",
     "77c2385226876756ed4aede3": "imovirtual:apartamento-t1-com-varandas-no-flower-tower-ID1iLvK",
     "77d384cde0e1b1ddd59f47c5": "imovirtual:t1-castelo-branco-perto-do-modelo-ID1iLWP",
+    "78329e2ac067dd266824ec3e": "supercasa:2270236",
     "7865835a6d0fb45d17e9764d": "imovirtual:t1-matosinhos-mobiliado-ID1iOM3",
     "7a27a1a4e9296be655e1fadc": "imovirtual:arrendamento-de-t1-mobilado-e-equipado-no-bonfim-ID1iNfq",
     "7a2a3f3e5de1876f597d076f": "imovirtual:apartamento-t2-1-no-centro-de-famalicao-ID1iODg",
@@ -587,6 +588,7 @@
     "c5b62a66dff4bdf8c1cf269c": "supercasa:2220605",
     "c5e060f86cff5593cbb54d24": "imovirtual:apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE",
     "c5e79f5524e5d601306bfb00": "supercasa:2263074",
+    "c604f30ec0477fae3813c840": "supercasa:2235047",
     "c6382cdb7f7afb93c307857a": "supercasa:2224709",
     "c6e702a408bf0f0a65867923": "supercasa:2184736",
     "c6efa4fd81fb7d70514bc219": "supercasa:2227620",
@@ -677,6 +679,7 @@
     "e0b9498b27e3b55739714723": "imovirtual:apartamento-t1-novo-estrear-ID1iOVf",
     "e0c1707dae71a151f2da1dbd": "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iM0t",
     "e0cbaaa0337ccddac7d1505e": "supercasa:2237913",
+    "e115059be1de56edc4e2551f": "supercasa:2212682",
     "e184fac0dd58dafaa3d5869a": "supercasa:2256570",
     "e1b38671f4ac82648e8c37b5": "supercasa:1893968",
     "e1c5500271d7c7c671080627": "supercasa:2274728",
@@ -758,6 +761,7 @@
     "f9a3dec6aab357aeebe66587": "supercasa:1246359",
     "f9bb70860df0aa5e4c24de61": "supercasa:2276399",
     "f9f08e5b9d9583e863a8c82a": "supercasa:2215047",
+    "fa12a0921334e5a9c833a272": "supercasa:2281914",
     "fa2f0e62c0253f6c5bd19619": "supercasa:2211840",
     "fa64767b0c4f69452d48d3bb": "imovirtual:andar-moradia-senhora-da-hora-ID1iMJi",
     "fadc6da61856ce608ad79c75": "imovirtual:arrendo-apartamento-t2-a-dois-minutos-da-faculdade-fernando-pessoa-ID1iNSd",
@@ -30764,6 +30768,64 @@
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2212051"
     },
+    "supercasa:2212682": {
+      "area_m2": 218.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e115059be1de56edc4e2551f",
+      "first_seen": "2026-09-02T01:22:53+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C5304/P30216501/Tphoto/ID3511cd01-0000-0500-0000-000019858759.jpg",
+      "last_change": "2026-09-02T01:22:53+00:00",
+      "last_seen": "2026-09-02T01:22:53+00:00",
+      "latitude": 41.16542,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.651931,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 3990.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T01:22:53+00:00",
+          "price": 3990.0
+        }
+      ],
+      "price_per_m2": 18.3,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-01T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2212682",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 11970.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T7 em Ramalde",
+      "typology": "T7",
+      "url": "https://supercasa.pt/arrendamento-moradia-t7-porto/i2212682"
+    },
     "supercasa:2214206": {
       "area_m2": 150.0,
       "decision_reasons": [
@@ -33916,6 +33978,64 @@
       "title": "Apartamento T1 em Santa Marinha",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2235035"
+    },
+    "supercasa:2235047": {
+      "area_m2": 95.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c604f30ec0477fae3813c840",
+      "first_seen": "2026-09-02T01:22:53+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C14432/P30556108/Tphoto/IDcc3fd201-0000-0500-0000-000019d09670.jpg",
+      "last_change": "2026-09-02T01:22:53+00:00",
+      "last_seen": "2026-09-02T01:22:53+00:00",
+      "latitude": 41.1468616,
+      "local_median_price_per_m2": 17.14,
+      "location": "Porto",
+      "longitude": -8.602746,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T01:22:53+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 13.68,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-01T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2235047",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3900.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T1 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2235047"
     },
     "supercasa:2236069": {
       "area_m2": 50.0,
@@ -42707,6 +42827,64 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-guimaraes/i2270135"
     },
+    "supercasa:2270236": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "78329e2ac067dd266824ec3e",
+      "first_seen": "2026-09-02T01:22:53+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C7136/P30836220/Tphoto/IDfc85d601-0000-0500-0000-00001a284329.jpg",
+      "last_change": "2026-09-02T01:22:53+00:00",
+      "last_seen": "2026-09-02T01:22:53+00:00",
+      "latitude": 41.15804,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.629256,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T01:22:53+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 20.83,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-01T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2270236",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T2 na Rua Alexandre Herculano",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-moradia-t2-porto/i2270236"
+    },
     "supercasa:2270508": {
       "area_m2": 39.0,
       "decision_reasons": [
@@ -46246,6 +46424,65 @@
       "title": "Apartamento T1 Duplex em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2281252"
+    },
+    "supercasa:2281914": {
+      "area_m2": 104.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "fa12a0921334e5a9c833a272",
+      "first_seen": "2026-09-02T01:22:53+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C194/P30928968/Tphoto/ID48f0d701-0000-0500-0000-00001a443793.jpg",
+      "last_change": "2026-09-02T01:22:53+00:00",
+      "last_seen": "2026-09-02T01:22:53+00:00",
+      "latitude": 41.5557781618,
+      "local_median_price_per_m2": 17.14,
+      "location": "Porto",
+      "longitude": -8.4210366921,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 450.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-02T01:22:53+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 12.02,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-01T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2281914",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 na Rua de Santa Teresa",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-braga/i2281914"
     },
     "supercasa:2282304": {
       "area_m2": 65.0,
