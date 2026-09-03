@@ -62,6 +62,7 @@
     "1195ce24508ce9b96854d742": "imovirtual:t0-a-50m-da-praia-mobilado-e-equipado-ID1iNfu",
     "11a611fb049aba6681d1e919": "supercasa:2225133",
     "11f5b17101a6f9ed281474ef": "supercasa:2275297",
+    "13180328253808dfad096481": "imovirtual:t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iPob",
     "132d76aa5bf312ae0daca7fa": "supercasa:2237807",
     "1337b356c17a073c7d7729b5": "supercasa:2280394",
     "1388327821fdad263fa75319": "supercasa:1985918",
@@ -271,6 +272,7 @@
     "553f9b3836426b90f1385f4e": "imovirtual:apartamento-t1-novo-com-varanda-vistas-mar-na-foz-do-douro-ID1iP9c",
     "55b171338a6ddc57e7c2b5bf": "supercasa:2161359",
     "56df216c0c64999444fd182a": "casa_sapo:alugar-casa-ferias",
+    "56e8d2440a461ea901a0ee46": "imovirtual:casa-em-patio-a-portuguesa-ID1iPnk",
     "5765066b2d9dbc8b09917471": "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE",
     "578b26ce189568496d20f70b": "imovirtual:apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz",
     "57d67813f65e5d61061e8ae4": "imovirtual:apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm",
@@ -423,6 +425,7 @@
     "8ad7335691b9803f2187d060": "supercasa:2217924",
     "8b1534916277a088a4914f82": "supercasa:2273338",
     "8c47ef9e89458b04adaa3bc4": "supercasa:2237778",
+    "8c8a998600e6004f8437b960": "imovirtual:t1-douro-nobilis-a-vl8-ID1iPpR",
     "8ca09a0c0ea64c1b09af8515": "supercasa:2219079",
     "8df617c3dc92b800bd57da2b": "supercasa:2097918",
     "8e7ded0fd3ae6dcaeea24cb4": "imovirtual:arrenda-se-moradia-t3-em-fradelos-v-n-de-famalicao-ID1iNTR",
@@ -604,6 +607,7 @@
     "c08f7efeb12aae09494afb69": "imovirtual:apartamento-t1-praca-poveiros-baixa-ID1iMy2",
     "c0fb7577e8b9b7d4250ca8ad": "supercasa:2243067",
     "c139f76b8417c8a844d41997": "imovirtual:apartamento-t3-com-varanda-e-churrasqueira-para-arrendamento-a-900-met-ID1iN7F",
+    "c18ac31f7673965c117da481": "imovirtual:arrendamento-t1-luxo-paranhos-porto-ID1iPqF",
     "c1fa45c8530d71bbea0052f8": "supercasa:2240770",
     "c210003cfebade45cc32d8aa": "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN",
     "c21db6cd0f826668372dffdc": "imovirtual:t3-na-trofa-para-arrendamento-ID1iMTs",
@@ -14833,6 +14837,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-t-1-1-escritorio-atelier-c-janela-panoramica-ID1iNUz"
     },
+    "imovirtual:arrendamento-t1-luxo-paranhos-porto-ID1iPqF": {
+      "area_m2": 69.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "c18ac31f7673965c117da481",
+      "first_seen": "2026-09-03T14:29:52+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBuOTcyc2J1MTJybTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.25cPSU73sfvHR3CvhCBgf3Ew-CAD6mjx-Lxq9hD23kg/image;s=2048x1536;q=80",
+      "last_change": "2026-09-03T14:29:52+00:00",
+      "last_seen": "2026-09-03T14:29:52+00:00",
+      "latitude": 41.17627,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
+      "longitude": -8.60747,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1195.0,
+      "price": 1050.0,
+      "price_history": [
+        {
+          "at": "2026-09-03T14:29:52+00:00",
+          "price": 1050.0
+        }
+      ],
+      "price_per_m2": 15.22,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-03T14:17:16Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendamento-t1-luxo-paranhos-porto-ID1iPqF",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1050.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendamento T1 luxo paranhos Porto",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-t1-luxo-paranhos-porto-ID1iPqF"
+    },
     "imovirtual:arrendamento-t2-1-aguas-santas-maia-ID1iOhZ": {
       "area_m2": 104.0,
       "decision_reasons": [
@@ -15727,6 +15789,71 @@
       "title": "Casa centro do Porto -Marques",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/casa-centro-do-porto-marques-ID1iNht"
+    },
+    "imovirtual:casa-em-patio-a-portuguesa-ID1iPnk": {
+      "area_m2": 25.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "ligação muito rápida ao ISCAP",
+        "entrada inicial até três rendas",
+        "algumas despesas incluídas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "56e8d2440a461ea901a0ee46",
+      "first_seen": "2026-09-03T14:29:52+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhuZzBya250N2JrajItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.sJjolfs5Lz0j6VfyLLR-PvdyXiXJmzOJG-zMwrqwYP8/image;s=2048x1536;q=80",
+      "last_change": "2026-09-03T14:29:52+00:00",
+      "last_seen": "2026-09-03T14:29:52+00:00",
+      "latitude": 41.16536,
+      "local_median_price_per_m2": 21.21,
+      "location": "4300-001, Rio Tinto, Porto",
+      "longitude": -8.563615,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 14,
+      "previous_price": null,
+      "price": 450.0,
+      "price_history": [
+        {
+          "at": "2026-09-03T14:29:52+00:00",
+          "price": 450.0
+        }
+      ],
+      "price_per_m2": 18.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-03T11:52:15Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 6.6,
+      "source": "imovirtual",
+      "source_id": "casa-em-patio-a-portuguesa-ID1iPnk",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 550.0,
+        "deposits": 1,
+        "entry_total": 550.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "eletricidade"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Casa em Pátio à Portuguesa",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/casa-em-patio-a-portuguesa-ID1iPnk"
     },
     "imovirtual:casa-para-alojamento-temporario-para-professores-alunos-ID1iOe3": {
       "area_m2": 50.0,
@@ -20293,6 +20420,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-da-rua-miguel-bombarda-jaime-rios-de-sousa-ID1iMIq"
     },
+    "imovirtual:t1-douro-nobilis-a-vl8-ID1iPpR": {
+      "area_m2": 56.11,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "8c8a998600e6004f8437b960",
+      "first_seen": "2026-09-03T14:29:52+00:00",
+      "first_seen_at": null,
+      "floor": 56,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjU1MnF5MzVqcHkybC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.86MP8z7OM7T448SjhPmM2MA2kmmU6ZWcfpkHcOFPzxc/image;s=2048x1536;q=80",
+      "last_change": "2026-09-03T14:29:52+00:00",
+      "last_seen": "2026-09-03T14:29:52+00:00",
+      "latitude": 41.13181,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua José Guimarães, Santa Marinha e São Pedro da Afurada, Porto",
+      "longitude": -8.62475,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-09-03T14:29:52+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 24.95,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-03T13:59:03Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-douro-nobilis-a-vl8-ID1iPpR",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1400.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 Douro Nobilis á VL8",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-douro-nobilis-a-vl8-ID1iPpR"
+    },
     "imovirtual:t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI": {
       "area_m2": 65.0,
       "decision_reasons": [
@@ -22857,6 +23042,65 @@
       "title": "T3 Novo | Com Varanda, Closet e Garagem | Canidelo, Vila Nova de Gaia",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-novo-com-varanda-closet-e-garagem-canidelo-vila-nova-de-gaia-ID1iNpg"
+    },
+    "imovirtual:t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iPob": {
+      "area_m2": 128.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "13180328253808dfad096481",
+      "first_seen": "2026-09-03T14:29:52+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVrNHFyNm0zMGF6aTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.C1GmZTBoOIbos8PjYozrLauU7EwOGVg3TIHMDguBWtA/image;s=2048x1536;q=80",
+      "last_change": "2026-09-03T14:29:52+00:00",
+      "last_seen": "2026-09-03T14:29:52+00:00",
+      "latitude": 41.112686,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova de Gaia, Canidelo, Porto",
+      "longitude": -8.661591,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2300.0,
+      "price_history": [
+        {
+          "at": "2026-09-03T14:29:52+00:00",
+          "price": 2300.0
+        }
+      ],
+      "price_per_m2": 17.97,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-03T12:15:46Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iPob",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2300.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3 para Arrendamento | Canidelo | 3 Suítes | Box para 2 Carros | Na Pr",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iPob"
     },
     "imovirtual:t4-de-luxo-living-sea-canidelo-arrendamento-foz-de-gaia-ID1iN7I": {
       "area_m2": 250.0,
