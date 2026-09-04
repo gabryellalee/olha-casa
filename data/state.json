@@ -3,7 +3,7 @@
     "0003f893a7b3e05947dd8a50": "imovirtual:apartamento-para-3-estudantes-ID1iNtC",
     "000dba45d4e00a66c17ce491": "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
     "0019b5fe3be5c64efd6d6748": "imovirtual:t1-na-rua-dos-bragas-ID1iLL7",
-    "0065586175c4846e8fc49b16": "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iBF0",
+    "0065586175c4846e8fc49b16": "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iPLW",
     "00a3cd05bbf68881bd836153": "casa_sapo:91dabd67-9c86-11f1-bc59-060000000052",
     "00a589111e639c5bceb6762a": "imovirtual:apartamento-t3-hospital-de-sao-joao-ID1iNS6",
     "00af4c8a1656e5399f177b79": "casa_sapo:2d48c065-3da7-11ee-aeeb-060000000051",
@@ -64,6 +64,7 @@
     "11a611fb049aba6681d1e919": "supercasa:2225133",
     "11f5b17101a6f9ed281474ef": "supercasa:2275297",
     "11f70a299dd2367eb93592bf": "imovirtual:t4-duplex-para-arrendamento-em-oliveira-do-douro-ID1iPx1",
+    "1296d400b5b6847078e58fcd": "imovirtual:t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iQ4d",
     "13180328253808dfad096481": "imovirtual:t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iPob",
     "132d76aa5bf312ae0daca7fa": "supercasa:2237807",
     "1337b356c17a073c7d7729b5": "supercasa:2280394",
@@ -172,6 +173,7 @@
     "3579f203615bdacd1746dc17": "imovirtual:apartamento-t2-para-arrendamento-ID1iN2e",
     "35a117a9c3304240d74aedbe": "supercasa:2269090",
     "36288e048b07c9cffa3feaa0": "supercasa:2269179",
+    "362c3028db04ea052601408c": "imovirtual:t2-arrendamento-parque-das-nacoes-ID1iPKh",
     "36670638e894b5e9aa305573": "imovirtual:arrendamento-t-1-1-escritorio-atelier-c-janela-panoramica-ID1iNUz",
     "370ee4be92df0434193bce9c": "custojusto:45109513",
     "37364d5a5197038dfdff895b": "supercasa:1872129",
@@ -230,6 +232,7 @@
     "45a5e30cbccbae5157a8a0ca": "imovirtual:arrendo-apartamento-ID1iOmO",
     "46f8e7182c06f4eaae3fb3ea": "imovirtual:excelente-t1-rua-santa-catarina-c-garagem-ID1iPyJ",
     "46fd6f30955a2d7341fb1421": "supercasa:1976222",
+    "477083ebb1445e9fee259ca1": "imovirtual:apartamento-t3-para-arrendamento-ID1iQ56",
     "478f5555d946073bb79ae915": "supercasa:2262096",
     "485e1dab4415e9a617a147f9": "supercasa:2207381",
     "48fc8186a8e8c022780cac62": "supercasa:2234667",
@@ -250,6 +253,7 @@
     "4ea96a9cfc49d6324130b8d1": "supercasa:2141202",
     "4eb271aa6aa318d48b229d88": "imovirtual:apartamento-t1k-junto-a-feup-fep-e-fmup-ID1iMH0",
     "4ec73f5afd2d0f38f4f97fbf": "imovirtual:arrendo-sem-fiador-aguas-santas-maia-10minutos-do-porto-ID1iMuW",
+    "4ed67494db653dddd87f5f56": "imovirtual:t2-em-canidelo-ID1iQ4I",
     "4ef851af3bd37278c7e46264": "supercasa:1588768",
     "4f05a1c3643b5ae29092ff51": "imovirtual:apartamento-t0-no-polo-universitario-paranhos-ID1iMWE",
     "4f25de1f23f30e19a250b266": "supercasa:2245990",
@@ -276,6 +280,7 @@
     "54c09f32ae896ed9370ee07c": "casa_sapo:1d48ef7f-2acd-11ed-aeeb-060000000051",
     "551d07af122bc6679cee5de6": "imovirtual:t3-gulpilhares-v-ngaia-ID1iNBN",
     "553f9b3836426b90f1385f4e": "imovirtual:apartamento-t1-novo-com-varanda-vistas-mar-na-foz-do-douro-ID1iP9c",
+    "55aab1a2fcbc4a78a152fa5b": "imovirtual:moradia-t3-renovada-na-maia-conforto-e-excelente-localizacao-ID1iPTE",
     "55b171338a6ddc57e7c2b5bf": "supercasa:2161359",
     "56c68e5dd6ad054239f93d99": "imovirtual:apartamento-t3-na-madalena-a-900m-da-praia-ID1iPx0",
     "56df216c0c64999444fd182a": "casa_sapo:alugar-casa-ferias",
@@ -297,7 +302,9 @@
     "5d0d1294a14975d2752903f3": "imovirtual:apartamento-t0-para-arrendamento-ID1iNGs",
     "5e3069fb295557620186ffa1": "imovirtual:apartamento-t3-para-arrendamento-ID1iN6W",
     "5e32320ae88001d88f6f944f": "supercasa:2277629",
+    "5e346350b94db651c6e3c7e5": "imovirtual:apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iQ4a",
     "5e3e120cabb7fa03c21f6706": "supercasa:2246259",
+    "5e4c547aa59200357524c76f": "supercasa:2279485",
     "5f0021ef5dae553a5bd12d58": "casa_sapo:9ce78157-5141-424a-a39f-606d886e5d6e",
     "5f58f7a944c7f827b762eb60": "imovirtual:apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9",
     "601173cbd211aede58451f76": "supercasa:1921047",
@@ -323,6 +330,7 @@
     "667d0b3bc4ec4d86a31b403d": "supercasa:2022109",
     "66dcf51355de16820fe291e7": "casa_sapo:948e9d0b-2dc7-11ec-aeeb-060000000051",
     "6957a6a57ba4ed1999c1df54": "supercasa:2277250",
+    "6978c32cf0b0c07177191dea": "supercasa:1903249",
     "69b484e1df3ea572b7329d6f": "supercasa:2285726",
     "69e03ad0385e4018d7e6c958": "supercasa:2181148",
     "6a6ba09b9a96c02c54b9ee56": "supercasa:2247127",
@@ -380,6 +388,7 @@
     "7b4de12ed91a93ead6521eda": "imovirtual:arrenda-se-apartamento-t1-1-open-space-telemovel-ID1iMaO",
     "7be5d56aa690bf5aa29e9108": "custojusto:44992030",
     "7c01080b59f6269c8ae2d745": "supercasa:2093682",
+    "7c0fa9f3b053b44aafcdfd80": "imovirtual:moradia-senhorial-com-jardim-junto-a-serralves-e-av-da-boavista-ID1iPMb",
     "7ca4a0b88dbb105d0262ab41": "supercasa:2078097",
     "7cba28496e2e76fb6ea429b5": "supercasa:2270036",
     "7d24f3ddce9b9dee5f7dcc95": "supercasa:2176025",
@@ -514,6 +523,7 @@
     "9f65aac7338a48ebed7e6503": "supercasa:186917",
     "9fdb4baa4dbe3352d0129449": "imovirtual:apartamento-t0-mobilado-em-faria-guimaraes-porto-ID1iOJA",
     "9ff9d03a1f0c4b03d4f2c130": "imovirtual:arrendamento-anual-t1-povoa-de-varzim-ID1iMDt",
+    "a0b147f468c650258084711f": "supercasa:2284989",
     "a140f101ff8d9f98233ed5f5": "imovirtual:fantastica-moradia-t4-para-arrendamento-na-maia-ID1iOxu",
     "a1ca02210149fafe7d0d4322": "imovirtual:aluga-se-t1-foz-velha-porto-ID1iMem",
     "a1f75e40ebbb3dd3901148c0": "supercasa:2218005",
@@ -591,6 +601,7 @@
     "b7e152cfa5efa482c132d9a3": "supercasa:2140923",
     "b812df8d349a8baf83700e61": "imovirtual:moradia-t4-restaurante-bandeirinha-riba-de-ave-ID1iKk3",
     "b83ad6c46b4f07b100c55cc0": "supercasa:2260145",
+    "b89df1982e072a5d258dc238": "imovirtual:estudio-para-arrendamento-em-leca-da-palmeira-ID1iQ2U",
     "b8e9b22e2150b226439db50a": "supercasa:2280454",
     "b8ebb4b359476e80e0c2ca3a": "custojusto:44728825",
     "b90237351cbc0b7f24082786": "supercasa:667165",
@@ -643,6 +654,7 @@
     "c5e79f5524e5d601306bfb00": "supercasa:2263074",
     "c604f30ec0477fae3813c840": "supercasa:2235047",
     "c6382cdb7f7afb93c307857a": "supercasa:2224709",
+    "c68baf29051a584bfde81e13": "imovirtual:apartamento-t0-junto-faculdade-fernando-pessoa-ID1iQ3W",
     "c6e702a408bf0f0a65867923": "supercasa:2184736",
     "c6efa4fd81fb7d70514bc219": "supercasa:2227620",
     "c71617923c8c35810efde39d": "supercasa:2232149",
@@ -725,6 +737,7 @@
     "dd757707e990bde56950d161": "supercasa:1393953",
     "ddcbcbd106849cd8dee2b09d": "supercasa:2265637",
     "ddd4faab9b861204979c0cff": "imovirtual:apartamento-t0-para-arrendamento-ID1iNpN",
+    "dde021ebbed1018996a338dd": "imovirtual:t2-em-santa-marinha-ID1iQ4n",
     "ddf4e0f42172e2607865e405": "imovirtual:t3-novo-com-varanda-closet-e-garagem-canidelo-vila-nova-de-gaia-ID1iNpg",
     "de480161253d326dcd14bf08": "imovirtual:apartamento-t2-com-varandas-e-garagem-no-pinheiro-manso-porto-arre-ID1iP1B",
     "de975ebd708d1b128a76782a": "imovirtual:apartamento-t0-com-ar-condicionado-em-cedofeita-ID1iNbr",
@@ -749,6 +762,7 @@
     "e1c368af9c50bf770abbd55d": "casa_sapo:6c293f93-cbb1-11f0-8add-060000000054",
     "e1c5500271d7c7c671080627": "supercasa:2274728",
     "e1d5f32ccf4e8101055a438a": "imovirtual:arrenda-se-habitacao-ID1iMDO",
+    "e2041cb391ff621ebc7e5079": "supercasa:2286736",
     "e22e105418a3f46a52d2ae2a": "supercasa:2242980",
     "e26462542fc98ec03aeecac3": "imovirtual:alugo-t1-com-garagem-privada-senhora-da-hora-ID1iOmR",
     "e2c385edc134e17998f41ec6": "imovirtual:casa-autocarro-transformado-ID1iNoC",
@@ -807,6 +821,7 @@
     "f2933a58bfc3c805d919abd2": "imovirtual:t3-1-duplex-no-ultimo-piso-com-amplos-terracos-e-3-lugares-de-garagem-ID1iMQu",
     "f2cbf7adac0354c485f21d77": "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr",
     "f2efa101b470d8be5517facc": "supercasa:2277609",
+    "f329f80549dcadc7b66f7a6e": "supercasa:2279369",
     "f3627350e4019dd9c6847380": "supercasa:1044119",
     "f3bb2928fb82f3d175506513": "imovirtual:arrenda-apartamento-ID1iOWn",
     "f3c6d72efef811200dddbef8": "supercasa:2239375",
@@ -6659,6 +6674,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-no-centro-do-porto-ID1iLzx"
     },
+    "imovirtual:apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iQ4a": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "5e346350b94db651c6e3c7e5",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZqMG5qMDg4anZmdy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.wQgRN83oYJQoKlhXYyHAZjNdqJB4l1VDudQBjH-t_-k/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.17395,
+      "local_median_price_per_m2": 21.13,
+      "location": "Largo Igreja de Paranhos, Paranhos, Porto",
+      "longitude": -8.60582,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 20.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T15:38:49Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iQ4a",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 800.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento Novo com Varanda e Garagem junto ao Hospital de São João –",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iQ4a"
+    },
     "imovirtual:apartamento-novo-t3-com-varanda-para-arrendamento-porto-ID1iOCN": {
       "area_m2": 18.8,
       "decision_reasons": [
@@ -7620,6 +7693,64 @@
       "title": "Apartamento T0/Estúdio - Hospital S. João - Mobilado/Equipado",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-estudio-hospital-s-joao-mobilado-equipado-ID1iO31"
+    },
+    "imovirtual:apartamento-t0-junto-faculdade-fernando-pessoa-ID1iQ3W": {
+      "area_m2": 30.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "c68baf29051a584bfde81e13",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndmMm56MWl0aWRsczMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Im0LAI0lBtCyI2avU-MgTmKvqMSCry_fx3oK9LLLJkY/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.17627,
+      "local_median_price_per_m2": 21.13,
+      "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
+      "longitude": -8.60747,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 575.0,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 26.67,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T15:34:47Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t0-junto-faculdade-fernando-pessoa-ID1iQ3W",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 800.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 junto Faculdade Fernando Pessoa",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-junto-faculdade-fernando-pessoa-ID1iQ3W"
     },
     "imovirtual:apartamento-t0-mobilado-com-varanda-e-ar-condicionado-ID1iNQe": {
       "area_m2": 38.0,
@@ -13916,6 +14047,64 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iOmS"
     },
+    "imovirtual:apartamento-t3-para-arrendamento-ID1iQ56": {
+      "area_m2": 92.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "477083ebb1445e9fee259ca1",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQ4dGZhenUwbXBoYzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dm1uU-LVIXDVs0ohXs_Cg2aeO69vWHwMtXmju3x2oAc/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.164856,
+      "local_median_price_per_m2": null,
+      "location": "Travessa Tardinhade, Fânzeres e São Pedro da Cova, Porto",
+      "longitude": -8.53518,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1298.0,
+      "price": 985.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 985.0
+        }
+      ],
+      "price_per_m2": 10.71,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T16:08:08Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-para-arrendamento-ID1iQ56",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 985.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iQ56"
+    },
     "imovirtual:apartamento-t3-renovado-arrendamento-garagem-varanda-foz-m-ID1iNA8": {
       "area_m2": 106.0,
       "decision_reasons": [
@@ -17475,6 +17664,66 @@
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/estudio-p-estudantes-no-porto-ID1iNUS"
     },
+    "imovirtual:estudio-para-arrendamento-em-leca-da-palmeira-ID1iQ2U": {
+      "area_m2": 8.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "b89df1982e072a5d258dc238",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Iml4M2Q0MHVsaWpieC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.pmeKeu9tvWWild3IjdJ315KI7dRxxcdtE8dLZqxjC-Q/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.200607,
+      "local_median_price_per_m2": 21.13,
+      "location": "Travessa Luísa Neto Jorge - Leça da Palmeira, Matosinhos e Leça da Palmeira, Porto",
+      "longitude": -8.705104,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 112.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T15:01:15Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "estudio-para-arrendamento-em-leca-da-palmeira-ID1iQ2U",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Estudio para Arrendamento em Leça da palmeira",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/estudio-para-arrendamento-em-leca-da-palmeira-ID1iQ2U"
+    },
     "imovirtual:estudio-t0-maia-despesas-incluidas-ID1iMTq": {
       "area_m2": 50.0,
       "decision_reasons": [
@@ -18014,6 +18263,68 @@
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/loja-para-arrendamento-proximo-do-centro-ID1iBF0"
     },
+    "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iPLW": {
+      "area_m2": 125.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "bom preço por m² face à amostra",
+        "garagem ou estacionamento indicado",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "0065586175c4846e8fc49b16",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImF5dHpnNmkzYW9ncTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.p1vMvNgP3L2bleg-hDhL2ZA1B7j5V8-VvjicMVwaBFE/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.3936,
+      "local_median_price_per_m2": 21.13,
+      "location": "Rua Capela Velha - Calendário, Vila Nova de Famalicão e Calendário, Braga",
+      "longitude": -8.52959,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 43,
+      "previous_price": 700.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 5.6,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T13:35:30Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 4.9,
+      "source": "imovirtual",
+      "source_id": "loja-para-arrendamento-proximo-do-centro-ID1iPLW",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Loja para arrendamento próximo do centro",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/loja-para-arrendamento-proximo-do-centro-ID1iPLW"
+    },
     "imovirtual:moradia-andar-t3-v-n-famalicao-centro-ID1iNMg": {
       "area_m2": 120.0,
       "decision_reasons": [
@@ -18421,6 +18732,64 @@
       "title": "Moradia para arrendamento em Gondomar",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-para-arrendamento-em-gondomar-ID1iNJp"
+    },
+    "imovirtual:moradia-senhorial-com-jardim-junto-a-serralves-e-av-da-boavista-ID1iPMb": {
+      "area_m2": 180.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "7c0fa9f3b053b44aafcdfd80",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNhdXFqaTVmZm13OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.4ART0aSCiXbPl9qBZbN5sbiWnfdfPb1ee7cjwk1zkVY/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.149517,
+      "local_median_price_per_m2": null,
+      "location": "Rua Carvalho Barbosa - Bairro do Aleixo, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.647527,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 3200.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 3200.0
+        }
+      ],
+      "price_per_m2": 17.78,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T13:36:12Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-senhorial-com-jardim-junto-a-serralves-e-av-da-boavista-ID1iPMb",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia Senhorial com jardim | Junto a Serralves e Av. da Boavista",
+      "typology": "T4",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-senhorial-com-jardim-junto-a-serralves-e-av-da-boavista-ID1iPMb"
     },
     "imovirtual:moradia-t1-para-arrendamento-ID1iOSr": {
       "area_m2": 38.0,
@@ -19067,6 +19436,64 @@
       "title": "Moradia T3 para arrendamento",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-para-arrendamento-ID1iOxq"
+    },
+    "imovirtual:moradia-t3-renovada-na-maia-conforto-e-excelente-localizacao-ID1iPTE": {
+      "area_m2": 100.7,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "55aab1a2fcbc4a78a152fa5b",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 100,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJnMHowenRyNWxwai1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.8c2eEM6GdfJ7c2FnSYdtD9GxCAcOWnGuXxpCMRfPLUA/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.230877,
+      "local_median_price_per_m2": null,
+      "location": "Travessa Manuel da Silva Cruz, Nogueira e Silva Escura, Porto",
+      "longitude": -8.5868025,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 12.41,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T13:52:10Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t3-renovada-na-maia-conforto-e-excelente-localizacao-ID1iPTE",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T3 Renovada na Maia – Conforto e Excelente Localização!",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-renovada-na-maia-conforto-e-excelente-localizacao-ID1iPTE"
     },
     "imovirtual:moradia-t4-com-4-suites-e-patio-foz-do-douro-ID1iNag": {
       "area_m2": 143.0,
@@ -22756,6 +23183,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-ultimo-andar-com-terraco-de-88-4-m-varanda-e-vista-mar-foz-ne-ID1iNqg"
     },
+    "imovirtual:t2-arrendamento-parque-das-nacoes-ID1iPKh": {
+      "area_m2": 101.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "362c3028db04ea052601408c",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImtsbWdqOXNvYXppeDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ujJI_-GURWoulPhZcskr3urFgION8KasyWFvPrll7KQ/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.40163,
+      "local_median_price_per_m2": null,
+      "location": "Avenida Rebelo Mesquita - Antas, Vila Nova de Famalicão e Calendário, Braga",
+      "longitude": -8.519142,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 2800.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 2800.0
+        }
+      ],
+      "price_per_m2": 27.72,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T13:31:58Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-arrendamento-parque-das-nacoes-ID1iPKh",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2800.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 ARRENDAMENTO PARQUE DAS NAÇOES",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-arrendamento-parque-das-nacoes-ID1iPKh"
+    },
     "imovirtual:t2-com-logradouro-privativo-em-real-vila-mea-amarante-ID1iOKJ": {
       "area_m2": 70.0,
       "decision_reasons": [
@@ -22996,6 +23481,65 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-duplex-a-estrear-com-jardim-foz-velha-t2-duplex-totalmente-renov-ID1iNnV"
     },
+    "imovirtual:t2-em-canidelo-ID1iQ4I": {
+      "area_m2": 101.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4ed67494db653dddd87f5f56",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpmZW1xeTB5N2VubDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1aETRJrXWwdZRQuBA3RcIkn-XC5iBWkzzoNueDZrBkg/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.112553,
+      "local_median_price_per_m2": null,
+      "location": "Rua Pedra do Couto - Canidelo, Canidelo, Porto",
+      "longitude": -8.660257,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1800.0,
+      "price": 2200.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 2200.0
+        }
+      ],
+      "price_per_m2": 21.78,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T15:55:04Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-em-canidelo-ID1iQ4I",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2200.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 em Canidelo",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-em-canidelo-ID1iQ4I"
+    },
     "imovirtual:t2-em-rio-tinto-com-garagem-e-ar-condicionado-ID1iOCA": {
       "area_m2": 67.0,
       "decision_reasons": [
@@ -23181,6 +23725,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-em-salgueiros-ID1iMTc"
     },
+    "imovirtual:t2-em-santa-marinha-ID1iQ4n": {
+      "area_m2": 66.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "dde021ebbed1018996a338dd",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im1vZ281bjB4OGMwbTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Ai4cPpQiFtZROdUQOE7g2z5uNyAdFWh-yqVlWsNyb4o/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.1319,
+      "local_median_price_per_m2": null,
+      "location": "Rua José Guimarães, Santa Marinha e São Pedro da Afurada, Porto",
+      "longitude": -8.625013,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1750.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 1750.0
+        }
+      ],
+      "price_per_m2": 26.52,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T15:43:06Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-em-santa-marinha-ID1iQ4n",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1750.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 em Santa Marinha",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-em-santa-marinha-ID1iQ4n"
+    },
     "imovirtual:t2-maia-centro-ID1iNtL": {
       "area_m2": 111.0,
       "decision_reasons": [
@@ -23238,6 +23840,64 @@
       "title": "T2- Maia centro",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-maia-centro-ID1iNtL"
+    },
+    "imovirtual:t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iQ4d": {
+      "area_m2": 47.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "1296d400b5b6847078e58fcd",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFqOHkzcXVhdnM2bDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yJiuC7Y_lXxYZ4XxvFuuTYUGfO4FV-IEuZhgzEJ_Q7w/image;s=2048x1536;q=80",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.17683,
+      "local_median_price_per_m2": null,
+      "location": "Rua Henrique de Sousa Reis, Paranhos, Porto",
+      "longitude": -8.59243,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 23.4,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T15:38:51Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iQ4d",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 Mobilado junto ao Hospital de São João | Asprela | Cozinha Equipada",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iQ4d"
     },
     "imovirtual:t2-novo-mobilado-e-equipado-junto-ao-parque-da-lavandeira-ID1iNAn": {
       "area_m2": 102.0,
@@ -27911,6 +28571,65 @@
       "title": "Apartamento T2 na Rua de Diogo Afonso",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i1903139"
+    },
+    "supercasa:1903249": {
+      "area_m2": 674.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "6978c32cf0b0c07177191dea",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4364/P26035389/Tphoto/IDbd448d01-0000-0500-0000-0000148e9422.jpg",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.35143,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.7529,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 8000.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 8000.0
+        }
+      ],
+      "price_per_m2": 11.87,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1903249",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 Triplex na Avenida Bento de Freitas",
+      "typology": "T4",
+      "url": "https://supercasa.pt/arrendamento-moradia-t4-vila-do-conde/i1903249"
     },
     "supercasa:1912924": {
       "area_m2": 43.0,
@@ -49975,6 +50694,65 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-trofa/i2278871"
     },
+    "supercasa:2279369": {
+      "area_m2": 158.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "f329f80549dcadc7b66f7a6e",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C40328/P30906054/Tphoto/IDc696d701-0000-0500-0000-00001a3d35e7.jpg",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.350174,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.7533423,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 10.13,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2279369",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Vila do Conde",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-do-conde/i2279369"
+    },
     "supercasa:2279398": {
       "area_m2": 52.0,
       "decision_reasons": [
@@ -50032,6 +50810,65 @@
       "title": "Apartamento T2 em São Mamede de Infesta",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2279398"
+    },
+    "supercasa:2279485": {
+      "area_m2": 72.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5e4c547aa59200357524c76f",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 72,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C13652/P30906628/Tphoto/ID0499d701-0000-0500-0000-00001a3d5f66.jpg",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.553599,
+      "local_median_price_per_m2": null,
+      "location": null,
+      "longitude": -8.433141,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 850.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 850.0
+        }
+      ],
+      "price_per_m2": 11.81,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2279485",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Maximinos, Sé e Cividade",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2279485"
     },
     "supercasa:2279676": {
       "area_m2": 94.0,
@@ -51008,6 +51845,64 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-valongo/i2284487"
     },
+    "supercasa:2284989": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "a0b147f468c650258084711f",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C4669/P30948618/Tphoto/ID0a3dd801-0000-0500-0000-00001a495431.jpg",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.1551735,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6229393,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1150.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 12.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2284989",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Paranhos",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2284989"
+    },
     "supercasa:2285599": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -51183,6 +52078,64 @@
       "title": "Apartamento T1 na Rua da Colónia Balnear",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2285726"
+    },
+    "supercasa:2286736": {
+      "area_m2": 35.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e2041cb391ff621ebc7e5079",
+      "first_seen": "2026-09-04T16:18:02+00:00",
+      "first_seen_at": null,
+      "floor": 35,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C9730/P27645753/Tphoto/ID39d7a501-0000-0500-0000-00001673673b.jpg",
+      "last_change": "2026-09-04T16:18:02+00:00",
+      "last_seen": "2026-09-04T16:18:02+00:00",
+      "latitude": 41.0624479036,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.557461159,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-09-04T16:18:02+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 21.43,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2286736",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 750.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Casa Modular T2 na Rua de Alheira de Cima",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-moradia-t2-vila-nova-de-gaia/i2286736"
     },
     "supercasa:30272": {
       "area_m2": 50.0,
