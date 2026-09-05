@@ -111,6 +111,7 @@
     "21f977788015c89ac6918e94": "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq",
     "223b3a6937502dda584bae39": "supercasa:2183910",
     "2241083a8d5fd3e5140f23ef": "supercasa:2227192",
+    "228eec75241c6f712f955a05": "imovirtual:apartamento-t3-em-gaia-junto-a-n222-ID1iQjW",
     "22def2880ea888fdf65900fa": "imovirtual:casa-centro-do-porto-marques-ID1iNht",
     "23c7f110348e9c786333808d": "supercasa:1962924",
     "23f4ce1fd631b4f3a68eb622": "imovirtual:excelente-t0-l-garagem-impecavel-junto-ao-mar-praias-canidelo-ID1iMBQ",
@@ -277,6 +278,7 @@
     "5249b087fc81a6450436b1f2": "supercasa:2247323",
     "528c53833c83752855be7a02": "supercasa:2274446",
     "52c17a201d04423371fc561d": "supercasa:2281252",
+    "531e3e1c23b1bb76700dd680": "imovirtual:estudio-com-acesso-ao-jardim-ID1iQk2",
     "5386ae6eb7579b7259cf45dc": "supercasa:2270121",
     "53c39f3e6379ca12df4d9ae2": "supercasa:2269420",
     "53e0ea23b0db276478f84396": "custojusto:45221421",
@@ -14017,6 +14019,65 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-com-varanda-e-churrasqueira-para-arrendamento-a-900-met-ID1iN7F"
     },
+    "imovirtual:apartamento-t3-em-gaia-junto-a-n222-ID1iQjW": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "228eec75241c6f712f955a05",
+      "first_seen": "2026-09-05T23:15:13+00:00",
+      "first_seen_at": null,
+      "floor": 5,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im15MDNocDlicDA4eS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3-b2zQXKAN6exSljiEQ3F5lOkAhMUBVoRmG_wC_PMFs/image;s=2048x1536;q=80",
+      "last_change": "2026-09-05T23:15:13+00:00",
+      "last_seen": "2026-09-05T23:15:13+00:00",
+      "latitude": 41.12975,
+      "local_median_price_per_m2": null,
+      "location": "Praceta de Timor - Oliveira do Douro, Oliveira do Douro, Porto",
+      "longitude": -8.58977,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 950.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T23:15:13+00:00",
+          "price": 950.0
+        }
+      ],
+      "price_per_m2": 8.64,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-05T22:19:59Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-em-gaia-junto-a-n222-ID1iQjW",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 950.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Gaia junto a N222",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-gaia-junto-a-n222-ID1iQjW"
+    },
     "imovirtual:apartamento-t3-hospital-de-sao-joao-ID1iNS6": {
       "area_m2": 85.0,
       "decision_reasons": [
@@ -17798,6 +17859,72 @@
       "title": "Espaçoso apartamento T2 com garagem no centro de Famalicão",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/espacoso-apartamento-t2-com-garagem-no-centro-de-famalicao-ID1iNoo"
+    },
+    "imovirtual:estudio-com-acesso-ao-jardim-ID1iQk2": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "ligação muito rápida ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "entrada inicial até três rendas",
+        "algumas despesas incluídas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "531e3e1c23b1bb76700dd680",
+      "first_seen": "2026-09-05T23:15:13+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imd2c2c2Nnh0NzNwczEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zIL1OE15sJn7Nb24dQ348iEbhe9d8zf1NvkRl3i7TkI/image;s=2048x1536;q=80",
+      "last_change": "2026-09-05T23:15:13+00:00",
+      "last_seen": "2026-09-05T23:15:13+00:00",
+      "latitude": 41.19477,
+      "local_median_price_per_m2": 21.21,
+      "location": "Travessa Correia Garção, Custóias, Leça do Balio e Guifões, Porto",
+      "longitude": -8.64321,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 13,
+      "previous_price": null,
+      "price": 650.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T23:15:13+00:00",
+          "price": 650.0
+        }
+      ],
+      "price_per_m2": 16.25,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-05T22:55:06Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 7.7,
+      "source": "imovirtual",
+      "source_id": "estudio-com-acesso-ao-jardim-ID1iQk2",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 650.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "gás"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Estúdio com acesso ao jardim",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/estudio-com-acesso-ao-jardim-ID1iQk2"
     },
     "imovirtual:estudio-com-entrada-independente-ID1iNWo": {
       "area_m2": 20.0,
