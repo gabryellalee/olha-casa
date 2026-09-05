@@ -4,6 +4,7 @@
     "000dba45d4e00a66c17ce491": "imovirtual:aluga-se-apartamento-t1-localizado-perto-do-hospital-de-sao-joao-ID1iLDY",
     "0019b5fe3be5c64efd6d6748": "imovirtual:t1-na-rua-dos-bragas-ID1iLL7",
     "0065586175c4846e8fc49b16": "imovirtual:loja-para-arrendamento-proximo-do-centro-ID1iPLW",
+    "007d9b9195a0d848c4529d64": "supercasa:2285722",
     "00a3cd05bbf68881bd836153": "casa_sapo:91dabd67-9c86-11f1-bc59-060000000052",
     "00a589111e639c5bceb6762a": "imovirtual:apartamento-t3-hospital-de-sao-joao-ID1iNS6",
     "00af4c8a1656e5399f177b79": "casa_sapo:2d48c065-3da7-11ee-aeeb-060000000051",
@@ -70,6 +71,7 @@
     "132d76aa5bf312ae0daca7fa": "supercasa:2237807",
     "1337b356c17a073c7d7729b5": "supercasa:2280394",
     "1388327821fdad263fa75319": "supercasa:1985918",
+    "14f01088d588210583abc84c": "imovirtual:excelente-e-moderno-apartamento-t3-com-boas-areas-e-bem-localizado-ID1iQbt",
     "1502f2e767a547ae0ab87a70": "supercasa:1614047",
     "150937022bd849ceb4d6cdf9": "supercasa:2266494",
     "151c5217ebd717a19573611a": "imovirtual:estudio-localizado-em-sao-mamede-de-infesta-porto-ID1iNGZ",
@@ -659,6 +661,7 @@
     "c4b1229f33fc3b12cc18f28a": "imovirtual:apartamento-t2-aguas-santas-ID1iMCL",
     "c4dc9ad109f54d9ac9946f7b": "supercasa:2260405",
     "c5b62a66dff4bdf8c1cf269c": "supercasa:2220605",
+    "c5c87d4691f351e77f450535": "supercasa:1818438",
     "c5e060f86cff5593cbb54d24": "imovirtual:apartamento-t3-na-zona-do-bonfim-com-lugar-de-garagem-e-elevador-ID1iMEE",
     "c5e79f5524e5d601306bfb00": "supercasa:2263074",
     "c604f30ec0477fae3813c840": "supercasa:2235047",
@@ -18151,6 +18154,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/excelente-apartamento-mobilado-e-equipado-com-garagem-e-zona-de-lazer-ID1iMuO"
     },
+    "imovirtual:excelente-e-moderno-apartamento-t3-com-boas-areas-e-bem-localizado-ID1iQbt": {
+      "area_m2": 125.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": true,
+      "fingerprint": "14f01088d588210583abc84c",
+      "first_seen": "2026-09-05T06:18:11+00:00",
+      "first_seen_at": null,
+      "floor": 7,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjUzN2hjbnF0d3FhdS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.wUKR7pbotRWauaV_yPjILPEabldNEVAlVudLz_ex4tc/image;s=2048x1536;q=80",
+      "last_change": "2026-09-05T06:18:11+00:00",
+      "last_seen": "2026-09-05T06:18:11+00:00",
+      "latitude": 41.177505,
+      "local_median_price_per_m2": null,
+      "location": "Rua Aurélio da Paz dos Reis, Paranhos, Porto",
+      "longitude": -8.623627,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1850.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T06:18:11+00:00",
+          "price": 1850.0
+        }
+      ],
+      "price_per_m2": 14.8,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-05T02:52:38Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "excelente-e-moderno-apartamento-t3-com-boas-areas-e-bem-localizado-ID1iQbt",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 7400.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Excelente e moderno Apartamento T3, com boas áreas e bem localizado",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/excelente-e-moderno-apartamento-t3-com-boas-areas-e-bem-localizado-ID1iQbt"
+    },
     "imovirtual:excelente-t0-l-garagem-impecavel-junto-ao-mar-praias-canidelo-ID1iMBQ": {
       "area_m2": 42.0,
       "decision_reasons": [
@@ -27867,6 +27928,64 @@
       "title": "Apartamento T2 na Rua Manuel de Boaventura",
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-esposende/i1803604"
+    },
+    "supercasa:1818438": {
+      "area_m2": 84.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "c5c87d4691f351e77f450535",
+      "first_seen": "2026-09-05T06:18:11+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C16767/P25465392/Tphoto/ID30928401-0000-0500-0000-0000140be8fd.jpg",
+      "last_change": "2026-09-05T06:18:11+00:00",
+      "last_seen": "2026-09-05T06:18:11+00:00",
+      "latitude": 41.1522161,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6515425,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T06:18:11+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 13.69,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1818438",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 6,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Lordelo do Ouro e Massarelos",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i1818438"
     },
     "supercasa:1818441": {
       "area_m2": 57.0,
@@ -52733,6 +52852,66 @@
       "title": "Apartamento T1 em Vilar do Paraíso",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2285669"
+    },
+    "supercasa:2285722": {
+      "area_m2": 91.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "007d9b9195a0d848c4529d64",
+      "first_seen": "2026-09-05T06:18:11+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C41282/P30954437/Tphoto/IDc553d801-0000-0500-0000-00001a4add4f.jpg",
+      "last_change": "2026-09-05T06:18:11+00:00",
+      "last_seen": "2026-09-05T06:18:11+00:00",
+      "latitude": 41.1760642393,
+      "local_median_price_per_m2": null,
+      "location": "Matosinhos",
+      "longitude": -8.6772964039,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 1350.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T06:18:11+00:00",
+          "price": 1350.0
+        }
+      ],
+      "price_per_m2": 14.84,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-04T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2285722",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 4050.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T2 em Matosinhos",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2285722"
     },
     "supercasa:2285726": {
       "area_m2": 99.0,
