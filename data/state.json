@@ -345,6 +345,7 @@
     "6a3201c31dab3ce2784ab532": "custojusto:45230877",
     "6a6ba09b9a96c02c54b9ee56": "supercasa:2247127",
     "6a7c5a104f0057e1fe5a01eb": "supercasa:2066312",
+    "6abd8684f542e86a9d0b8b2d": "imovirtual:t2-campo-alegre-condominio-com-jardim-garagem-e-vigilancia-ID1iQho",
     "6ae91985910332bd08ea5333": "imovirtual:moradia-inserida-em-ilha-mobilada-e-equipada-ID1iOT7",
     "6aed050a331f10c1952c69be": "imovirtual:apartamento-t2-para-arrendamento-ID1iOB5",
     "6b387f64f7eec8359d71bc4a": "supercasa:704439",
@@ -510,6 +511,7 @@
     "991024f82d4b7872ad255c0c": "supercasa:2265876",
     "99e399e319858cac9759f6d7": "supercasa:2142947",
     "99e56f29b0faec76f3dd8d39": "imovirtual:arrendamento-t2-1-povoa-de-varzim-ID1iOBU",
+    "9a02feb4f5b610751c8cf820": "imovirtual:apartamento-t3-para-arrendamento-ID1iQgZ",
     "9a209bcc104722f41c624ab2": "imovirtual:apartamento-t1-em-polo-universitario-ID1iMM2",
     "9a25a4c891e65b203b2882f5": "imovirtual:t4-mobilado-para-grupo-de-estudantes-caxinas-vila-do-conde-ID1iO3O",
     "9a4ccc371f78e5b2ff191e89": "supercasa:2065373",
@@ -588,6 +590,7 @@
     "ac432dadbcc7d932a0515700": "custojusto:45191233",
     "ad0bb15ec25eb5b6f7314564": "supercasa:2237737",
     "ad7f15fa289c6423992acd91": "imovirtual:andar-moradia-t3-arrendamento-em-rio-tinto-gondomar-ID1iPvN",
+    "ada3c35ff5aeab7d09393229": "imovirtual:t3-renovado-2-varandas-cozinha-equipada-sao-mamede-de-infesta-ID1iQfI",
     "ae39efecaf9f424fcaec5df3": "supercasa:2267775",
     "aeec49f7056ca0beacc0f49c": "imovirtual:casa-para-alugar-ID1iOlz",
     "af0bc0e8294b135c4a15debd": "supercasa:1999728",
@@ -14301,6 +14304,64 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iQ56"
     },
+    "imovirtual:apartamento-t3-para-arrendamento-ID1iQgZ": {
+      "area_m2": 33.5,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "9a02feb4f5b610751c8cf820",
+      "first_seen": "2026-09-05T16:48:07+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZpanV4M2hzbzR2NDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5vgdQYkeYt6FP2215KVlmH_6fp4T1xkAir3STGZ8i-k/image;s=2048x1536;q=80",
+      "last_change": "2026-09-05T16:48:07+00:00",
+      "last_seen": "2026-09-05T16:48:07+00:00",
+      "latitude": 41.136105,
+      "local_median_price_per_m2": null,
+      "location": "Rua de Bustes - Canidelo, Canidelo, Porto",
+      "longitude": -8.646832,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T16:48:07+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 47.76,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-05T16:08:16Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-para-arrendamento-ID1iQgZ",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iQgZ"
+    },
     "imovirtual:apartamento-t3-para-arrendamento-na-trofa-ID1iQ9E": {
       "area_m2": 128.2,
       "decision_reasons": [
@@ -23961,6 +24022,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-arrendamento-parque-das-nacoes-ID1iPKh"
     },
+    "imovirtual:t2-campo-alegre-condominio-com-jardim-garagem-e-vigilancia-ID1iQho": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "6abd8684f542e86a9d0b8b2d",
+      "first_seen": "2026-09-05T16:48:07+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdlYnRjYml1NDl0ajEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DxGK2xUdx3YkcJ402KPOsNoJbtqIZynjpxdxb9pMjxM/image;s=2048x1536;q=80",
+      "last_change": "2026-09-05T16:48:07+00:00",
+      "last_seen": "2026-09-05T16:48:07+00:00",
+      "latitude": 41.15085,
+      "local_median_price_per_m2": null,
+      "location": "Rua Arrábida, Lordelo do Ouro e Massarelos, Porto",
+      "longitude": -8.64535,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T16:48:07+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 12.73,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-05T16:24:53Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-campo-alegre-condominio-com-jardim-garagem-e-vigilancia-ID1iQho",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1400.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 Campo Alegre | Condomínio com jardim, garagem e vigilância",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-campo-alegre-condominio-com-jardim-garagem-e-vigilancia-ID1iQho"
+    },
     "imovirtual:t2-com-logradouro-privativo-em-real-vila-mea-amarante-ID1iOKJ": {
       "area_m2": 70.0,
       "decision_reasons": [
@@ -25565,6 +25684,64 @@
       "title": "T3 para Arrendamento | Canidelo | 3 Suítes | Box para 2 Carros | Na Pr",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iQf1"
+    },
+    "imovirtual:t3-renovado-2-varandas-cozinha-equipada-sao-mamede-de-infesta-ID1iQfI": {
+      "area_m2": 82.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "ada3c35ff5aeab7d09393229",
+      "first_seen": "2026-09-05T16:48:07+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im5mMGV5Z20wb3hoZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.NiEe2UnG0lsbIw4LQmvV3SlAzonEQSj-iyAtuGbZt4I/image;s=2048x1536;q=80",
+      "last_change": "2026-09-05T16:48:07+00:00",
+      "last_seen": "2026-09-05T16:48:07+00:00",
+      "latitude": 41.18894,
+      "local_median_price_per_m2": null,
+      "location": "4465-001, São Mamede de Infesta e Senhora da Hora, Porto",
+      "longitude": -8.63036,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 990.0,
+      "price_history": [
+        {
+          "at": "2026-09-05T16:48:07+00:00",
+          "price": 990.0
+        }
+      ],
+      "price_per_m2": 12.07,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-05T14:06:57Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-renovado-2-varandas-cozinha-equipada-sao-mamede-de-infesta-ID1iQfI",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 990.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3 renovado | 2 varandas | Cozinha equipada | São Mamede de Infesta",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-renovado-2-varandas-cozinha-equipada-sao-mamede-de-infesta-ID1iQfI"
     },
     "imovirtual:t4-de-luxo-living-sea-canidelo-arrendamento-foz-de-gaia-ID1iN7I": {
       "area_m2": 250.0,
