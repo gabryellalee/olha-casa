@@ -159,6 +159,7 @@
     "28f756a9de119ad323b6d391": "imovirtual:apartamento-novo-t3-com-varanda-para-arrendamento-porto-ID1iOCN",
     "291861d5c98c1a66bd8e43d5": "imovirtual:t1-mobilado-c-1-lugar-de-garagem-santa-luzia-penafiel-ID1iOrd",
     "295b0dcee6d04ede705d1b9c": "supercasa:2267879",
+    "298244341b70a0a3dee2f0c0": "supercasa:1920109",
     "29d69e25f018017c8c29660c": "supercasa:2225378",
     "29ecb77b120813a9895db193": "imovirtual:apartamento-t2-mobilado-e-equipado-em-matosinhos-sul-ID1iMOs",
     "2a2bce683a66e0e3d41cb5fb": "supercasa:1490073",
@@ -189,6 +190,7 @@
     "31a6b6f2cb521e266de409c5": "imovirtual:moradia-andar-t3-v-n-famalicao-centro-ID1iNMg",
     "31e503cdf1764c0f0def8b8c": "supercasa:2229155",
     "32408c88594dc58db51eef22": "supercasa:2266254",
+    "32ca171876c3528ddb59d229": "supercasa:2286713",
     "33ab703b5df73aa8343ace6d": "supercasa:2129347",
     "33dc8b27cd6188d170d09c67": "casa_sapo:ddf0bb8b-91ab-11f1-9a8d-060000000057",
     "340e2f160c876acf2363ebd3": "supercasa:2277637",
@@ -1002,6 +1004,7 @@
     "fc5ae1da5854b3b70af88e00": "supercasa:1934362",
     "fc63151a4f0b76c5c28721be": "imovirtual:apartamento-na-cidade-da-maia-t-2-com-garagem-ID1iMOz",
     "fc8edc95c6189ece1166fd17": "supercasa:1959370",
+    "fc9d22c07d392daa92414270": "supercasa:1685561",
     "fca56243ae32c2698d3d4d77": "imovirtual:apartamento-mobilado-no-centro-de-gaia-el-corte-ingles-ID1iQxu",
     "fcb2cfe7bd4b06b1da6b02ad": "supercasa:2258981",
     "fcb70a72b0c2460002516953": "supercasa:1111013",
@@ -33089,6 +33092,64 @@
       "typology": "T4",
       "url": "https://supercasa.pt/arrendamento-moradia-t4-vila-nova-de-gaia/i1675303"
     },
+    "supercasa:1685561": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "fc9d22c07d392daa92414270",
+      "first_seen": "2026-09-09T05:12:04+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12709/P25148103/Tphoto/IDc7ba7f01-0000-0500-0000-000013749ba3.jpg",
+      "last_change": "2026-09-09T05:12:04+00:00",
+      "last_seen": "2026-09-09T05:12:04+00:00",
+      "latitude": 41.1554222,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.651684,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1450.0,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-09-09T05:12:04+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 13.64,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-08T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1685561",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 na Rua do Grijó",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-porto/i1685561"
+    },
     "supercasa:1701559": {
       "area_m2": 90.0,
       "decision_reasons": [
@@ -35037,6 +35098,66 @@
       "title": "Moradia em Banda em Bonfim",
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-moradia-porto/i1912924"
+    },
+    "supercasa:1920109": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "298244341b70a0a3dee2f0c0",
+      "first_seen": "2026-09-09T05:12:04+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C15539/P26786977/Tphoto/IDa1bc9801-0000-0500-0000-00001558a25a.jpg",
+      "last_change": "2026-09-09T05:12:04+00:00",
+      "last_seen": "2026-09-09T05:12:04+00:00",
+      "latitude": 41.1554222,
+      "local_median_price_per_m2": 17.0,
+      "location": "Porto",
+      "longitude": -8.651684,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-09T05:12:04+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-08T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1920109",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 na Rua das Condominhas",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i1920109"
     },
     "supercasa:1921047": {
       "area_m2": 144.0,
@@ -60835,6 +60956,64 @@
       "title": "Apartamento T1 na Rua de Camões",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2286687"
+    },
+    "supercasa:2286713": {
+      "area_m2": 89.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "32ca171876c3528ddb59d229",
+      "first_seen": "2026-09-09T05:12:04+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C39730/P30962464/Tphoto/ID2073d801-0000-0500-0000-00001a4cfb16.jpg",
+      "last_change": "2026-09-09T05:12:04+00:00",
+      "last_seen": "2026-09-09T05:12:04+00:00",
+      "latitude": 41.193003,
+      "local_median_price_per_m2": null,
+      "location": "Senhora Da Hora",
+      "longitude": -8.6537534,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-09T05:12:04+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 13.48,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-08T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2286713",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Senhora da Hora",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2286713"
     },
     "supercasa:2286736": {
       "area_m2": 35.0,
