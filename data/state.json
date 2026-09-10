@@ -50,6 +50,7 @@
     "0b1c359374801aa5ea9a1e65": "imovirtual:apartamento-t2-em-calendario-ID1iPaO",
     "0b45a20c4577e16568156ae9": "supercasa:2284487",
     "0b95e278c1d1eab999074811": "supercasa:2133385",
+    "0ba20b11254e5e7332e0febb": "casa_sapo:80c4bca4-8684-11f1-9aaf-060000000054",
     "0c0cc284032e0d1270258d4e": "supercasa:2268621",
     "0c4c4614e810b4051f6df69d": "supercasa:2215164",
     "0c9057da4a91825dae3bcb0b": "supercasa:572593",
@@ -80,6 +81,7 @@
     "1296d400b5b6847078e58fcd": "imovirtual:t2-mobilado-junto-ao-hospital-de-sao-joao-asprela-cozinha-equipada-ID1iQ4d",
     "13180328253808dfad096481": "imovirtual:t3-para-arrendamento-canidelo-3-suites-box-para-2-carros-na-pr-ID1iQf1",
     "132d76aa5bf312ae0daca7fa": "supercasa:2237807",
+    "132f472b83999d91e7451b5b": "imovirtual:moradia-t2-1-1500-m2-ID1iRvm",
     "1337b356c17a073c7d7729b5": "supercasa:2280394",
     "1388327821fdad263fa75319": "supercasa:1985918",
     "1490616d526d8d740530a97f": "imovirtual:apartamento-t2-alugar-centro-da-cidade-ID1iRoj",
@@ -136,6 +138,7 @@
     "22def2880ea888fdf65900fa": "imovirtual:casa-centro-do-porto-marques-ID1iNht",
     "23c7f110348e9c786333808d": "supercasa:1962924",
     "23f4ce1fd631b4f3a68eb622": "imovirtual:excelente-t0-l-garagem-impecavel-junto-ao-mar-praias-canidelo-ID1iMBQ",
+    "23f78a11dfc361f5054a703b": "imovirtual:apartamento-t2-para-arrendamento-ID1iRBH",
     "241282192be74d99e30a11a9": "supercasa:2124014",
     "2419595bc361f0e87d62d55d": "imovirtual:apartamento-t1-em-paranhos-de-37-00-m2-ID1iMWp",
     "246d48a8bb933ccd04740247": "imovirtual:t1-mobilado-e-equipado-c-1-lugar-de-garagem-polo-universitario-do-po-ID1iNXH",
@@ -365,7 +368,7 @@
     "5d0d1294a14975d2752903f3": "imovirtual:apartamento-t0-para-arrendamento-ID1iNGs",
     "5e3069fb295557620186ffa1": "imovirtual:apartamento-t3-para-arrendamento-ID1iN6W",
     "5e32320ae88001d88f6f944f": "supercasa:2277629",
-    "5e346350b94db651c6e3c7e5": "imovirtual:apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iQ4a",
+    "5e346350b94db651c6e3c7e5": "imovirtual:apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iRAe",
     "5e3e120cabb7fa03c21f6706": "supercasa:2246259",
     "5e4c547aa59200357524c76f": "supercasa:2279485",
     "5f0021ef5dae553a5bd12d58": "casa_sapo:9ce78157-5141-424a-a39f-606d886e5d6e",
@@ -431,6 +434,7 @@
     "709d17645536d842f236c694": "imovirtual:moradia-t2-mobilada-e-equipada-ID1iQkd",
     "70dbcdfa9ae491544682f0b6": "supercasa:2065756",
     "70f9d37a6215a6cd3b795337": "supercasa:2223517",
+    "71718b69c563da7e6491fa6f": "imovirtual:t1-em-arvore-vila-do-conde-com-garagem-ID1iRC0",
     "718769a0b28747ae4cf8ba17": "supercasa:1875748",
     "71d40a2706f6f3343ca941fc": "custojusto:45147203",
     "721eddd14ec75fc3e4d8c252": "imovirtual:aluga-se-apartamento-ID1iMP0",
@@ -507,6 +511,7 @@
     "8233ee0ab2eea8bc6144abd4": "casa_sapo:80c30aaf-a6d5-11f1-9c13-060000000051",
     "824d70cbd71ed065a1cf17e4": "casa_sapo:alugar-casa-ferias",
     "829be16c5050251e77b46381": "imovirtual:t1-renovado-para-arrendamento-valbom-ID1iN1D",
+    "82a0c0ecb6da23270953ba99": "imovirtual:apartamento-t0-santo-tirso-ID1iRwO",
     "82acdace261cc45802d6cb6f": "supercasa:2259104",
     "82ec8d7f09c60c0ab4f68bbe": "supercasa:1744893",
     "82f9dbaabcd590942fc16f60": "imovirtual:t2-em-rio-tinto-com-garagem-e-ar-condicionado-ID1iPF8",
@@ -718,11 +723,13 @@
     "b39f84c5948506f959eabd9b": "supercasa:2147498",
     "b3a5377b403c84de7baef5b3": "supercasa:2187762",
     "b3d25159664016d3e6b9c6b6": "imovirtual:apartamento-t2-1-1-linha-de-mar-mobilado-povoa-de-varzim-ID1iMRD",
+    "b3dd8f2b42e598d1d1e8067a": "imovirtual:apartamento-t0-mobilado-e-equipado-terraco-ultimo-piso-ID1iRCg",
     "b44620dc17bc965376ff732c": "supercasa:2285125",
     "b45e88b6ffcbe9b48a0e817f": "supercasa:2273405",
     "b48aabb5d948e65f531374ce": "imovirtual:t1-1-totalmente-remodelado-rio-tinto-areosa-900-particular-ID1iMbx",
     "b495807ec139bc1b86aa82ea": "imovirtual:apartamento-t1-1-no-empreendimento-em-asprela-easy-paranhos-ID1iNS7",
     "b49f0669f03f0c64f0981c1f": "supercasa:2268060",
+    "b4ebe1fa6d7ef3c7b11fa282": "imovirtual:arrendamento-residencial-de-estudio-t0-mobilado-ID1iRAz",
     "b527c4fbb47fcab750688771": "supercasa:2252375",
     "b56dbd7844cefffcb5870692": "imovirtual:apartamento-t2-para-arrendamento-ID1iNaX",
     "b5999f5a034d26e833d28063": "supercasa:2271991",
@@ -2170,6 +2177,68 @@
       "title": "Apartamento T1 Ermesinde, Valongo",
       "typology": "T1",
       "url": "https://casa.sapo.pt/alugar-apartamento-t1-valongo-ermesinde-80c30aaf-a6d5-11f1-9c13-060000000051.html"
+    },
+    "casa_sapo:80c4bca4-8684-11f1-9aaf-060000000054": {
+      "area_m2": 20.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "ligação muito rápida ao ISCAP",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "0ba20b11254e5e7332e0febb",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://media.casasapo.pt/Z720x540/OAYES/S5/C3981/P30688371/Tphoto/ID7344d401-0000-0500-0000-000019f8df25.jpg",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.1875002792,
+      "local_median_price_per_m2": 20.86,
+      "location": "São Mamede De Infesta",
+      "longitude": -8.6193546156,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 8,
+      "previous_price": 870.0,
+      "price": 725.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 725.0
+        }
+      ],
+      "price_per_m2": 36.25,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 4.8,
+      "source": "casa_sapo",
+      "source_id": "80c4bca4-8684-11f1-9aaf-060000000054",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 São Mamede de Infesta, Matosinhos",
+      "typology": "T0",
+      "url": "https://casa.sapo.pt/alugar-apartamento-t0-matosinhos-sao-mamede-de-infesta-80c4bca4-8684-11f1-9aaf-060000000054.html"
     },
     "casa_sapo:91dabd67-9c86-11f1-bc59-060000000052": {
       "area_m2": 55.0,
@@ -8001,6 +8070,64 @@
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iQ4a"
     },
+    "imovirtual:apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iRAe": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5e346350b94db651c6e3c7e5",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImUzeWhkYjRvaDU0azEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.PPmMxDVdAPm4hCubAzp7_kycx7VAznhNFu5gRm0k-Ww/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.17395,
+      "local_median_price_per_m2": 20.86,
+      "location": "Largo Igreja de Paranhos, Paranhos, Porto",
+      "longitude": -8.60582,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 800.0,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 20.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-10T15:39:26Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iRAe",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 800.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento Novo com Varanda e Garagem junto ao Hospital de São João –",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-novo-com-varanda-e-garagem-junto-ao-hospital-de-sao-joao-ID1iRAe"
+    },
     "imovirtual:apartamento-novo-t3-com-varanda-para-arrendamento-porto-ID1iOCN": {
       "area_m2": 18.8,
       "decision_reasons": [
@@ -9079,6 +9206,64 @@
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-mobilado-com-varanda-e-ar-condicionado-ID1iNQe"
     },
+    "imovirtual:apartamento-t0-mobilado-e-equipado-terraco-ultimo-piso-ID1iRCg": {
+      "area_m2": 36.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b3dd8f2b42e598d1d1e8067a",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 2026,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZ2eGR5YTRiNTEyOS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.dig9E2gyDLcmZVybkClRETu6l0Vu6Tw07nzxKspFV94/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.145477,
+      "local_median_price_per_m2": 20.86,
+      "location": "Rua de São Vítor, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.601689,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 30.56,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-10T16:36:35Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t0-mobilado-e-equipado-terraco-ultimo-piso-ID1iRCg",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 | Mobilado e Equipado | Terraço | Último Piso",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-mobilado-e-equipado-terraco-ultimo-piso-ID1iRCg"
+    },
     "imovirtual:apartamento-t0-mobilado-em-faria-guimaraes-porto-ID1iOJA": {
       "area_m2": 40.0,
       "decision_reasons": [
@@ -9605,6 +9790,64 @@
       "title": "Apartamento T0 para arrendamento",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-para-arrendamento-ID1iOKc"
+    },
+    "imovirtual:apartamento-t0-santo-tirso-ID1iRwO": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "82a0c0ecb6da23270953ba99",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 5,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZpNXk2NTlzaTJ1cTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yi5lKHV_2vObZVklFTazXRfjKcP7Hn2H5j_iHcxe3_A/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.313,
+      "local_median_price_per_m2": 20.86,
+      "location": "Rua das Bócas, Monte Córdova, Porto",
+      "longitude": -8.433,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1150.0,
+      "price": 636.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 636.0
+        }
+      ],
+      "price_per_m2": 12.72,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-10T14:03:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t0-santo-tirso-ID1iRwO",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 350.0,
+        "deposits": 1,
+        "entry_total": 350.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T0 - Santo Tirso",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t0-santo-tirso-ID1iRwO"
     },
     "imovirtual:apartamento-t0-zona-historica-porto-clerigos-ID1iR7K": {
       "area_m2": 42.0,
@@ -15383,6 +15626,66 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iOhC"
     },
+    "imovirtual:apartamento-t2-para-arrendamento-ID1iRBH": {
+      "area_m2": 77.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "23f78a11dfc361f5054a703b",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inh3cnFjODZsaWc1MDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2OMGl1nHTU6m13CkHbIj7nUQDVP7hyKFyyWnmdw6JNg/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.211727,
+      "local_median_price_per_m2": null,
+      "location": "Rua Nova do Outeiro de Sá, Ermesinde, Porto",
+      "longitude": -8.546753,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 950.0,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 10.39,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-10T16:11:01Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-para-arrendamento-ID1iRBH",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 800.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 para arrendamento",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iRBH"
+    },
     "imovirtual:apartamento-t2-para-arrendamento-ID1iRi7": {
       "area_m2": 62.5,
       "decision_reasons": [
@@ -19193,6 +19496,64 @@
       "title": "Arrendamento por um ano",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-por-um-ano-ID1iQZ6"
+    },
+    "imovirtual:arrendamento-residencial-de-estudio-t0-mobilado-ID1iRAz": {
+      "area_m2": 35.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "b4ebe1fa6d7ef3c7b11fa282",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IncxYzNyeHYwdGswNTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.uzdLatGqQVGBelBb0ETkGcTAdcfieIFqh_-FODKsGqw/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.15171,
+      "local_median_price_per_m2": 20.86,
+      "location": "Travessa Fernão de Magalhães, Bonfim, Porto",
+      "longitude": -8.59612,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 25.71,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-10T15:47:47Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendamento-residencial-de-estudio-t0-mobilado-ID1iRAz",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendamento residencial de Estúdio T0 mobilado",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-residencial-de-estudio-t0-mobilado-ID1iRAz"
     },
     "imovirtual:arrendamento-t-1-1-escritorio-atelier-c-janela-panoramica-ID1iNUz": {
       "area_m2": 40.0,
@@ -23477,6 +23838,64 @@
       "title": "Moradia T1 para arrendamento",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t1-para-arrendamento-ID1iQWM"
+    },
+    "imovirtual:moradia-t2-1-1500-m2-ID1iRvm": {
+      "area_m2": 500.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "132f472b83999d91e7451b5b",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InF3ZHNoNmN3OTcxaTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NyG7cr6IBRYZYQC4UZxoB0EU_SQmtKhr8YbeAPvs0GA/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.258827,
+      "local_median_price_per_m2": null,
+      "location": "rua da aldeia nova, Nogueira e Silva Escura, Porto",
+      "longitude": -8.591029,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1260.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 1260.0
+        }
+      ],
+      "price_per_m2": 2.52,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-10T14:11:31Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t2-1-1500-m2-ID1iRvm",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T2 + 1 - 1500 m2",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-1-1500-m2-ID1iRvm"
     },
     "imovirtual:moradia-t2-maia-ID1iQd3": {
       "area_m2": 120.0,
@@ -28036,6 +28455,65 @@
       "title": "T1 Duplex Mobilado com AC, Jardim Privativo, Limpeza Semanal, Campanhã",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-duplex-mobilado-com-ac-jardim-privativo-limpeza-semanal-campanha-ID1iMGI"
+    },
+    "imovirtual:t1-em-arvore-vila-do-conde-com-garagem-ID1iRC0": {
+      "area_m2": 53.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "71718b69c563da7e6491fa6f",
+      "first_seen": "2026-09-10T16:39:58+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImVrd295aW9mNTBkODMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tWqWdfabyXyJrdKcLgTau_VqnYLduqj6F6WU_qTNjBY/image;s=2048x1536;q=80",
+      "last_change": "2026-09-10T16:39:58+00:00",
+      "last_seen": "2026-09-10T16:39:58+00:00",
+      "latitude": 41.330444,
+      "local_median_price_per_m2": 17.0,
+      "location": "Rua 41 - Areia, Árvore, Porto",
+      "longitude": -8.734608,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 930.0,
+      "price_history": [
+        {
+          "at": "2026-09-10T16:39:58+00:00",
+          "price": 930.0
+        }
+      ],
+      "price_per_m2": 17.55,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-10T16:20:09Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-em-arvore-vila-do-conde-com-garagem-ID1iRC0",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 930.0,
+        "deposits": 1,
+        "entry_total": 930.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 em Árvore, Vila do Conde com garagem",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-em-arvore-vila-do-conde-com-garagem-ID1iRC0"
     },
     "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y": {
       "area_m2": 55.0,
