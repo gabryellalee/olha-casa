@@ -118,6 +118,7 @@
     "1bd55499d8ac74a943777fac": "imovirtual:apartamento-com-1-quartos-localizado-em-se-porto-ID1iLIt",
     "1c790ec1dbbb283b3964df98": "supercasa:1882090",
     "1caa56ca76aee5574568a421": "imovirtual:apartamento-t1-para-arrendamento-ID1iLAE",
+    "1cc0d464e96c76ef67980745": "imovirtual:apartamento-t3-travessa-central-do-seixo-sao-mamede-infesta-ID1iS5s",
     "1cd839199494b6247ef4d742": "imovirtual:arrenda-se-t1-gaia-oliveira-douro-ID1iQne",
     "1ce438bb013ae62001dad2f4": "supercasa:2286687",
     "1d2745a90e396403ddef03ae": "supercasa:2270049",
@@ -126,6 +127,7 @@
     "1dc46101e4264d1f213ab5e5": "imovirtual:estudio-nido-asprela-hospital-sao-joao-ID1iOjg",
     "1dc7cdb3f71ff6149c71949c": "imovirtual:t1-polo-universitario-porto-arrenda-se-ID1iMGu",
     "1f5c37dfdda49d7136f22e18": "imovirtual:t1-novo-seca-do-bacalhau-450m-da-praia-ID1iRTm",
+    "1f990bce4880e1e82f6c0301": "imovirtual:t1-1-mobilado-e-equipado-garagem-senhora-da-hora-barranha-ID1iS5u",
     "1fa6995aa499df1767167391": "supercasa:2289550",
     "1fdbf8517f8c70767b73a44e": "imovirtual:apartamento-t0-mobilado-com-varanda-e-ar-condicionado-ID1iNQe",
     "200a90152d4670ed925c409a": "custojusto:44992030",
@@ -213,6 +215,7 @@
     "340e2f160c876acf2363ebd3": "supercasa:2277637",
     "34450aed7997c06626254f84": "imovirtual:apartamento-t3-com-duas-varandas-novo-ID1iN6s",
     "344eab24f74e4b5e1548ff1e": "supercasa:2282882",
+    "345dba59d32f1f2a1774f076": "imovirtual:t1-canidelo-com-garagem-ID1iS5b",
     "34d4fcd62601cebd81e5b217": "custojusto:45219905",
     "35071a60d7f0bc954af056b4": "casa_sapo:alugar-casa-ferias",
     "352e2664fd5d62729fca8818": "imovirtual:apartamento-t1-mobilado-junto-a-escola-amadeu-sousa-cardoso-em-teloes-ID1iMzh",
@@ -581,7 +584,7 @@
     "8ea86694e1657d7a86bc994f": "imovirtual:t2-novo-mobilado-e-equipado-junto-ao-parque-da-lavandeira-ID1iNAn",
     "8ebce1789ed5ed0ad662caae": "imovirtual:andar-moradia-t1-arrendamento-em-aldoar-foz-do-douro-e-nevogilde-port-ID1iRlk",
     "8ec3c3e41c0de3a912a5d72a": "supercasa:2252923",
-    "8ed127b73d5d132a4116cb56": "imovirtual:estudio-com-terraco-porto-ID1iQL3",
+    "8ed127b73d5d132a4116cb56": "imovirtual:estudio-com-terraco-porto-ID1iS5d",
     "8f028f6bb30657826ffb0253": "imovirtual:moradia-t3-para-arrendamento-ID1iOxq",
     "8f6297ba2b8dfd8e3a835507": "imovirtual:apartamento-t2-paranhos-porto-ID1iQBG",
     "8fb8c1c7821d34f1d3fb6e18": "imovirtual:centro-de-paredes-t3-ID1iOmi",
@@ -831,6 +834,7 @@
     "c485bd820c6817c7e26a0039": "supercasa:2218816",
     "c4b1229f33fc3b12cc18f28a": "imovirtual:apartamento-t2-aguas-santas-ID1iMCL",
     "c4dc9ad109f54d9ac9946f7b": "supercasa:2260405",
+    "c54105abec6f613e12baa13f": "custojusto:45341965",
     "c5b62a66dff4bdf8c1cf269c": "supercasa:2220605",
     "c5c0bba275fea8a4dcbf0848": "imovirtual:apartamento-t1-para-arrendar-ID1iRkK",
     "c5c87d4691f351e77f450535": "supercasa:1818438",
@@ -5636,6 +5640,64 @@
       "title": "T1- Mobilado E Equipado, Cedofeita, Porto | Apartamentos, T1 para arrendar | Porto | 45236940 | CustoJusto.pt",
       "typology": "T1",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t1-mobilado-e-equipado-cedof-45236940"
+    },
+    "custojusto:45341965": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "c54105abec6f613e12baa13f",
+      "first_seen": "2026-09-11T23:13:16+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://prod-images.custojusto.pt/play/736452441-ref-3742-t1-c-gar-ao-polo-uni-da-asprela-paranhos.jpg",
+      "last_change": "2026-09-11T23:13:16+00:00",
+      "last_seen": "2026-09-11T23:13:16+00:00",
+      "latitude": 41.17604721190478,
+      "local_median_price_per_m2": 16.9,
+      "location": "Porto",
+      "longitude": -8.588551329188245,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 700.0,
+      "price": 875.0,
+      "price_history": [
+        {
+          "at": "2026-09-11T23:13:16+00:00",
+          "price": 875.0
+        }
+      ],
+      "price_per_m2": 13.46,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45341965",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Ref#3742 - T1 C/ Gar. Ao Pólo Uni. Da Asprela Paranhos | Apartamentos, T1 para arrendar | Porto | 45341965 | CustoJusto.pt",
+      "typology": "T1",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/ref-3742-t1-c-gar-ao-polo--45341965"
     },
     "custojusto:45342522": {
       "area_m2": 65.0,
@@ -18545,6 +18607,64 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-renovado-arrendamento-garagem-varanda-foz-m-ID1iNA8"
     },
+    "imovirtual:apartamento-t3-travessa-central-do-seixo-sao-mamede-infesta-ID1iS5s": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "1cc0d464e96c76ef67980745",
+      "first_seen": "2026-09-11T23:13:16+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjRjNTFuYzBmbGIycS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.TFNoguRhg62kuWwXqzG1tIUrCE8zV8-sNfxi700pEoE/image;s=2048x1536;q=80",
+      "last_change": "2026-09-11T23:13:16+00:00",
+      "last_seen": "2026-09-11T23:13:16+00:00",
+      "latitude": 41.189007,
+      "local_median_price_per_m2": null,
+      "location": "Travessa Central do Seixo, São Mamede de Infesta e Senhora da Hora, Porto",
+      "longitude": -8.632068,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1050.0,
+      "price_history": [
+        {
+          "at": "2026-09-11T23:13:16+00:00",
+          "price": 1050.0
+        }
+      ],
+      "price_per_m2": 10.5,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-11T22:37:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-travessa-central-do-seixo-sao-mamede-infesta-ID1iS5s",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1050.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 | Travessa Central do Seixo | São Mamede Infesta",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-travessa-central-do-seixo-sao-mamede-infesta-ID1iS5s"
+    },
     "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iMQi": {
       "area_m2": 150.0,
       "decision_reasons": [
@@ -22981,6 +23101,69 @@
       "title": "Estúdio com terraço Porto",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/estudio-com-terraco-porto-ID1iQL3"
+    },
+    "imovirtual:estudio-com-terraco-porto-ID1iS5d": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "bom preço por m² face à amostra",
+        "boa ligação de carro ao ISCAP",
+        "garagem ou estacionamento indicado",
+        "entrada inicial até três rendas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "8ed127b73d5d132a4116cb56",
+      "first_seen": "2026-09-11T23:13:16+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdoYXRwd3JocWRpZDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NUjIHiyGdTmnjw-P_b72NzzuPHnjU70MtNTC6lQcbMQ/image;s=2048x1536;q=80",
+      "last_change": "2026-09-11T23:13:16+00:00",
+      "last_seen": "2026-09-11T23:13:16+00:00",
+      "latitude": 41.14718,
+      "local_median_price_per_m2": 20.86,
+      "location": "Praça Gomes Teixeira, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.615054,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": 16,
+      "previous_price": 750.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-09-11T23:13:16+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 17.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-11T21:35:10Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 6.9,
+      "source": "imovirtual",
+      "source_id": "estudio-com-terraco-porto-ID1iS5d",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Estúdio com terraço Porto",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/estudio-com-terraco-porto-ID1iS5d"
     },
     "imovirtual:estudio-localizado-em-campanha-porto-ID1iOri": {
       "area_m2": 114.0,
@@ -29027,6 +29210,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-1-junto-ao-polo-universitario-e-hospital-sao-joao-para-arrendamento-ID1iNWO"
     },
+    "imovirtual:t1-1-mobilado-e-equipado-garagem-senhora-da-hora-barranha-ID1iS5u": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "1f990bce4880e1e82f6c0301",
+      "first_seen": "2026-09-11T23:13:16+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA5MGl2MTNoN2E1NDMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.WLZPbqABqWJKzq2qlfRlqudAZr7tjQRIzjTjMRZWpUI/image;s=2048x1536;q=80",
+      "last_change": "2026-09-11T23:13:16+00:00",
+      "last_seen": "2026-09-11T23:13:16+00:00",
+      "latitude": 41.193043,
+      "local_median_price_per_m2": 16.9,
+      "location": "Praceta 14 de Junho, São Mamede de Infesta e Senhora da Hora, Porto",
+      "longitude": -8.656874,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-11T23:13:16+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 21.82,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-11T22:53:17Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-1-mobilado-e-equipado-garagem-senhora-da-hora-barranha-ID1iS5u",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": 3400.0,
+        "deposits": 1,
+        "entry_total": 5800.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1+1 Mobilado e Equipado | Garagem | Senhora da Hora – Barranha",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-1-mobilado-e-equipado-garagem-senhora-da-hora-barranha-ID1iS5u"
+    },
     "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0": {
       "area_m2": 91.0,
       "decision_reasons": [
@@ -29435,6 +29676,67 @@
       "title": "T1 C/ Varanda | Matosinhos Sul | 500 m da Praia",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-c-varanda-matosinhos-sul-500-m-da-praia-ID1iQL6"
+    },
+    "imovirtual:t1-canidelo-com-garagem-ID1iS5b": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "345dba59d32f1f2a1774f076",
+      "first_seen": "2026-09-11T23:13:16+00:00",
+      "first_seen_at": null,
+      "floor": 11,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InNtYmliMGY1cmxiMi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.x79s-iImO3DaD_vIYlysss22WXVIIr79Agf6pTQ-f70/image;s=2048x1536;q=80",
+      "last_change": "2026-09-11T23:13:16+00:00",
+      "last_seen": "2026-09-11T23:13:16+00:00",
+      "latitude": 41.12509,
+      "local_median_price_per_m2": 16.9,
+      "location": "Travessa de Motas - Canidelo, Canidelo, Porto",
+      "longitude": -8.64741,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-11T23:13:16+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 16.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-11T21:12:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-canidelo-com-garagem-ID1iS5b",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 800.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "T1 Canidelo com garagem",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-canidelo-com-garagem-ID1iS5b"
     },
     "imovirtual:t1-castelo-branco-perto-do-modelo-ID1iLWP": {
       "area_m2": 32.0,
