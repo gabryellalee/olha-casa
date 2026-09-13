@@ -433,6 +433,7 @@
     "64c6db69c69e3afd1e36d52c": "imovirtual:apartamento-renovado-e-mobilado-em-miragaia-porto-ID1iNqm",
     "64e89451b2588a12528bc593": "imovirtual:apartamento-t1-junto-ao-hospital-de-s-joao-ID1iNS5",
     "64ea69af8ed53955695311f7": "casa_sapo:distrito.porto",
+    "65326d503daa394510dd468b": "imovirtual:t1-em-condominio-fechado-ID1iSha",
     "655de0dd13d2d74645268cd5": "supercasa:2261082",
     "657daf7b9ec270c2eac82736": "supercasa:2223743",
     "65bc2994808da9760e4a9d76": "imovirtual:t3-com-garagem-em-pedroucos-10min-a-pe-do-sao-joao-e-faculdades-ID1iQRm",
@@ -810,6 +811,7 @@
     "b8ebb4b359476e80e0c2ca3a": "custojusto:44728825",
     "b90237351cbc0b7f24082786": "supercasa:667165",
     "b9023e56d16f5b3a278a1966": "imovirtual:t0-na-povoa-de-varzim-ID1iP27",
+    "b905958f156afe035b164420": "imovirtual:apartamento-t2-centro-ermesinde-para-arrendar-ID1iShe",
     "b93101810bd513f630218ea1": "supercasa:2097281",
     "b95aabceab51b4f02e1b07f7": "supercasa:2273543",
     "ba3d8d773e488c7032fa5820": "imovirtual:arrenda-se-t1-perto-do-metro-fonte-do-cuco-ID1iOke",
@@ -15009,6 +15011,66 @@
       "title": "Apartamento T2 centro de Matosinhos Novo",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-centro-de-matosinhos-novo-ID1iPiI"
+    },
+    "imovirtual:apartamento-t2-centro-ermesinde-para-arrendar-ID1iShe": {
+      "area_m2": 95.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b905958f156afe035b164420",
+      "first_seen": "2026-09-13T18:08:20+00:00",
+      "first_seen_at": null,
+      "floor": 6,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjBwOTBwNmJpNjNvNzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.cR8jasFqN-ms8pDXnko-CP0mOiRobVzcxQQc0m-7mv8/image;s=2048x1536;q=80",
+      "last_change": "2026-09-13T18:08:20+00:00",
+      "last_seen": "2026-09-13T18:08:20+00:00",
+      "latitude": 41.20901,
+      "local_median_price_per_m2": null,
+      "location": "Rua Papa Pio XII, Ermesinde, Porto",
+      "longitude": -8.54463,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 940.0,
+      "price_history": [
+        {
+          "at": "2026-09-13T18:08:20+00:00",
+          "price": 940.0
+        }
+      ],
+      "price_per_m2": 9.89,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-13T17:39:03Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-centro-ermesinde-para-arrendar-ID1iShe",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 1880.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T2 centro Ermesinde para arrendar",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-centro-ermesinde-para-arrendar-ID1iShe"
     },
     "imovirtual:apartamento-t2-com-2-varandas-junto-ao-norteshopping-ID1iOUi": {
       "area_m2": 85.0,
@@ -31377,6 +31439,65 @@
       "title": "T1 em Cedofeita com ar condicionado e elevador",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-em-cedofeita-com-ar-condicionado-e-elevador-ID1iMxf"
+    },
+    "imovirtual:t1-em-condominio-fechado-ID1iSha": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "65326d503daa394510dd468b",
+      "first_seen": "2026-09-13T18:08:20+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR4N282bzB0Z3FmbzEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Srsrx2vwcT-cT9_LJM8NLv_HH0GP2vvx41gtfjBB6FQ/image;s=2048x1536;q=80",
+      "last_change": "2026-09-13T18:08:20+00:00",
+      "last_seen": "2026-09-13T18:08:20+00:00",
+      "latitude": 41.130733,
+      "local_median_price_per_m2": 16.64,
+      "location": "Rua de Bélgica - Canidelo, Canidelo, Porto",
+      "longitude": -8.667381,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-09-13T18:08:20+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 12.31,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-13T17:01:32Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-em-condominio-fechado-ID1iSha",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1000.0,
+        "deposits": 1,
+        "entry_total": 1000.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 em condomínio fechado",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-em-condominio-fechado-ID1iSha"
     },
     "imovirtual:t1-em-leca-da-palmeira-ID1iMVR": {
       "area_m2": 36.0,
