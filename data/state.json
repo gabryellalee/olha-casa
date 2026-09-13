@@ -830,6 +830,7 @@
     "bf54154a2a1b1cbbe1213716": "imovirtual:andar-moradia-senhora-da-hora-ID1iMJj",
     "bf7c80c9f9f96ce14b5e4ce6": "custojusto:44936959",
     "bf7d07e41d18e7d86043a2e1": "supercasa:2185672",
+    "bf933226c3fa4de8ac6bac62": "imovirtual:moradia-t3-1-ao-maiashopping-ID1iSfc",
     "bfedf20b4b368cf88139636c": "imovirtual:t1-1-c-varanda-coimbroes-v-n-gaia-ID1iQL4",
     "c037f9a1a7e86f05bd48463d": "supercasa:2257157",
     "c03ed4b69c39c9cd15ebada4": "supercasa:2274705",
@@ -1077,6 +1078,7 @@
     "f2cbf7adac0354c485f21d77": "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr",
     "f2efa101b470d8be5517facc": "supercasa:2277609",
     "f329f80549dcadc7b66f7a6e": "supercasa:2279369",
+    "f356a5af850fa37b9cbf1523": "imovirtual:t2-com-vista-mar-povoa-de-varzim-disponivel-de-outubro-a-maio-ID1iSfh",
     "f3627350e4019dd9c6847380": "supercasa:1044119",
     "f3bb2928fb82f3d175506513": "imovirtual:arrenda-apartamento-ID1iOWn",
     "f3c6d72efef811200dddbef8": "supercasa:2239375",
@@ -26505,6 +26507,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-totalmente-equipada-no-centro-do-porto-ID1iNvI"
     },
+    "imovirtual:moradia-t3-1-ao-maiashopping-ID1iSfc": {
+      "area_m2": 157.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "bf933226c3fa4de8ac6bac62",
+      "first_seen": "2026-09-13T00:16:55+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InpiZjAwY3N0NWQ2bzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.-AAxP-cgz1M2Usx0FUHBotyl23h7Epil0YCrGkIOku0/image;s=2048x1536;q=80",
+      "last_change": "2026-09-13T00:16:55+00:00",
+      "last_seen": "2026-09-13T00:16:55+00:00",
+      "latitude": 41.18987,
+      "local_median_price_per_m2": null,
+      "location": "Travessa 3 de Maio, Pedrouços, Porto",
+      "longitude": -8.5885,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 590000.0,
+      "price_history": [
+        {
+          "at": "2026-09-13T00:16:55+00:00",
+          "price": 590000.0
+        }
+      ],
+      "price_per_m2": 3757.96,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-12T22:29:23Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t3-1-ao-maiashopping-ID1iSfc",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T3+1 ao MaiaShopping",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-1-ao-maiashopping-ID1iSfc"
+    },
     "imovirtual:moradia-t3-2-santo-ovidio-metro-duas-cozinhas-garagem-terrac-ID1iQIw": {
       "area_m2": 136.0,
       "decision_reasons": [
@@ -33503,6 +33563,68 @@
       "title": "T2 com vista mar deslumbrante | Vila do Conde",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-com-vista-mar-deslumbrante-vila-do-conde-ID1iOny"
+    },
+    "imovirtual:t2-com-vista-mar-povoa-de-varzim-disponivel-de-outubro-a-maio-ID1iSfh": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f356a5af850fa37b9cbf1523",
+      "first_seen": "2026-09-13T00:16:55+00:00",
+      "first_seen_at": null,
+      "floor": 13,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imo4eXNxbTlzOWFpYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bVwjDqlCjDVhojp8QALnzqlCn0IEATNkSGpfhz1s8hc/image;s=2048x1536;q=80",
+      "last_change": "2026-09-13T00:16:55+00:00",
+      "last_seen": "2026-09-13T00:16:55+00:00",
+      "latitude": 41.37867,
+      "local_median_price_per_m2": null,
+      "location": "Rua de Nossa Senhora do Bom Sucesso, Póvoa de Varzim, Beiriz e Argivai, Porto",
+      "longitude": -8.73373,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-13T00:16:55+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 15.62,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-12T22:58:23Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-com-vista-mar-povoa-de-varzim-disponivel-de-outubro-a-maio-ID1iSfh",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1250.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "eletricidade",
+          "internet"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 com Vista Mar | Póvoa de Varzim Disponível de outubro a maio",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-com-vista-mar-povoa-de-varzim-disponivel-de-outubro-a-maio-ID1iSfh"
     },
     "imovirtual:t2-duplex-a-estrear-com-jardim-foz-velha-t2-duplex-totalmente-renov-ID1iNnV": {
       "area_m2": 100.0,
