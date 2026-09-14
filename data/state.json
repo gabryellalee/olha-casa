@@ -355,6 +355,7 @@
     "50974c88ea1efcd77cd1caca": "casa_sapo:4471e2fb-9b94-11f1-90a1-060000000056",
     "50a41b1f7125e1a46ae9824e": "supercasa:1313813",
     "50c0e661e1a3f4ba2eaed324": "supercasa:2232639",
+    "512b82df114c9ceac0df8e46": "supercasa:2280296",
     "5147ce20d4a408227f084874": "supercasa:2274901",
     "516703d135318a8ca7a844f3": "imovirtual:t1-1-na-praia-da-madalena-ID1iLh0",
     "5171405220b227fd6ce4761e": "imovirtual:apartamento-t2-centro-de-matosinhos-novo-ID1iPiI",
@@ -386,6 +387,7 @@
     "56df216c0c64999444fd182a": "casa_sapo:alugar-casa-ferias",
     "56e8d2440a461ea901a0ee46": "imovirtual:casa-em-patio-a-portuguesa-ID1iPnk",
     "5765066b2d9dbc8b09917471": "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE",
+    "5779a299c68b18a84a7097a9": "supercasa:2289073",
     "578b26ce189568496d20f70b": "imovirtual:apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz",
     "57d67813f65e5d61061e8ae4": "imovirtual:apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm",
     "57e248a4734ea28dff83ec68": "supercasa:2278871",
@@ -539,6 +541,7 @@
     "7d24f3ddce9b9dee5f7dcc95": "supercasa:2176025",
     "7d2efea6fe1a202990b4e087": "supercasa:2258963",
     "7d3d03c7940a128d79e036ed": "imovirtual:apartamento-t3-a-piscina-da-constituicao-e-metro-carolina-michaelis-ID1iMEZ",
+    "7e7a98343e2470fc1e7a8ca2": "imovirtual:studio-na-cordoaria-ID1iSl4",
     "7ed96c3ce4fe2bc676595fc6": "imovirtual:apartamento-t1-centro-de-matosinhos-novo-com-terraco-ID1iPiH",
     "7f22f9add0bffebdbfaf7c1a": "supercasa:2264291",
     "7f3fc1aef1a06dd9139ce2c2": "supercasa:1948796",
@@ -28885,6 +28888,70 @@
       "title": "Residência com 40 quartos - localizado em Paranhos Porto",
       "typology": "T9",
       "url": "https://www.imovirtual.com/pt/anuncio/residencia-com-40-quartos-localizado-em-paranhos-porto-ID1iOdG"
+    },
+    "imovirtual:studio-na-cordoaria-ID1iSl4": {
+      "area_m2": 25.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "ligação muito rápida ao ISCAP",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "algumas despesas incluídas"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "7e7a98343e2470fc1e7a8ca2",
+      "first_seen": "2026-09-14T01:36:50+00:00",
+      "first_seen_at": null,
+      "floor": 14,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InB3Nnp2bWNvd2xjcjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.DlQlcnaFntpw7uqVpeOj16ntF9cFrHQP0ki8sFwC8O8/image;s=2048x1536;q=80",
+      "last_change": "2026-09-14T01:36:50+00:00",
+      "last_seen": "2026-09-14T01:36:50+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 21.02,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 14,
+      "previous_price": null,
+      "price": 670.0,
+      "price_history": [
+        {
+          "at": "2026-09-14T01:36:50+00:00",
+          "price": 670.0
+        }
+      ],
+      "price_per_m2": 26.8,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-14T00:19:39Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 5.3,
+      "source": "imovirtual",
+      "source_id": "studio-na-cordoaria-ID1iSl4",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 670.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [
+          "internet"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": false,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Studio na Cordoaria",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/studio-na-cordoaria-ID1iSl4"
     },
     "imovirtual:t0-a-50m-da-praia-mobilado-e-equipado-ID1iNfu": {
       "area_m2": 25.0,
@@ -66668,6 +66735,66 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2279676"
     },
+    "supercasa:2280296": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "512b82df114c9ceac0df8e46",
+      "first_seen": "2026-09-14T01:36:50+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1505898/P2280296/Tphoto/ID4338ec82-566e-48d4-abe4-66d99fa9ec15.jpg",
+      "last_change": "2026-09-14T01:36:50+00:00",
+      "last_seen": "2026-09-14T01:36:50+00:00",
+      "latitude": 41.1466873716,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.5554953199,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2150.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-14T01:36:50+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 12.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-13T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2280296",
+      "terms": {
+        "advance_rents": 3,
+        "deposit_amount": 3000.0,
+        "deposits": 3,
+        "entry_total": 6600.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T2 em Gondomar (São Cosme), Valbom e Jovim",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-gondomar/i2280296"
+    },
     "supercasa:2280337": {
       "area_m2": 60.0,
       "decision_reasons": [
@@ -69398,6 +69525,64 @@
       "title": "Apartamento T0 em Cabreiros e Passos (São Julião)",
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-braga/i2288886"
+    },
+    "supercasa:2289073": {
+      "area_m2": 84.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5779a299c68b18a84a7097a9",
+      "first_seen": "2026-09-14T01:36:50+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C6959/P30979111/Tphoto/ID27b4d801-0000-0500-0000-00001a5147d3.jpg",
+      "last_change": "2026-09-14T01:36:50+00:00",
+      "last_seen": "2026-09-14T01:36:50+00:00",
+      "latitude": 41.14446,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.55446,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-14T01:36:50+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 14.88,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-13T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2289073",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T2 em Travessa António Sérgio",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-moradia-t2-gondomar/i2289073"
     },
     "supercasa:2289451": {
       "area_m2": 120.0,
