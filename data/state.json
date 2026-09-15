@@ -184,6 +184,7 @@
     "27dd6cd19d85822d4fca9ac6": "supercasa:2230223",
     "28017244047b7fe2ed06bd2d": "imovirtual:apartamento-t2-em-porto-ID1iOBe",
     "2845de68a08431ecdf424314": "supercasa:2230742",
+    "284abe1868618e876de28190": "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iSHf",
     "28589943d04f1ec6ebd2de57": "imovirtual:apartamento-t2-novo-condominio-douro-nobilis-river-view-ID1iQ9u",
     "28a76715508841cda24f1422": "supercasa:2172008",
     "28edcf7aede11c6f336fbcfb": "casa_sapo:b291fbab98d6f208a343",
@@ -210,6 +211,7 @@
     "2cd816945b8d69971eb70ac9": "supercasa:2273220",
     "2ce0dd9f6b5041acec457376": "supercasa:2272955",
     "2d4327f647884e1e8fb749e1": "imovirtual:t2-matosinhos-sul-mobilado-e-equipado-ID1iSuw",
+    "2d659b9cdfdf094a9a3eed1f": "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iSHj",
     "2e076f776089c257b9c2d2d9": "supercasa:2092708",
     "2e9a5081ae73af50376ad25d": "supercasa:1976192",
     "2ec8defd3071d55d2972a502": "custojusto:45200500",
@@ -283,6 +285,8 @@
     "3e13c72052d598e6f5472a18": "imovirtual:arrenda-se-apartamento-t3-a-700-mts-da-cespu-gandra-paredes-ID1iNMd",
     "3f1bb31490d91b94c1ee9233": "imovirtual:apartamento-t1-para-arrendamento-ID1iS3q",
     "3f97f0a314eda1ff4d8a94d0": "supercasa:2261422",
+    "3f9c1cc077d61a4846e5a41c": "imovirtual:apartamento-t1-para-arrendamento-ID1iSIm",
+    "3fb640a5c03c6bca4fa4f419": "imovirtual:t0-com-cama-dupla-ID1iSAO",
     "3fd9641ada371e129a13f6d3": "custojusto:45230877",
     "3fe9d62e34c356ad05142152": "supercasa:1872154",
     "40003607bdd2566918249736": "supercasa:2256620",
@@ -510,6 +514,7 @@
     "73a71adc783e588052b31be7": "supercasa:2023927",
     "73b0097e384bec3e5e9f3005": "supercasa:2173344",
     "740065202d02a7edd245d181": "imovirtual:t3-novo-arrendamento-parque-da-lavandeira-v-n-gaia-sd-04733-mh-ID1iNif",
+    "745631a6926d8b450b3021f3": "imovirtual:apartamento-t1-mobilado-para-arrendamento-praia-de-canide-norte-ID1iSGs",
     "745934be7b71fc71be7f7fcb": "supercasa:2269168",
     "74644754d2a93230983ba6b7": "supercasa:2290792",
     "74b16a4b64f8d6e5e75dda67": "supercasa:2244117",
@@ -7722,6 +7727,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iM0t"
     },
+    "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iSHf": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "284abe1868618e876de28190",
+      "first_seen": "2026-09-15T12:38:38+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijh0MnI2MmZkcW81aTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.XGArzGES8nflKQW6IUJGyEYSWFZUKb1haTBZJNgbcjQ/image;s=2048x1536;q=80",
+      "last_change": "2026-09-15T12:38:38+00:00",
+      "last_seen": "2026-09-15T12:38:38+00:00",
+      "latitude": 41.180653,
+      "local_median_price_per_m2": 16.92,
+      "location": "Rua Diamantina, Paranhos, Porto",
+      "longitude": -8.58284,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-09-15T12:38:38+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 27.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-15T11:35:11Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iSHf",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento com 1 quartos - localizado em Paranhos Porto",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iSHf"
+    },
     "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iMhB": {
       "area_m2": 44.0,
       "decision_reasons": [
@@ -7779,6 +7842,64 @@
       "title": "Apartamento com 1 quartos - localizado em Santo Ildefonso Porto",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iMhB"
+    },
+    "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iSHj": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "2d659b9cdfdf094a9a3eed1f",
+      "first_seen": "2026-09-15T12:38:38+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjhtNGEyNzNxaDVsZzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.43Pptz65j0d5d1AcZ5L-Aqk5KowH6s04_PCXWGBtVvU/image;s=2048x1536;q=80",
+      "last_change": "2026-09-15T12:38:38+00:00",
+      "last_seen": "2026-09-15T12:38:38+00:00",
+      "latitude": 41.145905,
+      "local_median_price_per_m2": 16.92,
+      "location": "Rua Campinho, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60467,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-09-15T12:38:38+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 32.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-15T11:36:24Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iSHj",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1300.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento com 1 quartos - localizado em Santo Ildefonso Porto",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iSHj"
     },
     "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8": {
       "area_m2": 40.0,
@@ -12516,6 +12637,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-para-arrendamento-no-candal-ID1iS2K"
     },
+    "imovirtual:apartamento-t1-mobilado-para-arrendamento-praia-de-canide-norte-ID1iSGs": {
+      "area_m2": 85.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "745631a6926d8b450b3021f3",
+      "first_seen": "2026-09-15T12:38:38+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJva2M2eGoyZGp6dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.dVvCpNBULwzjK5aPAqTNsvKxbvCfFBhmYQHI-dIRrXE/image;s=2048x1536;q=80",
+      "last_change": "2026-09-15T12:38:38+00:00",
+      "last_seen": "2026-09-15T12:38:38+00:00",
+      "latitude": 41.116615,
+      "local_median_price_per_m2": 16.92,
+      "location": "Rua Chieiras do Meio - Canidelo, Canidelo, Porto",
+      "longitude": -8.660801,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 875.0,
+      "price": 1900.0,
+      "price_history": [
+        {
+          "at": "2026-09-15T12:38:38+00:00",
+          "price": 1900.0
+        }
+      ],
+      "price_per_m2": 22.35,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-15T11:12:38Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-mobilado-para-arrendamento-praia-de-canide-norte-ID1iSGs",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 mobilado para arrendamento, Praia de Canide Norte",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-mobilado-para-arrendamento-praia-de-canide-norte-ID1iSGs"
+    },
     "imovirtual:apartamento-t1-na-1-linha-de-praia-povoa-de-varzim-ID1iOAw": {
       "area_m2": 51.0,
       "decision_reasons": [
@@ -14061,6 +14241,64 @@
       "title": "Apartamento T1 para arrendamento",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iS7g"
+    },
+    "imovirtual:apartamento-t1-para-arrendamento-ID1iSIm": {
+      "area_m2": 53.13,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "3f9c1cc077d61a4846e5a41c",
+      "first_seen": "2026-09-15T12:38:38+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im52d3NhNHVtNXI3Zy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.U727EJZ3ci_qr1IvnOonsFkBKY-byIoNsVY_jjw81oI/image;s=2048x1536;q=80",
+      "last_change": "2026-09-15T12:38:38+00:00",
+      "last_seen": "2026-09-15T12:38:38+00:00",
+      "latitude": 41.181244,
+      "local_median_price_per_m2": 16.92,
+      "location": "Rua Dom João I, Matosinhos e Leça da Palmeira, Porto",
+      "longitude": -8.687913,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-09-15T12:38:38+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 16.94,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-15T12:07:31Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-ID1iSIm",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iSIm"
     },
     "imovirtual:apartamento-t1-para-arrendamento-ID1iSbw": {
       "area_m2": 72.0,
@@ -30236,6 +30474,64 @@
       "title": "T0 com ar condicionado no coração do Porto",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/t0-com-ar-condicionado-no-coracao-do-porto-ID1iQpy"
+    },
+    "imovirtual:t0-com-cama-dupla-ID1iSAO": {
+      "area_m2": 30.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3fb640a5c03c6bca4fa4f419",
+      "first_seen": "2026-09-15T12:38:38+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVsOW50M3lmanUxMzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EYKHDNsO7FQMrwFVQvy-nzRIWw1ObYuwvYgl8CYUvJw/image;s=2048x1536;q=80",
+      "last_change": "2026-09-15T12:38:38+00:00",
+      "last_seen": "2026-09-15T12:38:38+00:00",
+      "latitude": 41.15171,
+      "local_median_price_per_m2": 21.11,
+      "location": "Travessa Fernão de Magalhães, Bonfim, Porto",
+      "longitude": -8.59612,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 760.0,
+      "price_history": [
+        {
+          "at": "2026-09-15T12:38:38+00:00",
+          "price": 760.0
+        }
+      ],
+      "price_per_m2": 25.33,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-15T07:28:08Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t0-com-cama-dupla-ID1iSAO",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 760.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 com cama dupla",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/t0-com-cama-dupla-ID1iSAO"
     },
     "imovirtual:t0-em-predio-de-prestigio-seguranca-e-localizacao-privilegiada-ID1iRje": {
       "area_m2": 55.0,
