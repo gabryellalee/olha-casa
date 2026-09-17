@@ -78,6 +78,7 @@
     "0fe781d444e4313bffeca1a8": "imovirtual:apartamento-t2-junto-ao-hospital-de-santo-antonio-ID1iMX8",
     "1085640741166dc0d0cdb72e": "supercasa:2268447",
     "10a132f34550f8ea9c5cb3ba": "supercasa:2160475",
+    "10a811282b7267d86eda176b": "imovirtual:apartamento-t3-localizado-na-2-linha-de-mar-na-povoa-de-varzim-ID1iTjF",
     "10d980bd16483914a9d8207d": "casa_sapo:77988b57-cfee-11ed-aeeb-060000000051",
     "10f8c570d58fd767cf257155": "imovirtual:apartamento-t1-res-do-chao-ID1iM38",
     "1156d174bc9ff0b5757fea16": "imovirtual:t1-s-mamede-infesta-h-s-joao-ID1iQpw",
@@ -232,6 +233,7 @@
     "3018106d347765d203b65767": "imovirtual:moradia-arrendamento-t5-contemporanea-no-centro-de-penafiel-ID1iSUi",
     "30661a4df1a5cb15158352cd": "imovirtual:t4-proximo-do-norte-shopping-com-paragem-de-metro-a-1-km-ID1iOnu",
     "30778ca04b3c580a8561cdbe": "supercasa:1380203",
+    "30d9be830bf4ad62971876a1": "imovirtual:um-apartamento-para-arrendamento-ID1iThL",
     "30ebef5a6582d54bdc0e194b": "supercasa:1205933",
     "3137f026cbe4a112a9fc4e55": "imovirtual:apartamento-t2-novo-para-arrendamento-sao-paio-apartments-lote-6-ID1iNMr",
     "31a6b6f2cb521e266de409c5": "imovirtual:moradia-andar-t3-v-n-famalicao-centro-ID1iNMg",
@@ -247,6 +249,7 @@
     "344eab24f74e4b5e1548ff1e": "supercasa:2282882",
     "345dba59d32f1f2a1774f076": "imovirtual:t1-canidelo-com-garagem-ID1iS5b",
     "34d4fcd62601cebd81e5b217": "custojusto:45219905",
+    "34e78f53a63a2dd272742f32": "imovirtual:t2-com-varanda-garagem-e-ar-condicionado-em-gaia-madalena-ID1iTh6",
     "35071a60d7f0bc954af056b4": "casa_sapo:alugar-casa-ferias",
     "352e2664fd5d62729fca8818": "imovirtual:apartamento-t1-mobilado-junto-a-escola-amadeu-sousa-cardoso-em-teloes-ID1iMzh",
     "354c83afc24e2b429718a8ed": "supercasa:2233038",
@@ -729,6 +732,7 @@
     "9b1f6d15e3d681c4af5e7cb9": "supercasa:2233849",
     "9b35b8de073bf76819af5b6b": "imovirtual:espacoso-apartamento-t2-com-garagem-no-centro-de-famalicao-ID1iNoo",
     "9b411ae2d22a65ac37ae77e7": "custojusto:45218640",
+    "9b626c5ba2a8fa544ca2d142": "imovirtual:t2-arrendamento-rio-tinto-areosa-suite-varanda-garagem-box-ID1iTju",
     "9b71f2c8080a7069244ac828": "imovirtual:moradia-t4-riba-de-ave-ID1iKk2",
     "9bbdeced047f05d14e3d1cd3": "supercasa:1927859",
     "9bd40d642bd60327000535f3": "imovirtual:t1-em-leca-da-palmeira-ID1iMVR",
@@ -1038,6 +1042,7 @@
     "da088de429be63cb00cf4bdc": "supercasa:2066463",
     "da86ccde1cee984848f9c97f": "supercasa:2264797",
     "dad4ab79726d329ee3060448": "imovirtual:t2-new-apartment-in-vila-nova-de-gaia-ID1iQng",
+    "db016ed66e7c4d1bb183760f": "imovirtual:t1-com-varanda-ar-condicionado-e-elevador-no-bonfim-ID1iTgp",
     "db070ef2bca36b0c6fe5fe38": "supercasa:2245944",
     "db08ce6f5384ec45d13c72fa": "supercasa:1903139",
     "db7d1fe1d74b271baec2f484": "supercasa:2291017",
@@ -1085,6 +1090,7 @@
     "e1d5f32ccf4e8101055a438a": "imovirtual:arrenda-se-habitacao-ID1iMDO",
     "e2041cb391ff621ebc7e5079": "supercasa:2286736",
     "e22e105418a3f46a52d2ae2a": "supercasa:2242980",
+    "e2484fd17c2d31acd43b99f8": "custojusto:45227010",
     "e26462542fc98ec03aeecac3": "imovirtual:alugo-t1-com-garagem-privada-senhora-da-hora-ID1iOmR",
     "e2c385edc134e17998f41ec6": "imovirtual:casa-autocarro-transformado-ID1iNoC",
     "e30204ebd0074f455f0a30be": "imovirtual:arrenda-se-apartamento-t1-matosinhos-ID1iQjG",
@@ -5626,6 +5632,64 @@
       "title": "T0 Amarante | Apartamentos, T0 para arrendar | Porto | 45223654 | CustoJusto.pt",
       "typology": "T0",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t0-amarante-45223654"
+    },
+    "custojusto:45227010": {
+      "area_m2": 150.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "e2484fd17c2d31acd43b99f8",
+      "first_seen": "2026-09-17T10:24:28+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://prod-images.custojusto.pt/play/1334967272-t3-plus-1-mobilado-e-equipado-condominio-varandas.jpg",
+      "last_change": "2026-09-17T10:24:28+00:00",
+      "last_seen": "2026-09-17T10:24:28+00:00",
+      "latitude": 41.16304739842981,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.570826842316283,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2300.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T10:24:28+00:00",
+          "price": 2300.0
+        }
+      ],
+      "price_per_m2": 15.33,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45227010",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T3+1 Mobilado E Equipado | Condomínio 'varandas... | Apartamentos, T3 para arrendar | Porto | 45227010 | CustoJusto.pt",
+      "typology": "T3",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t3-1-mobilado-e-equipado-con-45227010"
     },
     "custojusto:45228868": {
       "area_m2": 30.0,
@@ -20316,6 +20380,69 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-hospital-de-sao-joao-ID1iNS6"
     },
+    "imovirtual:apartamento-t3-localizado-na-2-linha-de-mar-na-povoa-de-varzim-ID1iTjF": {
+      "area_m2": 81.7,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": false,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "10a811282b7267d86eda176b",
+      "first_seen": "2026-09-17T10:24:28+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InRlZ3ExNjJldzVncy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.cH28ypbiinYHhie49Eg4MRsqqziLiLTBILqHKOaUl58/image;s=2048x1536;q=80",
+      "last_change": "2026-09-17T10:24:28+00:00",
+      "last_seen": "2026-09-17T10:24:28+00:00",
+      "latitude": 41.38204,
+      "local_median_price_per_m2": null,
+      "location": "Rua Doutor Caetano de Oliveira, Póvoa de Varzim, Beiriz e Argivai, Porto",
+      "longitude": -8.76879,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T10:24:28+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 12.24,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-17T10:20:47Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-localizado-na-2-linha-de-mar-na-povoa-de-varzim-ID1iTjF",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3000.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 - localizado na 2ª linha de mar na Póvoa de Varzim",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-localizado-na-2-linha-de-mar-na-povoa-de-varzim-ID1iTjF"
+    },
     "imovirtual:apartamento-t3-mobilado-para-arrendamento-ID1iSxk": {
       "area_m2": 100.0,
       "decision_reasons": [
@@ -34524,6 +34651,68 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-com-terraco-garagem-e-acessibilidade-em-labruge-ID1iLKe"
     },
+    "imovirtual:t1-com-varanda-ar-condicionado-e-elevador-no-bonfim-ID1iTgp": {
+      "area_m2": 42.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "ligação muito rápida ao ISCAP",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "db016ed66e7c4d1bb183760f",
+      "first_seen": "2026-09-17T10:24:28+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRldTd3M2Fibm12bTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.1KliwUSMS-2Rtx51H8za6zxtB-g5JOTfnpvXoROAEdE/image;s=2048x1536;q=80",
+      "last_change": "2026-09-17T10:24:28+00:00",
+      "last_seen": "2026-09-17T10:24:28+00:00",
+      "latitude": 41.157894,
+      "local_median_price_per_m2": 16.64,
+      "location": "Rua Santo Isidro, Bonfim, Porto",
+      "longitude": -8.600201,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 12,
+      "previous_price": null,
+      "price": 630.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T10:24:28+00:00",
+          "price": 630.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-17T08:30:07Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 6.8,
+      "source": "imovirtual",
+      "source_id": "t1-com-varanda-ar-condicionado-e-elevador-no-bonfim-ID1iTgp",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 630.0,
+        "deposits": 1,
+        "entry_total": 630.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 com varanda, ar condicionado e elevador no Bonfim",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-com-varanda-ar-condicionado-e-elevador-no-bonfim-ID1iTgp"
+    },
     "imovirtual:t1-com-varanda-vista-mar-ginasio-e-cowork-em-gaia-ID1iSzv": {
       "area_m2": 27.3,
       "decision_reasons": [
@@ -37425,6 +37614,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-arrendamento-parque-das-nacoes-ID1iPKh"
     },
+    "imovirtual:t2-arrendamento-rio-tinto-areosa-suite-varanda-garagem-box-ID1iTju": {
+      "area_m2": 104.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "9b626c5ba2a8fa544ca2d142",
+      "first_seen": "2026-09-17T10:24:28+00:00",
+      "first_seen_at": null,
+      "floor": 316,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp5MHRiZHJ0N3Jpbi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.3m5UKzRUOBLSH3y_zPAKLJdhQqJmypKUP6c6CPycWE8/image;s=2048x1536;q=80",
+      "last_change": "2026-09-17T10:24:28+00:00",
+      "last_seen": "2026-09-17T10:24:28+00:00",
+      "latitude": 41.18863,
+      "local_median_price_per_m2": null,
+      "location": "Gondomar, Rio Tinto, Porto",
+      "longitude": -8.58065,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T10:24:28+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 10.58,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-17T10:11:13Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-arrendamento-rio-tinto-areosa-suite-varanda-garagem-box-ID1iTju",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4400.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 Arrendamento| Rio Tinto| Areosa| Suite| Varanda| Garagem Box",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-arrendamento-rio-tinto-areosa-suite-varanda-garagem-box-ID1iTju"
+    },
     "imovirtual:t2-campo-alegre-condominio-com-jardim-garagem-e-vigilancia-ID1iQho": {
       "area_m2": 110.0,
       "decision_reasons": [
@@ -37722,6 +37969,64 @@
       "title": "T2 com varanda, ar condicionado e garagem Ermesinde",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-ar-condicionado-e-garagem-ermesinde-ID1iQj8"
+    },
+    "imovirtual:t2-com-varanda-garagem-e-ar-condicionado-em-gaia-madalena-ID1iTh6": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "34e78f53a63a2dd272742f32",
+      "first_seen": "2026-09-17T10:24:28+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA2ZXNoMTE3eHdqbTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.pIjlSlTTZpQaHHq2OBOOkb6vTu9A3nGjqy1bwOq_M_c/image;s=2048x1536;q=80",
+      "last_change": "2026-09-17T10:24:28+00:00",
+      "last_seen": "2026-09-17T10:24:28+00:00",
+      "latitude": 41.110897,
+      "local_median_price_per_m2": null,
+      "location": "Rua António Joaquim Simão da Mota - Madalena, Madalena, Porto",
+      "longitude": -8.6319,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T10:24:28+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 11.67,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-17T08:58:41Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-com-varanda-garagem-e-ar-condicionado-em-gaia-madalena-ID1iTh6",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 700.0,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 com varanda, garagem e ar condicionado em Gaia ,Madalena",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-garagem-e-ar-condicionado-em-gaia-madalena-ID1iTh6"
     },
     "imovirtual:t2-com-varanda-garagem-e-ar-condicionado-no-ramalde-ID1iNn5": {
       "area_m2": 68.0,
@@ -41028,6 +41333,64 @@
       "title": "T4 PRÓXIMO DO NORTE SHOPPING COM PARAGEM DE METRO A 1 KM",
       "typology": "T4",
       "url": "https://www.imovirtual.com/pt/anuncio/t4-proximo-do-norte-shopping-com-paragem-de-metro-a-1-km-ID1iOnu"
+    },
+    "imovirtual:um-apartamento-para-arrendamento-ID1iThL": {
+      "area_m2": 120.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "30d9be830bf4ad62971876a1",
+      "first_seen": "2026-09-17T10:24:28+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImxqOGZ6Zmk2c3BxcTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.mX94h-MylNThnhhBs8YT8jWpz_0nPcnhL8tJxjIG8WY/image;s=2048x1536;q=80",
+      "last_change": "2026-09-17T10:24:28+00:00",
+      "last_seen": "2026-09-17T10:24:28+00:00",
+      "latitude": 41.40342,
+      "local_median_price_per_m2": null,
+      "location": "Rua João Paulo II - Calendário, Vila Nova de Famalicão e Calendário, Braga",
+      "longitude": -8.53045,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1300.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T10:24:28+00:00",
+          "price": 1300.0
+        }
+      ],
+      "price_per_m2": 10.83,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-17T09:20:59Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "um-apartamento-para-arrendamento-ID1iThL",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3900.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Um apartamento para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/um-apartamento-para-arrendamento-ID1iThL"
     },
     "imovirtual:um-estilo-de-vida-privilegiado-junto-ao-atlantico-ID1iRiQ": {
       "area_m2": 129.0,
