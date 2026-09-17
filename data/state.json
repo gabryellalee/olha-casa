@@ -1153,6 +1153,7 @@
     "f03bbd3bbc3b6727b368967b": "imovirtual:t4-de-luxo-living-sea-canidelo-arrendamento-foz-de-gaia-ID1iN7I",
     "f0eee1fc92927ad5a4346ade": "supercasa:2253666",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
+    "f17f1cd348d7eb74ad4b4ef6": "imovirtual:alugo-moradia-t2-2-serpa-pinto-porto-ID1iTfS",
     "f1872875596e913d85337133": "supercasa:1802328",
     "f1c030903a93c727693f47fc": "imovirtual:apartamento-t1-na-1-linha-de-praia-povoa-de-varzim-ID1iOAw",
     "f1fc3d53c60b20ded2a280fd": "supercasa:2277743",
@@ -6880,6 +6881,64 @@
       "title": "Alugo Casa para duas pessoas na Areosa",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/alugo-casa-para-duas-pessoas-na-areosa-ID1iQwi"
+    },
+    "imovirtual:alugo-moradia-t2-2-serpa-pinto-porto-ID1iTfS": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f17f1cd348d7eb74ad4b4ef6",
+      "first_seen": "2026-09-17T00:29:27+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img3dWNycno1cHF1Mi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.HljGkvGTsZ1WW_8T5OP0H5mPwh3XFh9aGnN0PjIEhhk/image;s=2048x1536;q=80",
+      "last_change": "2026-09-17T00:29:27+00:00",
+      "last_seen": "2026-09-17T00:29:27+00:00",
+      "latitude": 41.164402,
+      "local_median_price_per_m2": null,
+      "location": "Rua Serpa Pinto, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.620615,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-09-17T00:29:27+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 12.5,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-16T22:30:29Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "alugo-moradia-t2-2-serpa-pinto-porto-ID1iTfS",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 60,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Alugo moradia t2+2 Serpa Pinto Porto",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/alugo-moradia-t2-2-serpa-pinto-porto-ID1iTfS"
     },
     "imovirtual:alugo-t1-com-garagem-privada-senhora-da-hora-ID1iOmR": {
       "area_m2": 55.0,
