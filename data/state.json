@@ -178,6 +178,7 @@
     "2241083a8d5fd3e5140f23ef": "supercasa:2227192",
     "227812ef70a7e26291254487": "supercasa:2003335",
     "228eec75241c6f712f955a05": "imovirtual:apartamento-t3-em-gaia-junto-a-n222-ID1iQjW",
+    "22a74fee2efa4f35d6e7329b": "imovirtual:apartamento-t1-para-arrendamento-ID1iU3K",
     "22def2880ea888fdf65900fa": "imovirtual:casa-centro-do-porto-marques-ID1iNht",
     "2316c3c522bcc845d78cec36": "supercasa:2291647",
     "231bffa389bf318a4b95fb96": "imovirtual:arrendamento-temporario-de-estudio-t0-mobilado-ID1iSaN",
@@ -518,6 +519,7 @@
     "667d0b3bc4ec4d86a31b403d": "supercasa:2022109",
     "66dcf51355de16820fe291e7": "casa_sapo:948e9d0b-2dc7-11ec-aeeb-060000000051",
     "670ad97a0377c9b7dafe27c4": "imovirtual:apartamento-t1-arrendamento-em-oliveira-do-douro-vila-nova-de-gaia-ID1iSid",
+    "68a6d522f231e67565a11b12": "imovirtual:apartamento-t2-mobilado-ID1iU3o",
     "6957a6a57ba4ed1999c1df54": "supercasa:2277250",
     "6978c32cf0b0c07177191dea": "supercasa:1903249",
     "69b484e1df3ea572b7329d6f": "supercasa:2285726",
@@ -897,6 +899,7 @@
     "b2999a0e41656a3e03a675fb": "imovirtual:t0-em-predio-de-prestigio-seguranca-e-localizacao-privilegiada-ID1iRje",
     "b3035aef9200f63eac44b41b": "supercasa:1266720",
     "b31cfb86a8b7a237de4becd0": "imovirtual:apartamento-t1-porto-semi-novo-parque-dos-sobreiros-ID1iNBG",
+    "b330efabf7a9ad03d499c373": "imovirtual:arrendo-apartamento-t0-matosinhos-ID1iU29",
     "b33e1eb0f8f857b1628f52e0": "supercasa:2019652",
     "b388fbd1e66c753595b66f7e": "imovirtual:arrendamento-temporario-junho-e-julho-2027-quintinha-t4-com-piscina-ID1iP2k",
     "b39f84c5948506f959eabd9b": "supercasa:2147498",
@@ -940,6 +943,7 @@
     "b905958f156afe035b164420": "imovirtual:apartamento-t2-centro-ermesinde-para-arrendar-ID1iShe",
     "b93101810bd513f630218ea1": "supercasa:2097281",
     "b95aabceab51b4f02e1b07f7": "supercasa:2273543",
+    "b95d95889bb4e399633bed4c": "imovirtual:moradia-t2-para-arrendamento-ID1iU2f",
     "b98dce57baf2348d31c42420": "supercasa:2296600",
     "ba3d8d773e488c7032fa5820": "imovirtual:arrenda-se-t1-perto-do-metro-fonte-do-cuco-ID1iOke",
     "ba7737dba5296544ef4021db": "supercasa:2240364",
@@ -16127,6 +16131,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iSbw"
     },
+    "imovirtual:apartamento-t1-para-arrendamento-ID1iU3K": {
+      "area_m2": 46.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "22a74fee2efa4f35d6e7329b",
+      "first_seen": "2026-09-19T17:58:23+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjN4NGx0ZDcydTF3aC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.jQSqIEIC5QRuc9o8-MywlENNfWZxC6P9NDJZe4xhf3U/image;s=2048x1536;q=80",
+      "last_change": "2026-09-19T17:58:23+00:00",
+      "last_seen": "2026-09-19T17:58:23+00:00",
+      "latitude": 41.15926,
+      "local_median_price_per_m2": 16.9,
+      "location": "Rua Navegantes, Bonfim, Porto",
+      "longitude": -8.594783,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 650.0,
+      "price": 950.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T17:58:23+00:00",
+          "price": 950.0
+        }
+      ],
+      "price_per_m2": 20.65,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-19T17:10:49Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-ID1iU3K",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 950.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iU3K"
+    },
     "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE": {
       "area_m2": 62.0,
       "decision_reasons": [
@@ -19407,6 +19469,64 @@
       "title": "​​​​​​​Apartamento T2 junto ao Hospital Santos Silva, em Vila Nova de",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-junto-ao-hospital-santos-silva-em-vila-nova-de-ID1iQTJ"
+    },
+    "imovirtual:apartamento-t2-mobilado-ID1iU3o": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "68a6d522f231e67565a11b12",
+      "first_seen": "2026-09-19T17:58:23+00:00",
+      "first_seen_at": null,
+      "floor": 19,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImdxNDFlMmdxaWZ3OC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.pu2mwhCZtmsK5awIwaQdHwUo1LGV1btF_FBAuRvWCgQ/image;s=2048x1536;q=80",
+      "last_change": "2026-09-19T17:58:23+00:00",
+      "last_seen": "2026-09-19T17:58:23+00:00",
+      "latitude": 41.31582,
+      "local_median_price_per_m2": null,
+      "location": "Castanheiro Redondo, Telões, Porto",
+      "longitude": -8.11198,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 880.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T17:58:23+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 11.67,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-19T16:57:38Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-mobilado-ID1iU3o",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 mobilado",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-mobilado-ID1iU3o"
     },
     "imovirtual:apartamento-t2-mobilado-e-equipado-em-matosinhos-sul-ID1iMOs": {
       "area_m2": 93.0,
@@ -26688,6 +26808,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendo-apartamento-em-s-mamede-ID1iN18"
     },
+    "imovirtual:arrendo-apartamento-t0-matosinhos-ID1iU29": {
+      "area_m2": 35.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "entrada inicial até três rendas"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b330efabf7a9ad03d499c373",
+      "first_seen": "2026-09-19T17:58:23+00:00",
+      "first_seen_at": null,
+      "floor": 19,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdjMDcyOTFwYzlxODItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.a2_9DgAKgJjqrs8QgcV1zSu75hrjoeoWHFIoVVQoEgw/image;s=2048x1536;q=80",
+      "last_change": "2026-09-19T17:58:23+00:00",
+      "last_seen": "2026-09-19T17:58:23+00:00",
+      "latitude": 41.2469,
+      "local_median_price_per_m2": 21.05,
+      "location": "Travessa de Cabanelas, Perafita, Lavra e Santa Cruz do Bispo, Porto",
+      "longitude": -8.69841,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 28,
+      "previous_price": 600.0,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T17:58:23+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 21.43,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-19T15:06:44Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 2.8,
+      "source": "imovirtual",
+      "source_id": "arrendo-apartamento-t0-matosinhos-ID1iU29",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 750.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendo apartamento T0 Matosinhos",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendo-apartamento-t0-matosinhos-ID1iU29"
+    },
     "imovirtual:arrendo-apartamento-t2-a-dois-minutos-da-faculdade-fernando-pessoa-ID1iNSd": {
       "area_m2": 95.0,
       "decision_reasons": [
@@ -32208,6 +32387,64 @@
       "title": "Moradia T2 para arrendamento",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-para-arrendamento-ID1iTZH"
+    },
+    "imovirtual:moradia-t2-para-arrendamento-ID1iU2f": {
+      "area_m2": 344.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "b95d95889bb4e399633bed4c",
+      "first_seen": "2026-09-19T17:58:23+00:00",
+      "first_seen_at": null,
+      "floor": 19,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjluMnN5eGRmNXYyYi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.y1l1mpNpG9ByHbp-37b72uIOJRv2N4DKmo2-TKuhW0g/image;s=2048x1536;q=80",
+      "last_change": "2026-09-19T17:58:23+00:00",
+      "last_seen": "2026-09-19T17:58:23+00:00",
+      "latitude": 41.106747,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Ribeiro, Rio de Moinhos, Porto",
+      "longitude": -8.270454,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 600.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T17:58:23+00:00",
+          "price": 600.0
+        }
+      ],
+      "price_per_m2": 1.74,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-19T15:08:12Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t2-para-arrendamento-ID1iU2f",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 600.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T2 para arrendamento",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-para-arrendamento-ID1iU2f"
     },
     "imovirtual:moradia-t2-para-arrendamento-em-valbom-gondomar-ID1iQCE": {
       "area_m2": 84.0,
