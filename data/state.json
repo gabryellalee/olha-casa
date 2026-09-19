@@ -614,6 +614,7 @@
     "7d24f3ddce9b9dee5f7dcc95": "supercasa:2176025",
     "7d2efea6fe1a202990b4e087": "supercasa:2258963",
     "7d3d03c7940a128d79e036ed": "imovirtual:apartamento-t3-a-piscina-da-constituicao-e-metro-carolina-michaelis-ID1iMEZ",
+    "7df940c4c8335688ef621037": "supercasa:2296126",
     "7e7a98343e2470fc1e7a8ca2": "imovirtual:studio-na-cordoaria-ID1iSl4",
     "7ed96c3ce4fe2bc676595fc6": "imovirtual:apartamento-t1-centro-de-matosinhos-novo-com-terraco-ID1iPiH",
     "7f22f9add0bffebdbfaf7c1a": "supercasa:2264291",
@@ -816,6 +817,7 @@
     "a36e944cce0ed5051f4813fc": "imovirtual:t0-circunvalacao-s-joao-ID1iMuL",
     "a3bc71ad2aeb099e79b2703e": "supercasa:2260868",
     "a437077d740d5892ed060d56": "imovirtual:apartamento-estudantes-porto-asprela-ID1iMDy",
+    "a43e09662240c54e03c0b683": "supercasa:2280849",
     "a444e3fa8854734ea7c02705": "custojusto:45212241",
     "a457589639ac25f05004671a": "supercasa:2281152",
     "a4874317e268c5b3cf0fcce6": "supercasa:1706952",
@@ -1247,6 +1249,7 @@
     "f48a44784a1dd956aae2d075": "casa_sapo:6316b384-544d-11f1-9c13-060000000051",
     "f4ebd9c86d155aa8907ac5b1": "supercasa:2292035",
     "f4f030909e0c500a18b10e4f": "supercasa:2262105",
+    "f500993d9c29c50cd045ab18": "supercasa:2294828",
     "f5219e04e23b4d18cfb74333": "imovirtual:apartamento-t1-para-arrendamento-ID1iS7g",
     "f547b5204afa280806190e60": "supercasa:2081301",
     "f55cd973a62fbc4fe381f545": "imovirtual:andar-moradia-c-parque-privado-4-carros-ID1iMGt",
@@ -74760,6 +74763,64 @@
       "typology": "T0",
       "url": "https://supercasa.pt/arrendamento-apartamento-t0-porto/i2280551"
     },
+    "supercasa:2280849": {
+      "area_m2": 85.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "a43e09662240c54e03c0b683",
+      "first_seen": "2026-09-19T01:34:14+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C8641/P30918292/Tphoto/ID94c6d701-0000-0500-0000-00001a40b2bc.jpg",
+      "last_change": "2026-09-19T01:34:14+00:00",
+      "last_seen": "2026-09-19T01:34:14+00:00",
+      "latitude": 41.2129435172,
+      "local_median_price_per_m2": null,
+      "location": "Matosinhos",
+      "longitude": -8.6341330702,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T01:34:14+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 11.76,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-18T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2280849",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1500.0,
+        "deposits": 1,
+        "entry_total": 1500.0,
+        "equipped_kitchen": true,
+        "guarantor": false,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Leça do Balio",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-matosinhos/i2280849"
+    },
     "supercasa:2280890": {
       "area_m2": 252.0,
       "decision_reasons": [
@@ -79382,6 +79443,65 @@
       "typology": "T4",
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-braga/i2294594"
     },
+    "supercasa:2294828": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "f500993d9c29c50cd045ab18",
+      "first_seen": "2026-09-19T01:34:14+00:00",
+      "first_seen_at": null,
+      "floor": 60,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C7136/P31040162/Tphoto/IDa2a2d901-0000-0500-0000-00001a64998b.jpg",
+      "last_change": "2026-09-19T01:34:14+00:00",
+      "last_seen": "2026-09-19T01:34:14+00:00",
+      "latitude": 41.12831,
+      "local_median_price_per_m2": 16.9,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.580707,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 730.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T01:34:14+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-18T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2294828",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Andar de Moradia T1 na Rua de Caetano Melo",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-moradia-t1-vila-nova-de-gaia/i2294828"
+    },
     "supercasa:2294908": {
       "area_m2": 20.0,
       "decision_reasons": [
@@ -79564,6 +79684,64 @@
       "title": "Apartamento T1 em Bonfim",
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2295223"
+    },
+    "supercasa:2296126": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "7df940c4c8335688ef621037",
+      "first_seen": "2026-09-19T01:34:14+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C13382/P31056255/Tphoto/ID7fe1d901-0000-0500-0000-00001a6a8139.jpg",
+      "last_change": "2026-09-19T01:34:14+00:00",
+      "last_seen": "2026-09-19T01:34:14+00:00",
+      "latitude": 41.21294352,
+      "local_median_price_per_m2": 16.9,
+      "location": "Matosinhos",
+      "longitude": -8.63413307,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T01:34:14+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 14.38,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-18T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2296126",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4600.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Leça do Balio",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-matosinhos/i2296126"
     },
     "supercasa:30272": {
       "area_m2": 50.0,
