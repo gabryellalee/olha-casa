@@ -23,6 +23,7 @@
     "02994c314bf044e21d37ec12": "supercasa:2238308",
     "029fcde00fcbc439127e9651": "supercasa:1888546",
     "02e3a8390ffb1f2cb5e4a629": "supercasa:2290486",
+    "02e3f7e35fe108ee4b3fd182": "supercasa:1473538",
     "0327fd2ae3ae5593c9c7857d": "imovirtual:andar-de-moradia-rio-tinto-garagem-logradouro-ID1iTVp",
     "035e5913d17e7b2b80cef6c0": "custojusto:45203601",
     "03c4ad98b6989db87dc9c0c4": "supercasa:2280890",
@@ -243,6 +244,7 @@
     "2ce9ff0b760a127085df08cb": "imovirtual:moradia-t3-em-condominio-fechado-com-piscina-ID1iSTr",
     "2d4327f647884e1e8fb749e1": "imovirtual:t2-matosinhos-sul-mobilado-e-equipado-ID1iSuw",
     "2d659b9cdfdf094a9a3eed1f": "imovirtual:apartamento-com-1-quartos-localizado-em-santo-ildefonso-porto-ID1iSHj",
+    "2dbb6024ebbf23a519708bd7": "imovirtual:estudio-arrendar-mobilado-gaia-ID1iU52",
     "2dc193c4581f2472cfbbb676": "imovirtual:t2-novo-a-estrear-com-vista-mar-living-sea-iii-canidelo-ID1iTxB",
     "2e076f776089c257b9c2d2d9": "supercasa:2092708",
     "2e9a5081ae73af50376ad25d": "supercasa:1976192",
@@ -603,6 +605,7 @@
     "7a5de6c40263249804ea4d10": "custojusto:45223654",
     "7a9e9a5b815af6b7c7821252": "supercasa:2152596",
     "7b2326ffc3372509c34e2461": "imovirtual:moradia-t4-t5-com-garagem-quinta-das-rosas-vilar-do-paraiso-ID1iQWp",
+    "7b4001387cc3b317af3cc830": "supercasa:2268688",
     "7b4de12ed91a93ead6521eda": "imovirtual:arrenda-se-apartamento-t1-1-open-space-telemovel-ID1iMaO",
     "7b6e8bf03f2afdcbd39d99b7": "supercasa:2288886",
     "7be5d56aa690bf5aa29e9108": "custojusto:44992030",
@@ -718,6 +721,7 @@
     "9008bacd43d820b262061d4e": "imovirtual:t2-mobilado-e-equipado-ao-metro-cedofeita-ID1iQZf",
     "901e5b248fd47587513a725f": "supercasa:2244858",
     "90b30e8698fd074eb29f6991": "supercasa:2252951",
+    "90bef0c973796477c1c16043": "supercasa:1494768",
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2260003",
     "90c058cfecddfc89222f60d0": "imovirtual:t2-matosinhos-ponte-da-pedra-ID1iTXA",
     "90c32c6124886a5963835270": "supercasa:2292575",
@@ -28704,6 +28708,64 @@
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/estudio-amplo-e-arejado-em-paranhos-proximo-as-universidades-do-porto-ID1iSR0"
     },
+    "imovirtual:estudio-arrendar-mobilado-gaia-ID1iU52": {
+      "area_m2": 25.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "2dbb6024ebbf23a519708bd7",
+      "first_seen": "2026-09-19T20:34:36+00:00",
+      "first_seen_at": null,
+      "floor": 27,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFrMDhnYnluejRjbDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.m6MdOky46lcQ8kqhwhrpJztvS4x6cjTt0_VFcWmYM8o/image;s=2048x1536;q=80",
+      "last_change": "2026-09-19T20:34:36+00:00",
+      "last_seen": "2026-09-19T20:34:36+00:00",
+      "latitude": 41.12975,
+      "local_median_price_per_m2": 21.08,
+      "location": "Praceta de Timor - Oliveira do Douro, Oliveira do Douro, Porto",
+      "longitude": -8.58977,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 600.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T20:34:36+00:00",
+          "price": 600.0
+        }
+      ],
+      "price_per_m2": 24.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-19T19:36:48Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "estudio-arrendar-mobilado-gaia-ID1iU52",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 600.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 6,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Estúdio - Arrendar - Mobilado - Gaia",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/estudio-arrendar-mobilado-gaia-ID1iU52"
+    },
     "imovirtual:estudio-com-acesso-ao-jardim-ID1iQk2": {
       "area_m2": 40.0,
       "decision_reasons": [
@@ -46522,6 +46584,64 @@
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i1448027"
     },
+    "supercasa:1473538": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "02e3f7e35fe108ee4b3fd182",
+      "first_seen": "2026-09-19T20:34:36+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C12329/P24588277/Tphoto/IDf52f7701-0000-0500-0000-00001a302a7e.jpg",
+      "last_change": "2026-09-19T20:34:36+00:00",
+      "last_seen": "2026-09-19T20:34:36+00:00",
+      "latitude": 41.17835,
+      "local_median_price_per_m2": 16.9,
+      "location": "Matosinhos",
+      "longitude": -8.68966,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 990.0,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T20:34:36+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 18.46,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-19T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1473538",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 na Avenida Menéres",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-matosinhos/i1473538"
+    },
     "supercasa:1490073": {
       "area_m2": 330.0,
       "decision_reasons": [
@@ -46579,6 +46699,64 @@
       "title": "Moradia T4+1 em Lordelo do Ouro e Massarelos",
       "typology": "T4",
       "url": "https://supercasa.pt/arrendamento-moradia-t4-porto/i1490073"
+    },
+    "supercasa:1494768": {
+      "area_m2": 330.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "90bef0c973796477c1c16043",
+      "first_seen": "2026-09-19T20:34:36+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C5194/P6805355/Tphoto/ID6bd76700-0000-0500-0000-00000345d0d8.JPG",
+      "last_change": "2026-09-19T20:34:36+00:00",
+      "last_seen": "2026-09-19T20:34:36+00:00",
+      "latitude": 41.1569232,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.6370288,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 5000.0,
+      "price": 4900.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T20:34:36+00:00",
+          "price": 4900.0
+        }
+      ],
+      "price_per_m2": 14.85,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-19T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "1494768",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 em Lordelo do Ouro e Massarelos",
+      "typology": "T4",
+      "url": "https://supercasa.pt/arrendamento-moradia-t4-porto/i1494768"
     },
     "supercasa:1528278": {
       "area_m2": 80.0,
@@ -69585,6 +69763,64 @@
       "title": "Apartamento T3 na Rua de António Cardoso",
       "typology": null,
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2268621"
+    },
+    "supercasa:2268688": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "7b4001387cc3b317af3cc830",
+      "first_seen": "2026-09-19T20:34:36+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C13362/P30824678/Tphoto/IDe658d601-0000-0500-0000-00001a3a7e78.jpg",
+      "last_change": "2026-09-19T20:34:36+00:00",
+      "last_seen": "2026-09-19T20:34:36+00:00",
+      "latitude": 41.1828381273,
+      "local_median_price_per_m2": null,
+      "location": "Matosinhos",
+      "longitude": -8.688833733,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 4490.0,
+      "price_history": [
+        {
+          "at": "2026-09-19T20:34:36+00:00",
+          "price": 4490.0
+        }
+      ],
+      "price_per_m2": 74.83,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-19T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2268688",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3 Mobilado com Terraço de 60 m², Piscina e Garagem Box | Praça Guilherme Pinto, Matosinhos",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-matosinhos/i2268688"
     },
     "supercasa:2268720": {
       "area_m2": 75.0,
