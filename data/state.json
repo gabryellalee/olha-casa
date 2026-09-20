@@ -138,6 +138,7 @@
     "19b5c83122318fce87428116": "imovirtual:arrendamento-de-moradia-em-gondar-amarante-ID1iTGg",
     "19fbcaf372a472688324d5df": "imovirtual:moradia-t3-mobilada-com-piscina-em-terroso-povoa-de-varzim-ID1iQVn",
     "1a0bee28b3a1c7ce9314129e": "imovirtual:casinha-t2-mezanino-gaia-devesas-ID1iMDI",
+    "1a14a71f038468e16a97c006": "imovirtual:arrenda-casa-r-ch-castromil-sobreira-ID1iU6o",
     "1a488b33f4ea3100cebde011": "supercasa:2276248",
     "1a67d3c00986d5354da17efe": "supercasa:2274769",
     "1ad0b7490d14e2915b48873b": "imovirtual:moradia-t1-para-arrendamento-ID1iOSr",
@@ -744,6 +745,7 @@
     "941ac70bf19dd0a9de6dae5b": "supercasa:2091494",
     "941f89a577bf0c598d3c08a3": "imovirtual:apartamento-t3-arrendamento-povoa-de-varzim-ID1iOqu",
     "942d3343b57a162f7573da70": "imovirtual:moradia-t1-para-arrendamento-ID1iQWM",
+    "94603d0896bb263e60a396a2": "supercasa:2297592",
     "947553029f2b534b0522e02a": "imovirtual:alugo-andar-moradia-t5-folgosa-maia-ID1iStX",
     "948e17771007feb0790a859e": "supercasa:1387586",
     "94b6b83fc41e4ddd4d6942b0": "imovirtual:apartamento-t2-em-leca-da-palmeira-na-1-linha-de-mar-ID1iSy4",
@@ -761,6 +763,7 @@
     "965d52c5c8d8b3dc9c84420e": "supercasa:2270135",
     "966306c6d1ee058f3fc7afca": "supercasa:2196933",
     "96844313127ac3e8271d7428": "imovirtual:apartamento-t2-av-fernao-de-magalhaes-ID1iNaz",
+    "96966bcea53537ebff85a87e": "supercasa:2263186",
     "96d216e879244a8f8c2308e6": "imovirtual:t0-novo-mobilado-e-equipado-paranhos-porto-ID1iNDv",
     "9713c62150150386d3f4ac23": "supercasa:2215052",
     "971e8573f300ea22b09d6b2f": "imovirtual:apartamento-t2-arrendamento-em-povoa-de-varzim-beiriz-e-argivai-povoa-ID1iNXi",
@@ -960,6 +963,7 @@
     "badcc037c0f5a428a1a2a519": "imovirtual:moradia-t3-com-garagem-2-pisos-1-460-mes-ID1iQci",
     "baead7caa6d65bfd34db8a98": "supercasa:2260221",
     "bb2755aa342d1a7d767d2e4a": "imovirtual:apartamento-t1-novo-com-varanda-e-garagem-asprela-easy-ID1iM3R",
+    "bb4e19f0f7249cc5b97b7e1e": "imovirtual:t0-mobilado-e-equipado-ID1iU6n",
     "bb7d44cde290cc346702d000": "imovirtual:casa-para-alojamento-temporario-para-professores-alunos-ID1iOe3",
     "bb9163e9e2b7a508806e5e36": "supercasa:2237151",
     "bbaecb8bb558c118c6bb171e": "supercasa:2207631",
@@ -23691,6 +23695,64 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-apartamento-ID1iOWn"
     },
+    "imovirtual:arrenda-casa-r-ch-castromil-sobreira-ID1iU6o": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "1a14a71f038468e16a97c006",
+      "first_seen": "2026-09-20T10:05:08+00:00",
+      "first_seen_at": null,
+      "floor": 20,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Impoa3hhbzY5NzRzbjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.z1NWyd1wdJLnjoAlNjwifdWai4YAMN9NAxvugNGlfHc/image;s=2048x1536;q=80",
+      "last_change": "2026-09-20T10:05:08+00:00",
+      "last_seen": "2026-09-20T10:05:08+00:00",
+      "latitude": 41.12119,
+      "local_median_price_per_m2": null,
+      "location": "Rua dos Salgueiros, Sobreira, Porto",
+      "longitude": -8.4015,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 600.0,
+      "price_history": [
+        {
+          "at": "2026-09-20T10:05:08+00:00",
+          "price": 600.0
+        }
+      ],
+      "price_per_m2": 7.5,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-20T10:02:19Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrenda-casa-r-ch-castromil-sobreira-ID1iU6o",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1800.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Arrenda Casa R/Ch - Castromil/Sobreira",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrenda-casa-r-ch-castromil-sobreira-ID1iU6o"
+    },
     "imovirtual:arrenda-se-apartamento-quartos-ID1iShu": {
       "area_m2": 92.0,
       "decision_reasons": [
@@ -35714,6 +35776,64 @@
       "title": "T0 Matosinhos junto ao Metro | Mobilado e Equipado",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/t0-matosinhos-junto-ao-metro-mobilado-e-equipado-ID1iNc4"
+    },
+    "imovirtual:t0-mobilado-e-equipado-ID1iU6n": {
+      "area_m2": 25.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "bb4e19f0f7249cc5b97b7e1e",
+      "first_seen": "2026-09-20T10:05:08+00:00",
+      "first_seen_at": null,
+      "floor": 20,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZpdXFwNDViN3ZlajItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.9UGCjCeSMbNpHVqbSMXYpOrq_DD6Fj7fjoTWslDFFio/image;s=2048x1536;q=80",
+      "last_change": "2026-09-20T10:05:08+00:00",
+      "last_seen": "2026-09-20T10:05:08+00:00",
+      "latitude": 41.1094,
+      "local_median_price_per_m2": 21.11,
+      "location": "Rua Escola de Laborim, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.60596,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-09-20T10:05:08+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 28.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-20T10:02:11Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t0-mobilado-e-equipado-ID1iU6n",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 Mobilado e Equipado",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/t0-mobilado-e-equipado-ID1iU6n"
     },
     "imovirtual:t0-moderno-para-arrendar-no-empreendimento-kori-gaia-ID1iMx4": {
       "area_m2": 54.0,
@@ -57955,6 +58075,64 @@
       "typology": "T2",
       "url": "https://supercasa.pt/arrendamento-apartamento-t2-braga/i2215375"
     },
+    "supercasa:2216753": {
+      "area_m2": 150.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "96966bcea53537ebff85a87e",
+      "first_seen": "2026-09-20T10:05:08+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C8367/P30269333/Tphoto/ID95dfcd01-0000-0500-0000-0000198d219c.jpg",
+      "last_change": "2026-09-20T10:05:08+00:00",
+      "last_seen": "2026-09-20T10:05:08+00:00",
+      "latitude": 41.1542244,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.571556,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1890.0,
+      "price": 2300.0,
+      "price_history": [
+        {
+          "at": "2026-09-20T10:05:08+00:00",
+          "price": 2300.0
+        }
+      ],
+      "price_per_m2": 15.33,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-20T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2216753",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3+1 na Avenida de Paiva Couceiro",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2216753"
+    },
     "supercasa:2216807": {
       "area_m2": 64.0,
       "decision_reasons": [
@@ -67916,6 +68094,64 @@
       "title": "Apartamento T3 em Aldoar, Foz do Douro e Nevogilde",
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2263074"
+    },
+    "supercasa:2263186": {
+      "area_m2": 150.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "96966bcea53537ebff85a87e",
+      "first_seen": "2026-09-20T10:05:08+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C8367/P30776955/Tphoto/ID7b9ed501-0000-0500-0000-00001a14b2bd.jpg",
+      "last_change": "2026-09-20T10:05:08+00:00",
+      "last_seen": "2026-09-20T10:05:08+00:00",
+      "latitude": 41.1542244,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.571556,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2300.0,
+      "price": 2300.0,
+      "price_history": [
+        {
+          "at": "2026-09-20T10:05:08+00:00",
+          "price": 2300.0
+        }
+      ],
+      "price_per_m2": 15.33,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-20T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2263186",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T3+1 na Avenida de Paiva Couceiro",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2263186"
     },
     "supercasa:2263206": {
       "area_m2": 94.0,
@@ -80987,6 +81223,64 @@
       "title": "Apartamento T4 em Aldoar, Foz do Douro e Nevogilde",
       "typology": "T4",
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-porto/i2296600"
+    },
+    "supercasa:2297592": {
+      "area_m2": 41.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "94603d0896bb263e60a396a2",
+      "first_seen": "2026-09-20T10:05:08+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C8641/P31071657/Tphoto/IDa91dda01-0000-0500-0000-00001a70cab5.jpg",
+      "last_change": "2026-09-20T10:05:08+00:00",
+      "last_seen": "2026-09-20T10:05:08+00:00",
+      "latitude": 41.1554222,
+      "local_median_price_per_m2": 16.9,
+      "location": "Porto",
+      "longitude": -8.651684,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": 990.0,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-09-20T10:05:08+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 24.39,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-20T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2297592",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1000.0,
+        "deposits": 1,
+        "entry_total": 1000.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Lordelo do Ouro e Massarelos",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2297592"
     },
     "supercasa:30272": {
       "area_m2": 50.0,
