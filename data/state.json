@@ -467,6 +467,7 @@
     "55aab1a2fcbc4a78a152fa5b": "imovirtual:moradia-t3-renovada-na-maia-conforto-e-excelente-localizacao-ID1iPTE",
     "55b171338a6ddc57e7c2b5bf": "supercasa:2161359",
     "55fc54c374d3178c6259eac7": "custojusto:45342522",
+    "5642dadbea55aa2ee25a700c": "imovirtual:apartamento-t1-em-bonfim-de-34-00-m2-ID1iUQ8",
     "567b66754707fe233d0cb33e": "supercasa:2228419",
     "56c68e5dd6ad054239f93d99": "imovirtual:apartamento-t3-na-madalena-a-900m-da-praia-ID1iPx0",
     "56df216c0c64999444fd182a": "casa_sapo:alugar-casa-ferias",
@@ -586,6 +587,7 @@
     "709d17645536d842f236c694": "imovirtual:moradia-t2-mobilada-e-equipada-ID1iQkd",
     "70dbcdfa9ae491544682f0b6": "supercasa:2065756",
     "70f9d37a6215a6cd3b795337": "supercasa:2223517",
+    "71249d6f3da9c2083675fd09": "custojusto:45357328",
     "71718b69c563da7e6491fa6f": "imovirtual:t1-em-arvore-vila-do-conde-com-garagem-ID1iRC0",
     "718769a0b28747ae4cf8ba17": "supercasa:1875748",
     "71d40a2706f6f3343ca941fc": "custojusto:45147203",
@@ -615,6 +617,7 @@
     "759c91550f6541454674bba4": "supercasa:1701559",
     "75abd6ca63f637622b6cc20d": "supercasa:2228272",
     "75dbd879fdb9c99a2e503320": "supercasa:1850022",
+    "76357e54b6593baab8ce72b6": "imovirtual:apartamento-t1-1-no-empreendimento-agra-campus-ID1iUQ0",
     "766a50d60ac607f6faa7cc7e": "imovirtual:apartamento-t3-para-arrendamento-na-trofa-ID1iQ9E",
     "769c5da997cb724d613e39ee": "supercasa:2289561",
     "772a6af50cd7ee7ad88f3876": "supercasa:2249770",
@@ -1302,6 +1305,7 @@
     "f0eee1fc92927ad5a4346ade": "supercasa:2253666",
     "f11cdd100272f853c98dcdfc": "imovirtual:arrendamento-andar-moradia-t3-em-guilhufe-penafiel-ID1iTNV",
     "f166c903a8a79561fdb131ac": "imovirtual:t1-remodelado-aver-o-mar-povoa-de-varzim-ID1iLgc",
+    "f1715e2c6347d755ae05bcf3": "imovirtual:t-2-com-garagem-individual-rotunda-sto-ovideo-gaia-ID1iUQD",
     "f17f1cd348d7eb74ad4b4ef6": "imovirtual:alugo-moradia-t2-2-serpa-pinto-porto-ID1iTfS",
     "f1872875596e913d85337133": "supercasa:1802328",
     "f1c030903a93c727693f47fc": "imovirtual:apartamento-t1-na-1-linha-de-praia-povoa-de-varzim-ID1iOAw",
@@ -1324,6 +1328,7 @@
     "f41e2da7ca20a692e021b45b": "supercasa:2276283",
     "f42365f20b7c23c8af9e6a37": "supercasa:2263806",
     "f4684fc0e5b8078c427ad925": "supercasa:2285690",
+    "f46f2dfb16eac7e1df85b1d0": "imovirtual:apartamento-t3-gondomar-porto-ID1iUQp",
     "f47d75a5ead0af520e9da321": "imovirtual:apartamento-t2-1-mobilado-e-equipado-proximo-do-hospital-de-sao-joao-ID1iSi3",
     "f48a44784a1dd956aae2d075": "casa_sapo:6316b384-544d-11f1-9c13-060000000051",
     "f48a5c0249644e92ea3ba46d": "imovirtual:moradia-t3-de-luxo-com-vista-mar-praia-da-agudela-condominio-fech-ID1iUpW",
@@ -6625,6 +6630,65 @@
       "title": "T0 Perto Do Pólo Universitário ( Areosa + Circunvalação ) | Apartamentos, T0 para arrendar | Porto | 45354542 | CustoJusto.pt",
       "typology": "T0",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t0-perto-do-polo-universitario-45354542"
+    },
+    "custojusto:45357328": {
+      "area_m2": 111.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "71249d6f3da9c2083675fd09",
+      "first_seen": "2026-09-22T21:14:17+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://prod-images.custojusto.pt/play/1866810328-t2-plus-1-localizacao-premium-centro-gondomar-lg.jpg",
+      "last_change": "2026-09-22T21:14:17+00:00",
+      "last_seen": "2026-09-22T21:14:17+00:00",
+      "latitude": 41.10823750634124,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.533586527864239,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 310000.0,
+      "price_history": [
+        {
+          "at": "2026-09-22T21:14:17+00:00",
+          "price": 310000.0
+        }
+      ],
+      "price_per_m2": 2792.79,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45357328",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2+1 Localização Premium | Centro Gondomar | Lg...",
+      "typology": "T2",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t2-1-localizacao-premium-cen-45357328"
     },
     "custojusto:45363983": {
       "area_m2": 56.0,
@@ -13059,6 +13123,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-na-foz-edificio-gilreu-design-contemporaneo-e-luz-ID1iLaz"
     },
+    "imovirtual:apartamento-t1-1-no-empreendimento-agra-campus-ID1iUQ0": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "76357e54b6593baab8ce72b6",
+      "first_seen": "2026-09-22T21:14:17+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRpbmYxYWszc20xei1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.90wzq4Jh_PKDPm3KJjKOxpDixfc2WPFnsFPgw2QZoyI/image;s=2048x1536;q=80",
+      "last_change": "2026-09-22T21:14:17+00:00",
+      "last_seen": "2026-09-22T21:14:17+00:00",
+      "latitude": 41.189766,
+      "local_median_price_per_m2": 16.9,
+      "location": "Maia, Pedrouços, Porto",
+      "longitude": -8.586416,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 950.0,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-09-22T21:14:17+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 20.91,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-22T18:39:44Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-1-no-empreendimento-agra-campus-ID1iUQ0",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1150.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1+1 no empreendimento Agra Campus",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-1-no-empreendimento-agra-campus-ID1iUQ0"
+    },
     "imovirtual:apartamento-t1-1-no-empreendimento-em-asprela-easy-paranhos-ID1iNS7": {
       "area_m2": 62.0,
       "decision_reasons": [
@@ -13941,6 +14063,64 @@
       "title": "Apartamento T1 com Varandas no Flower Tower",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-com-varandas-no-flower-tower-ID1iLvK"
+    },
+    "imovirtual:apartamento-t1-em-bonfim-de-34-00-m2-ID1iUQ8": {
+      "area_m2": 34.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5642dadbea55aa2ee25a700c",
+      "first_seen": "2026-09-22T21:14:17+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Ijc2eWJzYTB5MmU0MzMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7dJVFoa1mkS9teCV1PzHVkMbQvQFTgyhy-T65rZmPY0/image;s=2048x1536;q=80",
+      "last_change": "2026-09-22T21:14:17+00:00",
+      "last_seen": "2026-09-22T21:14:17+00:00",
+      "latitude": 41.143986,
+      "local_median_price_per_m2": 16.9,
+      "location": "Rua do Monte - Bairro Herculano, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.603654,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 850.0,
+      "price_history": [
+        {
+          "at": "2026-09-22T21:14:17+00:00",
+          "price": 850.0
+        }
+      ],
+      "price_per_m2": 25.0,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-22T18:41:32Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-em-bonfim-de-34-00-m2-ID1iUQ8",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 3400.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Bonfim de 34,00 m2",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-em-bonfim-de-34-00-m2-ID1iUQ8"
     },
     "imovirtual:apartamento-t1-em-cedofeita-ID1iOje": {
       "area_m2": 40.0,
@@ -22568,6 +22748,66 @@
       "title": "Apartamento T3 em Gaia junto a N222",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-gaia-junto-a-n222-ID1iQjW"
+    },
+    "imovirtual:apartamento-t3-gondomar-porto-ID1iUQp": {
+      "area_m2": 90.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "f46f2dfb16eac7e1df85b1d0",
+      "first_seen": "2026-09-22T21:14:17+00:00",
+      "first_seen_at": null,
+      "floor": 22,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imh4NDQzZXc4cmJ0NzItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.bUsHnXGTx8LBfnMxPZv7Vnz5tb1uifp14Xr-zhmBN4w/image;s=2048x1536;q=80",
+      "last_change": "2026-09-22T21:14:17+00:00",
+      "last_seen": "2026-09-22T21:14:17+00:00",
+      "latitude": 41.1841,
+      "local_median_price_per_m2": null,
+      "location": "Rua Nova do Sistelo, Rio Tinto, Porto",
+      "longitude": -8.56673,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1300.0,
+      "price": 990.0,
+      "price_history": [
+        {
+          "at": "2026-09-22T21:14:17+00:00",
+          "price": 990.0
+        }
+      ],
+      "price_per_m2": 11.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-22T19:05:46Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-gondomar-porto-ID1iUQp",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 990.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "internet"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento t3 Gondomar/Porto",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-gondomar-porto-ID1iUQp"
     },
     "imovirtual:apartamento-t3-hospital-de-sao-joao-ID1iNS6": {
       "area_m2": 85.0,
@@ -36821,6 +37061,65 @@
       "title": "Stúdio no Centro Histórico / Cordoaria",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/studio-no-centro-historico-cordoaria-ID1iU7W"
+    },
+    "imovirtual:t-2-com-garagem-individual-rotunda-sto-ovideo-gaia-ID1iUQD": {
+      "area_m2": 97.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f1715e2c6347d755ae05bcf3",
+      "first_seen": "2026-09-22T21:14:17+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZzYzU3eGpvd3dqcDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yoTknENMFxiGMGbUF2PI-UDZ1L0Y2IcxZUb9lIxP8Bc/image;s=2048x1536;q=80",
+      "last_change": "2026-09-22T21:14:17+00:00",
+      "last_seen": "2026-09-22T21:14:17+00:00",
+      "latitude": 41.11416,
+      "local_median_price_per_m2": null,
+      "location": "Rua Camilo Vaz, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.605889,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-09-22T21:14:17+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 12.37,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-22T19:43:14Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t-2-com-garagem-individual-rotunda-sto-ovideo-gaia-ID1iUQD",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1200.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T-2 / Com garagem Individual / Rotunda Sto ovídeo/ Gaia",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t-2-com-garagem-individual-rotunda-sto-ovideo-gaia-ID1iUQD"
     },
     "imovirtual:t0-1-com-varanda-na-rua-de-cedofeita-ID1iUrm": {
       "area_m2": 41.0,
