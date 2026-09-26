@@ -1436,6 +1436,7 @@
     "f55cd973a62fbc4fe381f545": "imovirtual:andar-moradia-c-parque-privado-4-carros-ID1iMGt",
     "f57bb7677ab05909936541e6": "imovirtual:apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d",
     "f599406a0b4a59efc05219ab": "imovirtual:t2-remodelado-na-baixa-do-porto-com-2-varandas-ID1iQVe",
+    "f5b9e91d08945654eb03797e": "imovirtual:apartamento-t1-em-santo-tirso-para-arrendamento-ID1iWYK",
     "f5ccb560b0f7aa4f66afc1d7": "supercasa:1286018",
     "f5da3c02b03d0dd0d1938724": "imovirtual:moradia-t2-para-arrendamento-ID1iWOj",
     "f5f0f2d306584b007dc6dbf5": "supercasa:1603956",
@@ -15572,6 +15573,64 @@
       "title": "Apartamento T1 em Pólo Universitário",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-em-polo-universitario-ID1iMM2"
+    },
+    "imovirtual:apartamento-t1-em-santo-tirso-para-arrendamento-ID1iWYK": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "f5b9e91d08945654eb03797e",
+      "first_seen": "2026-09-26T01:29:35+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InYyMWlzcG5vNjVqcDItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2lEyNBIWT0C9HZqD6kZqoFedYNrwVLwn8fKvVBY2pQg/image;s=2048x1536;q=80",
+      "last_change": "2026-09-26T01:29:35+00:00",
+      "last_seen": "2026-09-26T01:29:35+00:00",
+      "latitude": 41.3409,
+      "local_median_price_per_m2": 16.43,
+      "location": "Rua Manuel da Silva Leite, St. Tirso, Couto (S. Cristina e S. Miguel) e Burgães, Porto",
+      "longitude": -8.46031,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 600.0,
+      "price_history": [
+        {
+          "at": "2026-09-26T01:29:35+00:00",
+          "price": 600.0
+        }
+      ],
+      "price_per_m2": 10.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-26T00:23:35Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-em-santo-tirso-para-arrendamento-ID1iWYK",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Santo Tirso para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-em-santo-tirso-para-arrendamento-ID1iWYK"
     },
     "imovirtual:apartamento-t1-junto-a-avenida-fernao-de-magalhaes-ID1iS33": {
       "area_m2": 50.0,
