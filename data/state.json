@@ -1507,6 +1507,7 @@
     "fb43bc1ff103923aa62e15bb": "imovirtual:apartamento-com-2-quartos-localizado-em-povoa-de-varzim-porto-ID1iRrv",
     "fb5f579a9e662d646b298e30": "imovirtual:aparamento-t2-terraco-renovado-faculdade-fernando-pessoa-ID1iV4l",
     "fbcc63ffce03efde9e18945b": "supercasa:2262093",
+    "fc1d0d2cbcf0edc0edaad48a": "imovirtual:estudio-novo-c-varanda-e-garagem-ocean-living-madalena-v-n-gaia-ID1iV8w",
     "fc3d3d5f0f0403c9931d67bf": "imovirtual:arrenda-se-t3-junto-el-corte-ingles-gaia-ID1iMK2",
     "fc486e84dba4570dbebccd29": "imovirtual:apartamento-t0-rua-da-formosa-ID1iSsO",
     "fc5ae1da5854b3b70af88e00": "supercasa:1934362",
@@ -35206,6 +35207,67 @@
       "title": "Estúdio novo c/ garagem, aos Caulinos na Senhora da Hora, perto NorteS",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/estudio-novo-c-garagem-aos-caulinos-na-senhora-da-hora-perto-nortes-ID1iWA9"
+    },
+    "imovirtual:estudio-novo-c-varanda-e-garagem-ocean-living-madalena-v-n-gaia-ID1iV8w": {
+      "area_m2": 38.7,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fc1d0d2cbcf0edc0edaad48a",
+      "first_seen": "2026-09-26T22:11:16+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InJrczI0dzFpZmNmdS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Zpt-5KexNfLJSFPY8ASJqwduh82qUWlMSKhifiWK7gE/image;s=2048x1536;q=80",
+      "last_change": "2026-09-26T22:11:16+00:00",
+      "last_seen": "2026-09-26T22:11:16+00:00",
+      "latitude": 41.112083,
+      "local_median_price_per_m2": 21.43,
+      "location": "Rua das Pedreiras, Madalena, Porto",
+      "longitude": -8.633364,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 875.0,
+      "price_history": [
+        {
+          "at": "2026-09-26T22:11:16+00:00",
+          "price": 875.0
+        }
+      ],
+      "price_per_m2": 22.61,
+      "public_transport_bonus": false,
+      "published_at": "2026-09-26T20:10:30Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "estudio-novo-c-varanda-e-garagem-ocean-living-madalena-v-n-gaia-ID1iV8w",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 1750.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Estúdio Novo c/ Varanda e Garagem – Ocean Living, Madalena (V.N. Gaia)",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/estudio-novo-c-varanda-e-garagem-ocean-living-madalena-v-n-gaia-ID1iV8w"
     },
     "imovirtual:estudio-novo-luxuoso-e-espacoso-com-estacionamento-ID1iPB9": {
       "area_m2": 30.0,
