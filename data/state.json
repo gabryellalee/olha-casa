@@ -1456,6 +1456,7 @@
     "f2cbf7adac0354c485f21d77": "imovirtual:apartamento-t1-para-arrendamento-ID1iMyr",
     "f2efa101b470d8be5517facc": "supercasa:2277609",
     "f329f80549dcadc7b66f7a6e": "supercasa:2279369",
+    "f3433e6d8042a8e76199f1ee": "imovirtual:fantastico-apartamento-t3-de-luxo-no-centro-da-maia-como-novo-ID1iVcS",
     "f356a5af850fa37b9cbf1523": "imovirtual:t2-com-vista-mar-povoa-de-varzim-disponivel-de-outubro-a-maio-ID1iSfh",
     "f3627350e4019dd9c6847380": "supercasa:1044119",
     "f3bb2928fb82f3d175506513": "imovirtual:arrenda-apartamento-ID1iOWn",
@@ -36646,6 +36647,64 @@
       "title": "Fantástica Moradia T4 para Arrendamento na Maia",
       "typology": "T4",
       "url": "https://www.imovirtual.com/pt/anuncio/fantastica-moradia-t4-para-arrendamento-na-maia-ID1iOxu"
+    },
+    "imovirtual:fantastico-apartamento-t3-de-luxo-no-centro-da-maia-como-novo-ID1iVcS": {
+      "area_m2": 11.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f3433e6d8042a8e76199f1ee",
+      "first_seen": "2026-09-27T23:24:00+00:00",
+      "first_seen_at": null,
+      "floor": 27,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp0YmlscnpiMzVoZS1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bXo5NIaggln8K5Jlg5vRmeJMYUP9pG3RvSOMqJ2fpqQ/image;s=2048x1536;q=80",
+      "last_change": "2026-09-27T23:24:00+00:00",
+      "last_seen": "2026-09-27T23:24:00+00:00",
+      "latitude": 41.231693,
+      "local_median_price_per_m2": null,
+      "location": "Rua da Santa Casa da Misericórdia, Cidade da Maia, Porto",
+      "longitude": -8.62468,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2450.0,
+      "price_history": [
+        {
+          "at": "2026-09-27T23:24:00+00:00",
+          "price": 2450.0
+        }
+      ],
+      "price_per_m2": 222.73,
+      "public_transport_bonus": true,
+      "published_at": "2026-09-27T21:55:57Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "fantastico-apartamento-t3-de-luxo-no-centro-da-maia-como-novo-ID1iVcS",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 4900.0,
+        "deposits": 1,
+        "entry_total": 4900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Fantástico Apartamento T3 de Luxo no Centro da Maia - Como Novo!",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/fantastico-apartamento-t3-de-luxo-no-centro-da-maia-como-novo-ID1iVcS"
     },
     "imovirtual:fantastico-t0-junto-ao-metro-na-av-da-republica-em-vila-nova-de-gaia-ID1iUWo": {
       "area_m2": 32.0,
