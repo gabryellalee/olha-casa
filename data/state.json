@@ -220,6 +220,8 @@
     "21b747c6fb6607c7dae403c4": "supercasa:1892600",
     "21ca035ee0292606092de412": "supercasa:1867398",
     "21f977788015c89ac6918e94": "imovirtual:t1-novo-para-arrendamento-vila-nova-de-gaia-ID1iLqq",
+    "21fdbd5338ba505db463c5dd": "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iY5L",
+    "220c09653a1f19b1bede5e5f": "imovirtual:arrenda-moradia-castelo-da-maia-ID1iY6Q",
     "223b3a6937502dda584bae39": "supercasa:2183910",
     "2241083a8d5fd3e5140f23ef": "supercasa:2227192",
     "227812ef70a7e26291254487": "supercasa:2003335",
@@ -499,6 +501,7 @@
     "4c5659262ac4eb53c92fa864": "supercasa:2051634",
     "4c987f1c5cd8da5552acd07d": "imovirtual:casa-t2-mobilada-para-arrendar-ID1iU7J",
     "4d0d4fd36265a37567d937a1": "supercasa:2205618",
+    "4dc95835369404876e29ecea": "imovirtual:t0-mobilado-studio-antas-residence-13-piso-metro-e-alameda-ID1iY5O",
     "4df0cdaa172aa044ee6cd558": "supercasa:2275474",
     "4e283a49ae84d2445f39b99b": "supercasa:2246570",
     "4e38d0b6215908cdfd4cff27": "imovirtual:t1-mezanino-polo-universitario-da-asprela-ID1iMcS",
@@ -803,6 +806,7 @@
     "7f51c422fee988ceda7d954e": "supercasa:2210977",
     "7f8bfa71edd86f2bd5734e2e": "supercasa:2096679",
     "7fc9a1eb9f0fcad8c4b5be31": "supercasa:2245102",
+    "7ff417c76c5b189ddf9b8e16": "imovirtual:apartamento-t3-para-arrendamento-ID1iY7c",
     "80164f624cbaead85f39c27a": "custojusto:45169795",
     "805324c0659d79a7bb1eca7a": "supercasa:1605879",
     "8074a7d984adb652f51a4f01": "supercasa:2293689",
@@ -968,6 +972,7 @@
     "966306c6d1ee058f3fc7afca": "supercasa:2196933",
     "96844313127ac3e8271d7428": "imovirtual:apartamento-t2-av-fernao-de-magalhaes-ID1iNaz",
     "96966bcea53537ebff85a87e": "supercasa:2263186",
+    "96b152eadead9247f64a7794": "imovirtual:apartamento-t1-para-arrendamento-ID1iY75",
     "96d216e879244a8f8c2308e6": "imovirtual:t0-novo-mobilado-e-equipado-paranhos-porto-ID1iNDv",
     "96f3f7f4adb6cf9832c5ce04": "imovirtual:t2-para-arrendamento-em-paranhos-porto-ID1iUha",
     "9713c62150150386d3f4ac23": "supercasa:2215052",
@@ -1148,6 +1153,7 @@
     "b2999a0e41656a3e03a675fb": "imovirtual:t0-em-predio-de-prestigio-seguranca-e-localizacao-privilegiada-ID1iRje",
     "b2b8c9ea78dba98a2ca5c1b5": "imovirtual:t1-mobilado-e-equipado-praia-de-leca-ID1iVTA",
     "b3035aef9200f63eac44b41b": "supercasa:1266720",
+    "b312caad5396d22588658ec1": "custojusto:45402366",
     "b31cfb86a8b7a237de4becd0": "imovirtual:apartamento-t1-porto-semi-novo-parque-dos-sobreiros-ID1iNBG",
     "b330efabf7a9ad03d499c373": "imovirtual:arrendo-apartamento-t0-matosinhos-ID1iU29",
     "b33e1eb0f8f857b1628f52e0": "supercasa:2019652",
@@ -8166,6 +8172,67 @@
       "typology": "T0",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t-0-com-terraco-matosinhos-45396825"
     },
+    "custojusto:45402366": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda dentro do limite preferido",
+        "ligação muito rápida ao ISCAP",
+        "entrada inicial até três rendas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b312caad5396d22588658ec1",
+      "first_seen": "2026-10-03T13:20:03+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://prod-images.custojusto.pt/play/2956327278-t1-s-mamede-infesta-h-s-joao.jpg",
+      "last_change": "2026-10-03T13:20:03+00:00",
+      "last_seen": "2026-10-03T13:20:03+00:00",
+      "latitude": 41.18693474439884,
+      "local_median_price_per_m2": 16.67,
+      "location": "Porto",
+      "longitude": -8.605509964419339,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 7,
+      "previous_price": 720.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-10-03T13:20:03+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 17.5,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": true,
+      "score": 5.6,
+      "source": "custojusto",
+      "source_id": "45402366",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T1 - S. Mamede Infesta (h.s.joão) | Apartamentos, T1 para arrendar | Porto | 45402366 | CustoJusto.pt",
+      "typology": "T1",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t1-s-mamede-infesta-h-s-jo-45402366"
+    },
     "imovirtual:400-t1-1-para-alugar-em-loures-ID1iRHm": {
       "area_m2": 1.0,
       "decision_reasons": [
@@ -11503,6 +11570,64 @@
       "title": "Apartamento com 1 quartos - localizado em Cedofeita Porto",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iLIa"
+    },
+    "imovirtual:apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iY5L": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "21fdbd5338ba505db463c5dd",
+      "first_seen": "2026-10-03T13:20:03+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNtOHhoamg2OTQ5NTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.7aWkma4juJRWnlEvTWnyZcQkrZwm-gBV6WtONGpH8Ks/image;s=2048x1536;q=80",
+      "last_change": "2026-10-03T13:20:03+00:00",
+      "last_seen": "2026-10-03T13:20:03+00:00",
+      "latitude": 41.15293,
+      "local_median_price_per_m2": 16.67,
+      "location": "Rua Aníbal Cunha, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.62097,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1800.0,
+      "price": 940.0,
+      "price_history": [
+        {
+          "at": "2026-10-03T13:20:03+00:00",
+          "price": 940.0
+        }
+      ],
+      "price_per_m2": 18.8,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-03T11:33:36Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iY5L",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 940.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento com 1 quartos - localizado em Cedofeita Porto",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-com-1-quartos-localizado-em-cedofeita-porto-ID1iY5L"
     },
     "imovirtual:apartamento-com-1-quartos-localizado-em-paranhos-porto-ID1iLoK": {
       "area_m2": 47.0,
@@ -21376,6 +21501,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iXZa"
     },
+    "imovirtual:apartamento-t1-para-arrendamento-ID1iY75": {
+      "area_m2": 66.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "96b152eadead9247f64a7794",
+      "first_seen": "2026-10-03T13:20:03+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImJ5Zmw3Nm92amxldDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.BCq-dajijRNgbu2jM-KbNz7FBH4Gjz1OWmT5wkIW1bE/image;s=2048x1536;q=80",
+      "last_change": "2026-10-03T13:20:03+00:00",
+      "last_seen": "2026-10-03T13:20:03+00:00",
+      "latitude": 41.118298,
+      "local_median_price_per_m2": 16.67,
+      "location": "Travessa Professor Rui Luís Gomes, Santa Marinha e São Pedro da Afurada, Porto",
+      "longitude": -8.616881,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1150.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-10-03T13:20:03+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 13.64,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-03T13:08:41Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-para-arrendamento-ID1iY75",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 para arrendamento",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-para-arrendamento-ID1iY75"
+    },
     "imovirtual:apartamento-t1-para-arrendamento-junto-a-quinta-do-fojo-ID1iNiE": {
       "area_m2": 62.0,
       "decision_reasons": [
@@ -30101,6 +30285,67 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iXCI"
     },
+    "imovirtual:apartamento-t3-para-arrendamento-ID1iY7c": {
+      "area_m2": 183.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "7ff417c76c5b189ddf9b8e16",
+      "first_seen": "2026-10-03T13:20:03+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJuNnlmdjljdWw1aTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Gkzwp71D21A1xHgYXS7ho29RlelqjMU73tDXLtZQCLM/image;s=2048x1536;q=80",
+      "last_change": "2026-10-03T13:20:03+00:00",
+      "last_seen": "2026-10-03T13:20:03+00:00",
+      "latitude": 41.236717,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Paço, Recezinhos (São Mamede), Porto",
+      "longitude": -8.21148,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-10-03T13:20:03+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 5.46,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-03T13:10:22Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-para-arrendamento-ID1iY7c",
+      "terms": {
+        "advance_rents": 1,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 3000.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Apartamento T3 para arrendamento",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-ID1iY7c"
+    },
     "imovirtual:apartamento-t3-para-arrendamento-em-paredes-ID1iWTz": {
       "area_m2": 109.46,
       "decision_reasons": [
@@ -31151,6 +31396,64 @@
       "title": "Arrenda Casa R/Ch - Castromil/Sobreira",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-casa-r-ch-castromil-sobreira-ID1iU6o"
+    },
+    "imovirtual:arrenda-moradia-castelo-da-maia-ID1iY6Q": {
+      "area_m2": 145.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "220c09653a1f19b1bede5e5f",
+      "first_seen": "2026-10-03T13:20:03+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjkzMXMxZjczMGI5eS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Zx4yH3qlPPosXIPpoJfeLdcJg_xyAGvBJqc_HW70BHI/image;s=2048x1536;q=80",
+      "last_change": "2026-10-03T13:20:03+00:00",
+      "last_seen": "2026-10-03T13:20:03+00:00",
+      "latitude": 41.25942,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Campo de Futebol, Castêlo da Maia, Porto",
+      "longitude": -8.61656,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1850.0,
+      "price_history": [
+        {
+          "at": "2026-10-03T13:20:03+00:00",
+          "price": 1850.0
+        }
+      ],
+      "price_per_m2": 12.76,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-03T12:25:00Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrenda-moradia-castelo-da-maia-ID1iY6Q",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrenda moradia - Castelo da Maia",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrenda-moradia-castelo-da-maia-ID1iY6Q"
     },
     "imovirtual:arrenda-se-andar-de-moradia-t3-entrada-do-centro-de-paredes-ID1iUpi": {
       "area_m2": 219.0,
@@ -48904,6 +49207,69 @@
       "title": "T0 Mobilado &Equipado- Prox Metro Marques/Constituição",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/t0-mobilado-equipado-prox-metro-marques-constituicao-ID1iU7V"
+    },
+    "imovirtual:t0-mobilado-studio-antas-residence-13-piso-metro-e-alameda-ID1iY5O": {
+      "area_m2": 45.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "bom preço por m² face à amostra",
+        "ligação muito rápida ao ISCAP",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "4dc95835369404876e29ecea",
+      "first_seen": "2026-10-03T13:20:03+00:00",
+      "first_seen_at": null,
+      "floor": 13,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBiMmx2NjhrNXRhdjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NJrjFl_M-bu8A7_zKWoZ9Ao3DzpT3e77I43odsuQLGI/image;s=2048x1536;q=80",
+      "last_change": "2026-10-03T13:20:03+00:00",
+      "last_seen": "2026-10-03T13:20:03+00:00",
+      "latitude": 41.16123,
+      "local_median_price_per_m2": 21.43,
+      "location": "Rua Carrington da Costa, Campanhã, Porto",
+      "longitude": -8.57104,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 15,
+      "previous_price": null,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-10-03T13:20:03+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 16.67,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-03T11:37:56Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 5.1,
+      "source": "imovirtual",
+      "source_id": "t0-mobilado-studio-antas-residence-13-piso-metro-e-alameda-ID1iY5O",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 750.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 Mobilado | Studio Antas Residence | 13.º Piso | Metro e Alameda",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/t0-mobilado-studio-antas-residence-13-piso-metro-e-alameda-ID1iY5O"
     },
     "imovirtual:t0-moderno-para-arrendar-no-empreendimento-kori-gaia-ID1iMx4": {
       "area_m2": 54.0,
