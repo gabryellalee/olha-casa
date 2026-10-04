@@ -1269,6 +1269,7 @@
     "bf7c80c9f9f96ce14b5e4ce6": "custojusto:44936959",
     "bf7d07e41d18e7d86043a2e1": "supercasa:2185672",
     "bf933226c3fa4de8ac6bac62": "imovirtual:moradia-t3-1-ao-maiashopping-ID1iSfc",
+    "bfb6ecd4b2c6877598eae0c9": "imovirtual:t3-vila-nova-da-telha-maia-em-condominio-fechado-ID1iYgx",
     "bfce4b8b6017ec94cfc23dbb": "imovirtual:moradia-t3-terrea-construcao-2025-mobilada-ID1iUA9",
     "bfedf20b4b368cf88139636c": "imovirtual:t1-1-c-varanda-coimbroes-v-n-gaia-ID1iQL4",
     "c02258d58d04b39d3fd591dc": "imovirtual:t0-com-ou-sem-mobilia-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iX2G",
@@ -1530,6 +1531,7 @@
     "e3b3d13e6bdb8526034e2ed7": "imovirtual:t1-em-aver-o-mar-povoa-de-varzim-ID1iL0y",
     "e3ba91a7c486e0c5fd3d0696": "supercasa:2230266",
     "e3c77f6856ccb415710ee594": "supercasa:2239289",
+    "e3ee5e90ad57e9a1f01cca5f": "imovirtual:arrendamento-t2-afurada-ID1iYgD",
     "e43131aebf534f7091360170": "imovirtual:apartamento-t1-com-varanda-e-garagem-em-paranhos-ID1iL1T",
     "e4475e6e55bec31793ce6692": "imovirtual:apartamento-com-1-quartos-localizado-em-ramalde-porto-ID1iX0C",
     "e4520cb5ecc8f748f74a4411": "supercasa:2298901",
@@ -35900,6 +35902,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-t2-1-povoa-de-varzim-ID1iOBU"
     },
+    "imovirtual:arrendamento-t2-afurada-ID1iYgD": {
+      "area_m2": 136.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "e3ee5e90ad57e9a1f01cca5f",
+      "first_seen": "2026-10-04T22:19:07+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRnNnZwMXY5ZGFiMTMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.8WgZYqP9DXiAYmGLRvYH9eoFWNgYl8CENeHECGdcwbY/image;s=2048x1536;q=80",
+      "last_change": "2026-10-04T22:19:07+00:00",
+      "last_seen": "2026-10-04T22:19:07+00:00",
+      "latitude": 41.143093,
+      "local_median_price_per_m2": null,
+      "location": "4400-414 | Santa Marinha e São Pedro da Afurada, Porto, Rua de Chãs, Santa Marinha e São Pedro da Afurada, Porto",
+      "longitude": -8.642441,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2500.0,
+      "price": 1650.0,
+      "price_history": [
+        {
+          "at": "2026-10-04T22:19:07+00:00",
+          "price": 1650.0
+        }
+      ],
+      "price_per_m2": 12.13,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-04T21:37:20Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendamento-t2-afurada-ID1iYgD",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 2475.0,
+        "deposits": 1,
+        "entry_total": 2475.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendamento T2 Afurada",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-t2-afurada-ID1iYgD"
+    },
     "imovirtual:arrendamento-t2-de-apartamento-in-porto-boavista-ID1iTfa": {
       "area_m2": 50.0,
       "decision_reasons": [
@@ -62918,6 +62978,64 @@
       "title": "T3 Totalmente Mobilado para Arrendamento com Garagem em Vila Nova de G",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-totalmente-mobilado-para-arrendamento-com-garagem-em-vila-nova-de-g-ID1iWln"
+    },
+    "imovirtual:t3-vila-nova-da-telha-maia-em-condominio-fechado-ID1iYgx": {
+      "area_m2": 160.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "bfb6ecd4b2c6877598eae0c9",
+      "first_seen": "2026-10-04T22:19:07+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im91bmg4MzQ3cHZubDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.xvRMTbOrrdK6SL423A0-GETD-i2VxveOb3SoyvNTo4w/image;s=2048x1536;q=80",
+      "last_change": "2026-10-04T22:19:07+00:00",
+      "last_seen": "2026-10-04T22:19:07+00:00",
+      "latitude": 41.25295,
+      "local_median_price_per_m2": null,
+      "location": "Rua Albina da Silva Moreira (A Mestra), Vila Nova da Telha, Porto",
+      "longitude": -8.66847,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1500.0,
+      "price_history": [
+        {
+          "at": "2026-10-04T22:19:07+00:00",
+          "price": 1500.0
+        }
+      ],
+      "price_per_m2": 9.38,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-04T21:00:44Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-vila-nova-da-telha-maia-em-condominio-fechado-ID1iYgx",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1500.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T3 Vila Nova da Telha Maia em condomínio fechado",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-vila-nova-da-telha-maia-em-condominio-fechado-ID1iYgx"
     },
     "imovirtual:t4-de-luxo-living-sea-canidelo-arrendamento-foz-de-gaia-ID1iN7I": {
       "area_m2": 250.0,
