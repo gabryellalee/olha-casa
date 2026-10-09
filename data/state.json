@@ -559,6 +559,7 @@
     "4f05a1c3643b5ae29092ff51": "imovirtual:apartamento-t0-no-polo-universitario-paranhos-ID1iMWE",
     "4f25de1f23f30e19a250b266": "supercasa:2245990",
     "4f3449827907a98223ec330b": "supercasa:2252602",
+    "4f7e269daa759da07f731f15": "imovirtual:apartamento-t3-em-sta-cruz-do-bispo-matosinhos-ID1iZSU",
     "4fa0fa83d7d3c8e78e95ae23": "supercasa:1912924",
     "4ffad2e0149dc6f47b6cf8ab": "imovirtual:t2-pacos-de-ferreira-ID1iOiQ",
     "50974c88ea1efcd77cd1caca": "casa_sapo:4471e2fb-9b94-11f1-90a1-060000000056",
@@ -631,6 +632,7 @@
     "597c784dadb4a87a3ea3c622": "supercasa:2282221",
     "59a6389852c1569b7fba9a96": "imovirtual:apartamento-t2-duplex-com-piscina-garagem-e-ginasio-porto-ID1iXCz",
     "59b0c26942c84e3acc210dc7": "imovirtual:arrenda-se-t2-remodelado-lavra-ID1iYMz",
+    "59bcb38257364efc9d03caeb": "imovirtual:t1-com-varanda-e-elevador-no-bonfim-ID1iZSS",
     "59cfbaba241cd399ffc613d3": "imovirtual:s1-novo-e-mobilado-no-kori-junto-ao-futuro-metro-piscina-e-ginasio-ID1iYxU",
     "59d34011c2731e95adf5d1d0": "supercasa:1072319",
     "5a58033521ce7659b67f1c6a": "supercasa:2293761",
@@ -932,6 +934,7 @@
     "850beb95473796be7f4be44e": "imovirtual:arrendamento-t1-vila-do-conde-ID1iRGf",
     "850bfa1335a47440a629d03e": "imovirtual:apartamento-t4-para-arrendamento-ID1iTZ0",
     "85414b440c4a583194b84829": "supercasa:2273911",
+    "8561d3e31d780caf93a03c5b": "imovirtual:apartamento-t2-para-arrendamento-ID1iZQi",
     "856a55576b1e7b53dc3560a1": "imovirtual:casa-t1-com-patio-exterior-para-arrendar-oliveira-do-douro-gaia-ID1iWpS",
     "856a9d80a0882b8266eef7cb": "imovirtual:excelente-t0-com-conforto-de-t1-para-arrendamento-ID1iVPU",
     "857e4d4803c218a915b2bf03": "imovirtual:apartamento-t1-na-praceta-jose-fernandes-caldas-146-afurada-ID1iL0b",
@@ -968,6 +971,7 @@
     "8ab33dbf6f18b26c87b462c1": "imovirtual:casinha-t0-em-ilha-ID1iTpY",
     "8ac375e7fab03fb8aa3d56a0": "imovirtual:moradia-de-luxo-a-estrear-na-povoa-de-varzim-ID1iMui",
     "8ad7335691b9803f2187d060": "supercasa:2217924",
+    "8af8bee21503f987471a23f9": "imovirtual:t1-em-paco-de-rei-vila-nova-de-gaia-78-50-m-garagem-individual-ID1iZQl",
     "8b1534916277a088a4914f82": "supercasa:2273338",
     "8b3621ad999d9b04734eb21c": "custojusto:45421041",
     "8b708fc0a9dde2d6d6f8a008": "imovirtual:apartamento-t2-para-arrendamento-ID1iYNQ",
@@ -1361,6 +1365,7 @@
     "bfce4b8b6017ec94cfc23dbb": "imovirtual:moradia-t3-terrea-construcao-2025-mobilada-ID1iUA9",
     "bfedf20b4b368cf88139636c": "imovirtual:t1-1-c-varanda-coimbroes-v-n-gaia-ID1iQL4",
     "c02258d58d04b39d3fd591dc": "imovirtual:t0-com-ou-sem-mobilia-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iX2G",
+    "c02770cbe3dfabe317fffecc": "imovirtual:moradia-t2-terrea-ID1iZRD",
     "c032eedcc2535d0a9e890605": "imovirtual:alugo-apartamento-t2-vila-do-conde-ID1iYzD",
     "c037f9a1a7e86f05bd48463d": "supercasa:2257157",
     "c03ed4b69c39c9cd15ebada4": "supercasa:2274705",
@@ -30193,6 +30198,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iZL9"
     },
+    "imovirtual:apartamento-t2-para-arrendamento-ID1iZQi": {
+      "area_m2": 76.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "8561d3e31d780caf93a03c5b",
+      "first_seen": "2026-10-09T20:19:25+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImI2bW05NGs2bXpxZi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.NM5zpznEM1uHs8SeBsbsmPbkJbdV_Pi46Vv7wYy1f2M/image;s=2048x1536;q=80",
+      "last_change": "2026-10-09T20:19:25+00:00",
+      "last_seen": "2026-10-09T20:19:25+00:00",
+      "latitude": 41.174057,
+      "local_median_price_per_m2": null,
+      "location": "Rua Doutor Júlio de Matos, Paranhos, Porto",
+      "longitude": -8.59104,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 950.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-10-09T20:19:25+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 14.47,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-09T17:17:23Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-para-arrendamento-ID1iZQi",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1100.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 para arrendamento",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendamento-ID1iZQi"
+    },
     "imovirtual:apartamento-t2-para-arrendamento-aguas-santas-ID1iNk9": {
       "area_m2": 90.0,
       "decision_reasons": [
@@ -31998,6 +32061,64 @@
       "title": "Apartamento T3 em Gaia junto a N222",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-gaia-junto-a-n222-ID1iQjW"
+    },
+    "imovirtual:apartamento-t3-em-sta-cruz-do-bispo-matosinhos-ID1iZSU": {
+      "area_m2": 98.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4f7e269daa759da07f731f15",
+      "first_seen": "2026-10-09T20:19:25+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InR4OTI0OGQ2b3d4ZjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5sJtPSjjyrvmvYxfQXinPim9c-iQA_GLYsdK3_Dqcws/image;s=2048x1536;q=80",
+      "last_change": "2026-10-09T20:19:25+00:00",
+      "last_seen": "2026-10-09T20:19:25+00:00",
+      "latitude": 41.2469,
+      "local_median_price_per_m2": null,
+      "location": "Travessa de Cabanelas, Perafita, Lavra e Santa Cruz do Bispo, Porto",
+      "longitude": -8.69841,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1200.0,
+      "price": 1100.0,
+      "price_history": [
+        {
+          "at": "2026-10-09T20:19:25+00:00",
+          "price": 1100.0
+        }
+      ],
+      "price_per_m2": 11.22,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-09T19:32:59Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-em-sta-cruz-do-bispo-matosinhos-ID1iZSU",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 4400.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 2,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Sta Cruz do Bispo, Matosinhos",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-em-sta-cruz-do-bispo-matosinhos-ID1iZSU"
     },
     "imovirtual:apartamento-t3-gondomar-porto-ID1iUQp": {
       "area_m2": 90.0,
@@ -49418,6 +49539,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-para-arrendamento-em-valbom-gondomar-ID1iQCE"
     },
+    "imovirtual:moradia-t2-terrea-ID1iZRD": {
+      "area_m2": 120.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "c02770cbe3dfabe317fffecc",
+      "first_seen": "2026-10-09T20:19:25+00:00",
+      "first_seen_at": null,
+      "floor": 9,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IndmcDRmN2UwcjFyNjEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yMEkMVtjJqyu4JPzceQnwDVKA1P2uG4bieel2y_4kAQ/image;s=2048x1536;q=80",
+      "last_change": "2026-10-09T20:19:25+00:00",
+      "last_seen": "2026-10-09T20:19:25+00:00",
+      "latitude": 41.34992,
+      "local_median_price_per_m2": null,
+      "location": "Largo Cardeal Cerejeira, Lousado, Braga",
+      "longitude": -8.53305,
+      "natural_light": true,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 650.0,
+      "price_history": [
+        {
+          "at": "2026-10-09T20:19:25+00:00",
+          "price": 650.0
+        }
+      ],
+      "price_per_m2": 5.42,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-09T18:01:48Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t2-terrea-ID1iZRD",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T2 térrea",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t2-terrea-ID1iZRD"
+    },
     "imovirtual:moradia-t2-terrea-com-jardim-quintal-e-garagem-em-calendario-vila-ID1iRrq": {
       "area_m2": 150.0,
       "decision_reasons": [
@@ -57995,6 +58174,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-com-varanda-ar-condicionado-e-elevador-no-bonfim-ID1iTgp"
     },
+    "imovirtual:t1-com-varanda-e-elevador-no-bonfim-ID1iZSS": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "59bcb38257364efc9d03caeb",
+      "first_seen": "2026-10-09T20:19:25+00:00",
+      "first_seen_at": null,
+      "floor": 9,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImU3M2FiZ3Q2aWlicy1BUFQiLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.nOiwsoCCz7llmml998f3lQnJWa8WkOhqs0wMMbyt12E/image;s=2048x1536;q=80",
+      "last_change": "2026-10-09T20:19:25+00:00",
+      "last_seen": "2026-10-09T20:19:25+00:00",
+      "latitude": 41.151054,
+      "local_median_price_per_m2": 16.54,
+      "location": "4300-190 | Bonfim, Porto, Avenida Fernão de Magalhães, Bonfim, Porto",
+      "longitude": -8.597899,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 890.0,
+      "price": 790.0,
+      "price_history": [
+        {
+          "at": "2026-10-09T20:19:25+00:00",
+          "price": 790.0
+        }
+      ],
+      "price_per_m2": 14.36,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-09T19:26:05Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-com-varanda-e-elevador-no-bonfim-ID1iZSS",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 1580.0,
+        "deposits": 1,
+        "entry_total": 1580.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 com varanda e elevador no Bonfim",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-com-varanda-e-elevador-no-bonfim-ID1iZSS"
+    },
     "imovirtual:t1-com-varanda-vista-mar-ginasio-e-cowork-em-gaia-ID1iSzv": {
       "area_m2": 27.3,
       "decision_reasons": [
@@ -58707,6 +58944,65 @@
       "title": "T1 em Leça da Palmeira",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-em-leca-da-palmeira-ID1iMVR"
+    },
+    "imovirtual:t1-em-paco-de-rei-vila-nova-de-gaia-78-50-m-garagem-individual-ID1iZQl": {
+      "area_m2": 78.5,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "8af8bee21503f987471a23f9",
+      "first_seen": "2026-10-09T20:19:25+00:00",
+      "first_seen_at": null,
+      "floor": 58,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjFhaWlvY3R1Zm1waTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hLSVW0Vf81GPYN6xuT-3p24aAF8EV5Fki85nkO07dS8/image;s=2048x1536;q=80",
+      "last_change": "2026-10-09T20:19:25+00:00",
+      "last_seen": "2026-10-09T20:19:25+00:00",
+      "latitude": 41.12158,
+      "local_median_price_per_m2": 16.54,
+      "location": "Rua Porto Santo, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.60211,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-10-09T20:19:25+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 11.46,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-09T17:17:36Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-em-paco-de-rei-vila-nova-de-gaia-78-50-m-garagem-individual-ID1iZQl",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2700.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 em Paço de Rei, Vila Nova de Gaia 78,50 m² | Garagem individual ...",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-em-paco-de-rei-vila-nova-de-gaia-78-50-m-garagem-individual-ID1iZQl"
     },
     "imovirtual:t1-em-r-ch-de-casa-habitada-ID1iMy3": {
       "area_m2": 50.0,
