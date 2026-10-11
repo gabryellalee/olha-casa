@@ -521,6 +521,7 @@
     "485e1dab4415e9a617a147f9": "supercasa:2207381",
     "486e7f513b18675ef8231ec5": "supercasa:2232885",
     "48973fa2cc952d590cf3da40": "imovirtual:apartamento-t3-para-arrendamento-ID1iYd9",
+    "48aebe3f42f9badabfdc7d58": "imovirtual:apartamento-t2-em-valongo-com-varanda-e-garagem-ID1j081",
     "48fc8186a8e8c022780cac62": "supercasa:2234667",
     "491dda75180f22d88140c2d3": "imovirtual:t3-fanzeres-com-2-wc-completos-elevador-lugar-de-garagem-ID1iQVK",
     "49253767413d0cfb5b942147": "imovirtual:apartamento-t1-para-arrendamento-ID1iSbw",
@@ -676,7 +677,7 @@
     "5e4c547aa59200357524c76f": "supercasa:2279485",
     "5ebcb437497c96f252f6f483": "supercasa:2288907",
     "5ed9b11e7d08a487f8d025b4": "imovirtual:moradia-terrea-t2-mobilada-oliveira-do-douro-vila-nova-de-gaia-ID1iRE3",
-    "5ee7968c53c2db2fab851702": "imovirtual:t2-remodelado-metro-campo-24-de-agosto-porto-ID1iXDw",
+    "5ee7968c53c2db2fab851702": "imovirtual:t2-remodelado-metro-campo-24-de-agosto-porto-ID1j07M",
     "5ef609a32712c35c3a856f3a": "imovirtual:t2-arrendamento-bonfim-varandas-6-andar-vistas-sobre-a-cidad-ID1iXdP",
     "5efe6d1da4675fdefe14e8f5": "imovirtual:apartamento-com-garagem-e-varanda-polo-universitario-ID1iXbz",
     "5f0021ef5dae553a5bd12d58": "casa_sapo:9ce78157-5141-424a-a39f-606d886e5d6e",
@@ -1594,6 +1595,7 @@
     "d9b05258f68bb2919fb183f9": "custojusto:45228204",
     "d9d0889b215a19ad5a525eea": "imovirtual:arendar-apartamento-t1-no-5andar-centro-da-cidade-ID1iRrj",
     "d9d5507b623f8485f5b66bfa": "custojusto:45230877",
+    "d9f21c170105a7bd9c42bd65": "imovirtual:apartamento-t2-105-m2-vila-universitaria-ID1j07e",
     "da088de429be63cb00cf4bdc": "supercasa:2066463",
     "da86ccde1cee984848f9c97f": "supercasa:2264797",
     "dad4ab79726d329ee3060448": "imovirtual:t2-new-apartment-in-vila-nova-de-gaia-ID1iQng",
@@ -1875,6 +1877,7 @@
     "fcb70a72b0c2460002516953": "supercasa:1111013",
     "fcf1956d2f3bafdb92558533": "custojusto:45088672",
     "fd5beb738e33b53cfae48096": "imovirtual:sao-mamede-infesta-arrendo-apartamento-ID1iWY2",
+    "fd728ee928a82cdd24308f03": "imovirtual:t1-junto-ao-hospital-da-prelada-ID1j07V",
     "fd96b165d8f5350e145bbdc8": "supercasa:1723575",
     "fdeb9efef951df643dcd2edf": "supercasa:1783492",
     "fdfb40566cf3bc851feb5e04": "supercasa:2249557",
@@ -26252,6 +26255,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-1-renovado-com-lugar-de-garagem-ID1iVtE"
     },
+    "imovirtual:apartamento-t2-105-m2-vila-universitaria-ID1j07e": {
+      "area_m2": 105.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "d9f21c170105a7bd9c42bd65",
+      "first_seen": "2026-10-11T18:26:34+00:00",
+      "first_seen_at": null,
+      "floor": 11,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhsYnc5enl1MHdrLUVDT1NZU1RFTSIsInciOlt7ImZuIjoiNjlubHBhN2VjcW03MS1BUFQiLCJzIjoiMTYiLCJhIjoiMCIsInAiOiIxMCwtMTAifV19.HXYfbAVmHI4SpGRrknEJiafgvPhQkSD-KY0mkZq50CM/image;s=2048x1536;q=80",
+      "last_change": "2026-10-11T18:26:34+00:00",
+      "last_seen": "2026-10-11T18:26:34+00:00",
+      "latitude": 41.17627,
+      "local_median_price_per_m2": null,
+      "location": "Rua Dionísio dos Santos Silva, Paranhos, Porto",
+      "longitude": -8.60747,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1250.0,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-10-11T18:26:34+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 13.33,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-11T15:00:29Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-105-m2-vila-universitaria-ID1j07e",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1400.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento t2 105 m2 Vila Universitária",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-105-m2-vila-universitaria-ID1j07e"
+    },
     "imovirtual:apartamento-t2-98-m-garagem-sao-cosme-gondomar-ID1iPfF": {
       "area_m2": 98.0,
       "decision_reasons": [
@@ -28654,6 +28715,64 @@
       "title": "Apartamento T2 em Ramalde, Porto - Excelente Oportunidade!",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-ramalde-porto-excelente-oportunidade-ID1iP6x"
+    },
+    "imovirtual:apartamento-t2-em-valongo-com-varanda-e-garagem-ID1j081": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "48aebe3f42f9badabfdc7d58",
+      "first_seen": "2026-10-11T18:26:34+00:00",
+      "first_seen_at": null,
+      "floor": 11,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjZsc2t6bHoxZHEwbjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.lhXlMr0NSFc11x_WhiGmSGFfwrcVgpOvyTf8R04Dyds/image;s=2048x1536;q=80",
+      "last_change": "2026-10-11T18:26:34+00:00",
+      "last_seen": "2026-10-11T18:26:34+00:00",
+      "latitude": 41.193127,
+      "local_median_price_per_m2": null,
+      "location": "4440-790 | Valongo, Porto, Praceta Primavera, Valongo, Porto",
+      "longitude": -8.482745,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 700.0,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-10-11T18:26:34+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 11.67,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-11T17:45:24Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-em-valongo-com-varanda-e-garagem-ID1j081",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 700.0,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Valongo com varanda e garagem",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-valongo-com-varanda-e-garagem-ID1j081"
     },
     "imovirtual:apartamento-t2-gaia-centro-aluguer-ID1iWdY": {
       "area_m2": 110.0,
@@ -60924,6 +61043,66 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-hospital-sao-joao-ID1iScJ"
     },
+    "imovirtual:t1-junto-ao-hospital-da-prelada-ID1j07V": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "fd728ee928a82cdd24308f03",
+      "first_seen": "2026-10-11T18:26:34+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdqcHVsd3N3MjV4bjMtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TXkHtJIyniOQEg51Gkcjt7dCzxIdVhvhNrXzlYRsyp0/image;s=2048x1536;q=80",
+      "last_change": "2026-10-11T18:26:34+00:00",
+      "last_seen": "2026-10-11T18:26:34+00:00",
+      "latitude": 41.169956,
+      "local_median_price_per_m2": 16.67,
+      "location": "4250-381 | Ramalde, Porto, Travessa da Prelada, Ramalde, Porto",
+      "longitude": -8.631872,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1000.0,
+      "price_history": [
+        {
+          "at": "2026-10-11T18:26:34+00:00",
+          "price": 1000.0
+        }
+      ],
+      "price_per_m2": 15.38,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-11T17:21:08Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-junto-ao-hospital-da-prelada-ID1j07V",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1000.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 junto ao Hospital da Prelada",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-junto-ao-hospital-da-prelada-ID1j07V"
+    },
     "imovirtual:t1-junto-ao-hospital-de-sao-joao-condominio-com-piscina-ginasio-ID1iUgM": {
       "area_m2": 60.0,
       "decision_reasons": [
@@ -67838,6 +68017,64 @@
       "title": "T2 Remodelado | Metro Campo 24 de Agosto | Porto",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-remodelado-metro-campo-24-de-agosto-porto-ID1iXDw"
+    },
+    "imovirtual:t2-remodelado-metro-campo-24-de-agosto-porto-ID1j07M": {
+      "area_m2": 72.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5ee7968c53c2db2fab851702",
+      "first_seen": "2026-10-11T18:26:34+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNuZmNkcmZsdXplMS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.WciJ55606sORxTbxFyjZSmlBwcEq2SPC3XBMZRJho7g/image;s=2048x1536;q=80",
+      "last_change": "2026-10-11T18:26:34+00:00",
+      "last_seen": "2026-10-11T18:26:34+00:00",
+      "latitude": 41.146805,
+      "local_median_price_per_m2": null,
+      "location": "Porto, Bonfim, Porto",
+      "longitude": -8.598119,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1100.0,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-10-11T18:26:34+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 15.97,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-11T17:08:08Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-remodelado-metro-campo-24-de-agosto-porto-ID1j07M",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3450.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T2 Remodelado | Metro Campo 24 de Agosto | Porto",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-remodelado-metro-campo-24-de-agosto-porto-ID1j07M"
     },
     "imovirtual:t2-remodelado-na-baixa-do-porto-com-2-varandas-ID1iQVe": {
       "area_m2": 80.0,
