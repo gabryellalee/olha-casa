@@ -544,6 +544,7 @@
     "4bd2f4bd458afd0901275b4a": "supercasa:2244602",
     "4bdb1cb999b2d462bf3d78ff": "supercasa:2281997",
     "4c2408ec7351484eb9efe5c4": "supercasa:2278606",
+    "4c3491598ad757f87527ecc4": "imovirtual:arrendo-apartamento-t3-matosinhos-ID1j05h",
     "4c5659262ac4eb53c92fa864": "supercasa:2051634",
     "4c987f1c5cd8da5552acd07d": "imovirtual:casa-t2-mobilada-para-arrendar-ID1iU7J",
     "4d0d4fd36265a37567d937a1": "supercasa:2205618",
@@ -731,6 +732,7 @@
     "66832e53be0ce9cb1b2f70c7": "imovirtual:alugo-t0-em-frente-a-estacao-de-caide-de-rei-ID1iWxq",
     "66dcf51355de16820fe291e7": "casa_sapo:948e9d0b-2dc7-11ec-aeeb-060000000051",
     "670ad97a0377c9b7dafe27c4": "imovirtual:apartamento-t1-arrendamento-em-oliveira-do-douro-vila-nova-de-gaia-ID1iSid",
+    "6781a6c083e74cdef1b4aeb2": "imovirtual:moradia-t1-renovada-em-sermonde-ID1j05a",
     "6799a0eb4674dd2540bb671b": "imovirtual:arrendar-apartamento-ID1iXgk",
     "67fa6715e5a999f9f9cfa124": "imovirtual:t1-porto-aluguer-temporario-ID1iWAI",
     "685713871578fef54b951bdc": "imovirtual:t3-povoa-varzim-1-linha-mar-piscina-garagem-vistas-mar-exclusivo-ID1iWAa",
@@ -40558,6 +40560,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendo-apartamento-t2-a-dois-minutos-da-faculdade-fernando-pessoa-ID1iNSd"
     },
+    "imovirtual:arrendo-apartamento-t3-matosinhos-ID1j05h": {
+      "area_m2": 125.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "4c3491598ad757f87527ecc4",
+      "first_seen": "2026-10-11T00:29:28+00:00",
+      "first_seen_at": null,
+      "floor": 11,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjVtYzZtYzMzYXNsYjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wNDzFm_wNKT_UkKO54pkx1lJWLfL98R0OCwZ2xQDQos/image;s=2048x1536;q=80",
+      "last_change": "2026-10-11T00:29:28+00:00",
+      "last_seen": "2026-10-11T00:29:28+00:00",
+      "latitude": 41.18483,
+      "local_median_price_per_m2": null,
+      "location": "Rua Brito Capelo, Matosinhos e Leça da Palmeira, Porto",
+      "longitude": -8.69279,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 750.0,
+      "price": 1450.0,
+      "price_history": [
+        {
+          "at": "2026-10-11T00:29:28+00:00",
+          "price": 1450.0
+        }
+      ],
+      "price_per_m2": 11.6,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-10T23:21:11Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendo-apartamento-t3-matosinhos-ID1j05h",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1450.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendo apartamento T3 Matosinhos",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendo-apartamento-t3-matosinhos-ID1j05h"
+    },
     "imovirtual:arrendo-casa-t2-em-vilar-do-paraiso-mafamude-ID1iXZo": {
       "area_m2": 40.0,
       "decision_reasons": [
@@ -49101,6 +49161,66 @@
       "title": "Moradia T1 para arrendamento",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t1-para-arrendamento-ID1iZV1"
+    },
+    "imovirtual:moradia-t1-renovada-em-sermonde-ID1j05a": {
+      "area_m2": 35.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "6781a6c083e74cdef1b4aeb2",
+      "first_seen": "2026-10-11T00:29:28+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im9haXk3MDVvbG9yOTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.rF2OIglMFtLyrwdbXOF6gmGVCGQN1RfUrP7jhfMSEcE/image;s=2048x1536;q=80",
+      "last_change": "2026-10-11T00:29:28+00:00",
+      "last_seen": "2026-10-11T00:29:28+00:00",
+      "latitude": 41.053078,
+      "local_median_price_per_m2": 16.67,
+      "location": "4415-109 | Grijó e Sermonde, Porto, Rua da Cancela, Pedroso e Seixezelo, Porto",
+      "longitude": -8.547062,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-10-11T00:29:28+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 20.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-10T22:26:58Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t1-renovada-em-sermonde-ID1j05a",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 2800.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Moradia T1 renovada em Sermonde",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t1-renovada-em-sermonde-ID1j05a"
     },
     "imovirtual:moradia-t2-1-1500-m2-ID1iRvm": {
       "area_m2": 500.0,
