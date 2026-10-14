@@ -514,6 +514,7 @@
     "43c9f238645fbc2e8e5e7914": "supercasa:2292601",
     "43def5db00365245df56cf59": "imovirtual:so-se-arrenda-de-15-de-agosto-a-15-de-julho-1-renda-mais-2-caucoes-ID1j1iw",
     "440a2e39490df57dd7e1bf32": "supercasa:2117111",
+    "440be6aca7fd5db5dea6e94a": "custojusto:45435760",
     "4416f26961beb41d02e00128": "supercasa:2290446",
     "4440d7179558f58e9c7387d6": "imovirtual:t0-para-arrendar-junto-metro-trindade-ID1iMXg",
     "4461b6308e1f8ac986a17953": "supercasa:2263871",
@@ -858,7 +859,7 @@
     "745934be7b71fc71be7f7fcb": "supercasa:2269168",
     "745f2be8c22c07fdaa87ab24": "imovirtual:apartamento-t3-no-centro-ID1iZhP",
     "74644754d2a93230983ba6b7": "supercasa:2290792",
-    "74b16a4b64f8d6e5e75dda67": "supercasa:2244117",
+    "74b16a4b64f8d6e5e75dda67": "supercasa:2294670",
     "74b54c6135eae5ac49723a4d": "imovirtual:arrenda-se-apartamento-t2-centro-famalicao-ID1iL1l",
     "74b81b4fbe540f834afbf896": "supercasa:1818441",
     "74bd4c64b074ecaa78776f8a": "supercasa:1675303",
@@ -1980,7 +1981,7 @@
     "ffe7c3cad6df701f8f857896": "imovirtual:alugo-casa-para-duas-pessoas-na-areosa-ID1iQwi"
   },
   "initialized": true,
-  "last_heartbeat": "2026-10-07T20:46:27+00:00",
+  "last_heartbeat": "2026-10-14T23:10:32+00:00",
   "last_price_refresh": "2026-10-14T19:41:21+00:00",
   "listings": {
     "casa_sapo:06b5157b-f2fb-11ed-aeeb-060000000051": {
@@ -9173,6 +9174,65 @@
       "title": "T1 C/cozinha Equipada - Porto | Apartamentos, T1 para arrendar | Porto | 45433380 | CustoJusto.pt",
       "typology": "T1",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t1-c-cozinha-equipada-porto-45433380"
+    },
+    "custojusto:45435760": {
+      "area_m2": 270.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "440be6aca7fd5db5dea6e94a",
+      "first_seen": "2026-10-14T23:10:32+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://prod-images.custojusto.pt/play/4074190091-moradia-independente-na-travessa-sabariz-8-serzedo-gaia.jpg",
+      "last_change": "2026-10-14T23:10:32+00:00",
+      "last_seen": "2026-10-14T23:10:32+00:00",
+      "latitude": 41.04718233733564,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.606742447220832,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 595000.0,
+      "price_history": [
+        {
+          "at": "2026-10-14T23:10:32+00:00",
+          "price": 595000.0
+        }
+      ],
+      "price_per_m2": 2203.7,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45435760",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia independente na Travessa Sabariz, 8 Serzedo Gaia",
+      "typology": "T4",
+      "url": "https://www.custojusto.pt/porto/imobiliario/moradias/moradia-independente-na-traves-45435760"
     },
     "imovirtual:400-t1-1-para-alugar-em-loures-ID1iRHm": {
       "area_m2": 1.0,
@@ -115311,6 +115371,65 @@
       "title": "Apartamento T4 em São Víctor",
       "typology": "T4",
       "url": "https://supercasa.pt/arrendamento-apartamento-t4-braga/i2294594"
+    },
+    "supercasa:2294670": {
+      "area_m2": 66.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "74b16a4b64f8d6e5e75dda67",
+      "first_seen": "2026-10-14T23:10:32+00:00",
+      "first_seen_at": null,
+      "floor": 66,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S5/C11546/P31038752/Tphoto/ID209dd901-0000-0500-0000-00001a6430e2.jpg",
+      "last_change": "2026-10-14T23:10:32+00:00",
+      "last_seen": "2026-10-14T23:10:32+00:00",
+      "latitude": 41.1105571371,
+      "local_median_price_per_m2": 16.37,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.6012568047,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": null,
+      "previous_price": 1200.0,
+      "price": 890.0,
+      "price_history": [
+        {
+          "at": "2026-10-14T23:10:32+00:00",
+          "price": 890.0
+        }
+      ],
+      "price_per_m2": 13.48,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-14T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2294670",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Mafamude",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2294670"
     },
     "supercasa:2294709": {
       "area_m2": 46.0,
