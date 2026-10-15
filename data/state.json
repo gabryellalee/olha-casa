@@ -433,6 +433,7 @@
     "38cabec9e260ba26f57a135f": "imovirtual:t1-em-r-ch-de-casa-habitada-ID1iMy3",
     "38ccbfee05952fbd8574c25e": "custojusto:44974093",
     "3958f88500821911caffe768": "imovirtual:t2-1-para-arrendamento-na-rua-costa-cabral-proximo-do-metro-do-marqu-ID1iQn7",
+    "3969155e4d1046e3c17dfff9": "imovirtual:t1-1-com-garagem-terraco-e-ar-condicionado-em-gaia-ID1j1IQ",
     "396e85ca7e75ea37f6f791e7": "imovirtual:apartamento-t2-junto-ao-hospital-santos-silva-em-vila-nova-de-ID1iQTJ",
     "39733730d053acab52a93a7a": "supercasa:2247566",
     "39a625f359f27d3b901528ea": "supercasa:2265714",
@@ -729,6 +730,7 @@
     "5f5e6dc97f924293c44a4416": "imovirtual:moradia-t3-para-arrendamento-ID1iZD3",
     "5f6ebec7edb3dc551ef6afac": "supercasa:2268720",
     "5f7af060a710f8e5550810cc": "imovirtual:arrenda-se-moradia-t2-ID1iW3g",
+    "5ff3cd0d46d2ad1c228aa481": "imovirtual:arrenda-se-casa-t2-em-guifoes-matosinhos-ID1j1IT",
     "601173cbd211aede58451f76": "supercasa:1921047",
     "605775bd7206d21b32061025": "imovirtual:t2-a-av-fernado-magalhaes-ID1iQDp",
     "608d8ac71e8e855ddf941d7e": "supercasa:2244980",
@@ -1098,6 +1100,7 @@
     "8ffdb15616216f887efa40a0": "imovirtual:t2-na-zona-monte-dos-burgos-ID1iRHE",
     "9008bacd43d820b262061d4e": "imovirtual:t2-mobilado-e-equipado-ao-metro-cedofeita-ID1iQZf",
     "901e5b248fd47587513a725f": "supercasa:2244858",
+    "9084900e8125218d6c822537": "imovirtual:apartamento-t2-para-arrendar-pedroucos-ID1j1J3",
     "90b30e8698fd074eb29f6991": "supercasa:2252951",
     "90bef0c973796477c1c16043": "supercasa:1494768",
     "90bf5ea1c382e0c6bd6a3f9a": "supercasa:2260003",
@@ -1289,6 +1292,7 @@
     "a6a606c95f070b691d2640b6": "imovirtual:moradia-t4-garagem-e-jardim-ID1iSfz",
     "a6cbe22c51a6c307d021800f": "imovirtual:arrendo-t1-na-zona-da-travagem-ermesinde-ID1iNXL",
     "a7026d7b17ba2b11d1e4d690": "imovirtual:apartamento-t3-arrendamento-em-lordelo-do-ouro-e-massarelos-porto-ID1iPyv",
+    "a704020bb1f0f465771521b7": "imovirtual:t2-andar-moradia-com-terraco-ID1j1IP",
     "a725021f0a302cfdcb85be33": "imovirtual:apartamento-t0-em-ramalde-com-varanda-e-ac-ID1iZ4V",
     "a77e6de89137bf211fe0d2ec": "supercasa:2096081",
     "a786fd1d8c2620f1a08de336": "imovirtual:andar-moradia-t2-alugar-em-oliveira-do-douro-gaia-ID1j19l",
@@ -32705,6 +32709,66 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendar-em-vila-nova-de-famalicao-ID1iIVm"
     },
+    "imovirtual:apartamento-t2-para-arrendar-pedroucos-ID1j1J3": {
+      "area_m2": 0.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "9084900e8125218d6c822537",
+      "first_seen": "2026-10-15T23:49:29+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inc3NDU5eGNwdjh4MDMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.5qp50a6eZdCSbCAL1xSIb6F-Z-TlR1kpkXYH1qxY_fM/image;s=2048x1536;q=80",
+      "last_change": "2026-10-15T23:49:29+00:00",
+      "last_seen": "2026-10-15T23:49:29+00:00",
+      "latitude": 41.18987,
+      "local_median_price_per_m2": null,
+      "location": "Travessa 3 de Maio, Pedrouços, Porto",
+      "longitude": -8.5885,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-10-15T23:49:29+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": null,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-15T22:12:50Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-para-arrendar-pedroucos-ID1j1J3",
+      "terms": {
+        "advance_rents": 2,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 3750.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 para arrendar Pedroucos",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-para-arrendar-pedroucos-ID1j1J3"
+    },
     "imovirtual:apartamento-t2-paranhos-porto-ID1iQBG": {
       "area_m2": 60.0,
       "decision_reasons": [
@@ -38272,6 +38336,66 @@
       "title": "Arrenda-se casa com 3 quartos numa aldeia de Vila do Conde.",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-casa-com-3-quartos-numa-aldeia-de-vila-do-conde-ID1iNAS"
+    },
+    "imovirtual:arrenda-se-casa-t2-em-guifoes-matosinhos-ID1j1IT": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "5ff3cd0d46d2ad1c228aa481",
+      "first_seen": "2026-10-15T23:49:29+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjJ3b2dhc3V5MTg4NjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iPcAgK-kDfU82TM6yq8gNNAXifN30WZA9Z2xKo1DU1o/image;s=2048x1536;q=80",
+      "last_change": "2026-10-15T23:49:29+00:00",
+      "last_seen": "2026-10-15T23:49:29+00:00",
+      "latitude": 41.18601,
+      "local_median_price_per_m2": null,
+      "location": "Rua dos Gladíolos, Baguim do Monte (Rio Tinto), Porto",
+      "longitude": -8.53043,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-10-15T23:49:29+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 13.33,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-15T21:46:20Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrenda-se-casa-t2-em-guifoes-matosinhos-ID1j1IT",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 1600.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [
+          "eletricidade"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "ARRENDA-SE CASA T2 em Guifões - matosinhos",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-casa-t2-em-guifoes-matosinhos-ID1j1IT"
     },
     "imovirtual:arrenda-se-habitacao-ID1iMDO": {
       "area_m2": 20.0,
@@ -62736,6 +62860,65 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-1-centro-gueifaes-impecavel-ID1iXgJ"
     },
+    "imovirtual:t1-1-com-garagem-terraco-e-ar-condicionado-em-gaia-ID1j1IQ": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3969155e4d1046e3c17dfff9",
+      "first_seen": "2026-10-15T23:49:29+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inl1ZHdlYjl2Z3EwMjEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.crznoA3ozoN3WauIUROHv6NE3fDK_idrFw-p_ygjRJs/image;s=2048x1536;q=80",
+      "last_change": "2026-10-15T23:49:29+00:00",
+      "last_seen": "2026-10-15T23:49:29+00:00",
+      "latitude": 41.11265,
+      "local_median_price_per_m2": 16.41,
+      "location": "4405-730 | Madalena, Porto, Rua de Barreiro - Madalena, Madalena, Porto",
+      "longitude": -8.632253,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1200.0,
+      "price_history": [
+        {
+          "at": "2026-10-15T23:49:29+00:00",
+          "price": 1200.0
+        }
+      ],
+      "price_per_m2": 18.46,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-15T21:40:20Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-1-com-garagem-terraco-e-ar-condicionado-em-gaia-ID1j1IQ",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1200.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1+1 com garagem, terraço e ar condicionado em Gaia",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-1-com-garagem-terraco-e-ar-condicionado-em-gaia-ID1j1IQ"
+    },
     "imovirtual:t1-1-gaia-junto-estacao-metro-manuel-leao-ID1iZYd": {
       "area_m2": 65.0,
       "decision_reasons": [
@@ -69410,6 +69593,65 @@
       "title": "T2 Aguas Santas",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-aguas-santas-ID1iUwQ"
+    },
+    "imovirtual:t2-andar-moradia-com-terraco-ID1j1IP": {
+      "area_m2": 100.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "a704020bb1f0f465771521b7",
+      "first_seen": "2026-10-15T23:49:29+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Img5cWhrbmtraW9zajMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.yyydkTfSj7K9Ruenj4hP0jcohI9kpXwckAZu_CQjiZc/image;s=2048x1536;q=80",
+      "last_change": "2026-10-15T23:49:29+00:00",
+      "last_seen": "2026-10-15T23:49:29+00:00",
+      "latitude": 41.12975,
+      "local_median_price_per_m2": null,
+      "location": "Praceta de Timor - Oliveira do Douro, Oliveira do Douro, Porto",
+      "longitude": -8.58977,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-10-15T23:49:29+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 9.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-15T21:35:18Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-andar-moradia-com-terraco-ID1j1IP",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 Andar Moradia com terraço",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-andar-moradia-com-terraco-ID1j1IP"
     },
     "imovirtual:t2-ao-gaia-shopping-ID1iShz": {
       "area_m2": 100.0,
