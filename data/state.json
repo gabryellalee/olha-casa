@@ -92,6 +92,7 @@
     "0b4a2bda2185bc6501978ed5": "imovirtual:arrendo-estudio-metro-carolina-michaelis-ID1iUwg",
     "0b95e278c1d1eab999074811": "supercasa:2133385",
     "0ba20b11254e5e7332e0febb": "casa_sapo:80c4bca4-8684-11f1-9aaf-060000000054",
+    "0ba27c484debc5958991410f": "supercasa:2304378",
     "0ba9448a2cbbce0d09ce135b": "imovirtual:arendo-casa-t1-perto-centro-paredes-ID1j0Oj",
     "0c0cc284032e0d1270258d4e": "supercasa:2268621",
     "0c4c4614e810b4051f6df69d": "supercasa:2215164",
@@ -124125,6 +124126,65 @@
       "title": "Apartamento T3 na Avenida da Boavista",
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2304086"
+    },
+    "supercasa:2304378": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "0ba27c484debc5958991410f",
+      "first_seen": "2026-10-18T16:51:50+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C390735/P2304378/Tphoto/IDb415f88b-cac0-4693-a8cd-68d9fd1aed1e.jpg",
+      "last_change": "2026-10-18T16:51:50+00:00",
+      "last_seen": "2026-10-18T16:51:50+00:00",
+      "latitude": 41.12643,
+      "local_median_price_per_m2": 16.36,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.58838,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 690.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-10-18T16:51:50+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 15.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-18T07:10:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2304378",
+      "terms": {
+        "advance_rents": 1,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1800.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 na Rua de Caetano Melo, Oliveira do Douro, Vila Nova de Gaia",
+      "typology": "T1",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t1-vila-nova-de-gaia/i2304378"
     },
     "supercasa:2304778": {
       "area_m2": 50.0,
