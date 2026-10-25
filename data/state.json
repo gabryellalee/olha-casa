@@ -212,6 +212,7 @@
     "17ed1ef578b6526e5b8e94a0": "imovirtual:t2-com-2-casas-de-banho-e-garagem-hsj-ipo-universidades-ID1iShV",
     "180fd05ba8adf524dce5a643": "supercasa:2291838",
     "1828cc310e51917c85b59e0c": "imovirtual:apartamento-t1-mobilado-vistas-mar-1-linha-de-mar-na-foz-douro-ID1j1Rt",
+    "182e38e309c305090958b4bf": "imovirtual:t1-em-vila-nova-de-gaia-com-garagem-e-varanda-ID1j4qH",
     "183611fec51ed8782ebd6237": "imovirtual:arrenda-se-magnifico-apt-t2-totalmente-mobilado-com-vista-mar-no-po-ID1iTKy",
     "18382ff94d9024c21fb00f24": "imovirtual:fantastico-t0-junto-ao-metro-na-av-da-republica-em-vila-nova-de-gaia-ID1iUWo",
     "18393d1edc6b1f49d4115da3": "imovirtual:t2-maia-centro-ID1iNtL",
@@ -74549,6 +74550,64 @@
       "title": "T1 em Vila Nova de Gaia com ar condicionado",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-em-vila-nova-de-gaia-com-ar-condicionado-ID1j2hU"
+    },
+    "imovirtual:t1-em-vila-nova-de-gaia-com-garagem-e-varanda-ID1j4qH": {
+      "area_m2": 42.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "182e38e309c305090958b4bf",
+      "first_seen": "2026-10-25T10:07:06+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF2dTJmaWJvYTZhNTEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.GStwzZeyxXM7bJkrKrnFlfXBjTT_-Xhjxq8fSatD8EQ/image;s=2048x1536;q=80",
+      "last_change": "2026-10-25T10:07:06+00:00",
+      "last_seen": "2026-10-25T10:07:06+00:00",
+      "latitude": 41.11639,
+      "local_median_price_per_m2": 16.33,
+      "location": "4430-704 | Mafamude e Vilar do Paraíso, Porto, Rua Camilo Sousa Santos, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.602037,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 640.0,
+      "price_history": [
+        {
+          "at": "2026-10-25T10:07:06+00:00",
+          "price": 640.0
+        }
+      ],
+      "price_per_m2": 15.24,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-25T08:21:30Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-em-vila-nova-de-gaia-com-garagem-e-varanda-ID1j4qH",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 640.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T1 em Vila Nova de Gaia com garagem e varanda",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-em-vila-nova-de-gaia-com-garagem-e-varanda-ID1j4qH"
     },
     "imovirtual:t1-em-vila-nova-de-gaia-com-varanda-e-ar-condicionado-ID1iUUl": {
       "area_m2": 38.0,
