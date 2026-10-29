@@ -26,6 +26,7 @@
     "015cb79b42b054798b30b636": "imovirtual:t0-espacoso-no-centro-de-leca-da-palmeira-ID1iTyY",
     "01888f8537dc6252567c58a8": "imovirtual:arrendamento-de-apartamento-t0-na-avenida-araujo-silva-195-penafiel-ID1iMDr",
     "0197c9eb2cce14cbd36c48ff": "imovirtual:apartamento-t1-na-maia-ID1iP2a",
+    "01a39df039af9081e870e67f": "imovirtual:andar-moradia-t2-duplex-e-t1-ID1j65c",
     "01ceaea5fb527b55c1c333cd": "imovirtual:apartamento-t1-para-arrendamento-ID1iUNy",
     "02289cc0f21c6021468e1d5c": "imovirtual:apartamento-t1-mobilado-e-equipado-ID1iSpx",
     "0229f3f2f7ad4a472706a761": "imovirtual:junto-ao-polo-universitario-de-sao-joao-preco-negociavel-para-familia-ID1iNje",
@@ -176,6 +177,7 @@
     "132f472b83999d91e7451b5b": "imovirtual:moradia-t2-1-1500-m2-ID1iRvm",
     "1337b356c17a073c7d7729b5": "supercasa:2280394",
     "1363a91e248b578f5adf2e78": "imovirtual:apartamento-t3-mobilado-no-centro-ID1iTWO",
+    "136a678ab3752f9549455211": "imovirtual:t2-com-varanda-em-vila-do-conde-ID1j63K",
     "13849d2aee2bc543f01d2e28": "custojusto:45348008",
     "1388327821fdad263fa75319": "supercasa:1985918",
     "13a241d348a88a4960e9910f": "supercasa:2289451",
@@ -986,6 +988,7 @@
     "6e40da4fe44603a927bb2224": "imovirtual:aluguer-de-apartamento-t2-1-mafamude-vila-nova-de-gaia-ID1j5PB",
     "6e43475238ff00ef72ac5aea": "supercasa:1656086",
     "6e466a6d8891c9cc96e6f595": "supercasa:2298656",
+    "6e8a3af58f0fd7642476980f": "imovirtual:moradia-t3-a-300-m-da-praia-em-mindelo-vila-do-conde-ID1j5UT",
     "6ee3e90b9de26132bc5ab2fc": "imovirtual:apartamento-t0-c-lg-de-garagem-junto-a-feup-ID1j4KA",
     "6f0cdc34b64414be1f42d473": "supercasa:2276317",
     "6f1590011b90e1e28b8cb021": "supercasa:1642453",
@@ -1222,6 +1225,7 @@
     "8771d749ba8720af441123b4": "imovirtual:t2-1-renovado-com-grande-patio-canelas-disponivel-1-dezembro-ID1j3rG",
     "87809b95df4d65ed8824e1f5": "imovirtual:casa-t1-nova-ID1iU9F",
     "87ac87460c83eee5351da4e7": "supercasa:2279676",
+    "87bd8418d257072c53374a5b": "imovirtual:apartamento-recuperado-para-arrendamento-porto-cedofeita-ildef-ID1j63P",
     "87ce19eab3eb2eaff92e7cdb": "supercasa:2300450",
     "882cadc1444697a32a594390": "supercasa:2282508",
     "882d0894eae760f05dd4e5b0": "supercasa:2261338",
@@ -1338,6 +1342,7 @@
     "926a11430b78b287e16da9cb": "imovirtual:apartamento-t1-para-arrendamento-ID1iQXk",
     "92d5a42a60f96b8d056cf6cc": "supercasa:2260130",
     "9303f119a507e0bb816c90d1": "supercasa:2265856",
+    "930aeb9b079d08815fd3aa70": "imovirtual:moradia-v4-para-arrendamento-rio-tinto-ID1j5Xy",
     "932ba1f0c95ffd2cf0f8634b": "imovirtual:t1-1-rua-de-sao-tome-h-sao-joao-ID1iP9G",
     "934e71cc183cb0c5c2e53f2a": "supercasa:2168778",
     "937d913767ca03e04756225a": "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iOdy",
@@ -1463,6 +1468,7 @@
     "9ed1b56dd59027aaca766824": "supercasa:2275646",
     "9eefd55a9dc16c6e134758f4": "imovirtual:apartamento-t0-com-varanda-em-cedofeita-ID1j5p6",
     "9f1b28bf066a912c625f110e": "supercasa:2277271",
+    "9f428f29c318b6561adcf505": "imovirtual:t2-para-alugar-em-rans-penafiel-ID1j63y",
     "9f5216f20fd62afb61a2f822": "imovirtual:apartamento-t1-1-como-novo-na-1-linha-de-praia-na-povoa-de-varzim-ID1j0Jh",
     "9f65aac7338a48ebed7e6503": "supercasa:186917",
     "9f795a0bdb5f20e904317f76": "imovirtual:estudio-t0-povoa-de-varzim-arrendamento-ID1j15t",
@@ -1584,6 +1590,7 @@
     "ad7f15fa289c6423992acd91": "imovirtual:andar-moradia-t3-arrendamento-em-rio-tinto-gondomar-ID1iPvN",
     "ada3c35ff5aeab7d09393229": "imovirtual:t3-renovado-2-varandas-cozinha-equipada-sao-mamede-de-infesta-ID1iQfI",
     "addafc28565fa3a1ee521375": "imovirtual:apartamento-com-garagem-e-varanda-polo-universitario-ID1iXbz",
+    "ae0e7851400657137c7be6fe": "imovirtual:apartamento-t3-para-arrendamento-em-real-braga-ID1j60J",
     "ae39efecaf9f424fcaec5df3": "supercasa:2267775",
     "ae46835f902cecd0a8ee882e": "imovirtual:t2-no-living-sea-iii-canidelo-ID1iS9V",
     "ae6400c700fb2c472eb08566": "imovirtual:t0-com-ar-condicionado-no-coracao-do-porto-ID1iQpy",
@@ -1756,6 +1763,7 @@
     "bfedf20b4b368cf88139636c": "imovirtual:t1-1-c-varanda-coimbroes-v-n-gaia-ID1iQL4",
     "c02258d58d04b39d3fd591dc": "imovirtual:t0-com-ou-sem-mobilia-para-arrendar-proximo-ao-el-corte-ingles-gaia-ID1iX2G",
     "c02770cbe3dfabe317fffecc": "imovirtual:moradia-t2-terrea-ID1iZRD",
+    "c027e0d1ca56cb754f1b57ca": "imovirtual:t3-arrendamento-mobilado-com-lugar-garagem-duplo-s-mamede-porto-ID1j64a",
     "c032eedcc2535d0a9e890605": "imovirtual:alugo-apartamento-t2-vila-do-conde-ID1iYzD",
     "c037f9a1a7e86f05bd48463d": "supercasa:2257157",
     "c03ed4b69c39c9cd15ebada4": "supercasa:2274705",
@@ -15473,6 +15481,65 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/andar-moradia-t2-duplex-arrendamento-em-aldoar-foz-do-douro-e-nevogil-ID1iRll"
     },
+    "imovirtual:andar-moradia-t2-duplex-e-t1-ID1j65c": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "01a39df039af9081e870e67f",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 29,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImMyZXdkMWwzNHgweC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Mr0aqJfSPna38Uba-ERaZzx1NPMFByFvT7QAQefd4Gk/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.10082,
+      "local_median_price_per_m2": null,
+      "location": "Rua 1º de Maio, Avintes, Porto",
+      "longitude": -8.55535,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 850.0,
+      "price": 850.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 850.0
+        }
+      ],
+      "price_per_m2": 10.62,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-29T20:52:32Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "andar-moradia-t2-duplex-e-t1-ID1j65c",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Andar moradia t2 duplex e t1",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/andar-moradia-t2-duplex-e-t1-ID1j65c"
+    },
     "imovirtual:andar-moradia-t2-em-cavaloes-totalmente-remodelado-ID1iYMw": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -19886,6 +19953,64 @@
       "title": "Apartamento próximo ao Pólo Universitário",
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-proximo-ao-polo-universitario-ID1j0Gt"
+    },
+    "imovirtual:apartamento-recuperado-para-arrendamento-porto-cedofeita-ildef-ID1j63P": {
+      "area_m2": 124.15,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "87bd8418d257072c53374a5b",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 6,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InA0bHcyMGo0cWF0NTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.iTJ_ZPLA5fAPQFh7HMzP4RL_OOTTxREEA_wHNCixfTU/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.16389,
+      "local_median_price_per_m2": null,
+      "location": "Rua da Constituição, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.622336,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 12.89,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-29T18:45:25Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-recuperado-para-arrendamento-porto-cedofeita-ildef-ID1j63P",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": 2000.0,
+        "deposits": 2,
+        "entry_total": 2000.0,
+        "equipped_kitchen": true,
+        "guarantor": false,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento, recuperado, para arrendamento, Porto - Cedofeita,Ildef...",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-recuperado-para-arrendamento-porto-cedofeita-ildef-ID1j63P"
     },
     "imovirtual:apartamento-renovado-com-estilo-boutique-localizacao-privilegiada-ID1iMGN": {
       "area_m2": 27.0,
@@ -43984,6 +44109,65 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-em-paredes-ID1iWTz"
     },
+    "imovirtual:apartamento-t3-para-arrendamento-em-real-braga-ID1j60J": {
+      "area_m2": 184.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "ae0e7851400657137c7be6fe",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 29,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InQyNWloOWF1eHBibi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.Kv5lbA_-NhUkBOgKpscJwWg76NAqdhdcye6xgli_ffU/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.40492,
+      "local_median_price_per_m2": null,
+      "location": "Rua António Ferreira de Matos - Antas, Antas e Abade de Vermoim, Braga",
+      "longitude": -8.516118,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1500.0,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 7.61,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-29T17:33:57Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t3-para-arrendamento-em-real-braga-ID1j60J",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1400.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 para Arrendamento em Real, Braga",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t3-para-arrendamento-em-real-braga-ID1j60J"
+    },
     "imovirtual:apartamento-t3-para-arrendamento-na-trofa-ID1iQ9E": {
       "area_m2": 128.2,
       "decision_reasons": [
@@ -66456,6 +66640,65 @@
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-2-santo-ovidio-metro-duas-cozinhas-garagem-terrac-ID1iQIw"
     },
+    "imovirtual:moradia-t3-a-300-m-da-praia-em-mindelo-vila-do-conde-ID1j5UT": {
+      "area_m2": 162.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "6e8a3af58f0fd7642476980f",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InZtNDVnYzV5OHI1dTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.EOsJzlgTx0OjUyv3VvHs00eVA6G6aDqY_gDRRp1mTsc/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.31436,
+      "local_median_price_per_m2": null,
+      "location": "Largo das Cubas, Mindelo, Porto",
+      "longitude": -8.71551,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 8.64,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-29T16:38:54Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t3-a-300-m-da-praia-em-mindelo-vila-do-conde-ID1j5UT",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T3 a 300 m da praia em Mindelo | Vila do Conde",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t3-a-300-m-da-praia-em-mindelo-vila-do-conde-ID1j5UT"
+    },
     "imovirtual:moradia-t3-beiriz-povoa-de-varzim-ID1iUtf": {
       "area_m2": 550.0,
       "decision_reasons": [
@@ -70038,6 +70281,64 @@
       "title": "Moradia V3 em Vila do Conde",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-v3-em-vila-do-conde-ID1j4N2"
+    },
+    "imovirtual:moradia-v4-para-arrendamento-rio-tinto-ID1j5Xy": {
+      "area_m2": 129.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "930aeb9b079d08815fd3aa70",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 2023,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImhscnNndzhqYWFiMzEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.NYPCYQoGBY9bNRgEMFUxvPuRLrUrYnm5V9cMTKiF4gY/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.18535,
+      "local_median_price_per_m2": null,
+      "location": "Ilha Adriano, Rio Tinto, Porto",
+      "longitude": -8.55504,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1400.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 1400.0
+        }
+      ],
+      "price_per_m2": 10.85,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-29T17:30:14Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-v4-para-arrendamento-rio-tinto-ID1j5Xy",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia V4 para Arrendamento | Rio Tinto",
+      "typology": "T4",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-v4-para-arrendamento-rio-tinto-ID1j5Xy"
     },
     "imovirtual:novo-apartamento-t2-alugo-nine-ID1iSy0": {
       "area_m2": 90.0,
@@ -85889,6 +86190,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-e-garagem-em-paranhos-porto-ID1iYf8"
     },
+    "imovirtual:t2-com-varanda-em-vila-do-conde-ID1j63K": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "136a678ab3752f9549455211",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 29,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InlwdTI3MDNjYm13eTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.HyKVn9-FAy7G29M9S4bGWRM9UhfEdbxHixXedhcZWUs/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.352077,
+      "local_median_price_per_m2": null,
+      "location": "Vila do Conde, Porto",
+      "longitude": -8.751315,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 700.0,
+      "price": 690.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 690.0
+        }
+      ],
+      "price_per_m2": 10.62,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-29T18:40:17Z",
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-com-varanda-em-vila-do-conde-ID1j63K",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 690.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 com varanda em Vila do Conde",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-com-varanda-em-vila-do-conde-ID1j63K"
+    },
     "imovirtual:t2-com-varanda-garagem-e-ar-condicionado-em-gaia-madalena-ID1iTh6": {
       "area_m2": 60.0,
       "decision_reasons": [
@@ -88783,6 +89142,64 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-para-alugar-aguas-santas-maia-ID1j4o0"
     },
+    "imovirtual:t2-para-alugar-em-rans-penafiel-ID1j63y": {
+      "area_m2": 1.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "9f428f29c318b6561adcf505",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 29,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjNxcDQwM2JsNGZqcy1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.9hcxD0FA24XRmjXO3AWh2fghDayJDjCjo3d3dlTLDlg/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.20046,
+      "local_median_price_per_m2": null,
+      "location": "Rua António Guimarães, Penafiel, Porto",
+      "longitude": -8.288,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 500.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 500.0
+        }
+      ],
+      "price_per_m2": 500.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-29T18:35:06Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t2-para-alugar-em-rans-penafiel-ID1j63y",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 500.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 para alugar em Rans Penafiel",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-para-alugar-em-rans-penafiel-ID1j63y"
+    },
     "imovirtual:t2-para-alugar-sem-balcao-ID1j2iK": {
       "area_m2": 65.0,
       "decision_reasons": [
@@ -90067,6 +90484,64 @@
       "title": "T3 130m2 Rés do Chão para arrendar",
       "typology": "T3",
       "url": "https://www.imovirtual.com/pt/anuncio/t3-130m2-res-do-chao-para-arrendar-ID1iY17"
+    },
+    "imovirtual:t3-arrendamento-mobilado-com-lugar-garagem-duplo-s-mamede-porto-ID1j64a": {
+      "area_m2": 118.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "c027e0d1ca56cb754f1b57ca",
+      "first_seen": "2026-10-29T21:46:08+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImRkMTk3bnh0ZWVjejItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.39jhFqoOcvGqAU9GA4TihqND3cG5Jo7ArCsC7Ri2dxY/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T21:46:08+00:00",
+      "last_seen": "2026-10-29T21:46:08+00:00",
+      "latitude": 41.195442,
+      "local_median_price_per_m2": null,
+      "location": "Rua do Pombinho, São Mamede de Infesta e Senhora da Hora, Porto",
+      "longitude": -8.61366,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2300.0,
+      "price": 2300.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T21:46:08+00:00",
+          "price": 2300.0
+        }
+      ],
+      "price_per_m2": 19.49,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-29T19:00:56Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t3-arrendamento-mobilado-com-lugar-garagem-duplo-s-mamede-porto-ID1j64a",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2300.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": 12,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T3 arrendamento mobilado com lugar garagem duplo, S.Mamede Porto",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/t3-arrendamento-mobilado-com-lugar-garagem-duplo-s-mamede-porto-ID1j64a"
     },
     "imovirtual:t3-centro-da-maia-ID1iV7n": {
       "area_m2": 145.0,
