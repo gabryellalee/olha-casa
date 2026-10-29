@@ -49,6 +49,7 @@
     "03ff9903bc9063a246bd87d7": "supercasa:2241544",
     "041260671c362d4712942913": "imovirtual:t1-boavista-casa-da-musica-ID1iRcz",
     "041b54d873a5c68fbee9d9fc": "supercasa:2135235",
+    "041f24ab11d2f5c5452cda2d": "supercasa:2326081",
     "04473705ca064a66a86eed20": "imovirtual:apartamento-t1-com-lugar-de-garagem-ID1iKXb",
     "046a232a2a6de4bbbb9f715f": "imovirtual:apartamento-t1-para-arrendamento-ID1iNfw",
     "0471a2046c412456ec864875": "imovirtual:estudio-no-campo-24-de-agosto-com-garagem-ID1iWbw",
@@ -940,6 +941,7 @@
     "68a6d522f231e67565a11b12": "imovirtual:apartamento-t2-mobilado-ID1iU3o",
     "68c62861e7bf011013b252e2": "imovirtual:t1-centro-baixa-do-porto-ID1j2eh",
     "68ee34c8475a9c10574224e2": "supercasa:2311893",
+    "68ee685b3cc4200f6ae586bb": "supercasa:2326225",
     "6957a6a57ba4ed1999c1df54": "supercasa:2277250",
     "6978c32cf0b0c07177191dea": "supercasa:1903249",
     "697e100080a179debf8536c0": "supercasa:2326960",
@@ -993,6 +995,7 @@
     "6ff285fa8e4d260a9f4df2e3": "supercasa:2207542",
     "70094b1adc6e89741082f7cb": "supercasa:2250492",
     "700a4ac40c84440fb49fa5fc": "supercasa:2293141",
+    "7028557c7bbafd5b55c20b24": "imovirtual:t2-em-rio-tinto-gondomar-ID1j5Ck",
     "70307aacd9bb2dd9ef11d569": "imovirtual:moderno-t2-com-vista-na-uniao-das-freguesias-de-sao-mamede-ID1iRTB",
     "7043505869b293c78e043483": "supercasa:2276238",
     "7057f01cbde5565d5a85242d": "supercasa:2159553",
@@ -2186,7 +2189,9 @@
     "ed87da6c39cc7470df17ed6a": "casa_sapo:alugar-casa-ferias",
     "edada3ae107c4e9998df27b2": "casa_sapo:f4b0a690-9f83-4aab-8443-a456b351bfb1",
     "edbf3eeb3f7cc066a6907daa": "supercasa:2288133",
+    "edf7c6488cbe9199d39e5d8e": "custojusto:45470914",
     "ee0863ff918c4a497dfafd42": "imovirtual:casa-t3-a-5-minutos-camara-de-gaia-estacao-metro-estacao-comboio-ID1iVoI",
+    "ee10e62cb09ea12b50670e16": "supercasa:2284137",
     "ee17c9384e67d024669ec6a7": "supercasa:2293866",
     "ee1f552989a7729050a4ba2f": "imovirtual:apartamento-t3-com-2-casas-de-banho-no-bonfim-ID1iRku",
     "eebf924afb14cc1bc4720e20": "imovirtual:arrendamento-de-apartamento-t2-na-rua-de-doutor-elias-de-aguiar-72-ID1iQy7",
@@ -2362,7 +2367,7 @@
     "ffe7c3cad6df701f8f857896": "imovirtual:alugo-casa-para-duas-pessoas-na-areosa-ID1iQwi"
   },
   "initialized": true,
-  "last_heartbeat": "2026-10-22T01:27:45+00:00",
+  "last_heartbeat": "2026-10-29T02:49:20+00:00",
   "last_price_refresh": "2026-10-28T23:11:30+00:00",
   "listings": {
     "casa_sapo:06b5157b-f2fb-11ed-aeeb-060000000051": {
@@ -11167,6 +11172,65 @@
       "title": "Estúdio Mobilado Com Garagem Em Matosinhos Sul | Apartamentos, T0 para arrendar | Porto | 45459704 | CustoJusto.pt",
       "typology": "T0",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/estudio-mobilado-com-garagem-e-45459704"
+    },
+    "custojusto:45470914": {
+      "area_m2": 64.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "edf7c6488cbe9199d39e5d8e",
+      "first_seen": "2026-10-29T02:49:20+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://prod-images.custojusto.pt/play/5379665776-t2-pronto-habitar-centro-gaia-lugar-garagem-plus-varanda.jpg",
+      "last_change": "2026-10-29T02:49:20+00:00",
+      "last_seen": "2026-10-29T02:49:20+00:00",
+      "latitude": 41.12690959144799,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.602819972295762,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 344844.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T02:49:20+00:00",
+          "price": 344844.0
+        }
+      ],
+      "price_per_m2": 5388.19,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45470914",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T2 - Pronto habitar centro Gaia - Lugar Garagem + Varanda",
+      "typology": "T2",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t2-pronto-habitar-centro-gai-45470914"
     },
     "imovirtual:2-lugares-de-garagem-t2-mobilado-junto-a-av-da-republica-gaia-ID1j3rv": {
       "area_m2": 70.0,
@@ -86074,6 +86138,71 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/t2-em-rio-tinto-com-garagem-e-ar-condicionado-ID1iPF8"
     },
+    "imovirtual:t2-em-rio-tinto-gondomar-ID1j5Ck": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "renda excecional entre 701 € e 750 €",
+        "ligação muito rápida ao ISCAP",
+        "área compatível com dois postos de trabalho",
+        "entrada inicial até três rendas",
+        "cozinha equipada",
+        "transportes públicos mencionados"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": false,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "7028557c7bbafd5b55c20b24",
+      "first_seen": "2026-10-29T02:49:20+00:00",
+      "first_seen_at": null,
+      "floor": 28,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InY0ejJtNjRsNHR6aC1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.bJjOFx8bPF5R7yaHxdSnc5Vay_oOAnQoxl9AaFc6W1Y/image;s=2048x1536;q=80",
+      "last_change": "2026-10-29T02:49:20+00:00",
+      "last_seen": "2026-10-29T02:49:20+00:00",
+      "latitude": 41.1841,
+      "local_median_price_per_m2": null,
+      "location": "Rua Nova do Sistelo, Rio Tinto, Porto",
+      "longitude": -8.56673,
+      "natural_light": null,
+      "parking": false,
+      "peak_drive_minutes": 14,
+      "previous_price": 1000.0,
+      "price": 750.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T02:49:20+00:00",
+          "price": 750.0
+        }
+      ],
+      "price_per_m2": 9.38,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-28T23:56:02Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 5.1,
+      "source": "imovirtual",
+      "source_id": "t2-em-rio-tinto-gondomar-ID1j5Ck",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 750.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T2 em Rio Tinto, Gondomar",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/t2-em-rio-tinto-gondomar-ID1j5Ck"
+    },
     "imovirtual:t2-em-salgueiros-ID1iMTc": {
       "area_m2": 101.0,
       "decision_reasons": [
@@ -129298,6 +129427,64 @@
       "typology": "T1",
       "url": "https://supercasa.pt/arrendamento-apartamento-t1-porto/i2283975"
     },
+    "supercasa:2284137": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "ee10e62cb09ea12b50670e16",
+      "first_seen": "2026-10-29T02:49:20+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1514007/P2284137/Tphoto/IDe509617b-6a34-431d-91c4-e9702c2b01fa.jpg",
+      "last_change": "2026-10-29T02:49:20+00:00",
+      "last_seen": "2026-10-29T02:49:20+00:00",
+      "latitude": 41.161669,
+      "local_median_price_per_m2": null,
+      "location": "Porto",
+      "longitude": -8.622309,
+      "natural_light": true,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T02:49:20+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 14.55,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-28T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2284137",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 em Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2284137"
+    },
     "supercasa:2284483": {
       "area_m2": 85.0,
       "decision_reasons": [
@@ -142923,6 +143110,124 @@
       "title": "Apartamento T3 na Rua de João de Oliveira Ramos, Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, Porto",
       "typology": "T3",
       "url": "https://supercasa.pt/arrendamento-apartamento-t3-porto/i2324573"
+    },
+    "supercasa:2326081": {
+      "area_m2": 65.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "041f24ab11d2f5c5452cda2d",
+      "first_seen": "2026-10-29T02:49:20+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1543408/P2326081/Tphoto/IDefd6ecf6-27dd-4f84-8fad-83da358c942d.jpg",
+      "last_change": "2026-10-29T02:49:20+00:00",
+      "last_seen": "2026-10-29T02:49:20+00:00",
+      "latitude": 41.11265,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.632253,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1150.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T02:49:20+00:00",
+          "price": 1150.0
+        }
+      ],
+      "price_per_m2": 17.69,
+      "public_transport_bonus": true,
+      "published_at": "2026-10-28T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2326081",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T3 na Madalena, Vila Nova de Gaia",
+      "typology": "T3",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t3-vila-nova-de-gaia/i2326081"
+    },
+    "supercasa:2326225": {
+      "area_m2": 150.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": true,
+      "event": "republication",
+      "fiber": true,
+      "fingerprint": "68ee685b3cc4200f6ae586bb",
+      "first_seen": "2026-10-29T02:49:20+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://imagens.supercasa.pt/Z1280x1024/OAYES/S58/C1543510/P2326225/Tphoto/IDd3d235e2-dbe2-4216-b078-6194c03ef70d.jpg",
+      "last_change": "2026-10-29T02:49:20+00:00",
+      "last_seen": "2026-10-29T02:49:20+00:00",
+      "latitude": 41.112628,
+      "local_median_price_per_m2": null,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.628398,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 2500.0,
+      "price": 1600.0,
+      "price_history": [
+        {
+          "at": "2026-10-29T02:49:20+00:00",
+          "price": 1600.0
+        }
+      ],
+      "price_per_m2": 10.67,
+      "public_transport_bonus": false,
+      "published_at": "2026-10-28T07:30:00",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "supercasa",
+      "source_id": "2326225",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Vilar do Paraíso, Vila Nova de Gaia",
+      "typology": "T2",
+      "url": "https://supercasa.pt/arrendamento-apartamento-t2-vila-nova-de-gaia/i2326225"
     },
     "supercasa:2326960": {
       "area_m2": 62.0,
