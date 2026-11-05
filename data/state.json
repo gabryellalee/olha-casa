@@ -1436,6 +1436,7 @@
     "9268aa8456e3acb977fa24c7": "imovirtual:t0-santa-marinha-ID1iTf7",
     "926a11430b78b287e16da9cb": "imovirtual:apartamento-t1-para-arrendamento-ID1iQXk",
     "92765907340fc60be7c02939": "imovirtual:aluguer-casa-centro-penafiel-ID1j7n9",
+    "92ba61cc1d6f999480d287cd": "imovirtual:apartamento-t1-palacio-de-cristal-galiza-ID1jaFj",
     "92bae1267be6d7d69ab0370d": "imovirtual:apartamento-em-rua-formosa-porto-ID1j7GW",
     "92c1ee1a542b9dbb2d406b81": "imovirtual:apartamento-t1-em-vila-nova-de-gaia-com-varanda-ID1j7GM",
     "92d1b2ebd3fc7eb334c1d578": "supercasa:2309949",
@@ -1444,6 +1445,7 @@
     "930aeb9b079d08815fd3aa70": "imovirtual:moradia-v4-para-arrendamento-rio-tinto-ID1j5Xy",
     "932ba1f0c95ffd2cf0f8634b": "imovirtual:t1-1-rua-de-sao-tome-h-sao-joao-ID1iP9G",
     "934e71cc183cb0c5c2e53f2a": "supercasa:2168778",
+    "93732d4c61dbd2dde41be9ae": "imovirtual:t1-na-baixa-portuense-ID1jaFx",
     "937d913767ca03e04756225a": "imovirtual:apartamento-t4-para-arrendar-em-oliveira-do-douro-ID1iOdy",
     "93840be35d25b2cf59ca7cd4": "supercasa:1528278",
     "939d507902eef4cc85ff2b6d": "imovirtual:arrenda-se-apartamento-t0-c-garagem-campo-lindo-paranhos-ID1iOBB",
@@ -1472,6 +1474,7 @@
     "956b55ac1dc83ef791b01bdc": "supercasa:2294594",
     "9576c4a7daca303e4cf5571b": "imovirtual:apartamento-t1-em-lordelo-do-ouro-porto-ID1j4u4",
     "95a217555e520fc101f7cc1f": "imovirtual:moradia-447-m-penafiel-ID1iSUi",
+    "95adf99434b2539a2c2c09ca": "imovirtual:moradia-t4-para-arrendamento-ID1jaCc",
     "95c0a641a4ade14f1fc13356": "imovirtual:apartamento-com-1-quartos-localizado-em-sao-mamede-de-infesta-porto-ID1iLI8",
     "95c6d2f411e9b9db84ca756a": "supercasa:2241555",
     "95d6be6eb7459bc9916f516a": "imovirtual:apartamento-t3-para-arrendamento-em-paredes-ID1iWTz",
@@ -1743,6 +1746,7 @@
     "b1e7ef76b62d7b1ddb50315d": "supercasa:2172562",
     "b218ee0d205d21509fae978b": "supercasa:2222689",
     "b229444a8427594202981675": "custojusto:45177325",
+    "b23e7cf6cf48c477f4a0afd8": "imovirtual:apartamento-t1-c-70-m2-na-quinta-de-miramar-ID1jaFq",
     "b262bbbfaa67058d923f7ce0": "imovirtual:moradia-t3-com-170-m2-ID1j247",
     "b268d828882753870fd0ad20": "supercasa:2323914",
     "b28d387fbc8b74313680895d": "imovirtual:arrendamento-t1-em-massama-ID1iZhA",
@@ -1829,6 +1833,7 @@
     "b905958f156afe035b164420": "imovirtual:apartamento-t2-centro-ermesinde-para-arrendar-ID1iShe",
     "b93101810bd513f630218ea1": "supercasa:2097281",
     "b9419ec8d1b963c87b23f356": "supercasa:2332914",
+    "b948ddd31047ae45907333d1": "imovirtual:areenda-se-t1-com-closet-toralmente-mobilida-ID1jaDS",
     "b95aabceab51b4f02e1b07f7": "supercasa:2273543",
     "b95d95889bb4e399633bed4c": "imovirtual:moradia-t2-para-arrendamento-ID1iU2f",
     "b98dce57baf2348d31c42420": "supercasa:2296600",
@@ -2253,6 +2258,7 @@
     "e1c368af9c50bf770abbd55d": "casa_sapo:6c293f93-cbb1-11f0-8add-060000000054",
     "e1c5500271d7c7c671080627": "supercasa:2274728",
     "e1d5f32ccf4e8101055a438a": "imovirtual:arrenda-se-habitacao-ID1iMDO",
+    "e1f53a98ec9b2aa7da3c398d": "imovirtual:arrenda-se-t1-mobilado-vila-nova-de-gaia-ID1jaEC",
     "e2041cb391ff621ebc7e5079": "supercasa:2286736",
     "e211d86b57816ff2a0401b6c": "imovirtual:apartamento-t1-com-terraco-pedroucos-hospital-de-sao-joao-e-polo-un-ID1j2Dc",
     "e2267bf686e7b44f24bc1065": "imovirtual:apartamento-t1-para-arrendamento-ID1j777",
@@ -2432,6 +2438,7 @@
     "f47d75a5ead0af520e9da321": "imovirtual:apartamento-t2-1-mobilado-e-equipado-proximo-do-hospital-de-sao-joao-ID1iSi3",
     "f48a44784a1dd956aae2d075": "casa_sapo:6316b384-544d-11f1-9c13-060000000051",
     "f48a5c0249644e92ea3ba46d": "imovirtual:moradia-t3-de-luxo-com-vista-mar-praia-da-agudela-condominio-fech-ID1iUpW",
+    "f4a8d1bc7ed4e44c66867e91": "imovirtual:moradia-terrea-t3-com-piscina-em-guimarei-ID1jaC6",
     "f4ebd9c86d155aa8907ac5b1": "supercasa:2292035",
     "f4f030909e0c500a18b10e4f": "supercasa:2262105",
     "f500993d9c29c50cd045ab18": "supercasa:2294828",
@@ -27082,6 +27089,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-arrendar-ID1j1hn"
     },
+    "imovirtual:apartamento-t1-c-70-m2-na-quinta-de-miramar-ID1jaFq": {
+      "area_m2": 70.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "b23e7cf6cf48c477f4a0afd8",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": -1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InBsamR1cml4c2V0aDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.gVH766mqqOoKRziLQHHPBopuxiwS7nRk6um0xuZzVlU/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.17138,
+      "local_median_price_per_m2": 16.27,
+      "location": "Beco Carreiras, Aldoar, Foz do Douro e Nevogilde, Porto",
+      "longitude": -8.67131,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 1950.0,
+      "price": 1180.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 1180.0
+        }
+      ],
+      "price_per_m2": 16.86,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-04T23:28:49Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-c-70-m2-na-quinta-de-miramar-ID1jaFq",
+      "terms": {
+        "advance_rents": 1,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 2360.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": 36,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 c/ 70 m2 na Quinta de Miramar",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-c-70-m2-na-quinta-de-miramar-ID1jaFq"
+    },
     "imovirtual:apartamento-t1-c-suite-a-praia-da-granja-ID1iW3Q": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -31040,6 +31105,64 @@
       "title": "Apartamento T1 Novo | Polo Universitário | S. João | Varanda | Garag",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-novo-polo-universitario-s-joao-varanda-garag-ID1iUu3"
+    },
+    "imovirtual:apartamento-t1-palacio-de-cristal-galiza-ID1jaFj": {
+      "area_m2": 55.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "92ba61cc1d6f999480d287cd",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": 2027,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Inp0M3hybzdvNXhvOTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.2fzaDUronxBhGlcW0OLDAVYUpY419VuG9iTfdkWd3Yk/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 16.27,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1000.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 16.36,
+      "public_transport_bonus": true,
+      "published_at": "2026-11-04T22:56:37Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-palacio-de-cristal-galiza-ID1jaFj",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 - Palácio de Cristal, Galiza",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-palacio-de-cristal-galiza-ID1jaFj"
     },
     "imovirtual:apartamento-t1-para-alugar-centro-de-v-n-famalicao-ID1j3Ca": {
       "area_m2": 60.0,
@@ -48879,6 +49002,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/aprt-t1-terraco-vale-verde-piscina-ginasio-ID1j1S1"
     },
+    "imovirtual:areenda-se-t1-com-closet-toralmente-mobilida-ID1jaDS": {
+      "area_m2": 80.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "b948ddd31047ae45907333d1",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjU5ZmtydnBob2pucTMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.zYbDbY-MrBA5Eh0B8SLlE0XLlhf6FnuTe1JynlvX6Co/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.38535,
+      "local_median_price_per_m2": 16.27,
+      "location": "Travessa do Bom Sucesso - Portela, Delães, Braga",
+      "longitude": -8.41192,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 8.75,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-04T19:50:55Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "areenda-se-t1-com-closet-toralmente-mobilida-ID1jaDS",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 700.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Areenda se t1 com closet toralmente mobilida",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/areenda-se-t1-com-closet-toralmente-mobilida-ID1jaDS"
+    },
     "imovirtual:areendamento-t2-estudantes-vila-do-conde-ID1iRla": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -51766,6 +51947,67 @@
       "title": "Arrenda-se T1 (junto ao Gaiashopping)",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-t1-junto-ao-gaiashopping-ID1iXEt"
+    },
+    "imovirtual:arrenda-se-t1-mobilado-vila-nova-de-gaia-ID1jaEC": {
+      "area_m2": 62.72,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "e1f53a98ec9b2aa7da3c398d",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImN1azU5N2ZvMHdqZi1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.h_j_nEXNGQ5WKAHIsqKZAQfcTAlwygmSTlXDQVReffg/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.1094,
+      "local_median_price_per_m2": 16.27,
+      "location": "Rua Escola de Laborim, Mafamude e Vilar do Paraíso, Porto",
+      "longitude": -8.60596,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 475.0,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 14.35,
+      "public_transport_bonus": true,
+      "published_at": "2026-11-04T21:23:31Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrenda-se-t1-mobilado-vila-nova-de-gaia-ID1jaEC",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [
+          "nota de liquidação"
+        ],
+        "payslips": true,
+        "pets_allowed": false,
+        "tax_return": true,
+        "work_contract": true
+      },
+      "title": "Arrenda-se T1 mobilado – Vila Nova de Gaia",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrenda-se-t1-mobilado-vila-nova-de-gaia-ID1jaEC"
     },
     "imovirtual:arrenda-se-t1-na-rua-da-ramadinha-a-100-mt-do-metro-ID1iS9a": {
       "area_m2": 64.0,
@@ -74420,6 +74662,64 @@
       "typology": "T4",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-t4-para-arrendamento-ID1iXcj"
     },
+    "imovirtual:moradia-t4-para-arrendamento-ID1jaCc": {
+      "area_m2": 410.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "95adf99434b2539a2c2c09ca",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": 0,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjA1b2M4dzN3M21wZS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.vghDD5TBBVB5KoJNlNF17iVTLmhlYBVspziame4YTHs/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.24096,
+      "local_median_price_per_m2": null,
+      "location": "Travessa do Areal, Perafita, Lavra e Santa Cruz do Bispo, Porto",
+      "longitude": -8.724605,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 4500.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 4500.0
+        }
+      ],
+      "price_per_m2": 10.98,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-04T19:13:29Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-t4-para-arrendamento-ID1jaCc",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia T4 para arrendamento",
+      "typology": "T4",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-t4-para-arrendamento-ID1jaCc"
+    },
     "imovirtual:moradia-t4-para-arrendar-em-ramalde-ID1j4C7": {
       "area_m2": 365.6,
       "decision_reasons": [
@@ -75064,6 +75364,64 @@
       "title": "### Moradia Térrea T2 Mobilada | Oliveira do Douro, Vila Nova de Gaia",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/moradia-terrea-t2-mobilada-oliveira-do-douro-vila-nova-de-gaia-ID1iRE3"
+    },
+    "imovirtual:moradia-terrea-t3-com-piscina-em-guimarei-ID1jaC6": {
+      "area_m2": 376.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f4a8d1bc7ed4e44c66867e91",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": 3,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImwxcTY4cHN4anE5dDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.73YHESK8diKc35cRQdQKxnf7TE5RkTPRCP-FjbfMi3c/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.303726,
+      "local_median_price_per_m2": null,
+      "location": "Rua Casal de São Paio, Lamelas e Guimarei, Porto",
+      "longitude": -8.489188,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 2300.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 2300.0
+        }
+      ],
+      "price_per_m2": 6.12,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-04T19:11:11Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "moradia-terrea-t3-com-piscina-em-guimarei-ID1jaC6",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Moradia Térrea T3 com piscina em Guimarei",
+      "typology": "T3",
+      "url": "https://www.imovirtual.com/pt/anuncio/moradia-terrea-t3-com-piscina-em-guimarei-ID1jaC6"
     },
     "imovirtual:moradia-tipo-t3-ID1iUeC": {
       "area_m2": 12.0,
@@ -88044,6 +88402,67 @@
       "title": "T1 Na Avenida da República — Vila Nova de Gaia",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-na-avenida-da-republica-vila-nova-de-gaia-ID1iLE6"
+    },
+    "imovirtual:t1-na-baixa-portuense-ID1jaFx": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda até 650 €",
+        "bom preço por m² face à amostra",
+        "ligação muito rápida ao ISCAP",
+        "entrada inicial até três rendas"
+      ],
+      "drive_estimate_kind": "rota rodoviária com margem de hora de ponta",
+      "elevator": false,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "93732d4c61dbd2dde41be9ae",
+      "first_seen": "2026-11-05T00:20:24+00:00",
+      "first_seen_at": null,
+      "floor": 4,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Imc2dWR5d3JuNzA5dTItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.ehua5ifF1byLxZxO3GgGCTtJ_rKlfkwHjqxHKjrpt0I/image;s=2048x1536;q=80",
+      "last_change": "2026-11-05T00:20:24+00:00",
+      "last_seen": "2026-11-05T00:20:24+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 16.27,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": 14,
+      "previous_price": null,
+      "price": 550.0,
+      "price_history": [
+        {
+          "at": "2026-11-05T00:20:24+00:00",
+          "price": 550.0
+        }
+      ],
+      "price_per_m2": 13.75,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-04T23:43:49Z",
+      "quiet": null,
+      "recommended": true,
+      "score": 5.8,
+      "source": "imovirtual",
+      "source_id": "t1-na-baixa-portuense-ID1jaFx",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 550.0,
+        "equipped_kitchen": null,
+        "guarantor": true,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "t1 na baixa portuense",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-na-baixa-portuense-ID1jaFx"
     },
     "imovirtual:t1-na-rua-dos-bragas-ID1iLL7": {
       "area_m2": 30.0,
