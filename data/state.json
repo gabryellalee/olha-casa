@@ -317,6 +317,7 @@
     "1dc46101e4264d1f213ab5e5": "imovirtual:estudio-nido-asprela-hospital-sao-joao-ID1iOjg",
     "1dc7cdb3f71ff6149c71949c": "imovirtual:t1-polo-universitario-porto-arrenda-se-ID1iMGu",
     "1dd392ac357ea896c5701f4c": "imovirtual:apartamento-t3-para-arrendamento-ID1iV7L",
+    "1df3d140ba81095353a56996": "imovirtual:arrendamento-t2-condominio-fechado-ID1jb6d",
     "1ee0a524b3f4144007de22f9": "imovirtual:t1-com-garagem-box-na-maia-ID1iTrI",
     "1ef749fd891346fcc57486c3": "imovirtual:t0-em-coimbroes-ID1j3na",
     "1ef977b3a6ece57b7c565914": "imovirtual:t1-para-arrendamento-rua-miguel-bombarda-cedofeita-ID1j2Oh",
@@ -2189,6 +2190,7 @@
     "d8bc5ff6bc31b825a218cdd4": "casa_sapo:alugar-casa-ferias",
     "d8fda1ec9dd010ea6254631d": "imovirtual:casa-t1-rio-de-moinhos-penafiel-ID1iXle",
     "d9034f27f1e5c9a04c97b84f": "supercasa:2310919",
+    "d91fe935e91cc263c15bd4f7": "imovirtual:apartamento-t2-inserido-em-condominio-fechado-com-piscina-labruge-ID1jb6c",
     "d94d3c219c44756b9c33c780": "supercasa:2265956",
     "d99062ecf855cea1084db2e9": "supercasa:2274502",
     "d9926cebec42477da3fe4130": "supercasa:1121541",
@@ -40022,6 +40024,65 @@
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-hosp-s-joao-faculdades-fmup-ipo-porto-ID1j5fQ"
     },
+    "imovirtual:apartamento-t2-inserido-em-condominio-fechado-com-piscina-labruge-ID1jb6c": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "d91fe935e91cc263c15bd4f7",
+      "first_seen": "2026-11-06T02:21:10+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImR0emtuNW00eDBqajEtQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.3XMTZdEkOBhnQPIA9QSbdeX77vOYhkBwmwGvNnLYqIE/image;s=2048x1536;q=80",
+      "last_change": "2026-11-06T02:21:10+00:00",
+      "last_seen": "2026-11-06T02:21:10+00:00",
+      "latitude": 41.27463,
+      "local_median_price_per_m2": null,
+      "location": "Labruge, Porto",
+      "longitude": -8.725635,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 2450.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-11-06T02:21:10+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 11.36,
+      "public_transport_bonus": true,
+      "published_at": "2026-11-06T00:03:38Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-inserido-em-condominio-fechado-com-piscina-labruge-ID1jb6c",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1250.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 inserido em condomínio fechado com piscina - Labruge",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-inserido-em-condominio-fechado-com-piscina-labruge-ID1jb6c"
+    },
     "imovirtual:apartamento-t2-junto-ao-hospital-de-santo-antonio-ID1iMX8": {
       "area_m2": 115.0,
       "decision_reasons": [
@@ -56618,6 +56679,65 @@
       "title": "Arrendamento T2 Afurada",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-t2-afurada-ID1iYgD"
+    },
+    "imovirtual:arrendamento-t2-condominio-fechado-ID1jb6d": {
+      "area_m2": 110.0,
+      "decision_reasons": [
+        "renda acima de 750 €",
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "1df3d140ba81095353a56996",
+      "first_seen": "2026-11-06T02:21:10+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImZjMWN6NHlqMHI0MDEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.XrjvzwGnaZ4i3Pxc-wRAoCtcCfREC6Try387V1jWxtA/image;s=2048x1536;q=80",
+      "last_change": "2026-11-06T02:21:10+00:00",
+      "last_seen": "2026-11-06T02:21:10+00:00",
+      "latitude": 41.35399,
+      "local_median_price_per_m2": null,
+      "location": "Rua Doutor Pereira Júnior, Vila do Conde, Porto",
+      "longitude": -8.74717,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1250.0,
+      "price_history": [
+        {
+          "at": "2026-11-06T02:21:10+00:00",
+          "price": 1250.0
+        }
+      ],
+      "price_per_m2": 11.36,
+      "public_transport_bonus": true,
+      "published_at": "2026-11-06T00:23:31Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "arrendamento-t2-condominio-fechado-ID1jb6d",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1250.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Arrendamento T2 - Condomínio Fechado",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/arrendamento-t2-condominio-fechado-ID1jb6d"
     },
     "imovirtual:arrendamento-t2-de-apartamento-in-porto-boavista-ID1iTfa": {
       "area_m2": 50.0,
