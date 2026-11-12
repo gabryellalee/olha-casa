@@ -237,6 +237,7 @@
     "153d008506ed2e298556f024": "imovirtual:t1-ultimo-andar-com-terraco-de-88-4-m-varanda-e-vista-mar-foz-ne-ID1iNqg",
     "154c5b209ca47a826681aaf9": "imovirtual:t1-mobilado-com-arrumos-e-lugar-de-garagem-ID1iSzx",
     "155056999b39c7c1aaec2722": "imovirtual:t0-equipado-e-mobilado-iscap-polo-universitario-ID1iWa5",
+    "156999c5748a30832baf43c7": "imovirtual:aluga-se-casa-t-2-ID1jcP7",
     "15998bd1415a55cf62ea36dd": "imovirtual:casa-renovada-teria-ID1j2iD",
     "15d043fef23f4065ec4a1684": "supercasa:2268447",
     "15e4d8bbdde035e1c8491c8d": "supercasa:2285497",
@@ -601,6 +602,7 @@
     "362c3028db04ea052601408c": "imovirtual:t2-arrendamento-parque-das-nacoes-ID1iPKh",
     "365c5ab169d0cf28f8a929d3": "imovirtual:t2-no-arrabida-ID1jcE1",
     "36670638e894b5e9aa305573": "imovirtual:arrendamento-t-1-1-escritorio-atelier-c-janela-panoramica-ID1iNUz",
+    "3674aa3432063885434bfba6": "imovirtual:aluga-se-t1-arcos-ID1jcOT",
     "36762f96c7246cd9888cc5e8": "imovirtual:apartamento-t1-para-arrendamento-ID1iUTW",
     "36835d2b317c63903c137d0b": "imovirtual:apartamento-com-2-quartos-localizado-em-senhora-da-hora-porto-ID1j2a4",
     "368e1714e230880cf60f0f15": "supercasa:2324573",
@@ -2784,6 +2786,7 @@
     "fe521016a0302e8145a52192": "supercasa:2237815",
     "fe6442fe8e2997b443169e12": "imovirtual:apartamento-t1-forte-sao-joao-vila-do-conde-ID1iYD6",
     "fe98852c742afccb1963076c": "imovirtual:apartamento-t0-no-porto-em-paranhos-ID1iZUh",
+    "feb28c2804fbc013f3f7b1f2": "custojusto:45482589",
     "ff002e96a722530a724490ce": "supercasa:2033949",
     "ff21164f59a991f96df61a31": "imovirtual:apartamento-t1-com-mezanino-ID1j2El",
     "ff219d6e23b89b16ae5c1242": "imovirtual:casinha-t0-em-coimbroes-ID1iSTN",
@@ -15760,6 +15763,64 @@
       "typology": "T1",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/andar-moradia-t1-45477560"
     },
+    "custojusto:45482589": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "feb28c2804fbc013f3f7b1f2",
+      "first_seen": "2026-11-12T03:20:01+00:00",
+      "first_seen_at": null,
+      "floor": 12,
+      "image_url": "https://prod-images.custojusto.pt/play/5655647498-moradia-t1-duplex-mobilada-porto.jpg",
+      "last_change": "2026-11-12T03:20:01+00:00",
+      "last_seen": "2026-11-12T03:20:01+00:00",
+      "latitude": 41.15980438849187,
+      "local_median_price_per_m2": 16.29,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.610243795651144,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 210000.0,
+      "price_history": [
+        {
+          "at": "2026-11-12T03:20:01+00:00",
+          "price": 210000.0
+        }
+      ],
+      "price_per_m2": 5250.0,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45482589",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "moradia t1 duplex mobilada porto",
+      "typology": "T1",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/moradia-t1-duplex-mobilada-por-45482589"
+    },
     "custojusto:45484769": {
       "area_m2": 130.0,
       "decision_reasons": [
@@ -17002,6 +17063,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/aluga-se-apartamento-t1-rua-do-breyner-porto-ID1j4ta"
     },
+    "imovirtual:aluga-se-casa-t-2-ID1jcP7": {
+      "area_m2": 60.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "156999c5748a30832baf43c7",
+      "first_seen": "2026-11-12T03:20:01+00:00",
+      "first_seen_at": null,
+      "floor": 11,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjF5OXF4emVsZXNneS1FQ09TWVNURU0iLCJ3IjpbeyJmbiI6IjY5bmxwYTdlY3FtNzEtQVBUIiwicyI6IjE2IiwiYSI6IjAiLCJwIjoiMTAsLTEwIn1dfQ.RJekT9-PmbwW-I8RhZLzMCuPFNaAkdJE9fzalWjEC4o/image;s=2048x1536;q=80",
+      "last_change": "2026-11-12T03:20:01+00:00",
+      "last_seen": "2026-11-12T03:20:01+00:00",
+      "latitude": 41.13156,
+      "local_median_price_per_m2": null,
+      "location": "Rua Pereiro, Gondomar (São Cosme), Valbom e Jovim, Porto",
+      "longitude": -8.53001,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 700.0,
+      "price_history": [
+        {
+          "at": "2026-11-12T03:20:01+00:00",
+          "price": 700.0
+        }
+      ],
+      "price_per_m2": 11.67,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-11T23:23:24Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "aluga-se-casa-t-2-ID1jcP7",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Aluga-se casa t-2",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/aluga-se-casa-t-2-ID1jcP7"
+    },
     "imovirtual:aluga-se-casa-t3-em-revinhade-ID1iV48": {
       "area_m2": 75.0,
       "decision_reasons": [
@@ -17351,6 +17470,64 @@
       "title": "Aluga-se T1+1 Santa Cruz do Bispo",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/aluga-se-t1-1-santa-cruz-do-bispo-ID1iVvO"
+    },
+    "imovirtual:aluga-se-t1-arcos-ID1jcOT": {
+      "area_m2": 54.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "3674aa3432063885434bfba6",
+      "first_seen": "2026-11-12T03:20:01+00:00",
+      "first_seen_at": null,
+      "floor": 11,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6IjdxaXhqdzZ2cDViYjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.tzU19BsxjiBG7EYZn5dGCc6UeCQYOIS8YogrwH22S1w/image;s=2048x1536;q=80",
+      "last_change": "2026-11-12T03:20:01+00:00",
+      "last_seen": "2026-11-12T03:20:01+00:00",
+      "latitude": 41.35399,
+      "local_median_price_per_m2": 16.29,
+      "location": "Rua Doutor Pereira Júnior, Vila do Conde, Porto",
+      "longitude": -8.74717,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 520.0,
+      "price_history": [
+        {
+          "at": "2026-11-12T03:20:01+00:00",
+          "price": 520.0
+        }
+      ],
+      "price_per_m2": 9.63,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-11T22:29:24Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "aluga-se-t1-arcos-ID1jcOT",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 520.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": true
+      },
+      "title": "Aluga-se T1 arcos",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/aluga-se-t1-arcos-ID1jcOT"
     },
     "imovirtual:aluga-se-t1-foz-velha-porto-ID1iMem": {
       "area_m2": 40.0,
