@@ -49,6 +49,7 @@
     "035e5913d17e7b2b80cef6c0": "custojusto:45203601",
     "036a69cff24c6c5a21051fa5": "imovirtual:t3-the-yard-afurada-vila-nova-de-gaia-ID1iUty",
     "0371ccefef5adfe37141e2b8": "imovirtual:apartamento-t1-com-lugar-de-garagem-e-arrumos-pinhais-da-foz-porto-ID1j7Cz",
+    "038deef5ce605daee56f555a": "imovirtual:alugo-t1-em-zona-muito-calma-ID1jdKT",
     "03a82451f0d6313f7d9defb0": "imovirtual:apartamento-t2-para-arrendamento-ID1j570",
     "03c4ad98b6989db87dc9c0c4": "supercasa:2280890",
     "03daa688e0ffe36a5550ccf2": "casa_sapo:da00dc5f-cfec-11ed-aeeb-060000000051",
@@ -363,6 +364,7 @@
     "1dc7cdb3f71ff6149c71949c": "imovirtual:t1-polo-universitario-porto-arrenda-se-ID1iMGu",
     "1dd392ac357ea896c5701f4c": "imovirtual:apartamento-t3-para-arrendamento-ID1iV7L",
     "1df3d140ba81095353a56996": "imovirtual:arrendamento-t2-condominio-fechado-ID1jb6d",
+    "1e309fd205485ec6c0618233": "imovirtual:t0-novo-condominio-privado-centro-do-porto-junto-ao-metro-ID1jdJV",
     "1e59941566dbb7b2028783e3": "custojusto:45201757",
     "1eaff8d650cd7bb8bc118355": "imovirtual:apartamento-t0-mobilado-polo-universitario-do-porto-ID1jcyt",
     "1ee0a524b3f4144007de22f9": "imovirtual:t1-com-garagem-box-na-maia-ID1iTrI",
@@ -635,6 +637,7 @@
     "362c3028db04ea052601408c": "imovirtual:t2-arrendamento-parque-das-nacoes-ID1iPKh",
     "365c5ab169d0cf28f8a929d3": "imovirtual:t2-no-arrabida-ID1jcE1",
     "36670638e894b5e9aa305573": "imovirtual:arrendamento-t-1-1-escritorio-atelier-c-janela-panoramica-ID1iNUz",
+    "3668329fc39ca1aefd7f6a54": "imovirtual:apartamento-t2-em-aldoar-foz-do-douro-e-nevogilde-de-114-00-m2-ID1jdKX",
     "3674aa3432063885434bfba6": "imovirtual:aluga-se-t1-arcos-ID1jcOT",
     "36762f96c7246cd9888cc5e8": "imovirtual:apartamento-t1-para-arrendamento-ID1iUTW",
     "36835d2b317c63903c137d0b": "imovirtual:apartamento-com-2-quartos-localizado-em-senhora-da-hora-porto-ID1j2a4",
@@ -1078,6 +1081,7 @@
     "5e642c19ae94629471aa638d": "imovirtual:t1-polo-universitario-ID1jaxh",
     "5e753884afc3b10aded5113a": "imovirtual:viver-perto-do-mar-apartamento-mobilado-equipado-e-com-varanda-ID1jbD9",
     "5e78d169b1e5e06b52a31f06": "custojusto:45249831",
+    "5e83d8dc2a7c38a2f5af953a": "imovirtual:apartamento-t1-centro-do-porto-ID1jdL5",
     "5ea0f57725c59f7e8a154737": "custojusto:45177246",
     "5ebcb437497c96f252f6f483": "supercasa:2288907",
     "5ed9b11e7d08a487f8d025b4": "imovirtual:moradia-terrea-t2-mobilada-oliveira-do-douro-vila-nova-de-gaia-ID1iRE3",
@@ -2128,6 +2132,7 @@
     "bb9163e9e2b7a508806e5e36": "supercasa:2237151",
     "bb921c48556279acaef1ff62": "supercasa:2290777",
     "bbaecb8bb558c118c6bb171e": "supercasa:2207631",
+    "bbbb4a486b6086a71a786221": "imovirtual:t1-na-rua-do-breiner-remodelado-e-mobilado-ID1jdKk",
     "bbd0df280cd7f6ae67472662": "supercasa:2315259",
     "bc2369bf00b989287ecd7ef5": "imovirtual:ramada-alta-t0-1-arrendamento-ID1iRfv",
     "bc43a0d18ca8bcfb3298b781": "imovirtual:moradia-t2-para-arrendamento-ID1j3od",
@@ -2622,6 +2627,7 @@
     "e4cdbda519c7d8e28cebf31c": "imovirtual:aluguer-casa-em-famalicao-ID1iPd6",
     "e4ded5d3ca0bb593798ff685": "imovirtual:arrendo-t2-em-mozelos-ID1iTWP",
     "e4f2b3eda78e0661c7b02b8d": "imovirtual:t3-res-do-chao-loja-cidadao-antas-com-terraco-e-pequeno-jardim-ID1iRb9",
+    "e505ed245aad011641c1bd5f": "custojusto:45214526",
     "e509a65f0ce55daf955eba96": "imovirtual:apartamento-t2-em-ramalde-porto-excelente-oportunidade-ID1iP6x",
     "e5138be97fc5bb1d5fe453ce": "imovirtual:t1-estadio-gulpilhares-gaia-ID1iQfa",
     "e55cfe63f3171576a826c8bf": "supercasa:1878920",
@@ -2806,6 +2812,7 @@
     "f547b5204afa280806190e60": "supercasa:2081301",
     "f55cd973a62fbc4fe381f545": "imovirtual:andar-moradia-c-parque-privado-4-carros-ID1iMGt",
     "f57bb7677ab05909936541e6": "imovirtual:apartamento-com-terraco-junto-ao-forte-de-s-joao-em-vila-do-conde-ID1iN2d",
+    "f57f188f2ec2958640a57697": "custojusto:45519407",
     "f582c60c9e7f558ee62750fb": "imovirtual:arrendamento-t1-1-com-garagem-porto-pereiro-av-antunes-guimaraes-ID1j4O6",
     "f599406a0b4a59efc05219ab": "imovirtual:t2-remodelado-na-baixa-do-porto-com-2-varandas-ID1iQVe",
     "f5b676528ba4c6802b02f068": "supercasa:2313714",
@@ -12096,6 +12103,64 @@
       "typology": "T3",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t3-a-guerra-junqueiro-condomin-45212241"
     },
+    "custojusto:45214526": {
+      "area_m2": 42.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "e505ed245aad011641c1bd5f",
+      "first_seen": "2026-11-15T21:00:16+00:00",
+      "first_seen_at": null,
+      "floor": 26,
+      "image_url": "https://prod-images.custojusto.pt/play/2256085275-apartamento-t1-em-matosinhos-e-leca-da-palmeira-de-42-00-m2.jpg",
+      "last_change": "2026-11-15T21:00:16+00:00",
+      "last_seen": "2026-11-15T21:00:16+00:00",
+      "latitude": 41.19740315518478,
+      "local_median_price_per_m2": 16.33,
+      "location": "Leça Da Palmeira",
+      "longitude": -8.691091962942375,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 890.0,
+      "price": 230000.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:16+00:00",
+          "price": 230000.0
+        }
+      ],
+      "price_per_m2": 5476.19,
+      "public_transport_bonus": true,
+      "published_at": null,
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45214526",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 em Matosinhos e Leça da Palmeira de 42,00 m2",
+      "typology": "T1",
+      "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/apartamento-t1-em-matosinhos-e-45214526"
+    },
     "custojusto:45214805": {
       "area_m2": 45.0,
       "decision_reasons": [
@@ -19583,6 +19648,64 @@
       "typology": "T1",
       "url": "https://www.custojusto.pt/porto/imobiliario/apartamentos/t1-kit-cozinha-equipada-na-bo-45514803"
     },
+    "custojusto:45519407": {
+      "area_m2": 40.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "f57f188f2ec2958640a57697",
+      "first_seen": "2026-11-15T21:00:16+00:00",
+      "first_seen_at": null,
+      "floor": 10,
+      "image_url": "https://www.custojusto.pt/webp/custojusto_logo_optimized.webp",
+      "last_change": "2026-11-15T21:00:16+00:00",
+      "last_seen": "2026-11-15T21:00:16+00:00",
+      "latitude": 41.09632832613236,
+      "local_median_price_per_m2": 16.33,
+      "location": "Vila Nova De Gaia",
+      "longitude": -8.614476422294738,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 450.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:16+00:00",
+          "price": 450.0
+        }
+      ],
+      "price_per_m2": 11.25,
+      "public_transport_bonus": false,
+      "published_at": null,
+      "quiet": true,
+      "recommended": false,
+      "score": 0.0,
+      "source": "custojusto",
+      "source_id": "45519407",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": null,
+        "entry_total": null,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Casa Centenária T1 Remodelada | Moradias, T1 para arrendar | Porto | 45519407 | CustoJusto.pt",
+      "typology": "T1",
+      "url": "https://www.custojusto.pt/porto/imobiliario/moradias/casa-centenaria-t1-remodelada-45519407"
+    },
     "imovirtual:2-lugares-de-garagem-t2-mobilado-junto-a-av-da-republica-gaia-ID1j3rv": {
       "area_m2": 70.0,
       "decision_reasons": [
@@ -22698,6 +22821,64 @@
       "title": "Alugo T1 de Outubro a Abril",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/alugo-t1-de-outubro-a-abril-ID1iTdG"
+    },
+    "imovirtual:alugo-t1-em-zona-muito-calma-ID1jdKT": {
+      "area_m2": 50.0,
+      "decision_reasons": [
+        "fora da área ou por confirmar (coordenadas do anúncio)"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "038deef5ce605daee56f555a",
+      "first_seen": "2026-11-15T21:00:16+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InU1Zm00YTdnanFxNjItRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.wVvQDcnprgjiJVlSZHZDVik9uC5M2EEQzwJEVdO2y1o/image;s=2048x1536;q=80",
+      "last_change": "2026-11-15T21:00:16+00:00",
+      "last_seen": "2026-11-15T21:00:16+00:00",
+      "latitude": 41.35399,
+      "local_median_price_per_m2": 16.33,
+      "location": "Rua Doutor Pereira Júnior, Vila do Conde, Porto",
+      "longitude": -8.74717,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1750.0,
+      "price": 650.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:16+00:00",
+          "price": 650.0
+        }
+      ],
+      "price_per_m2": 13.0,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-15T19:39:25Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "alugo-t1-em-zona-muito-calma-ID1jdKT",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 650.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Alugo T1 em zona muito calma.",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/alugo-t1-em-zona-muito-calma-ID1jdKT"
     },
     "imovirtual:alugo-t1-ermesinde-ID1iMBY": {
       "area_m2": 35.0,
@@ -36841,6 +37022,64 @@
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-centro-de-matosinhos-novo-com-terraco-ID1iPiH"
     },
+    "imovirtual:apartamento-t1-centro-do-porto-ID1jdL5": {
+      "area_m2": 73.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "5e83d8dc2a7c38a2f5af953a",
+      "first_seen": "2026-11-15T21:00:15+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6Im8wMHVnZmN5ZnJ4aTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.hIgzB5olzgiYQNOgpmJFl3u97lm2n9TK7E4K4ya6bfg/image;s=2048x1536;q=80",
+      "last_change": "2026-11-15T21:00:15+00:00",
+      "last_seen": "2026-11-15T21:00:15+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 16.33,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": 1050.0,
+      "price": 860.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:15+00:00",
+          "price": 860.0
+        }
+      ],
+      "price_per_m2": 11.78,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-15T19:58:58Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t1-centro-do-porto-ID1jdL5",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 860.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T1 - Centro do Porto",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t1-centro-do-porto-ID1jdL5"
+    },
     "imovirtual:apartamento-t1-com-ar-condicionado-em-gaia-ID1j2ee": {
       "area_m2": 25.0,
       "decision_reasons": [
@@ -49328,6 +49567,64 @@
       "title": "Apartamento T2 - Edifício Palmeira",
       "typology": "T2",
       "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-edificio-palmeira-ID1iV2z"
+    },
+    "imovirtual:apartamento-t2-em-aldoar-foz-do-douro-e-nevogilde-de-114-00-m2-ID1jdKX": {
+      "area_m2": 114.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "republication",
+      "fiber": null,
+      "fingerprint": "3668329fc39ca1aefd7f6a54",
+      "first_seen": "2026-11-15T21:00:15+00:00",
+      "first_seen_at": null,
+      "floor": 15,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImljanI3eWh5ZGEyNTEtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.TYDv0ic_q-WEcHmci0meXxHa4xWffj6s7qNCJc-3mIQ/image;s=2048x1536;q=80",
+      "last_change": "2026-11-15T21:00:15+00:00",
+      "last_seen": "2026-11-15T21:00:15+00:00",
+      "latitude": 41.156746,
+      "local_median_price_per_m2": null,
+      "location": "Rua Marechal Saldanha, Aldoar, Foz do Douro e Nevogilde, Porto",
+      "longitude": -8.679105,
+      "natural_light": null,
+      "parking": true,
+      "peak_drive_minutes": null,
+      "previous_price": 900.0,
+      "price": 1650.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:15+00:00",
+          "price": 1650.0
+        }
+      ],
+      "price_per_m2": 14.47,
+      "public_transport_bonus": false,
+      "published_at": "2026-11-15T19:41:08Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "apartamento-t2-em-aldoar-foz-do-douro-e-nevogilde-de-114-00-m2-ID1jdKX",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 1650.0,
+        "equipped_kitchen": null,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "Apartamento T2 em Aldoar, Foz Do Douro E Nevogilde de 114,00 m2",
+      "typology": "T2",
+      "url": "https://www.imovirtual.com/pt/anuncio/apartamento-t2-em-aldoar-foz-do-douro-e-nevogilde-de-114-00-m2-ID1jdKX"
     },
     "imovirtual:apartamento-t2-em-alfena-ID1j7h1": {
       "area_m2": 100.0,
@@ -97663,6 +97960,64 @@
       "typology": "T0",
       "url": "https://www.imovirtual.com/pt/anuncio/t0-novo-com-mobilia-junto-ao-marques-lugar-de-garagem-ID1j18o"
     },
+    "imovirtual:t0-novo-condominio-privado-centro-do-porto-junto-ao-metro-ID1jdJV": {
+      "area_m2": 42.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "1e309fd205485ec6c0618233",
+      "first_seen": "2026-11-15T21:00:15+00:00",
+      "first_seen_at": null,
+      "floor": 2,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6ImNrbjh1Z3g5cTY2OTItQVBUIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0.Ao-OjRZwulxdHRtcXnicXYYOgu_bpqK52eMxHp5zFcA/image;s=2048x1536;q=80",
+      "last_change": "2026-11-15T21:00:15+00:00",
+      "last_seen": "2026-11-15T21:00:15+00:00",
+      "latitude": 41.163746,
+      "local_median_price_per_m2": 21.25,
+      "location": "Paranhos, Porto",
+      "longitude": -8.606344,
+      "natural_light": true,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 800.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:15+00:00",
+          "price": 800.0
+        }
+      ],
+      "price_per_m2": 19.05,
+      "public_transport_bonus": true,
+      "published_at": "2026-11-15T15:56:27Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t0-novo-condominio-privado-centro-do-porto-junto-ao-metro-ID1jdJV",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 2,
+        "entry_total": 1600.0,
+        "equipped_kitchen": true,
+        "guarantor": null,
+        "included_expenses": [],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": null,
+        "pets_allowed": null,
+        "tax_return": null,
+        "work_contract": null
+      },
+      "title": "T0 Novo, Condomínio Privado, Centro do Porto, Junto ao Metro",
+      "typology": "T0",
+      "url": "https://www.imovirtual.com/pt/anuncio/t0-novo-condominio-privado-centro-do-porto-junto-ao-metro-ID1jdJV"
+    },
     "imovirtual:t0-novo-junto-ao-marques-lugar-de-garagem-ID1j3Uo": {
       "area_m2": 46.0,
       "decision_reasons": [
@@ -105208,6 +105563,66 @@
       "title": "t1 na baixa portuense",
       "typology": "T1",
       "url": "https://www.imovirtual.com/pt/anuncio/t1-na-baixa-portuense-ID1jaFx"
+    },
+    "imovirtual:t1-na-rua-do-breiner-remodelado-e-mobilado-ID1jdKk": {
+      "area_m2": 43.0,
+      "decision_reasons": [
+        "renda acima de 750 €"
+      ],
+      "drive_estimate_kind": null,
+      "elevator": null,
+      "event": "new",
+      "fiber": null,
+      "fingerprint": "bbbb4a486b6086a71a786221",
+      "first_seen": "2026-11-15T21:00:15+00:00",
+      "first_seen_at": null,
+      "floor": 1,
+      "image_url": "https://ireland.apollo.olxcdn.com/v1/files/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmbiI6InhiZTJucGJsYTV1ZjMtRUNPU1lTVEVNIiwidyI6W3siZm4iOiI2OW5scGE3ZWNxbTcxLUFQVCIsInMiOiIxNiIsImEiOiIwIiwicCI6IjEwLC0xMCJ9XX0._l1P7eYfaF28D_EHIMGDjXurBcOIYpDZctI6xghJa14/image;s=2048x1536;q=80",
+      "last_change": "2026-11-15T21:00:15+00:00",
+      "last_seen": "2026-11-15T21:00:15+00:00",
+      "latitude": 41.15554,
+      "local_median_price_per_m2": 16.33,
+      "location": "Rua da Cooperativa do Povo Portuense, Cedofeita, Ildefonso, Sé, Miragaia, Nicolau, Vitória, Porto",
+      "longitude": -8.60609,
+      "natural_light": null,
+      "parking": null,
+      "peak_drive_minutes": null,
+      "previous_price": null,
+      "price": 900.0,
+      "price_history": [
+        {
+          "at": "2026-11-15T21:00:15+00:00",
+          "price": 900.0
+        }
+      ],
+      "price_per_m2": 20.93,
+      "public_transport_bonus": true,
+      "published_at": "2026-11-15T17:28:51Z",
+      "quiet": null,
+      "recommended": false,
+      "score": 0.0,
+      "source": "imovirtual",
+      "source_id": "t1-na-rua-do-breiner-remodelado-e-mobilado-ID1jdKk",
+      "terms": {
+        "advance_rents": null,
+        "deposit_amount": null,
+        "deposits": 1,
+        "entry_total": 900.0,
+        "equipped_kitchen": true,
+        "guarantor": true,
+        "included_expenses": [
+          "condomínio"
+        ],
+        "minimum_contract_months": null,
+        "other_documents": [],
+        "payslips": true,
+        "pets_allowed": null,
+        "tax_return": true,
+        "work_contract": null
+      },
+      "title": "T1 na Rua do Breiner Remodelado e Mobilado",
+      "typology": "T1",
+      "url": "https://www.imovirtual.com/pt/anuncio/t1-na-rua-do-breiner-remodelado-e-mobilado-ID1jdKk"
     },
     "imovirtual:t1-na-rua-dos-bragas-ID1iLL7": {
       "area_m2": 30.0,
